@@ -1,0 +1,66 @@
+{
+  "site": {
+    "name": "Khám Phá Việt Nam",
+    "tagline": "Khám phá lịch sử và văn hóa Việt Nam",
+    "description": "Tìm hiểu lịch sử, văn hóa, ẩm thực và địa điểm du lịch tại các tỉnh thành Việt Nam"
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "history": "Lịch sử",
+    "culture": "Văn hóa",
+    "search": "Tìm kiếm"
+  },
+  "map": {
+    "title": "Bản đồ Việt Nam",
+    "comingSoon": "Sắp ra mắt",
+    "clickToExplore": "Nhấn để khám phá",
+    "hover": "Di chuột để xem thông tin"
+  },
+  "onThisDay": {
+    "title": "Ngày này trong lịch sử",
+    "subtitle": "Những sự kiện xảy ra vào ngày này",
+    "yearsAgo": "{years} năm trước",
+    "readMore": "Xem thêm",
+    "noEvents": "Không có sự kiện nào vào ngày này"
+  },
+  "trending": {
+    "title": "Lễ hội & Điểm đến nổi bật",
+    "subtitle": "Sự kiện sắp diễn ra trong thời gian tới",
+    "upcomingFestivals": "Lễ hội sắp diễn ra",
+    "noFestivals": "Hiện tại không có lễ hội nào sắp diễn ra"
+  },
+  "search": {
+    "placeholder": "Tìm kiếm tỉnh thành, sự kiện, văn hóa...",
+    "noResults": "Không tìm thấy kết quả",
+    "provinces": "Tỉnh thành",
+    "events": "Sự kiện lịch sử",
+    "culture": "Văn hóa"
+  },
+  "province": {
+    "history": "Lịch sử",
+    "culture": "Văn hóa",
+    "backToHome": "Trang chủ",
+    "sources": "Nguồn tham khảo",
+    "readMore": "Xem thêm",
+    "collapse": "Thu gọn"
+  },
+  "culturalTypes": {
+    "all": "Tất cả",
+    "am-thuc": "Ẩm thực",
+    "dia-diem": "Địa điểm",
+    "phong-tuc": "Phong tục",
+    "le-hoi": "Lễ hội"
+  },
+  "footer": {
+    "disclaimer": "Thông tin trên trang này được tổng hợp từ nhiều nguồn trên internet, có thể có sai sót và không phải nguồn học thuật chính thức. Chúng tôi không chịu trách nhiệm về tính chính xác tuyệt đối của nội dung. Người dùng nên kiểm tra thêm từ các nguồn chính thống.",
+    "copyright": "© {year} Khám Phá Việt Nam",
+    "language": "Ngôn ngữ"
+  },
+  "disclaimer": {
+    "short": "Thông tin được tổng hợp từ nhiều nguồn, có thể có sai sót. Vui lòng kiểm tra từ nguồn chính thức."
+  },
+  "lunarCalendar": {
+    "lunar": "Âm lịch",
+    "solar": "Dương lịch"
+  }
+}

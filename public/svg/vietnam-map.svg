@@ -1,0 +1,718 @@
+<!--
+  Bản đồ Việt Nam — Phiên bản MVP
+  ⚠️  QUAN TRỌNG: Đây là bản đồ SVG đơn giản hóa cho mục đích phát triển MVP.
+  ⚠️  TRƯỚC KHI PUBLISH PRODUCTION: Cần kiểm tra kỹ đường biên giới:
+      1. Đối chiếu với bản đồ chính thức của Bộ TN&MT Việt Nam
+      2. Đảm bảo TUYỆT ĐỐI KHÔNG có đường lưỡi bò
+      3. Kiểm tra đường biên giới Việt — Trung, Việt — Lào, Việt — Campuchia
+      4. Xác nhận quần đảo Hoàng Sa và Trường Sa thuộc chủ quyền Việt Nam
+  TODO: Replace with verified official boundary data before production deployment
+-->
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 400 900"
+  width="400"
+  height="900"
+  role="img"
+  aria-label="Bản đồ Việt Nam"
+>
+  <title>Bản đồ Việt Nam</title>
+  <defs>
+    <style>
+      .province {
+        fill: #c8e6c9;
+        stroke: #ffffff;
+        stroke-width: 1.5;
+        cursor: not-allowed;
+        opacity: 0.5;
+        transition: fill 0.2s, opacity 0.2s;
+      }
+      .province--active {
+        fill: #4caf50;
+        cursor: pointer;
+        opacity: 1;
+      }
+      .province--active:hover {
+        fill: #da251d;
+        opacity: 1;
+      }
+      .province--disabled {
+        fill: #c8e6c9;
+        cursor: not-allowed;
+        opacity: 0.45;
+      }
+      .province-label {
+        font-family: sans-serif;
+        font-size: 10px;
+        fill: #333;
+        pointer-events: none;
+        text-anchor: middle;
+      }
+      .ocean {
+        fill: #bbdefb;
+      }
+    </style>
+  </defs>
+
+  <!-- Ocean background -->
+  <rect class="ocean" x="0" y="0" width="400" height="900" rx="4"/>
+
+  <!-- ============================================================
+       NORTHERN VIETNAM
+       ============================================================ -->
+
+  <!-- Ha Giang -->
+  <path
+    id="ha-giang"
+    class="province province--disabled"
+    data-name-vi="Hà Giang"
+    data-name-en="Ha Giang"
+    data-type="tinh"
+    data-type-en="province"
+    d="M120,20 L180,15 L210,30 L200,70 L160,80 L120,60 Z"
+  />
+
+  <!-- Cao Bang -->
+  <path
+    id="cao-bang"
+    class="province province--disabled"
+    data-name-vi="Cao Bằng"
+    data-name-en="Cao Bang"
+    data-type="tinh"
+    data-type-en="province"
+    d="M200,15 L260,10 L280,40 L260,75 L210,70 L200,30 Z"
+  />
+
+  <!-- Lao Cai -->
+  <path
+    id="lao-cai"
+    class="province province--disabled"
+    data-name-vi="Lào Cai"
+    data-name-en="Lao Cai"
+    data-type="tinh"
+    data-type-en="province"
+    d="M70,40 L120,20 L120,60 L100,100 L65,90 Z"
+  />
+
+  <!-- Yen Bai -->
+  <path
+    id="yen-bai"
+    class="province province--disabled"
+    data-name-vi="Yên Bái"
+    data-name-en="Yen Bai"
+    data-type="tinh"
+    data-type-en="province"
+    d="M65,90 L100,100 L120,60 L160,80 L150,125 L100,135 L65,120 Z"
+  />
+
+  <!-- Tuyen Quang -->
+  <path
+    id="tuyen-quang"
+    class="province province--disabled"
+    data-name-vi="Tuyên Quang"
+    data-name-en="Tuyen Quang"
+    data-type="tinh"
+    data-type-en="province"
+    d="M120,60 L160,80 L170,115 L150,125 L120,110 L110,85 Z"
+  />
+
+  <!-- Bac Kan -->
+  <path
+    id="bac-kan"
+    class="province province--disabled"
+    data-name-vi="Bắc Kạn"
+    data-name-en="Bac Kan"
+    data-type="tinh"
+    data-type-en="province"
+    d="M160,80 L200,70 L220,95 L210,130 L175,135 L170,115 Z"
+  />
+
+  <!-- Lang Son -->
+  <path
+    id="lang-son"
+    class="province province--disabled"
+    data-name-vi="Lạng Sơn"
+    data-name-en="Lang Son"
+    data-type="tinh"
+    data-type-en="province"
+    d="M200,70 L260,75 L275,100 L260,135 L220,140 L210,130 L220,95 Z"
+  />
+
+  <!-- Quang Ninh -->
+  <path
+    id="quang-ninh"
+    class="province province--disabled"
+    data-name-vi="Quảng Ninh"
+    data-name-en="Quang Ninh"
+    data-type="tinh"
+    data-type-en="province"
+    d="M260,75 L295,80 L310,115 L290,145 L260,135 L275,100 Z"
+  />
+
+  <!-- Son La -->
+  <path
+    id="son-la"
+    class="province province--disabled"
+    data-name-vi="Sơn La"
+    data-name-en="Son La"
+    data-type="tinh"
+    data-type-en="province"
+    d="M40,100 L65,90 L65,120 L100,135 L105,165 L65,175 L35,155 Z"
+  />
+
+  <!-- Dien Bien -->
+  <path
+    id="dien-bien"
+    class="province province--disabled"
+    data-name-vi="Điện Biên"
+    data-name-en="Dien Bien"
+    data-type="tinh"
+    data-type-en="province"
+    d="M15,110 L40,100 L35,155 L10,150 Z"
+  />
+
+  <!-- Lai Chau -->
+  <path
+    id="lai-chau"
+    class="province province--disabled"
+    data-name-vi="Lai Châu"
+    data-name-en="Lai Chau"
+    data-type="tinh"
+    data-type-en="province"
+    d="M15,60 L70,40 L65,90 L40,100 L15,90 Z"
+  />
+
+  <!-- Phu Tho -->
+  <path
+    id="phu-tho"
+    class="province province--disabled"
+    data-name-vi="Phú Thọ"
+    data-name-en="Phu Tho"
+    data-type="tinh"
+    data-type-en="province"
+    d="M100,135 L150,125 L160,150 L145,170 L115,165 L105,165 Z"
+  />
+
+  <!-- Vinh Phuc -->
+  <path
+    id="vinh-phuc"
+    class="province province--disabled"
+    data-name-vi="Vĩnh Phúc"
+    data-name-en="Vinh Phuc"
+    data-type="tinh"
+    data-type-en="province"
+    d="M150,125 L170,115 L185,135 L170,160 L160,150 Z"
+  />
+
+  <!-- Thai Nguyen -->
+  <path
+    id="thai-nguyen"
+    class="province province--disabled"
+    data-name-vi="Thái Nguyên"
+    data-name-en="Thai Nguyen"
+    data-type="tinh"
+    data-type-en="province"
+    d="M170,115 L210,130 L220,140 L215,165 L185,170 L170,160 L185,135 Z"
+  />
+
+  <!-- Bac Giang -->
+  <path
+    id="bac-giang"
+    class="province province--disabled"
+    data-name-vi="Bắc Giang"
+    data-name-en="Bac Giang"
+    data-type="tinh"
+    data-type-en="province"
+    d="M220,140 L260,135 L265,165 L240,175 L215,165 Z"
+  />
+
+  <!-- Bac Ninh -->
+  <path
+    id="bac-ninh"
+    class="province province--disabled"
+    data-name-vi="Bắc Ninh"
+    data-name-en="Bac Ninh"
+    data-type="tinh"
+    data-type-en="province"
+    d="M215,165 L240,175 L238,190 L218,195 L210,180 Z"
+  />
+
+  <!-- Ha Noi (ACTIVE) -->
+  <path
+    id="ha-noi"
+    class="province province--active"
+    data-name-vi="Hà Nội"
+    data-name-en="Hanoi"
+    data-type="thanh-pho"
+    data-type-en="city"
+    d="M145,170 L170,160 L185,170 L215,165 L210,180 L218,195 L205,210 L180,215 L160,205 L145,190 Z"
+  />
+
+  <!-- Hung Yen -->
+  <path
+    id="hung-yen"
+    class="province province--disabled"
+    data-name-vi="Hưng Yên"
+    data-name-en="Hung Yen"
+    data-type="tinh"
+    data-type-en="province"
+    d="M205,210 L218,195 L238,190 L240,205 L230,220 L215,225 Z"
+  />
+
+  <!-- Hai Duong -->
+  <path
+    id="hai-duong"
+    class="province province--disabled"
+    data-name-vi="Hải Dương"
+    data-name-en="Hai Duong"
+    data-type="tinh"
+    data-type-en="province"
+    d="M238,190 L265,165 L285,175 L280,205 L255,215 L240,205 Z"
+  />
+
+  <!-- Hai Phong -->
+  <path
+    id="hai-phong"
+    class="province province--disabled"
+    data-name-vi="Hải Phòng"
+    data-name-en="Hai Phong"
+    data-type="thanh-pho"
+    data-type-en="city"
+    d="M280,205 L310,185 L320,210 L300,225 L280,220 Z"
+  />
+
+  <!-- Quang Ninh coast -->
+  <path
+    id="quang-ninh-coast"
+    class="province province--disabled"
+    data-name-vi="Quảng Ninh (bờ biển)"
+    data-name-en="Quang Ninh Coast"
+    data-type="tinh"
+    data-type-en="province"
+    d="M290,145 L325,150 L330,185 L310,185 L285,175 L265,165 L260,135 Z"
+  />
+
+  <!-- Ha Nam -->
+  <path
+    id="ha-nam"
+    class="province province--disabled"
+    data-name-vi="Hà Nam"
+    data-name-en="Ha Nam"
+    data-type="tinh"
+    data-type-en="province"
+    d="M180,215 L205,210 L215,225 L210,245 L190,248 L175,235 Z"
+  />
+
+  <!-- Nam Dinh -->
+  <path
+    id="nam-dinh"
+    class="province province--disabled"
+    data-name-vi="Nam Định"
+    data-name-en="Nam Dinh"
+    data-type="tinh"
+    data-type-en="province"
+    d="M215,225 L255,215 L265,235 L255,260 L220,260 L210,245 Z"
+  />
+
+  <!-- Thai Binh -->
+  <path
+    id="thai-binh"
+    class="province province--disabled"
+    data-name-vi="Thái Bình"
+    data-name-en="Thai Binh"
+    data-type="tinh"
+    data-type-en="province"
+    d="M255,215 L280,220 L295,240 L275,260 L255,260 L265,235 Z"
+  />
+
+  <!-- Ninh Binh -->
+  <path
+    id="ninh-binh"
+    class="province province--disabled"
+    data-name-vi="Ninh Bình"
+    data-name-en="Ninh Binh"
+    data-type="tinh"
+    data-type-en="province"
+    d="M160,205 L180,215 L175,235 L165,255 L148,260 L145,240 Z"
+  />
+
+  <!-- Hoa Binh -->
+  <path
+    id="hoa-binh"
+    class="province province--disabled"
+    data-name-vi="Hòa Bình"
+    data-name-en="Hoa Binh"
+    data-type="tinh"
+    data-type-en="province"
+    d="M115,165 L145,170 L145,190 L160,205 L145,240 L120,245 L100,220 L105,190 Z"
+  />
+
+  <!-- Phu Tho south -->
+
+  <!-- ============================================================
+       NORTH CENTRAL COAST
+       ============================================================ -->
+
+  <!-- Thanh Hoa -->
+  <path
+    id="thanh-hoa"
+    class="province province--disabled"
+    data-name-vi="Thanh Hóa"
+    data-name-en="Thanh Hoa"
+    data-type="tinh"
+    data-type-en="province"
+    d="M65,175 L105,165 L105,190 L100,220 L120,245 L115,270 L80,275 L55,255 L50,220 Z"
+  />
+
+  <!-- Nghe An -->
+  <path
+    id="nghe-an"
+    class="province province--disabled"
+    data-name-vi="Nghệ An"
+    data-name-en="Nghe An"
+    data-type="tinh"
+    data-type-en="province"
+    d="M30,255 L50,220 L55,255 L80,275 L115,270 L120,310 L90,335 L50,330 L25,300 Z"
+  />
+
+  <!-- Ha Tinh -->
+  <path
+    id="ha-tinh"
+    class="province province--disabled"
+    data-name-vi="Hà Tĩnh"
+    data-name-en="Ha Tinh"
+    data-type="tinh"
+    data-type-en="province"
+    d="M50,330 L90,335 L120,310 L130,350 L120,380 L85,390 L60,370 L45,345 Z"
+  />
+
+  <!-- Quang Binh -->
+  <path
+    id="quang-binh"
+    class="province province--disabled"
+    data-name-vi="Quảng Bình"
+    data-name-en="Quang Binh"
+    data-type="tinh"
+    data-type-en="province"
+    d="M60,370 L85,390 L120,380 L130,415 L105,430 L75,420 L55,395 Z"
+  />
+
+  <!-- Quang Tri -->
+  <path
+    id="quang-tri"
+    class="province province--disabled"
+    data-name-vi="Quảng Trị"
+    data-name-en="Quang Tri"
+    data-type="tinh"
+    data-type-en="province"
+    d="M75,420 L105,430 L130,415 L140,445 L120,460 L90,455 L70,440 Z"
+  />
+
+  <!-- Thua Thien Hue -->
+  <path
+    id="thua-thien-hue"
+    class="province province--disabled"
+    data-name-vi="Thừa Thiên Huế"
+    data-name-en="Thua Thien Hue"
+    data-type="tinh"
+    data-type-en="province"
+    d="M90,455 L120,460 L140,445 L160,465 L160,490 L130,500 L100,490 L85,470 Z"
+  />
+
+  <!-- ============================================================
+       CENTRAL HIGHLANDS & SOUTH CENTRAL
+       ============================================================ -->
+
+  <!-- Da Nang -->
+  <path
+    id="da-nang"
+    class="province province--disabled"
+    data-name-vi="Đà Nẵng"
+    data-name-en="Da Nang"
+    data-type="thanh-pho"
+    data-type-en="city"
+    d="M130,500 L160,490 L165,510 L150,520 L135,515 Z"
+  />
+
+  <!-- Quang Nam -->
+  <path
+    id="quang-nam"
+    class="province province--disabled"
+    data-name-vi="Quảng Nam"
+    data-name-en="Quang Nam"
+    data-type="tinh"
+    data-type-en="province"
+    d="M100,490 L130,500 L135,515 L160,530 L155,570 L120,580 L90,560 L80,525 Z"
+  />
+
+  <!-- Quang Ngai -->
+  <path
+    id="quang-ngai"
+    class="province province--disabled"
+    data-name-vi="Quảng Ngãi"
+    data-name-en="Quang Ngai"
+    data-type="tinh"
+    data-type-en="province"
+    d="M90,560 L120,580 L155,570 L160,600 L145,620 L115,625 L90,605 L80,580 Z"
+  />
+
+  <!-- Binh Dinh -->
+  <path
+    id="binh-dinh"
+    class="province province--disabled"
+    data-name-vi="Bình Định"
+    data-name-en="Binh Dinh"
+    data-type="tinh"
+    data-type-en="province"
+    d="M90,605 L115,625 L145,620 L155,650 L140,670 L110,670 L90,650 L82,625 Z"
+  />
+
+  <!-- Phu Yen -->
+  <path
+    id="phu-yen"
+    class="province province--disabled"
+    data-name-vi="Phú Yên"
+    data-name-en="Phu Yen"
+    data-type="tinh"
+    data-type-en="province"
+    d="M90,650 L110,670 L140,670 L148,695 L130,710 L100,705 L85,680 Z"
+  />
+
+  <!-- Khanh Hoa -->
+  <path
+    id="khanh-hoa"
+    class="province province--disabled"
+    data-name-vi="Khánh Hòa"
+    data-name-en="Khanh Hoa"
+    data-type="tinh"
+    data-type-en="province"
+    d="M100,705 L130,710 L148,695 L158,720 L155,750 L135,760 L110,745 L95,720 Z"
+  />
+
+  <!-- Ninh Thuan -->
+  <path
+    id="ninh-thuan"
+    class="province province--disabled"
+    data-name-vi="Ninh Thuận"
+    data-name-en="Ninh Thuan"
+    data-type="tinh"
+    data-type-en="province"
+    d="M110,745 L135,760 L155,750 L165,775 L150,790 L125,785 L108,768 Z"
+  />
+
+  <!-- Binh Thuan -->
+  <path
+    id="binh-thuan"
+    class="province province--disabled"
+    data-name-vi="Bình Thuận"
+    data-name-en="Binh Thuan"
+    data-type="tinh"
+    data-type-en="province"
+    d="M108,768 L125,785 L150,790 L165,820 L155,845 L125,845 L105,825 L95,800 Z"
+  />
+
+  <!-- ============================================================
+       CENTRAL HIGHLANDS
+       ============================================================ -->
+
+  <!-- Kon Tum -->
+  <path
+    id="kon-tum"
+    class="province province--disabled"
+    data-name-vi="Kon Tum"
+    data-name-en="Kon Tum"
+    data-type="tinh"
+    data-type-en="province"
+    d="M45,510 L80,525 L90,560 L75,590 L50,580 L30,555 L35,525 Z"
+  />
+
+  <!-- Gia Lai -->
+  <path
+    id="gia-lai"
+    class="province province--disabled"
+    data-name-vi="Gia Lai"
+    data-name-en="Gia Lai"
+    data-type="tinh"
+    data-type-en="province"
+    d="M30,555 L50,580 L75,590 L80,625 L65,645 L40,640 L20,615 L15,580 Z"
+  />
+
+  <!-- Dak Lak -->
+  <path
+    id="dak-lak"
+    class="province province--disabled"
+    data-name-vi="Đắk Lắk"
+    data-name-en="Dak Lak"
+    data-type="tinh"
+    data-type-en="province"
+    d="M20,615 L40,640 L65,645 L82,665 L80,700 L55,710 L25,695 L10,660 Z"
+  />
+
+  <!-- Dak Nong -->
+  <path
+    id="dak-nong"
+    class="province province--disabled"
+    data-name-vi="Đắk Nông"
+    data-name-en="Dak Nong"
+    data-type="tinh"
+    data-type-en="province"
+    d="M25,695 L55,710 L80,700 L90,725 L80,750 L55,755 L25,740 L15,715 Z"
+  />
+
+  <!-- Lam Dong -->
+  <path
+    id="lam-dong"
+    class="province province--disabled"
+    data-name-vi="Lâm Đồng"
+    data-name-en="Lam Dong"
+    data-type="tinh"
+    data-type-en="province"
+    d="M55,755 L80,750 L90,725 L108,740 L108,768 L95,800 L75,810 L50,795 L42,770 Z"
+  />
+
+  <!-- ============================================================
+       SOUTHEAST (SOUTH)
+       ============================================================ -->
+
+  <!-- Binh Phuoc -->
+  <path
+    id="binh-phuoc"
+    class="province province--disabled"
+    data-name-vi="Bình Phước"
+    data-name-en="Binh Phuoc"
+    data-type="tinh"
+    data-type-en="province"
+    d="M15,715 L25,740 L55,755 L42,770 L30,800 L10,790 L5,760 Z"
+  />
+
+  <!-- Tay Ninh -->
+  <path
+    id="tay-ninh"
+    class="province province--disabled"
+    data-name-vi="Tây Ninh"
+    data-name-en="Tay Ninh"
+    data-type="tinh"
+    data-type-en="province"
+    d="M5,790 L30,800 L42,770 L50,795 L45,825 L20,835 L5,820 Z"
+  />
+
+  <!-- Binh Duong -->
+  <path
+    id="binh-duong"
+    class="province province--disabled"
+    data-name-vi="Bình Dương"
+    data-name-en="Binh Duong"
+    data-type="tinh"
+    data-type-en="province"
+    d="M50,795 L75,810 L90,820 L88,845 L70,855 L50,850 L45,825 Z"
+  />
+
+  <!-- Dong Nai -->
+  <path
+    id="dong-nai"
+    class="province province--disabled"
+    data-name-vi="Đồng Nai"
+    data-name-en="Dong Nai"
+    data-type="tinh"
+    data-type-en="province"
+    d="M75,810 L105,825 L125,845 L120,870 L95,875 L70,865 L50,850 L70,855 L88,845 L90,820 Z"
+  />
+
+  <!-- Ba Ria Vung Tau -->
+  <path
+    id="ba-ria-vung-tau"
+    class="province province--disabled"
+    data-name-vi="Bà Rịa — Vũng Tàu"
+    data-name-en="Ba Ria — Vung Tau"
+    data-type="tinh"
+    data-type-en="province"
+    d="M125,845 L155,845 L160,865 L145,880 L120,880 L120,870 Z"
+  />
+
+  <!-- Ho Chi Minh City (ACTIVE) -->
+  <path
+    id="ho-chi-minh"
+    class="province province--active"
+    data-name-vi="Thành phố Hồ Chí Minh"
+    data-name-en="Ho Chi Minh City"
+    data-type="thanh-pho"
+    data-type-en="city"
+    d="M20,835 L45,825 L50,850 L70,865 L95,875 L100,890 L80,895 L55,890 L30,875 L15,855 Z"
+  />
+
+  <!-- ============================================================
+       MEKONG DELTA
+       ============================================================ -->
+
+  <!-- Long An -->
+  <path
+    id="long-an"
+    class="province province--disabled"
+    data-name-vi="Long An"
+    data-name-en="Long An"
+    data-type="tinh"
+    data-type-en="province"
+    d="M5,840 L20,835 L15,855 L30,875 L25,895 L5,890 Z"
+  />
+
+  <!-- Tien Giang -->
+  <path
+    id="tien-giang"
+    class="province province--disabled"
+    data-name-vi="Tiền Giang"
+    data-name-en="Tien Giang"
+    data-type="tinh"
+    data-type-en="province"
+    d="M25,895 L30,875 L55,890 L60,900 L45,905 L30,905 Z"
+  />
+
+  <!-- Ben Tre -->
+  <path
+    id="ben-tre"
+    class="province province--disabled"
+    data-name-vi="Bến Tre"
+    data-name-en="Ben Tre"
+    data-type="tinh"
+    data-type-en="province"
+    d="M45,905 L60,900 L75,905 L70,915 L50,915 Z"
+  />
+
+  <!-- Tra Vinh -->
+  <path
+    id="tra-vinh"
+    class="province province--disabled"
+    data-name-vi="Trà Vinh"
+    data-name-en="Tra Vinh"
+    data-type="tinh"
+    data-type-en="province"
+    d="M75,905 L95,900 L100,910 L85,920 L70,918 Z"
+  />
+
+  <!-- Vinh Long -->
+  <path
+    id="vinh-long"
+    class="province province--disabled"
+    data-name-vi="Vĩnh Long"
+    data-name-en="Vinh Long"
+    data-type="tinh"
+    data-type-en="province"
+    d="M5,890 L25,895 L30,905 L20,915 L8,910 Z"
+  />
+
+  <!-- An Giang, Dong Thap, Can Tho... abbreviated for MVP -->
+  <path
+    id="can-tho"
+    class="province province--disabled"
+    data-name-vi="Cần Thơ"
+    data-name-en="Can Tho"
+    data-type="thanh-pho"
+    data-type-en="city"
+    d="M5,910 L20,915 L15,925 L5,922 Z"
+  />
+
+  <!-- ============================================================
+       PROVINCE LABELS (active only)
+       ============================================================ -->
+  <text class="province-label" x="190" y="193" font-weight="bold" font-size="11" fill="#1a5c1e">Hà Nội</text>
+  <text class="province-label" x="57" y="868" font-weight="bold" font-size="10" fill="#1a5c1e">TP.HCM</text>
+</svg>

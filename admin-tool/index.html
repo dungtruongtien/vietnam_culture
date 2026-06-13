@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admin Tool — Khám Phá Việt Nam</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: system-ui, sans-serif; background: #f5f5f5; color: #333; }
+    .header { background: #da251d; color: white; padding: 16px 24px; }
+    .header h1 { font-size: 20px; font-weight: 700; }
+    .header p { font-size: 13px; opacity: 0.85; margin-top: 4px; }
+    .warning { background: #fff3cd; border-left: 4px solid #ffc107; padding: 12px 16px; margin: 16px 24px; border-radius: 4px; font-size: 13px; }
+    .container { max-width: 900px; margin: 0 auto; padding: 16px 24px; }
+    .tabs { display: flex; gap: 4px; margin-bottom: 20px; border-bottom: 2px solid #ddd; }
+    .tab { padding: 10px 18px; cursor: pointer; border: none; background: none; font-size: 14px; color: #666; border-bottom: 2px solid transparent; margin-bottom: -2px; font-weight: 500; }
+    .tab.active { color: #da251d; border-bottom-color: #da251d; }
+    .panel { display: none; }
+    .panel.active { display: block; }
+    .card { background: white; border-radius: 8px; padding: 24px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+    .form-group { margin-bottom: 16px; }
+    label { display: block; font-size: 13px; font-weight: 600; margin-bottom: 6px; color: #555; }
+    label .req { color: #da251d; }
+    input, textarea, select { width: 100%; padding: 8px 12px; border: 1px solid #ddd; border-radius: 6px; font-size: 14px; font-family: inherit; }
+    textarea { resize: vertical; min-height: 100px; }
+    .row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+    .btn { padding: 10px 20px; background: #da251d; color: white; border: none; border-radius: 6px; font-size: 14px; cursor: pointer; font-weight: 600; }
+    .btn:hover { background: #b01c15; }
+    .btn-secondary { background: #666; }
+    .btn-secondary:hover { background: #444; }
+    .result { margin-top: 16px; padding: 12px; border-radius: 6px; font-size: 13px; }
+    .result.success { background: #d4edda; border: 1px solid #c3e6cb; color: #155724; }
+    .result.error { background: #f8d7da; border: 1px solid #f5c6cb; color: #721c24; }
+    .sources-section { margin-top: 20px; padding-top: 16px; border-top: 1px solid #eee; }
+    .source-row { display: grid; grid-template-columns: 2fr 2fr 2fr 1fr; gap: 8px; margin-bottom: 8px; align-items: start; }
+    .btn-sm { padding: 6px 12px; font-size: 12px; }
+    .add-source { margin-top: 8px; }
+    .migration-list { list-style: none; }
+    .migration-item { display: flex; justify-content: space-between; align-items: center; padding: 10px 12px; border: 1px solid #eee; border-radius: 6px; margin-bottom: 8px; background: white; }
+    .migration-name { font-family: monospace; font-size: 12px; }
+    pre { background: #1e1e1e; color: #d4d4d4; padding: 16px; border-radius: 6px; overflow-x: auto; font-size: 12px; line-height: 1.5; max-height: 400px; overflow-y: auto; }
+    .hint { font-size: 11px; color: #888; margin-top: 4px; }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>🛠️ Admin Tool — Khám Phá Việt Nam</h1>
+    <p>Chỉ chạy local. Output: file SQL migration để review trước khi apply vào DB.</p>
+  </div>
+
+  <div class="warning">
+    ⚠️ <strong>Lưu ý:</strong> Tool này chỉ tạo file SQL, không kết nối vào database. Sau khi tạo xong, review file SQL rồi chạy:
+    <code>sqlite3 database.db &lt; migrations/generated/[filename].sql</code>
+  </div>
+
+  <div class="container">
+    <div class="tabs">
+      <button class="tab active" onclick="showTab('province')">Tỉnh/Thành</button>
+      <button class="tab" onclick="showTab('event')">Sự kiện lịch sử</button>
+      <button class="tab" onclick="showTab('cultural')">Bài viết văn hóa</button>
+      <button class="tab" onclick="showTab('festival')">Lễ hội</button>
+      <button class="tab" onclick="showTab('migrations')">Xem migrations</button>
+    </div>
+
+    <!-- Province form -->
+    <div id="panel-province" class="panel active">
+      <div class="card">
+        <h2 style="font-size:16px;margin-bottom:20px;">Thêm tỉnh/thành mới</h2>
+        <form id="province-form">
+          <div class="row">
+            <div class="form-group">
+              <label>Tên tiếng Việt <span class="req">*</span></label>
+              <input type="text" name="name_vi" placeholder="Thành phố Đà Nẵng" required>
+            </div>
+            <div class="form-group">
+              <label>Tên tiếng Anh <span class="req">*</span></label>
+              <input type="text" name="name_en" placeholder="Da Nang City" required>
+            </div>
+          </div>
+          <div class="row">
+            <div class="form-group">
+              <label>Slug URL <span class="req">*</span></label>
+              <input type="text" name="slug" placeholder="da-nang" required>
+              <div class="hint">Dùng chữ thường, dấu gạch ngang, không dấu</div>
+            </div>
+            <div class="row" style="gap:8px;">
+              <div class="form-group">
+                <label>Loại (VI) <span class="req">*</span></label>
+                <select name="type" required>
+                  <option value="thanh-pho">Thành phố</option>
+                  <option value="tinh">Tỉnh</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label>Loại (EN) <span class="req">*</span></label>
+                <select name="type_en" required>
+                  <option value="city">city</option>
+                  <option value="province">province</option>
+                </select>
+              </div>
+            </div>
+          </div>
+          <div class="form-group">
+            <label>Mô tả (tiếng Việt)</label>
+            <textarea name="meta_description_vi" placeholder="Mô tả ngắn về tỉnh/thành..."></textarea>
+          </div>
+          <div class="form-group">
+            <label>Description (English)</label>
+            <textarea name="meta_description_en" placeholder="Short description in English..."></textarea>
+          </div>
+          <div class="row">
+            <div class="form-group">
+              <label>Dân số</label>
+              <input type="text" name="population" placeholder="1.2 triệu người">
+            </div>
+            <div class="form-group">
+              <label>Diện tích (km²)</label>
+              <input type="number" name="area_km2" placeholder="1285">
+            </div>
+          </div>
+          <div class="row">
+            <div class="form-group">
+              <label>Vùng (VI)</label>
+              <input type="text" name="region_vi" placeholder="Nam Trung Bộ">
+            </div>
+            <div class="form-group">
+              <label>Region (EN)</label>
+              <input type="text" name="region_en" placeholder="South Central Coast">
+            </div>
+          </div>
+          <button type="submit" class="btn">Tạo file SQL</button>
+          <div id="province-result"></div>
+        </form>
+      </div>
+    </div>
+
+    <!-- Event form -->
+    <div id="panel-event" class="panel">
+      <div class="card">
+        <h2 style="font-size:16px;margin-bottom:20px;">Thêm sự kiện lịch sử</h2>
+        <form id="event-form">
+          <div class="form-group">
+            <label>Slug tỉnh/thành <span class="req">*</span></label>
+            <input type="text" name="province_slug" placeholder="ho-chi-minh" required>
+          </div>
+          <div class="row">
+            <div class="form-group">
+              <label>Tiêu đề tiếng Việt <span class="req">*</span></label>
+              <input type="text" name="title_vi" required>
+            </div>
+            <div class="form-group">
+              <label>Title in English <span class="req">*</span></label>
+              <input type="text" name="title_en" required>
+            </div>
+          </div>
+          <div class="row">
+            <div class="form-group">
+              <label>Ngày sự kiện (YYYY-MM-DD) <span class="req">*</span></label>
+              <input type="text" name="event_date" placeholder="1975-04-30" required>
+              <div class="hint">Nếu chỉ biết năm: 1698-01-01</div>
+            </div>
+            <div class="form-group">
+              <label>Hiển thị ngày <span class="req">*</span></label>
+              <input type="text" name="event_date_display" placeholder="Ngày 30/04/1975 hoặc Năm 1698" required>
+            </div>
+          </div>
+          <div class="form-group">
+            <label>Nội dung tiếng Việt <span class="req">*</span></label>
+            <textarea name="content_vi" style="min-height:150px;" required></textarea>
+            <div class="hint">Dùng dòng trống để phân cách đoạn văn</div>
+          </div>
+          <div class="form-group">
+            <label>Content in English <span class="req">*</span></label>
+            <textarea name="content_en" style="min-height:150px;" required></textarea>
+          </div>
+          <div class="form-group">
+            <label>URL ảnh (không bắt buộc)</label>
+            <input type="url" name="image_url" placeholder="https://...">
+          </div>
+
+          <div class="sources-section">
+            <h3 style="font-size:14px;margin-bottom:12px;">📚 Nguồn tham khảo <span class="req">*</span> (tối thiểu 2)</h3>
+            <div id="sources-container">
+              <div class="source-row">
+                <input type="url" placeholder="URL nguồn *" name="src_url_0" required>
+                <input type="text" placeholder="Tên bài viết *" name="src_title_0" required>
+                <input type="text" placeholder="Tên báo/nhà xuất bản *" name="src_publisher_0" required>
+                <input type="date" name="src_date_0" required>
+              </div>
+              <div class="source-row">
+                <input type="url" placeholder="URL nguồn *" name="src_url_1" required>
+                <input type="text" placeholder="Tên bài viết *" name="src_title_1" required>
+                <input type="text" placeholder="Tên báo/nhà xuất bản *" name="src_publisher_1" required>
+                <input type="date" name="src_date_1" required>
+              </div>
+            </div>
+            <button type="button" class="btn btn-secondary btn-sm add-source" onclick="addSource('sources-container', 'src')">+ Thêm nguồn</button>
+          </div>
+
+          <div style="margin-top:20px;">
+            <button type="submit" class="btn">Tạo file SQL</button>
+          </div>
+          <div id="event-result"></div>
+        </form>
+      </div>
+    </div>
+
+    <!-- Cultural post form -->
+    <div id="panel-cultural" class="panel">
+      <div class="card">
+        <h2 style="font-size:16px;margin-bottom:20px;">Thêm bài viết văn hóa</h2>
+        <form id="cultural-form">
+          <div class="row">
+            <div class="form-group">
+              <label>Slug tỉnh/thành <span class="req">*</span></label>
+              <input type="text" name="province_slug" placeholder="ho-chi-minh" required>
+            </div>
+            <div class="form-group">
+              <label>Loại bài viết <span class="req">*</span></label>
+              <select name="type" required>
+                <option value="am-thuc">Ẩm thực</option>
+                <option value="dia-diem">Địa điểm</option>
+                <option value="phong-tuc">Phong tục</option>
+                <option value="le-hoi">Lễ hội</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="form-group">
+              <label>Tiêu đề tiếng Việt <span class="req">*</span></label>
+              <input type="text" name="title_vi" placeholder="Top 10 món ăn nên thử tại..." required>
+            </div>
+            <div class="form-group">
+              <label>Title in English <span class="req">*</span></label>
+              <input type="text" name="title_en" required>
+            </div>
+          </div>
+          <div class="form-group">
+            <label>Nội dung tiếng Việt (JSON array) <span class="req">*</span></label>
+            <textarea name="content_vi" style="min-height:180px;" placeholder='[{"item": "Tên món 1", "description": "Mô tả..."}, ...]' required></textarea>
+            <div class="hint">Format JSON: [{&quot;item&quot;: &quot;Tên&quot;, &quot;description&quot;: &quot;Mô tả&quot;}]</div>
+          </div>
+          <div class="form-group">
+            <label>Content in English (JSON array) <span class="req">*</span></label>
+            <textarea name="content_en" style="min-height:180px;" placeholder='[{"item": "Item 1", "description": "Description..."}]' required></textarea>
+          </div>
+
+          <div class="sources-section">
+            <h3 style="font-size:14px;margin-bottom:12px;">📚 Nguồn tham khảo <span class="req">*</span> (tối thiểu 2)</h3>
+            <div id="csources-container">
+              <div class="source-row">
+                <input type="url" placeholder="URL nguồn *" name="csrc_url_0" required>
+                <input type="text" placeholder="Tên bài viết *" name="csrc_title_0" required>
+                <input type="text" placeholder="Tên báo/nhà xuất bản *" name="csrc_publisher_0" required>
+                <input type="date" name="csrc_date_0" required>
+              </div>
+              <div class="source-row">
+                <input type="url" placeholder="URL nguồn *" name="csrc_url_1" required>
+                <input type="text" placeholder="Tên bài viết *" name="csrc_title_1" required>
+                <input type="text" placeholder="Tên báo/nhà xuất bản *" name="csrc_publisher_1" required>
+                <input type="date" name="csrc_date_1" required>
+              </div>
+            </div>
+            <button type="button" class="btn btn-secondary btn-sm add-source" onclick="addSource('csources-container', 'csrc')">+ Thêm nguồn</button>
+          </div>
+
+          <div style="margin-top:20px;">
+            <button type="submit" class="btn">Tạo file SQL</button>
+          </div>
+          <div id="cultural-result"></div>
+        </form>
+      </div>
+    </div>
+
+    <!-- Festival form -->
+    <div id="panel-festival" class="panel">
+      <div class="card">
+        <h2 style="font-size:16px;margin-bottom:20px;">Thêm lễ hội</h2>
+        <form id="festival-form">
+          <div class="row">
+            <div class="form-group">
+              <label>Slug tỉnh/thành <span class="req">*</span></label>
+              <input type="text" name="province_slug" placeholder="ha-noi" required>
+            </div>
+            <div class="form-group">
+              <label>&nbsp;</label>
+              <div style="display:flex;gap:16px;padding-top:8px;">
+                <label style="display:flex;align-items:center;gap:6px;font-weight:normal;">
+                  <input type="checkbox" name="is_lunar"> Âm lịch
+                </label>
+                <label style="display:flex;align-items:center;gap:6px;font-weight:normal;">
+                  <input type="checkbox" name="is_trending"> Nổi bật (trending)
+                </label>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="form-group">
+              <label>Tên lễ hội (VI) <span class="req">*</span></label>
+              <input type="text" name="name_vi" required>
+            </div>
+            <div class="form-group">
+              <label>Festival name (EN) <span class="req">*</span></label>
+              <input type="text" name="name_en" required>
+            </div>
+          </div>
+          <div class="form-group">
+            <label>Mô tả (VI)</label>
+            <textarea name="description_vi"></textarea>
+          </div>
+          <div class="form-group">
+            <label>Description (EN)</label>
+            <textarea name="description_en"></textarea>
+          </div>
+          <div class="row">
+            <div class="form-group">
+              <label>Ngày bắt đầu <span class="req">*</span></label>
+              <input type="date" name="start_date" required>
+            </div>
+            <div class="form-group">
+              <label>Ngày kết thúc</label>
+              <input type="date" name="end_date">
+            </div>
+          </div>
+          <button type="submit" class="btn">Tạo file SQL</button>
+          <div id="festival-result"></div>
+        </form>
+      </div>
+    </div>
+
+    <!-- Migrations list -->
+    <div id="panel-migrations" class="panel">
+      <div class="card">
+        <h2 style="font-size:16px;margin-bottom:16px;">Danh sách file migration đã tạo</h2>
+        <button onclick="loadMigrations()" class="btn btn-secondary" style="margin-bottom:16px;">↻ Làm mới</button>
+        <div id="migrations-list">Đang tải...</div>
+        <div id="migration-content" style="margin-top:16px;"></div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    let sourceCount = { 'src': 2, 'csrc': 2 };
+
+    function showTab(tab) {
+      document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
+      document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+      document.getElementById('panel-' + tab).classList.add('active');
+      event.target.classList.add('active');
+      if (tab === 'migrations') loadMigrations();
+    }
+
+    function addSource(containerId, prefix) {
+      const container = document.getElementById(containerId);
+      const idx = sourceCount[prefix]++;
+      const row = document.createElement('div');
+      row.className = 'source-row';
+      row.innerHTML = `
+        <input type="url" placeholder="URL nguồn" name="${prefix}_url_${idx}">
+        <input type="text" placeholder="Tên bài viết" name="${prefix}_title_${idx}">
+        <input type="text" placeholder="Tên báo" name="${prefix}_publisher_${idx}">
+        <input type="date" name="${prefix}_date_${idx}">
+      `;
+      container.appendChild(row);
+    }
+
+    function collectSources(prefix, count) {
+      const sources = [];
+      for (let i = 0; i < count; i++) {
+        const url = document.querySelector(`[name="${prefix}_url_${i}"]`)?.value;
+        const title = document.querySelector(`[name="${prefix}_title_${i}"]`)?.value;
+        const publisher = document.querySelector(`[name="${prefix}_publisher_${i}"]`)?.value;
+        const date = document.querySelector(`[name="${prefix}_date_${i}"]`)?.value;
+        if (url && title && publisher && date) {
+          sources.push({ url, title, publisher, accessed_date: date });
+        }
+      }
+      return sources;
+    }
+
+    function showResult(id, data, error) {
+      const el = document.getElementById(id);
+      if (error) {
+        el.innerHTML = `<div class="result error">❌ ${error}</div>`;
+      } else {
+        el.innerHTML = `<div class="result success">✅ Đã tạo file: <strong>${data.file}</strong><br><code>${data.path}</code></div>`;
+      }
+    }
+
+    document.getElementById('province-form').addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const fd = new FormData(e.target);
+      const body = Object.fromEntries(fd.entries());
+      const res = await fetch('/api/province', { method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify(body) });
+      const data = await res.json();
+      showResult('province-result', data, data.error);
+    });
+
+    document.getElementById('event-form').addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const fd = new FormData(e.target);
+      const body = Object.fromEntries(fd.entries());
+      const sources = collectSources('src', sourceCount['src']);
+      if (sources.length < 2) { showResult('event-result', null, 'Cần ít nhất 2 nguồn đầy đủ thông tin'); return; }
+      body.sources = JSON.stringify(sources);
+      const res = await fetch('/api/event', { method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify(body) });
+      const data = await res.json();
+      showResult('event-result', data, data.error);
+    });
+
+    document.getElementById('cultural-form').addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const fd = new FormData(e.target);
+      const body = Object.fromEntries(fd.entries());
+      const sources = collectSources('csrc', sourceCount['csrc']);
+      if (sources.length < 2) { showResult('cultural-result', null, 'Cần ít nhất 2 nguồn đầy đủ thông tin'); return; }
+      body.sources = JSON.stringify(sources);
+      const res = await fetch('/api/cultural-post', { method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify(body) });
+      const data = await res.json();
+      showResult('cultural-result', data, data.error);
+    });
+
+    document.getElementById('festival-form').addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const fd = new FormData(e.target);
+      const body = Object.fromEntries(fd.entries());
+      body.is_lunar = body.is_lunar === 'on' ? true : false;
+      body.is_trending = body.is_trending === 'on' ? true : false;
+      const res = await fetch('/api/festival', { method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify(body) });
+      const data = await res.json();
+      showResult('festival-result', data, data.error);
+    });
+
+    async function loadMigrations() {
+      const res = await fetch('/api/migrations');
+      const { files } = await res.json();
+      const el = document.getElementById('migrations-list');
+      if (!files.length) { el.innerHTML = '<p style="color:#888;font-size:13px;">Chưa có file migration nào</p>'; return; }
+      el.innerHTML = `<ul class="migration-list">${files.map(f => `
+        <li class="migration-item">
+          <span class="migration-name">${f}</span>
+          <button onclick="viewMigration('${f}')" class="btn btn-secondary btn-sm">Xem</button>
+        </li>`).join('')}</ul>`;
+    }
+
+    async function viewMigration(filename) {
+      const res = await fetch(`/api/migrations/${filename}`);
+      const text = await res.text();
+      document.getElementById('migration-content').innerHTML = `
+        <h3 style="font-size:14px;margin-bottom:8px;">${filename}</h3>
+        <p style="font-size:12px;color:#666;margin-bottom:8px;">Apply: <code>sqlite3 database.db &lt; migrations/generated/${filename}</code></p>
+        <pre>${text.replace(/</g,'&lt;').replace(/>/g,'&gt;')}</pre>
+      `;
+    }
+  </script>
+</body>
+</html>

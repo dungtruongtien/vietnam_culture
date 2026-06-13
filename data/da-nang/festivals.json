@@ -1,0 +1,71 @@
+[
+  {
+    "name_vi": "Lễ hội pháo hoa quốc tế Đà Nẵng (DIFF)",
+    "name_en": "Da Nang International Fireworks Festival (DIFF)",
+    "slug": "diff-da-nang",
+    "description_vi": "Chuỗi đêm pháo hoa và hoạt động văn hóa – giải trí ven sông, tạo nên không khí lễ hội sôi động của thành phố.",
+    "description_en": "A series of fireworks nights and riverside cultural activities that bring a vibrant festival atmosphere to the city.",
+    "content_vi": "DIFF thường biến khu vực ven sông Hàn thành một sân khấu ngoài trời: đám đông tụ hội, âm nhạc, ánh sáng và những màn pháo hoa theo chủ đề. Trải nghiệm đẹp nhất là đến sớm để chọn vị trí, rồi kết hợp đi dạo và ăn uống trước giờ bắn.\n\nVì lượng khách đông, nên ưu tiên di chuyển bằng cách đi bộ hoặc phương tiện công cộng khi có. Nếu đi nhóm, hãy hẹn điểm gặp rõ ràng để tránh lạc nhau trong đám đông.",
+    "content_en": "DIFF often turns the Han River waterfront into an open-air stage: crowds, music, lights, and themed fireworks shows. The best experience is arriving early for a good spot and pairing it with a stroll and snacks before showtime.\n\nSince it can get crowded, walking or public options (when available) are often easier. If you go with friends, set a clear meeting point to avoid getting separated.",
+    "start_date": "2026-06-01",
+    "end_date": "2026-06-30",
+    "is_lunar": 0,
+    "is_trending": 1,
+    "status": "active",
+    "sources": [
+      {
+        "url": "https://example.invalid/da-nang-diff",
+        "title": "DIFF: thông tin tổng quan",
+        "publisher": "Placeholder Source",
+        "accessed_date": "2026-05-04"
+      }
+    ]
+  },
+  {
+    "name_vi": "Lễ hội cầu ngư (tính địa phương)",
+    "name_en": "Whale Worship Festival (local coastal tradition)",
+    "slug": "le-hoi-cau-ngu-da-nang",
+    "description_vi": "Lễ hội dân gian của cộng đồng ngư dân, thể hiện niềm tin biển cả và ước vọng mùa đánh bắt thuận lợi.",
+    "description_en": "A folk festival of fishing communities, expressing sea beliefs and hopes for a favorable fishing season.",
+    "content_vi": "Lễ hội cầu ngư thường mang màu sắc cộng đồng biển: nghi thức, rước lễ và các hoạt động sinh hoạt tập thể. Không khí vừa trang trọng vừa gần gũi, phản ánh đời sống gắn với biển của cư dân ven bờ.\n\nNếu tham dự, hãy tôn trọng không gian nghi lễ và giữ trật tự. Du khách có thể quan sát để hiểu thêm về văn hóa biển miền Trung—một lớp bản sắc khác của Đà Nẵng ngoài hình ảnh hiện đại.",
+    "content_en": "The festival often carries a strong community coastal character, with rituals, processions, and shared activities. The atmosphere blends solemnity with everyday warmth, reflecting a life tied to the sea.\n\nIf you attend, respect ritual spaces and keep order. It's a good way to understand central Vietnam's sea culture—another layer of Da Nang beyond its modern image.",
+    "start_date": "2026-03-15",
+    "end_date": "2026-03-15",
+    "is_lunar": 1,
+    "is_trending": 0,
+    "status": "active",
+    "sources": [
+      {
+        "url": "https://example.invalid/da-nang-cau-ngu",
+        "title": "Lễ hội cầu ngư: mô tả ngắn",
+        "publisher": "Placeholder Source",
+        "accessed_date": "2026-05-04"
+      }
+    ]
+  },
+  {
+    "name_vi": "Lễ Cầu Ngư — Thờ Cá Ông",
+    "name_en": "Cau Ngu Festival — Whale Worship Ceremony",
+    "description_vi": "Lễ Cầu Ngư là lễ hội thờ Cá Ông (cá voi) của các làng chài ven biển Đà Nẵng, diễn ra hằng năm vào đầu mùa xuân từ tháng 2 đến tháng 4 âm lịch tại các đình làng ven biển như Mân Thái, Thọ Quang, Xuân Hà và Thanh Khê. Ngư dân tin rằng Cá Ông — \"ông Nam Hải\" — đã nhiều lần cứu sống thuyền bè gặp nạn trên biển. Khi cá voi chết dạt vào bờ, ngư dân tổ chức tang lễ trang trọng, người phát hiện đầu tiên được vinh danh là \"con trưởng\". Lễ hội gồm ba phần: rước Cá Ông, tế thần biển và tế tổ làng chài. Lễ vật dâng cúng không có hải sản — đây là điều đặc biệt hiếm có trong một vùng biển giàu có. Lễ Cầu Ngư được Bộ Văn hóa, Thể thao và Du lịch công nhận là Di sản văn hóa phi vật thể quốc gia năm 2016.",
+    "description_en": "The Cau Ngu Festival is the whale worship ceremony of Da Nang's coastal fishing villages, held annually each spring between the 2nd and 4th lunar months at communal houses in beach villages such as Man Thai, Tho Quang, Xuan Ha, and Thanh Khe. Fishermen believe that Cá Ông — \"Mr Nam Hai,\" the Southern Sea deity — has repeatedly rescued storm-stricken boats by guiding them safely to shore. When a whale washes ashore dead, the community stages a solemn funeral: the fisherman who first discovered the animal is honoured as \"eldest son\" and presides over the burial rites. The festival unfolds in three ceremonial phases: escorting Cá Ông's spirit, worshipping the sea deity, and honouring the village's founding ancestors. Uniquely, no seafood is offered as tribute — a mark of profound respect for the ocean's guardian in a fishing community that depends entirely on the sea. The Cau Ngu Festival was inscribed as a National Intangible Cultural Heritage in 2016.",
+    "start_date": "2026-03-01",
+    "end_date": null,
+    "is_lunar": 1,
+    "is_trending": 0,
+    "status": "active",
+    "sources": [
+      {
+        "url": "https://dantri.com.vn/du-lich/tham-vung-dat-so-huu-2-dac-san-nuc-tieng-dat-quang-1423370825.htm",
+        "title": "Tham vùng đất sở hữu 2 đặc sản nức tiếng đất Quảng",
+        "publisher": "Báo Dân trí",
+        "accessed_date": "2026-05-24"
+      },
+      {
+        "url": "https://danangfantasticity.com/en/see-and-do/the-cau-ngu-festival-in-da-nang-the-whale-worship-festival",
+        "title": "The Cau Ngu Festival in Da Nang — the Whale Worship Festival",
+        "publisher": "Da Nang Fantasticity",
+        "accessed_date": "2026-05-24"
+      }
+    ]
+  }
+]

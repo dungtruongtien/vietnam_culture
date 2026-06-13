@@ -1,0 +1,631 @@
+[
+  {
+    "content_hash": "dn_at1_miquang",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Mì Quảng",
+    "title_en": "Mi Quang noodles",
+    "content_vi": [
+      {
+        "item": "Sợi mì vàng, ít nước, nhiều topping",
+        "description": "Tô mì Quảng khác biệt ở chỗ ít nước dùng nhưng cực kỳ đậm vị — sợi mì gạo vàng nghệ, đậu phộng rang, bánh tráng nướng, rau sống và nhân tôm-thịt. Không phải món ăn của sự nhẹ nhàng."
+      },
+      {
+        "item": "Ăn sáng hoặc trưa, khắp ngõ Đà Nẵng",
+        "description": "Quán mì Quảng có ở khắp các con phố Đà Nẵng, từ xe đẩy vỉa hè đến nhà hàng. Buổi sáng và trưa là lúc món này ngon nhất và đông khách nhất."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Yellow noodles, little broth, lots of toppings",
+        "description": "Mi Quang stands apart for its minimal broth but maximal flavour — turmeric-yellow rice noodles with roasted peanuts, grilled rice crackers, fresh herbs, and a shrimp-and-pork topping. Not a dish for the timid."
+      },
+      {
+        "item": "Breakfast or lunch, found across Da Nang",
+        "description": "Mi Quang stalls line every Da Nang street, from footpath carts to proper restaurants. Morning and midday are peak hours and peak flavour."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vietnamtourism.gov.vn/diem-den/da-nang/",
+        "title": "Ẩm thực Đà Nẵng",
+        "publisher": "Tổng cục Du lịch",
+        "accessed_date": "2026-05-04"
+      }
+    ]
+  },
+  {
+    "content_hash": "dn_at2_banhtrang",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Bánh tráng cuốn thịt heo",
+    "title_en": "Pork-and-herb rice paper rolls",
+    "content_vi": [
+      {
+        "item": "Thịt heo hai đầu da, mắm nêm — ăn theo nhóm",
+        "description": "Bánh tráng mỏng cuốn cùng thịt heo luộc hai đầu da, rau sống, khế chua và mắm nêm Đà Nẵng đặc sánh. Cắn một miếng là cảm nhận cả miền Trung."
+      },
+      {
+        "item": "Đặc sản bàn nhậu và bữa tụ họp",
+        "description": "Món này không thường bán trên xe đẩy — thường gặp ở quán ăn chuyên hoặc nhà hàng truyền thống. Thích hợp cho bữa ăn theo nhóm, ngồi cuốn và chuyện trò."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Double-skin pork, fermented anchovy dip — a group dish",
+        "description": "Thin rice paper wraps two-skin boiled pork, fresh herbs, sour carambola, and thick Da Nang-style fermented anchovy sauce. One bite brings the whole central coast to the table."
+      },
+      {
+        "item": "A specialty of gathering meals",
+        "description": "Not a street-cart dish — usually found at specialist eateries or traditional restaurants. Best shared over conversation."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://toquoc.vn/banh-trang-cuon-thit-heo-da-nang/",
+        "title": "Bánh tráng cuốn thịt heo Đà Nẵng",
+        "publisher": "Báo Tổ Quốc",
+        "accessed_date": "2026-05-04"
+      }
+    ]
+  },
+  {
+    "content_hash": "dn_at3_buncha",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Bún chả cá",
+    "title_en": "Fish cake noodle soup",
+    "content_vi": [
+      {
+        "item": "Nước dùng ngọt thanh, chả cá dai thơm đặc trưng biển miền Trung",
+        "description": "Chả cá Đà Nẵng được làm từ cá tươi xay nhuyễn, nặn thành miếng rồi chiên vàng — ăn kèm bún tươi và nước dùng ngọt xương heo lẫn cá. Không quá nồng, không quá nhạt."
+      },
+      {
+        "item": "Bữa sáng định nghĩa thành phố biển",
+        "description": "Người Đà Nẵng ăn bún chả cá vào buổi sáng như một thói quen không thể thiếu. Hầu hết các chợ và phố chợ đều có ít nhất một quán phục vụ từ 5h30 sáng."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Clean sweet broth, springy fish cakes — a coastal central Vietnam signature",
+        "description": "Da Nang fish cakes are ground from fresh fish, hand-formed, and pan-fried golden — served with fresh rice vermicelli in a lightly sweet pork-and-fish broth. Not heavy, not bland."
+      },
+      {
+        "item": "The breakfast that defines this coastal city",
+        "description": "Locals eat bún chả cá every morning without fail. Most markets and market streets have at least one stall open from 5:30am."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vnexpress.net/bun-cha-ca-da-nang-mon-sang-dac-trung-cua-dat-bien-4650000.html",
+        "title": "Bún chả cá Đà Nẵng",
+        "publisher": "VnExpress",
+        "accessed_date": "2026-05-04"
+      }
+    ]
+  },
+  {
+    "content_hash": "dn_at4_goica",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Gỏi cá Nam Ô",
+    "title_en": "Nam O raw fish salad",
+    "content_vi": [
+      {
+        "item": "Cá tươi sống trộn gừng, tỏi, ớt và rau rừng — vị mạnh, cá tươi tuyệt đối",
+        "description": "Gỏi cá Nam Ô là đặc sản của làng chài Nam Ô ven biển Đà Nẵng — cá cơm tươi hoặc cá trích ướp chanh, gừng, tỏi, ớt và hành ta, ăn kèm bánh tráng và rau rừng. Vị chua – cay – thơm không giống bất kỳ gỏi nào ở miền Nam."
+      },
+      {
+        "item": "Chỉ ngon nhất ở đúng làng Nam Ô",
+        "description": "Gỏi này làm từ cá đánh về buổi sáng, ăn trong ngày — không thể đóng gói hay vận chuyển xa. Muốn thử đúng kiểu, phải đến thẳng làng Nam Ô hoặc những quán quen biết nguồn nguyên liệu."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Fresh raw fish, ginger, garlic, chili, and wild herbs — bold flavours, non-negotiable freshness",
+        "description": "Nam O fish salad is the pride of the Nam O fishing village on Da Nang's coast — fresh anchovies or sardines marinated in lime, ginger, garlic, chili, and shallots, wrapped with rice paper and wild herbs. Sour, spicy, and aromatic in a way unlike any southern Vietnamese salad."
+      },
+      {
+        "item": "Only truly good at its source village",
+        "description": "This dish is made from morning-caught fish and eaten the same day — it cannot be packaged or transported far. To try it right, go directly to Nam O village or a restaurant with a trusted direct supply."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://toquoc.vn/goi-ca-nam-o-da-nang-dac-san-lang-chai/",
+        "title": "Gỏi cá Nam Ô — đặc sản làng chài",
+        "publisher": "Báo Tổ Quốc",
+        "accessed_date": "2026-05-04"
+      }
+    ]
+  },
+  {
+    "content_hash": "dn_at5_bethui",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Bê Thui Cầu Mống",
+    "title_en": "Cau Mong Roasted Veal",
+    "content_vi": [
+      {
+        "item": "Top 50 đặc sản nổi tiếng Việt Nam — bê non thui than, ăn cuốn bánh tráng với mắm nêm",
+        "description": "Bê thui Cầu Mống xuất xứ từ làng Cầu Mống, xã Điện Phương, huyện Điện Bàn, Quảng Nam — chỉ cách trung tâm Đà Nẵng khoảng 20 km. Bê con nặng 25–35 kg được chọn lọc kỹ, thui trên than hồng cho đến khi da ngoài vàng giòn và thịt bên trong mềm ngọt. Ăn kèm bánh tráng, rau sống (giá sống, chuối chát, khế chua) và chén nước chấm mắm nêm pha tỏi, ớt, mè, chanh, gừng — một sự phối hợp hài hòa khiến thực khách khó quên. Năm 2013, bê thui Cầu Mống được Tổ chức Kỷ lục Việt Nam công nhận là một trong 50 món ăn đặc sản nổi tiếng nhất Việt Nam."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Top 50 Famous Specialty Dishes of Vietnam — charcoal-roasted whole calf served with rice paper and fermented anchovy sauce",
+        "description": "Cau Mong Roasted Veal originates in Cau Mong village, Dien Ban district, Quang Nam province — roughly 20 km from Da Nang city centre. Young calves of 25–35 kg are carefully selected and slow-roasted over charcoal until the outer skin turns golden and crackles while the flesh inside remains tender and sweet. Served with rice paper, fresh accompaniments (bean sprouts, unripe banana, sour carambola, mint, basil) and a dipping sauce of premium fish sauce blended with garlic, chili, toasted sesame, lime, and ginger. In 2013 it was listed among Vietnam's Top 50 Famous Specialty Dishes by the Vietnam Record Organisation."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://nhandan.vn/be-thui-cau-mong-dac-san-kho-quen-post855222.html",
+        "title": "Bê thui Cầu Mống — đặc sản khó quên",
+        "publisher": "Báo Nhân Dân",
+        "accessed_date": "2026-05-24"
+      },
+      {
+        "url": "https://www.vietnamplus.vn/be-thui-cau-mong-mon-an-dac-san-noi-tieng-cua-viet-nam-post282751.vnp",
+        "title": "Bê thui Cầu Mống — VietnamPlus",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-05-24"
+      }
+    ]
+  },
+  {
+    "content_hash": "dn_at6_bunmamnem",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Bún Mắm Nêm Đà Nẵng",
+    "title_en": "Da Nang Fermented Anchovy Noodle Bowl",
+    "content_vi": [
+      {
+        "item": "Bát bún trộn khô, mắm nêm pha loãng — mùi mạnh, vị đậm đà phức hợp",
+        "description": "Bún mắm nêm Đà Nẵng là bát bún trộn khô — khác hoàn toàn với bún mắm miền Tây chan đầy nước. Bún tươi được xếp cùng thịt heo quay, chả bò, nem chua, tai heo giòn, mít non luộc, đu đủ bào sợi, dưa leo và rau thơm, rồi chan đều mắm nêm pha loãng với tỏi, ớt, chanh và dứa. Dùng đũa trộn đều trước khi ăn — đó là điều bắt buộc. Hương mắm nêm mạnh khi mở nắp, nhưng sau khi trộn và thấm vào từng sợi bún, mọi thứ hòa vào một vị đậm đà phức hợp mà người Đà Nẵng gọi là ngon hết biết."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "The bowl that smells fearsome but tastes extraordinary — Da Nang's most misunderstood culinary treasure",
+        "description": "Da Nang's bún mắm nêm is a dry-mixed noodle bowl — entirely unlike its broth-heavy southern cousin. Fresh vermicelli is layered with roasted pork, beef chả, sour spring roll, crispy pig ear, boiled young jackfruit, shredded green papaya, cucumber, and fresh herbs, then dressed with fermented anchovy sauce diluted with garlic, chili, lime, and pineapple. You must toss everything together before eating. The sauce smells bold when poured, but once mixed and absorbed into every strand, it transforms into a complex, deeply savoury dish that Da Nang locals describe as simply incomparably good."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vnexpress.net/bun-mam-nem-mon-dac-san-gia-binh-dan-o-da-nang-3870051.html",
+        "title": "Bún mắm nêm — món đặc sản giá bình dân",
+        "publisher": "VnExpress Du lịch",
+        "accessed_date": "2026-05-24"
+      },
+      {
+        "url": "https://www.vietnamplus.vn/thuong-thuc-huong-vi-dam-da-dac-biet-cua-bun-mam-nem-da-nang-post910218.vnp",
+        "title": "Hương vị đậm đà đặc biệt của bún mắm nêm Đà Nẵng",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-05-24"
+      }
+    ]
+  },
+  {
+    "content_hash": "dn_at7_nemluida",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Nem Lụi Đà Nẵng",
+    "title_en": "Da Nang Lemongrass Pork Skewers",
+    "content_vi": [
+      {
+        "item": "5.000 đồng một xiên — xiên thịt heo nướng sả đặc trưng vỉa hè Đà Nẵng",
+        "description": "Nem lụi Đà Nẵng là miếng thịt heo xay pha da heo và mỡ hạt lựu, ướp tiêu, hành khô, đường, rồi 'lụi' (xiên) quanh cây sả và nướng trên than hồng. Mỡ chảy nhỏ giọt xuống than tạo ra làn khói thơm phức, kéo khách lại từ xa. Ăn kèm bánh tráng mỏng, rau sống và nước chấm đặc gan heo — cùng loại nước chấm dùng với bánh xèo — làm cho nem lụi và bánh xèo trở thành cặp đôi hoàn hảo trong bữa ăn chiều của người Đà Nẵng."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "5,000 đồng per skewer — the cheap-and-cheerful street snack that defines Da Nang's sidewalk culture",
+        "description": "Da Nang nem lụi starts with minced pork blended with diced pork skin and fat, marinated with black pepper, dried shallots, and sugar, then pressed tightly around a stalk of lemongrass and grilled over charcoal. As the fat drips onto the coals it sends up fragrant smoke that draws diners from metres away. Served with thin rice paper, fresh herbs, and a thick dipping sauce of ground pork liver — the same sauce used for bánh xèo, making the two dishes perfect partners on a Da Nang afternoon."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://dantri.com.vn/du-lich/suc-hap-dan-ky-la-cua-mon-nem-lui-da-thanh-an-roi-lai-muon-an-them-20210619161729220.htm",
+        "title": "Sức hấp dẫn kỳ lạ của món nem lụi Đà thành",
+        "publisher": "Báo Dân trí",
+        "accessed_date": "2026-05-24"
+      },
+      {
+        "url": "https://nhandan.vn/goi-y-5-mon-an-da-nang-nen-thu-cho-du-khach-lan-dau-ghe-tham-post889682.html",
+        "title": "5 món ăn Đà Nẵng nên thử",
+        "publisher": "Báo Nhân Dân",
+        "accessed_date": "2026-05-24"
+      }
+    ]
+  },
+  {
+    "content_hash": "dn_at8_comga",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Cơm Gà Xứ Quảng",
+    "title_en": "Quang-Style Chicken Rice",
+    "content_vi": [
+      {
+        "item": "\"Chưa ăn cơm gà xem như chưa đến xứ Quảng\" — cơm gà miền Trung giản dị mà thiết yếu",
+        "description": "Người xứ Quảng có câu 'Chưa ăn cơm gà xem như chưa đến tới đất Quảng' — và câu nói này không phải khoe khoang. Gà được luộc chín, xé sợi và trộn với rau răm, tiêu, hành, gừng cho thơm ngát. Cơm nấu bằng nước luộc gà, đôi khi thêm gấc để tạo màu đỏ cam đặc trưng, dẻo mềm và thấm vị béo từ mỡ gà. Nước dùng gà thanh ngọt, chan vào bát cơm trước khi ăn. Đơn giản đến thuần khiết — đó chính là vẻ đẹp của cơm gà xứ Quảng tại các quán vỉa hè và nhà hàng dọc phố Đà Nẵng."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "\"Haven't eaten chicken rice means haven't truly visited Quang\" — the Central Vietnamese rice dish that is both humble and essential",
+        "description": "The Quang people say: \"If you haven't eaten chicken rice, you haven't truly visited the Quang region\" — and this is no idle boast. Chicken is boiled until just cooked through, then shredded and tossed with Vietnamese coriander (rau răm), black pepper, ginger, and fried shallots until fragrant. Rice is cooked in the chicken broth — sometimes coloured a vivid orange-red with gac fruit — becoming glossy, tender, and faintly rich with chicken fat. A bowl of clear chicken consommé is served alongside for pouring over. Utterly simple, unforgettably satisfying."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://dantri.com.vn/giai-tri/com-ga-xu-quang-1357105547.htm",
+        "title": "Cơm gà xứ Quảng",
+        "publisher": "Báo Dân trí",
+        "accessed_date": "2026-05-24"
+      },
+      {
+        "url": "https://nhandan.vn/goi-y-5-mon-an-da-nang-nen-thu-cho-du-khach-lan-dau-ghe-tham-post889682.html",
+        "title": "5 món ăn Đà Nẵng nên thử",
+        "publisher": "Báo Nhân Dân",
+        "accessed_date": "2026-05-24"
+      }
+    ]
+  },
+  {
+    "content_hash": "dn_at9_banhcanhcabatrau",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Bánh Canh Cá Bả Trầu",
+    "title_en": "Betel-Leaf Fish Thick Noodle Soup",
+    "content_vi": [
+      {
+        "item": "Tên từ màu da cá đỏ như bã trầu — bát bánh canh bình dân với nước dùng ngọt và da heo giòn",
+        "description": "Cá bả trầu — còn gọi là cá thóc, cá mắt kiếng, cá trao tráo — là loài cá biển phổ biến ở vùng biển miền Trung, có da đỏ hồng màu bã trầu, đầu dẹt và ít xương. Thịt cá ngọt và thơm tự nhiên, được nấu thành nồi nước dùng trong vắt, chan cùng bánh canh sợi to dẻo mềm. Điểm nhấn của món ăn là miếng da heo chiên giòn rụm ăn kèm — sự tương phản giữa vỏ da giòn tan và sợi bánh canh mềm mướt tạo nên trải nghiệm vị giác khó quên. Một bát bánh canh hỗn hợp ở Đà Nẵng chỉ khoảng 20.000 đồng."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Named for the fish with reddish skin the colour of chewed betel — Da Nang's thick-noodle comfort bowl with crispy pork skin",
+        "description": "The cá bả trầu — also called cá thóc, cá mắt kiếng, or cá trao tráo — is a common coastal fish in Central Vietnam, named for its reddish skin the colour of chewed betel leaf. With a flat head, few bones, and naturally sweet, fragrant flesh, it is simmered into a clear, delicate broth poured over thick, chewy udon-style rice noodles. The defining element is the crispy fried pork skin served alongside — the contrast between the shattering crunch of the skin and the silky, yielding noodle is what makes this bowl memorable. A mixed bowl in Da Nang costs around 20,000 đồng."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://ngoisao.vnexpress.net/banh-canh-ca-ba-trau-da-heo-gion-4528814.html",
+        "title": "Bánh canh cá bã trầu da heo giòn",
+        "publisher": "VnExpress Ngôi Sao",
+        "accessed_date": "2026-05-24"
+      },
+      {
+        "url": "https://vnexpress.net/5-mon-soi-phai-thu-khi-lang-thang-duong-pho-da-nang-3870054.html",
+        "title": "5 món sợi phải thử khi lang thang đường phố Đà Nẵng",
+        "publisher": "VnExpress Du lịch",
+        "accessed_date": "2026-05-24"
+      }
+    ]
+  },
+  {
+    "content_hash": "dn_at10_haisantuoi",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Hải Sản Tươi Sống Mỹ Khê",
+    "title_en": "My Khe Fresh Seafood",
+    "content_vi": [
+      {
+        "item": "Nướng tại bàn, tính tiền theo kilo, ăn cách thuyền cá vài bước — trải nghiệm hải sản đỉnh cao của Đà Nẵng",
+        "description": "Đà Nẵng có đường bờ biển dài và đội tàu đánh cá hoạt động suốt đêm — đó là lý do tôm hùm, cua huỳnh đế, mực lá, sò điệp và cá thu tươi sống bày bán từ 5 giờ sáng dọc bãi biển Mỹ Khê. Các nhà hàng hải sản trên đường Võ Nguyên Giáp và Hoàng Sa cho phép thực khách tự chọn hải sản sống từ bể kính, rồi chỉ định cách chế biến: nướng muối ớt, hấp gừng, rang me hay lẩu. Hải sản đến bàn ăn trong vòng vài phút, còn tươi nguyên vị biển, không cần gia vị cầu kỳ."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Grilled at the table, priced by the kilo, eaten metres from the fishing boats — the Da Nang seafood experience every visitor must have",
+        "description": "Da Nang's long coastline and its fleet of fishing boats working through the night explain why lobster, Dungeness crab, squid, scallops, and fresh mackerel are on sale from 5 am along My Khe beach. Seafood restaurants on Vo Nguyen Giap and Hoang Sa streets let diners select live seafood from glass tanks, then specify the preparation: grilled with salt and chili, steamed with ginger, tamarind-glazed, or hot pot. The seafood arrives at the table within minutes, fresh enough to need no elaborate seasoning — the ocean does all the work."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.vietnamplus.vn/suc-nong-hang-van-huong-vi-tren-bo-bien-my-khe-gay-bung-no-da-nang-food-tour-2026-post1111972.vnp",
+        "title": "Hương vị trên bờ biển Mỹ Khê — Đà Nẵng Food Tour 2026",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-05-24"
+      },
+      {
+        "url": "https://vnexpress.net/mq-quang-va-hai-san-da-nang-4941880.html",
+        "title": "Mì Quảng và hải sản Đà Nẵng",
+        "publisher": "VnExpress",
+        "accessed_date": "2026-05-24"
+      }
+    ]
+  },
+  {
+    "content_hash": "dn_dd1_mykhe",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Bãi biển Mỹ Khê",
+    "title_en": "My Khe Beach",
+    "content_vi": [
+      {
+        "item": "Dải cát dài 9km, nước trong xanh — dễ tiếp cận từ trung tâm",
+        "description": "Mỹ Khê nằm cách trung tâm Đà Nẵng chưa đầy 5km, là bãi biển đô thị hiếm nơi nào trên thế giới có được. Cát trắng mịn, sóng vừa và hầu như không có đá ngầm — phù hợp cho cả bơi lội lẫn đi dạo."
+      },
+      {
+        "item": "Sáng sớm cho người chạy bộ, chiều tà cho người ngắm hoàng hôn",
+        "description": "Từ 5h sáng, bãi biển đã đông người Đà Nẵng tập thể dục. Chiều tà khi ánh nắng đỏ hồng là khung giờ đẹp nhất để ngồi cafe ven biển."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "9km of white sand, clear water — accessible from downtown",
+        "description": "My Khe sits less than 5km from Da Nang's centre — a rare urban beach of its quality. Fine white sand, manageable waves, and virtually no rocks make it suitable for both swimming and walking."
+      },
+      {
+        "item": "Early mornings for joggers, late afternoons for sunset seekers",
+        "description": "By 5am, locals are already exercising on the sand. The golden-pink late afternoon is the best window for a beachfront coffee."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vietnamtourism.gov.vn/diem-den/da-nang/bai-bien-my-khe/",
+        "title": "Bãi biển Mỹ Khê Đà Nẵng",
+        "publisher": "Tổng cục Du lịch",
+        "accessed_date": "2026-05-04"
+      }
+    ]
+  },
+  {
+    "content_hash": "dn_dd2_sontra",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Bán đảo Sơn Trà",
+    "title_en": "Son Tra Peninsula",
+    "content_vi": [
+      {
+        "item": "Khu bảo tồn thiên nhiên — rừng nhiệt đới tiếp giáp biển ngay trong thành phố",
+        "description": "Sơn Trà là bán đảo hiếm có: khu rừng nguyên sinh còn sót lại bên trong một thành phố hiện đại. Từ đỉnh Bàn Cờ (693m), có thể nhìn bao quát toàn bộ Đà Nẵng, vịnh Đà Nẵng và bờ biển Mỹ Khê."
+      },
+      {
+        "item": "Nơi ở của đàn voọc chà vá chân nâu — linh trưởng quý hiếm",
+        "description": "Voọc chà vá chân nâu — loài linh trưởng màu sắc sặc sỡ nhất thế giới — sinh sống ở Sơn Trà. Sáng sớm, đàn voọc thường xuất hiện trên các cành cây gần đường — cơ hội quan sát hiếm có ngay cạnh thành phố."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "A nature reserve — tropical forest meeting the sea inside the city limits",
+        "description": "Son Tra is a rare peninsula: a patch of primary forest preserved within a modern city. From the summit of Ban Co peak (693m), the view spans all of Da Nang, Da Nang Bay, and My Khe beach."
+      },
+      {
+        "item": "Home to the red-shanked douc langur — one of the world's most colourful primates",
+        "description": "The red-shanked douc langur — described as the world's most colourful primate — lives on Son Tra. Early mornings often bring the troop within camera range of the road."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://toquoc.vn/ban-dao-son-tra-da-nang-net-dep-tu-nhien/",
+        "title": "Bán đảo Sơn Trà — thiên nhiên giữa thành phố",
+        "publisher": "Báo Tổ Quốc",
+        "accessed_date": "2026-05-04"
+      }
+    ]
+  },
+  {
+    "content_hash": "dn_dd3_nguhanhson",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Ngũ Hành Sơn",
+    "title_en": "Marble Mountains",
+    "content_vi": [
+      {
+        "item": "Cụm 5 núi đá cẩm thạch — hang động, chùa chiền và điểm nhìn ra biển",
+        "description": "Ngũ Hành Sơn gồm 5 ngọn núi đá vôi theo ngũ hành Kim-Mộc-Thủy-Hỏa-Thổ, mỗi ngọn có hang động và chùa cổ riêng. Núi Thủy Sơn lớn nhất, có hang Huyền Không rộng hàng trăm mét vuông với ánh sáng tự nhiên xuyên vào từ trên cao."
+      },
+      {
+        "item": "Làng nghề chạm khắc đá lớn nhất miền Trung — ngay dưới chân núi",
+        "description": "Làng đá Non Nước nằm sát chân Ngũ Hành Sơn là làng nghề chạm khắc đá hơn 400 năm tuổi. Cả trăm xưởng thủ công tạo ra tượng Phật, điêu khắc trang trí và quà lưu niệm."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Five marble peaks — caves, ancient pagodas, and sea views",
+        "description": "The Marble Mountains are five limestone outcrops named for the five elements (metal, wood, water, fire, earth), each with its own cave system and ancient pagoda. Thuy Son (Water Mountain), the largest, contains the vast Huyen Khong Cave, lit by natural light filtering from above."
+      },
+      {
+        "item": "The largest stone carving village in central Vietnam — at the mountain's base",
+        "description": "Non Nuoc stone village, immediately below the mountains, is a 400-year-old craft settlement. Hundreds of workshops produce Buddha statues, decorative sculptures, and souvenirs."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vietnamtourism.gov.vn/diem-den/da-nang/ngu-hanh-son/",
+        "title": "Ngũ Hành Sơn — Đà Nẵng",
+        "publisher": "Tổng cục Du lịch",
+        "accessed_date": "2026-05-04"
+      }
+    ]
+  },
+  {
+    "content_hash": "dn_dd4_caulong",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Cầu Rồng & sông Hàn",
+    "title_en": "Dragon Bridge & the Han River",
+    "content_vi": [
+      {
+        "item": "Cây cầu phun lửa — biểu tượng hiện đại của Đà Nẵng",
+        "description": "Cầu Rồng dài 666m với hình rồng uốn khúc là cây cầu biểu tượng của Đà Nẵng hiện đại. Cuối tuần lúc 21h, cầu phun lửa và phun nước trong 15 phút — màn trình diễn miễn phí thu hút hàng nghìn người."
+      },
+      {
+        "item": "Cả dải bờ sông Hàn — đi bộ, café và sinh hoạt về đêm",
+        "description": "Bờ sông Hàn hai phía có vỉa hè rộng, quán café và khu vui chơi. Đây là không gian công cộng sôi động nhất Đà Nẵng về buổi tối — đặc biệt từ khu vực cầu Trần Thị Lý đến cầu Thuận Phước."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "The fire-breathing bridge — Da Nang's modern icon",
+        "description": "The 666m Dragon Bridge, shaped like a coiling dragon, is Da Nang's defining modern landmark. On weekend evenings at 9pm, the dragon breathes fire and water for 15 minutes — a free spectacle that draws thousands."
+      },
+      {
+        "item": "The Han River promenade — walking, coffee, and evening life",
+        "description": "Both banks of the Han River feature wide pedestrian paths, cafes, and recreation areas. This is Da Nang's most lively public space after dark — especially between Tran Thi Ly Bridge and Thuan Phuoc Bridge."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://toquoc.vn/cau-rong-da-nang-bieu-tuong-thanh-pho/",
+        "title": "Cầu Rồng — biểu tượng Đà Nẵng",
+        "publisher": "Báo Tổ Quốc",
+        "accessed_date": "2026-05-04"
+      }
+    ]
+  },
+  {
+    "content_hash": "dn_dd5_baotangcham",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Bảo Tàng Điêu Khắc Chăm",
+    "title_en": "Museum of Cham Sculpture",
+    "content_vi": [
+      {
+        "item": "Bộ sưu tập nghệ thuật Chăm Pa lớn nhất thế giới — 9 Bảo vật Quốc gia trong tòa nhà Pháp-Chăm 1919 bên sông Hàn",
+        "description": "Bảo tàng Điêu khắc Chăm tọa lạc tại số 2 đường 2 tháng 9, bên bờ sông Hàn, là bảo tàng duy nhất trên thế giới chuyên về nghệ thuật điêu khắc Chăm Pa. Được khởi công năm 1915 và mở cửa đón khách năm 1919 dưới thời Pháp thuộc, tòa nhà kết hợp kiến trúc thuộc địa Pháp với các yếu tố trang trí của đền tháp Chăm miền Trung. Hiện bảo tàng lưu giữ hơn 2.000 hiện vật từ thế kỷ 5 đến thế kỷ 15, trong đó có 9 Bảo vật Quốc gia — gồm Đài thờ Trà Kiệu, tượng Bồ Tát Tara, tượng thần Ganesha và Phù điêu vũ nữ Apsara từ Trà Kiệu (thế kỷ 10)."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "The world's largest collection of Cham art — 9 National Treasures in a 1919 French-Cham building on the Han River bank",
+        "description": "The Museum of Cham Sculpture at 2 September 2nd Street, on the Han River bank, is the world's only museum dedicated exclusively to the sculptural art of the Champa civilisation. Built by the French from 1915 and opened in 1919, its building uniquely blends French colonial architecture with the decorative motifs of Central Vietnamese Cham towers. Today it preserves over 2,000 artefacts dating from the 5th to the 15th century, including 9 National Treasures: the Tra Kieu Altar, the Bodhisattva Tara statue, the Ganesha deity, and the 10th-century Apsara dancer relief from Tra Kieu. Essential viewing for any visitor seeking to understand the civilisation that shaped Da Nang before the Vietnamese arrived."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.vietnamplus.vn/bao-tang-dieu-khac-cham-da-nang-luu-giu-9-bao-vat-quoc-gia-post933627.vnp",
+        "title": "Bảo tàng Điêu khắc Chăm Đà Nẵng lưu giữ 9 Bảo vật Quốc gia",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-05-24"
+      }
+    ]
+  },
+  {
+    "content_hash": "dn_dd6_linhung",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Chùa Linh Ứng Bãi Bụt",
+    "title_en": "Linh Ung Pagoda (Son Tra)",
+    "content_vi": [
+      {
+        "item": "Tượng Phật bà cao nhất Việt Nam — Quan Âm 67 m nhìn ra vịnh Đà Nẵng từ độ cao 693 m",
+        "description": "Chùa Linh Ứng Bãi Bụt nằm trên bán đảo Sơn Trà ở độ cao 693 m, là ngôi chùa lớn nhất trong ba ngôi chùa cùng tên tại Đà Nẵng. Khởi công năm 2004 và khánh thành ngày 30/7/2010, chùa toạ lạc trên diện tích 20 ha với kiến trúc truyền thống Việt Nam giữa rừng nguyên sinh xanh mướt. Điểm nổi bật nhất là tượng Phật bà Quan Thế Âm Bồ Tát cao 67 m — tương đương tòa nhà 30 tầng — đứng nhìn ra vịnh Đà Nẵng, được xem là tượng Phật bà cao nhất Việt Nam. Đây cũng là điểm khởi đầu lý tưởng cho các tuyến đường mòn leo núi Sơn Trà."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Vietnam's tallest Buddha statue — a 67-metre Lady Guanyin watching over Da Nang Bay from 693 m above sea level",
+        "description": "Linh Ung Pagoda at Bai But, perched at 693 m on Son Tra Peninsula, is the largest of Da Nang's three identically named temples. Construction began in 2004; the temple was consecrated on 30 July 2010 across a 20-hectare forested precinct of traditional Vietnamese architecture embedded in primary rainforest. Its defining landmark is the 67-metre Lady Guanyin statue — the equivalent of a 30-storey building — standing with one hand raised in blessing and gazing across Da Nang Bay: recognised as Vietnam's tallest Buddha statue. Officially designated a local tourism destination in 2017, its surrounding trails into the Son Tra nature reserve make it an ideal gateway to the peninsula's biodiversity."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.vietnamplus.vn/chiem-nguong-ngoi-chua-linh-ung-tuyet-dep-nam-tren-ban-dao-son-tra-post865251.vnp",
+        "title": "Chiêm ngưỡng ngôi chùa Linh Ứng tuyệt đẹp nằm trên bán đảo Sơn Trà",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-05-24"
+      }
+    ]
+  },
+  {
+    "content_hash": "dn_pt1_nepsong",
+    "type": "phong-tuc",
+    "status": "published",
+    "title_vi": "Nếp sống Đà Nẵng: thân thiện, gọn gàng, thích đi biển",
+    "title_en": "Da Nang everyday culture: friendly, tidy, and beach-loving",
+    "content_vi": [
+      {
+        "item": "Dậy sớm đi biển",
+        "description": "Nhiều người Đà Nẵng coi biển như \"phòng tập\" ngoài trời: đi bộ, chạy bộ, bơi. Không khí sáng sớm trên biển là một phần văn hóa thành phố."
+      },
+      {
+        "item": "Uống cà phê và đi dạo ven sông",
+        "description": "Cà phê chiều, rồi đi dạo dọc sông Hàn là thói quen phổ biến. Đó là cách người ta \"xả\" sau một ngày làm việc."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Early-morning beach routine",
+        "description": "Many locals treat the beach as an outdoor gym—walking, running, swimming. Morning sea air is part of the city's culture."
+      },
+      {
+        "item": "Coffee and riverside strolling",
+        "description": "Afternoon coffee followed by a Han River walk is a common ritual—an easy way to unwind."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://example.invalid/da-nang-customs",
+        "title": "Nếp sống Đà Nẵng: thói quen đô thị",
+        "publisher": "Placeholder Source",
+        "accessed_date": "2026-05-04"
+      }
+    ]
+  },
+  {
+    "content_hash": "dn_pt2_vanhoabien",
+    "type": "phong-tuc",
+    "status": "published",
+    "title_vi": "Văn Hóa Biển và Bản Sắc Làng Chài Đà Nẵng",
+    "title_en": "Da Nang's Maritime Culture and Fishing Village Identity",
+    "content_vi": [
+      {
+        "item": "Văn hóa biển ngàn đời — từ nếp sống làng chài đến nghề nước mắm Nam Ô được công nhận di sản quốc gia",
+        "description": "Đà Nẵng được định hình bởi biển — và không phải chỉ về mặt địa lý. Người dân làng chài ven biển như Mân Thái, Thọ Quang, Non Nước và Nam Ô đã duy trì một nếp sống gắn bó mật thiết với nhịp thủy triều và mùa gió từ nhiều thế kỷ. Bữa ăn sáng của ngư dân bắt đầu lúc 4 giờ sáng trước khi ra khơi; chiều về, cá tươi được bán trực tiếp ngay trên bãi biển. Làng nghề nước mắm Nam Ô — một trong những làng nước mắm cổ xưa nhất miền Trung — vẫn ủ mắm theo cách truyền thống trong chum sành, không dùng hóa chất. Nước mắm Nam Ô được Bộ Văn hóa công nhận là Di sản văn hóa phi vật thể quốc gia năm 2019."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Centuries of maritime culture — from fishing village life to Nam O fish sauce inscribed as a National Intangible Heritage",
+        "description": "Da Nang is shaped by the sea — and not merely geographically. The coastal fishing villages of Man Thai, Tho Quang, Non Nuoc, and Nam O have maintained a way of life interwoven with tides and seasonal winds across centuries. Fishermen's mornings begin at 4 am before heading out; returning by afternoon, fresh catch is sold directly on the beach. Women in these communities manage household finances, mend nets, and sell seafood — a central role in communities where men are absent at sea for weeks at a time. The Nam O fish sauce village — one of Central Vietnam's most ancient — still ferments its sauce in traditional ceramic jars using no preservatives or additives. Nam O fish sauce was inscribed as a National Intangible Cultural Heritage by the Ministry of Culture in 2019."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://nhandan.vn/khai-thac-gia-tri-ban-dia-cua-du-lich-da-nang-post946321.html",
+        "title": "Khai thác giá trị bản địa của du lịch Đà Nẵng",
+        "publisher": "Báo Nhân Dân",
+        "accessed_date": "2026-05-24"
+      }
+    ]
+  },
+  {
+    "content_hash": "dn_lh1_lehoi",
+    "type": "le-hoi",
+    "status": "published",
+    "title_vi": "Lễ hội ở Đà Nẵng: thành phố trẻ nhưng thích hội hè",
+    "title_en": "Festivals in Da Nang: a young city that loves big moments",
+    "content_vi": [
+      {
+        "item": "Lễ hội pháo hoa quốc tế (DIFF)",
+        "description": "Thành phố bừng sáng với các đêm pháo hoa và hoạt động ven sông. Đây là một sự kiện thu hút đông du khách và tạo không khí lễ hội rõ rệt."
+      },
+      {
+        "item": "Lễ hội làng chài (tính địa phương)",
+        "description": "Các hoạt động mang màu sắc cộng đồng biển—ẩm thực, trò chơi dân gian, sinh hoạt tập thể. Đà Nẵng có nhiều dịp lễ nhỏ kiểu này theo từng khu vực."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "International Fireworks Festival (DIFF)",
+        "description": "The riverfront lights up with fireworks nights and public activities. A major event that brings strong festival energy."
+      },
+      {
+        "item": "Local fishing-village festivals",
+        "description": "Community-flavored seaside celebrations—food, folk games, shared activities. Da Nang has smaller local events across neighborhoods."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://example.invalid/da-nang-festivals",
+        "title": "Lễ hội ở Đà Nẵng: tổng quan",
+        "publisher": "Placeholder Source",
+        "accessed_date": "2026-05-04"
+      }
+    ]
+  }
+]

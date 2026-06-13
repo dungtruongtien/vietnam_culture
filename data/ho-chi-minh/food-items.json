@@ -1,0 +1,1900 @@
+[
+  {
+    "content_hash": "fi_hu_tieu_nam_vang_v1",
+    "cultural_post_hash": "hcm_at3_hutieu",
+    "slug": "hu-tieu-nam-vang",
+    "title_vi": "Hủ tiếu Nam Vang",
+    "title_en": "Nam Vang Noodle Soup",
+    "lede_vi": "Một bát hủ tiếu trong vắt là cuộc hội ngộ ba dòng văn hóa: Khmer của Phnom Penh, Triều Châu của người Hoa Chợ Lớn, và Việt của đất phương Nam — chỉ trong nửa giờ, ngay trên vỉa hè Sài Gòn.",
+    "lede_en": "A bowl of crystal-clear noodle soup is the meeting point of three cultures: Khmer from Phnom Penh, Teochew from Cholon, and Vietnamese of the South — all within half an hour, right on a Saigon sidewalk.",
+    "tags": [
+      "Di sản người Hoa"
+    ],
+    "info_origin_vi": "Phnom Penh",
+    "info_origin_en": "Phnom Penh",
+    "info_best_time_vi": "Sáng & đêm khuya",
+    "info_best_time_en": "Morning & late night",
+    "info_price_range": "35 – 80 k₫",
+    "info_vegetarian_vi": "Có biến tấu chay",
+    "info_vegetarian_en": "Vegetarian variant available",
+    "story_vi": "\"Nam Vang\" là cách người Việt phiên âm Phnom Penh — thủ đô Campuchia. Hủ tiếu Nam Vang ra đời trong cộng đồng người Hoa gốc Triều Châu sinh sống tại Phnom Penh từ cuối thế kỷ 19, rồi theo dòng di cư xuôi sông Mê Kông, dừng chân ở Sài Gòn – Chợ Lớn vào những năm đầu thế kỷ 20.\n\nỞ Sài Gòn, hủ tiếu Nam Vang phát triển mạnh nhất tại khu Chợ Lớn (Quận 5) và Quận 10 — nơi cộng đồng người Hoa, người Khmer và người Việt cùng sinh sống. Mỗi quán giữ một công thức riêng, nhưng đều đồng thuận về ba yếu tố: sợi hủ tiếu trong và dai, nước lèo trong vắt, và topping đa dạng (tôm, gan heo, thịt bằm, trứng cút).\n\nBát hủ tiếu vì thế không đơn giản là một món ăn — nó là chứng tích của một dòng di cư, một bằng chứng sống về cách Sài Gòn luôn rộng lòng đón nhận và tinh chỉnh những hương vị từ phương xa thành một thứ rất riêng.",
+    "story_en": "\"Nam Vang\" is the Vietnamese phonetic rendering of Phnom Penh — the capital of Cambodia. Nam Vang noodle soup originated in the Teochew Chinese community living in Phnom Penh from the late 19th century, then traveled down the Mekong River with migrants, settling in Saigon's Cholon district in the early 20th century.\n\nIn Saigon, Nam Vang noodle soup flourished most in Cholon (District 5) and District 10 — where Chinese, Khmer, and Vietnamese communities lived together. Each shop keeps its own recipe, but all agree on three elements: clear and chewy rice noodles, crystal-clear broth, and diverse toppings (shrimp, pork liver, minced pork, quail eggs).\n\nA bowl of this soup is therefore more than just a dish — it is a trace of a migration, living proof of how Saigon has always been generous in receiving and refining flavors from faraway places into something distinctly its own.",
+    "story_blockquote_vi": "Một bát hủ tiếu Nam Vang đúng nghĩa phải có nước trong vắt, ngọt thanh từ xương heo và khô mực, không đục, không lẫn váng mỡ.",
+    "story_blockquote_en": "A true Nam Vang noodle bowl must have crystal-clear broth, delicately sweet from pork bones and dried squid, never cloudy, never greasy.",
+    "story_blockquote_cite": "— Theo Saigoneer · 2019",
+    "ingredients": [
+      {
+        "name_vi": "Sợi hủ tiếu",
+        "name_en": "Rice noodles",
+        "role_vi": "Bột gạo · dai mềm",
+        "role_en": "Rice flour · chewy tender",
+        "svgVariant": 0
+      },
+      {
+        "name_vi": "Tôm tươi",
+        "name_en": "Fresh shrimp",
+        "role_vi": "Bóc vỏ, để râu",
+        "role_en": "Peeled, antennae on",
+        "svgVariant": 1
+      },
+      {
+        "name_vi": "Gan heo",
+        "name_en": "Pork liver",
+        "role_vi": "Thái lát mỏng",
+        "role_en": "Thinly sliced",
+        "svgVariant": 2
+      },
+      {
+        "name_vi": "Trứng cút",
+        "name_en": "Quail eggs",
+        "role_vi": "Luộc, bóc vỏ",
+        "role_en": "Boiled and peeled",
+        "svgVariant": 3
+      },
+      {
+        "name_vi": "Hẹ tươi",
+        "name_en": "Fresh garlic chives",
+        "role_vi": "Cắt khúc 3cm",
+        "role_en": "Cut into 3cm pieces",
+        "svgVariant": 0
+      },
+      {
+        "name_vi": "Tỏi phi",
+        "name_en": "Fried garlic",
+        "role_vi": "Giòn, vàng ruộm",
+        "role_en": "Crispy golden",
+        "svgVariant": 1
+      },
+      {
+        "name_vi": "Giá đỗ",
+        "name_en": "Bean sprouts",
+        "role_vi": "Sống · giòn ngọt",
+        "role_en": "Raw · crisp and sweet",
+        "svgVariant": 2
+      },
+      {
+        "name_vi": "Nước lèo",
+        "name_en": "Clear broth",
+        "role_vi": "Xương heo · khô mực",
+        "role_en": "Pork bones · dried squid",
+        "svgVariant": 3
+      }
+    ],
+    "how_to_eat_vi": "## Hai phiên bản chính\n\n**Hủ tiếu nước (mặc định):** sợi hủ tiếu ngập trong tô nước lèo nóng, ăn cùng các topping. Vị nhẹ, thích hợp khi trời mát hoặc bữa sáng.\n\n**Hủ tiếu khô:** sợi hủ tiếu được trộn với nước tương đậm, hành phi, kèm tô nước lèo riêng để uống xen. Đậm vị hơn, phổ biến vào buổi trưa hoặc đêm khuya.\n\n## Gia vị tự thêm\n\nTrên bàn luôn có: tương đen, tương ớt, ớt sa tế, chanh, tiêu. Gợi ý cho lần đầu: vắt 1/4 quả chanh, thêm 1 muỗng cà phê tương đen, một chút tương ớt — đừng cho quá nhiều gia vị, vì sẽ át vị ngọt thanh của nước lèo.",
+    "how_to_eat_en": "## Two main versions\n\n**Wet noodle soup (default):** rice noodles submerged in hot clear broth with all toppings. Light flavour, ideal for cool weather or breakfast.\n\n**Dry noodles:** rice noodles tossed with rich soy sauce and fried shallots, served alongside a separate bowl of broth to sip. Richer taste, popular at lunch or late night.\n\n## Table condiments\n\nThe table always has: hoisin sauce, chili sauce, sa tế chili oil, lime, white pepper. First-timer tip: squeeze ¼ lime, add 1 teaspoon hoisin, a touch of chili — don't overdo it, or you'll mask the delicate sweetness of the broth.",
+    "eateries": [
+      {
+        "name": "Hủ tiếu Hồng Phát",
+        "address": "379 Võ Văn Tần, Quận 3",
+        "tags": [
+          "Mở từ trước 1975",
+          "Mở 6h–22h",
+          "Có chỗ đỗ xe"
+        ],
+        "price_vnd": "60 k₫",
+        "price_note": "1 tô đầy đủ"
+      },
+      {
+        "name": "Hủ tiếu Liến Hương",
+        "address": "Đường Võ Văn Tần, Quận 3",
+        "tags": [
+          "Mở 7h–14h",
+          "Bình dân"
+        ],
+        "price_vnd": "45 k₫",
+        "price_note": "1 tô đầy đủ"
+      },
+      {
+        "name": "Khu chợ Hồ Thị Kỷ (chợ Campuchia)",
+        "address": "Hồ Thị Kỷ, Quận 10",
+        "tags": [
+          "Đêm khuya",
+          "Đa dạng quầy",
+          "Khu Khmer"
+        ],
+        "price_vnd": "35–55 k₫",
+        "price_note": "tùy quầy"
+      },
+      {
+        "name": "Hủ tiếu Ty Lum (Tỷ Lùm)",
+        "address": "Đường Trần Phú, Quận 5",
+        "tags": [
+          "Người Hoa Triều Châu",
+          "Mở 6h–13h"
+        ],
+        "price_vnd": "55 k₫",
+        "price_note": "1 tô đầy đủ"
+      }
+    ],
+    "tip_title_vi": "Mẹo nhận biết hủ tiếu Nam Vang chuẩn",
+    "tip_title_en": "How to spot an authentic Nam Vang bowl",
+    "tip_body_vi": "Nước lèo phải trong veo — nhìn thấy đáy bát. Nếu nước đục hoặc nổi mỡ, có thể đó là biến thể \"hủ tiếu mì\" hoặc quán đã giảm thời gian hầm xương. Sợi hủ tiếu chuẩn dai nhẹ, không bở.",
+    "tip_body_en": "The broth must be crystal clear — you should see the bottom of the bowl. Cloudy broth or floating grease means it may be a \"hu tieu mi\" variant or the shop cut corners on simmering time. Authentic noodles are lightly chewy, never mushy.",
+    "image_url": "/food/hu-tieu-nam-vang/hero.jpg",
+    "gallery": [
+      "/food/hu-tieu-nam-vang/gallery-1.jpg",
+      "/food/hu-tieu-nam-vang/gallery-2.jpg",
+      "/food/hu-tieu-nam-vang/gallery-3.jpg",
+      "/food/hu-tieu-nam-vang/gallery-4.jpg"
+    ],
+    "status": "published",
+    "sources": [
+      {
+        "url": "https://vietnamtourism.gov.vn",
+        "title": "Tổng cục Du lịch Việt Nam",
+        "publisher": "vietnamtourism.gov.vn",
+        "accessed_date": "2024-01-15"
+      },
+      {
+        "url": "https://vietnamplus.vn",
+        "title": "vietnamplus.vn (TTXVN)",
+        "publisher": "vietnamplus.vn",
+        "accessed_date": "2024-01-15"
+      },
+      {
+        "url": "https://nhandan.vn",
+        "title": "Báo Nhân Dân",
+        "publisher": "nhandan.vn",
+        "accessed_date": "2024-01-15"
+      },
+      {
+        "url": "https://saigoneer.com",
+        "title": "Saigoneer (English)",
+        "publisher": "saigoneer.com",
+        "accessed_date": "2024-01-15"
+      }
+    ],
+    "body_blocks": [
+      {
+        "type": "paragraph",
+        "text_vi": "\"Nam Vang\" là cách người Việt phiên âm Phnom Penh — thủ đô Campuchia. Hủ tiếu Nam Vang ra đời trong cộng đồng người Hoa gốc Triều Châu sinh sống tại Phnom Penh từ cuối thế kỷ 19, rồi theo dòng di cư xuôi sông Mê Kông, dừng chân ở Sài Gòn – Chợ Lớn vào những năm đầu thế kỷ 20. Khi người Hoa Triều Châu định cư ở khu vực Chợ Lớn, họ mang theo nghề nấu hủ tiếu cùng kỹ thuật hầm nước lèo bằng xương heo và khô mực — tạo nên cái vị ngọt thanh trong vắt đặc trưng không nơi nào khác có được. Những gánh hủ tiếu buổi sáng lúc mờ sương trong ngõ hẻm Chợ Lớn là hình ảnh không thể thiếu của Sài Gòn đầu thế kỷ 20.",
+        "text_en": "\"Nam Vang\" is the Vietnamese phonetic rendering of Phnom Penh — the capital of Cambodia. Nam Vang noodle soup originated in the Teochew Chinese community living in Phnom Penh from the late 19th century, then traveled down the Mekong River with migrants settling in Saigon's Cholon district in the early 20th century. When Teochew settlers established themselves in Cholon, they brought their noodle-making craft along with the technique of simmering broth from pork bones and dried squid — creating the distinctively clear, clean sweetness that no other style replicates. Morning noodle carts threading through Cholon's misty alleyways became an inseparable image of early 20th-century Saigon."
+      },
+      {
+        "type": "image",
+        "url": null,
+        "caption_vi": "Tô hủ tiếu Nam Vang nước trong vắt với đầy đủ topping: tôm, gan heo, thịt bằm và trứng cút, chụp tại một quán gia truyền Chợ Lớn",
+        "caption_en": "A bowl of crystal-clear Nam Vang noodle soup with full toppings — shrimp, pork liver, minced pork and quail eggs — at a heritage Cholon shop",
+        "layout": "full"
+      },
+      {
+        "type": "paragraph",
+        "text_vi": "Ở Sài Gòn, hủ tiếu Nam Vang phát triển mạnh nhất tại khu Chợ Lớn (Quận 5) và Quận 10 — nơi cộng đồng người Hoa, người Khmer và người Việt cùng sinh sống và trao đổi văn hóa ẩm thực. Mỗi quán giữ một công thức riêng, nhưng đều đồng thuận về ba yếu tố không thể thỏa hiệp: sợi hủ tiếu trong và dai, nước lèo trong vắt không một giọt váng mỡ, và topping đa dạng gồm tôm tươi, gan heo, thịt bằm và trứng cút. Phiên bản khô (hủ tiếu khô) — sợi hủ tiếu trộn tương nặng, ăn kèm bát nước lèo riêng — cũng được ưa chuộng không kém và trở thành đặc trưng riêng của người Sài Gòn.",
+        "text_en": "In Saigon, Nam Vang noodle soup flourished most in Cholon (District 5) and District 10 — where Chinese, Khmer, and Vietnamese communities lived side by side exchanging culinary traditions. Each shop guards its own recipe, but all agree on three non-negotiable elements: clear and chewy rice noodles, crystal-clear broth free of any floating grease, and diverse toppings of fresh shrimp, pork liver, minced pork, and quail eggs. The dry version (hủ tiếu khô) — noodles tossed in rich soy sauce, served with a separate broth bowl for sipping — became equally beloved and remains a distinctly Saigon adaptation."
+      },
+      {
+        "type": "image",
+        "url": null,
+        "caption_vi": "Bên trong một tiệm hủ tiếu gia truyền Quận 5 — những nồi nước hầm suốt đêm và xe đẩy gọn gàng của người Hoa Triều Châu",
+        "caption_en": "Inside a heritage noodle shop in District 5 — overnight simmering pots and the tidy cart setup of the Teochew Chinese tradition",
+        "layout": "inset-right"
+      },
+      {
+        "type": "paragraph",
+        "text_vi": "Bát hủ tiếu vì thế không đơn giản là một món ăn — nó là chứng tích của một dòng di cư dài qua nhiều thế kỷ và nhiều biên giới. Từ Quảng Đông sang Phnom Penh, từ Phnom Penh xuôi dòng Mê Kông về Sài Gòn, hương vị này đã mang theo câu chuyện về sự kiên cường, khả năng thích nghi và sự giao thoa văn hóa phi thường. Ngày nay, hủ tiếu Nam Vang vẫn là một trong ba món nước nổi tiếng nhất Sài Gòn, phục vụ từ sáng sớm đến đêm khuya — minh chứng sống động rằng Sài Gòn luôn rộng lòng đón nhận và tinh chỉnh những hương vị từ phương xa thành một thứ rất riêng.",
+        "text_en": "A bowl of this soup is therefore more than just a dish — it is the trace of a migration across centuries and borders. From Guangdong to Phnom Penh, from Phnom Penh down the Mekong to Saigon, this flavour carried with it a story of resilience, adaptability, and extraordinary cultural exchange. Today, Nam Vang noodle soup remains one of Saigon's three most celebrated noodle dishes, served from early morning through to late night — living proof that Saigon has always been generous in receiving flavours from faraway places and refining them into something distinctly its own."
+      }
+    ]
+  },
+  {
+    "content_hash": "fi_com_tam_sai_gon_v1",
+    "cultural_post_hash": "hcm_at1_comtam",
+    "slug": "com-tam-sai-gon",
+    "title_vi": "Cơm tấm Sài Gòn",
+    "title_en": "Saigon Broken Rice",
+    "lede_vi": "Từ hạt gạo vỡ bị coi là phế liệu của thập niên 1930, cơm tấm Sài Gòn đã trở thành biểu tượng ẩm thực quốc gia — minh chứng cho tài năng biến điều bình thường thành bất tử của người phương Nam.",
+    "lede_en": "From broken rice grains once dismissed as waste in 1930s Saigon, cơm tấm rose to become a national culinary icon — proof of the South's genius for turning the ordinary into the unforgettable.",
+    "tags": [
+      "Đặc sản Sài Gòn"
+    ],
+    "info_origin_vi": "Sài Gòn thập niên 1930",
+    "info_origin_en": "Saigon, 1930s",
+    "info_best_time_vi": "Sáng & trưa",
+    "info_best_time_en": "Morning & lunch",
+    "info_price_range": "25 – 120 k₫",
+    "info_vegetarian_vi": "Có phiên bản chay",
+    "info_vegetarian_en": "Vegetarian version available",
+    "story_vi": "Cơm tấm bắt đầu từ sự nghèo khó và kết thúc bằng vinh quang quốc gia. Vào thập niên 1930, khi Sài Gòn đang trở thành cảng thương mại lớn dưới thời Pháp thuộc, hàng triệu công nhân, thợ hồ và phu khuân vác cần thức ăn rẻ, no bụng. Những hạt gạo tấm — phế phẩm của quá trình xay xát, vốn chỉ dùng để nuôi gia súc — được những người bán hàng rong Sài Gòn tinh ý nhìn thấy tiềm năng. Họ nấu cơm tấm, đặt lên trên những miếng sườn nướng vàng ươm, thêm bì thịt lợn, chả trứng, trứng ốp la và rau sống. Từ \"rác\" thành bữa ăn, từ bữa ăn thành đặc sản — đó là cách người Sài Gòn làm mọi thứ.\n\nHơn chín mươi năm sau, cơm tấm đã đi một hành trình dài ngoài sức tưởng tượng. Năm 2023, TasteAtlas xếp cơm tấm đứng thứ hai trong danh sách \"Top 100 món cơm ngon nhất châu Á\". Tổ chức Kỷ lục Châu Á công nhận nó là một trong mười đặc sản ẩm thực quan trọng nhất của Việt Nam. Có một câu nói nổi tiếng truyền từ đời này qua đời khác ở Nam Bộ: \"Người Hà Nội ăn phở, người Sài Gòn ăn cơm tấm.\" Câu nói này không đơn giản là nói về thức ăn — nó nói về bản sắc, về cách mỗi vùng đất Việt Nam nuôi dưỡng kinh tế và văn hóa của riêng mình từ những gì mình có trong tay.",
+    "story_en": "Cơm tấm begins in poverty and ends in national glory. In the 1930s, as Saigon was becoming a major port city under French rule, millions of construction workers, dock hands, and laborers needed cheap, filling meals. Broken rice grains — byproducts of the milling process, once used only to feed livestock — caught the eye of resourceful street vendors. They cooked the broken rice, topped it with golden-brown grilled pork chops, shredded pork skin, steamed egg cake, fried eggs, and fresh herbs. From waste to food, from food to icon — that is the Saigon way.\n\nMore than ninety years later, cơm tấm has traveled further than anyone imagined. In 2023, TasteAtlas ranked it second in its \"Top 100 Most Tasty Rice Dishes in Asia.\" The Asia Record Organisation recognized it among Vietnam's ten most important culinary treasures. A saying has passed through generations in the South: \"Hanoians eat phở, Saigon people eat cơm tấm.\" This is not merely a statement about food — it speaks to identity, to how each part of Vietnam nurtures its own economy and culture from whatever it has at hand.",
+    "story_blockquote_vi": "Người Hà Nội ăn phở, người Sài Gòn ăn cơm tấm.",
+    "story_blockquote_en": "Hanoians eat phở, Saigon people eat cơm tấm.",
+    "story_blockquote_cite": "— Câu nói dân gian Nam Bộ",
+    "ingredients": [
+      {
+        "name_vi": "Cơm tấm",
+        "name_en": "Broken rice",
+        "role_vi": "Hạt gạo vỡ · dẻo mềm",
+        "role_en": "Broken grains · tender and slightly chewy",
+        "svgVariant": 0
+      },
+      {
+        "name_vi": "Sườn nướng",
+        "name_en": "Grilled pork chop",
+        "role_vi": "Vàng ươm · hơi cháy mép",
+        "role_en": "Golden-brown · caramelised edges",
+        "svgVariant": 1
+      },
+      {
+        "name_vi": "Bì thịt lợn",
+        "name_en": "Shredded pork & skin",
+        "role_vi": "Thịt mềm · bì giòn thanh",
+        "role_en": "Tender pork · delicate crispy skin",
+        "svgVariant": 1
+      },
+      {
+        "name_vi": "Chả trứng",
+        "name_en": "Steamed egg cake",
+        "role_vi": "Trứng hấp · mềm béo",
+        "role_en": "Steamed egg · silky and rich",
+        "svgVariant": 2
+      },
+      {
+        "name_vi": "Trứng ốp la",
+        "name_en": "Sunny-side egg",
+        "role_vi": "Lòng đỏ chảy · trắng vừa chín",
+        "role_en": "Runny yolk · just-set white",
+        "svgVariant": 2
+      },
+      {
+        "name_vi": "Nước mắm pha chua ngọt",
+        "name_en": "Sweet-sour fish sauce",
+        "role_vi": "Chua · cay · ngọt · mặn",
+        "role_en": "Tangy · spiced · sweet · salty",
+        "svgVariant": 3
+      },
+      {
+        "name_vi": "Rau sống",
+        "name_en": "Fresh vegetables",
+        "role_vi": "Dưa leo · cà chua · hành lá",
+        "role_en": "Cucumber · tomato · scallion",
+        "svgVariant": 0
+      },
+      {
+        "name_vi": "Mỡ hành",
+        "name_en": "Scallion oil",
+        "role_vi": "Thơm ngậy · tăng hương",
+        "role_en": "Aromatic · umami boost",
+        "svgVariant": 1
+      }
+    ],
+    "how_to_eat_vi": "## Kỹ thuật ăn cơm tấm\n\nDùng muỗng trộn nhẹ tất cả thành phần trước khi ăn — cơm, sườn, bì, trứng, rau và mỡ hành hoà vào nhau. Đừng ăn từng phần riêng rẽ. Chờ một chút để trứng ốp la hơi nguội, rồi dùng muỗng khẽ phá vỡ lòng đỏ để nó chảy thấm đều vào cơm — đây là bước quan trọng nhất.\n\n## Nước mắm là linh hồn\n\nNước mắm pha chua ngọt không phải gia vị phụ — nó là thứ kết nối tất cả. Múc một muỗng nhỏ rưới trực tiếp lên cơm trước mỗi muỗng ăn, hoặc chấm từng miếng sườn vào bát nước mắm riêng. Đừng đổ hết nước mắm vào bát một lần — vị sẽ bị lẫn lộn.\n\n## Biến thể & tuỳ chọn\n\nNếu muốn thêm **sường thêm** hay **thêm trứng**, cứ gọi — hầu hết quán đều tính thêm theo từng phần. Cơm tấm cũng ngon không kém khi ăn **ban đêm** (quán đêm thường để lửa than hồng nướng sườn dai hơn một chút). Tránh uống nước ngay sau khi ăn — mỡ hành cần thời gian để cảm nhận trọn vẹn.",
+    "how_to_eat_en": "## The technique\n\nUse your spoon to gently mix all components before eating — broken rice, pork chop, shredded pork, egg, vegetables, and scallion oil all belong together. Don't eat each element separately. Wait a moment for the fried egg to cool slightly, then break the yolk with your spoon and let it seep into the rice — this is the most important step.\n\n## Fish sauce is the soul\n\nThe sweet-sour fish sauce is not a side condiment — it's the binding force. Drizzle a small spoonful directly onto the rice before each bite, or dip each piece of pork chop into a separate sauce bowl. Don't pour all the sauce in at once — the flavours will muddy.\n\n## Variations & customisation\n\nWant **extra pork** or an **extra egg**? Just ask — most stalls charge by the piece. Cơm tấm is equally good eaten **late at night** (night stalls keep charcoal burning, so the pork has a slightly chewier, smokier edge). Avoid drinking water immediately after eating — scallion oil needs time to be fully appreciated.",
+    "eateries": [
+      {
+        "name": "Cơm Tấm Ba Ghiền",
+        "address": "84 Đặng Văn Ngữ, Quận Phú Nhuận",
+        "tags": [
+          "Hơn 30 năm tuổi",
+          "Được báo quốc tế nhắc đến",
+          "Mở 6h–14h"
+        ],
+        "price_vnd": "80–120 k₫",
+        "price_note": "1 phần đầy đủ"
+      },
+      {
+        "name": "Cơm Tấm Mộc",
+        "address": "85 Lý Tự Trọng, Quận 1",
+        "tags": [
+          "Trung tâm thành phố",
+          "Không gian hiện đại",
+          "Dân văn phòng"
+        ],
+        "price_vnd": "50–80 k₫",
+        "price_note": "1 phần đầy đủ"
+      },
+      {
+        "name": "Cơm Tấm Sà Bì Chưởng",
+        "address": "179 Trần Bình Trọng, Quận 5",
+        "tags": [
+          "Bì đặc biệt",
+          "Mở 7h–21h",
+          "Bình dân"
+        ],
+        "price_vnd": "45–75 k₫",
+        "price_note": "1 phần đầy đủ"
+      },
+      {
+        "name": "Phúc Lộc Thọ",
+        "address": "Nhiều chi nhánh — Q.1, Q.3, Q.5, Q.10",
+        "tags": [
+          "Chuỗi uy tín",
+          "Giá bình dân",
+          "Đồng đều chất lượng"
+        ],
+        "price_vnd": "35–65 k₫",
+        "price_note": "1 phần đầy đủ"
+      }
+    ],
+    "tip_title_vi": "Mẹo nhận biết sườn nướng chuẩn",
+    "tip_title_en": "How to spot well-grilled pork",
+    "tip_body_vi": "Sườn tốt phải vàng ươm, hơi cháy ở mép nhưng vẫn mềm bên trong khi cắn. Nếu sườn nhạt nhẽo, quá khô hoặc không có mùi khói than, hãy thử quán khác. Cũng đừng bao giờ bỏ qua bước yêu cầu thêm **mỡ hành** — đó là lý do bạn sẽ muốn quay lại.",
+    "tip_body_en": "Quality pork chops glow golden-brown with lightly charred edges, yet stay tender when bitten. If the meat looks pale, too dry, or lacks the scent of charcoal smoke, find another stall. And never skip asking for extra **scallion oil** — that's the reason you'll come back.",
+    "image_url": "/food/com-tam-sai-gon/hero.jpg",
+    "gallery": [
+      "/food/com-tam-sai-gon/gallery-1.jpg",
+      "/food/com-tam-sai-gon/gallery-2.jpg",
+      "/food/com-tam-sai-gon/gallery-3.jpg",
+      "/food/com-tam-sai-gon/gallery-4.jpg"
+    ],
+    "status": "published",
+    "sources": [
+      {
+        "url": "https://toquoc.vn/am-thuc-sai-gon-nhung-mon-an-dac-trung/",
+        "title": "Ẩm thực Sài Gòn — những món ăn đặc trưng",
+        "publisher": "toquoc.vn",
+        "accessed_date": "2024-01-15"
+      },
+      {
+        "url": "https://vietnamtourism.gov.vn/am-thuc-tp-ho-chi-minh/",
+        "title": "Ẩm thực TP. Hồ Chí Minh",
+        "publisher": "vietnamtourism.gov.vn",
+        "accessed_date": "2024-01-15"
+      },
+      {
+        "url": "https://nhandan.vn/am-thuc-mien-nam-dac-sac/",
+        "title": "Ẩm thực miền Nam đặc sắc",
+        "publisher": "nhandan.vn",
+        "accessed_date": "2024-01-15"
+      }
+    ],
+    "body_blocks": [
+      {
+        "type": "paragraph",
+        "text_vi": "Cơm tấm bắt đầu từ sự nghèo khó và kết thúc bằng vinh quang quốc gia. Vào thập niên 1930, khi Sài Gòn đang trở thành cảng thương mại lớn dưới thời Pháp thuộc, hàng triệu công nhân, thợ hồ và phu khuân vác cần thức ăn rẻ, no bụng. Những hạt gạo tấm — phế phẩm của quá trình xay xát, vốn chỉ dùng để nuôi gia súc — bị loại ra ngoài các nhà máy xay lúa và bán với giá bèo bọt. Người nghèo mua vì không có lựa chọn nào khác; nhưng chính từ sự thiếu thốn ấy, những người bán hàng rong Sài Gòn đã nhìn thấy tiềm năng mà người giàu không thèm để ý.",
+        "text_en": "Com tam begins in poverty and ends in national glory. In the 1930s, as Saigon was becoming a major port city under French colonial rule, millions of construction workers, dock hands and laborers needed cheap, filling meals. Broken rice grains — byproducts of the milling process, discarded as livestock feed — were sold for next to nothing outside the rice mills. The poor bought them out of necessity; but it was from this scarcity that Saigon street vendors saw potential that the wealthy overlooked."
+      },
+      {
+        "type": "image",
+        "url": "/food/com-tam-sai-gon/gallery-1.jpg",
+        "caption_vi": "Đĩa cơm tấm sườn nướng truyền thống với đầy đủ các topping — bì, chả, trứng ốp la",
+        "caption_en": "A traditional broken rice plate with grilled pork chop, shredded pork skin, steamed egg cake and fried egg",
+        "layout": "full"
+      },
+      {
+        "type": "paragraph",
+        "text_vi": "Họ nấu cơm tấm, đặt lên trên những miếng sườn nướng vàng ươm, thêm bì thịt lợn thái chỉ mảnh, chả trứng hấp mịn, trứng ốp la và rau sống xanh mướt. Nước mắm pha — linh hồn của đĩa cơm — được cân bằng tỉ mỉ giữa vị mặn, ngọt, chua và cay, mỗi quán có công thức bí truyền riêng không bao giờ tiết lộ. Từ rác thành bữa ăn, từ bữa ăn thành đặc sản — đó là cách người Sài Gòn làm mọi thứ, biến những thứ bị bỏ đi thành vàng ròng bằng tay nghề và sự sáng tạo không ngừng.",
+        "text_en": "They cooked the broken rice and topped it with golden-brown grilled pork chops, finely shredded pork skin, silky steamed egg cake, fried eggs and fresh herbs. The dipping fish sauce — the soul of the dish — is carefully balanced between salty, sweet, sour and spicy, with each restaurant guarding its own secret recipe. From waste to food, from food to icon — that is the Saigon way: transforming discarded things into gold through craft and relentless creativity."
+      },
+      {
+        "type": "image",
+        "url": "/food/com-tam-sai-gon/gallery-2.jpg",
+        "caption_vi": "Miếng sườn nướng — linh hồn của đĩa cơm tấm, được ướp và nướng than theo công thức gia truyền",
+        "caption_en": "The grilled pork chop — soul of the dish, marinated and charcoal-grilled to a family recipe",
+        "layout": "inset-right"
+      },
+      {
+        "type": "paragraph",
+        "text_vi": "Hơn chín mươi năm sau, cơm tấm đã đi một hành trình dài ngoài sức tưởng tượng. Năm 2023, TasteAtlas xếp cơm tấm đứng thứ hai trong danh sách Top 100 món cơm ngon nhất châu Á, chỉ sau cơm chiên Dương Châu. Tổ chức Kỷ lục Châu Á công nhận nó là một trong mười đặc sản ẩm thực quan trọng nhất của Việt Nam. Các chuỗi cơm tấm lớn có hàng chục chi nhánh khắp thành phố, phục vụ hàng nghìn lượt khách mỗi ngày từ 4 giờ sáng đến tận đêm khuya.",
+        "text_en": "More than ninety years later, com tam has traveled further than those first street vendors could have imagined. In 2023, TasteAtlas ranked it second in its Top 100 Most Tasty Rice Dishes in Asia, behind only Yangzhou fried rice. The Asia Record Organisation recognized it among Vietnam's ten most important culinary treasures. Major com tam chains have dozens of branches across the city, serving thousands of customers daily from 4 AM through to late at night."
+      },
+      {
+        "type": "image",
+        "url": "/food/com-tam-sai-gon/gallery-3.jpg",
+        "caption_vi": "Quán cơm tấm vỉa hè lúc rạng sáng — nét đặc trưng không thể thiếu của nhịp sống Sài Gòn",
+        "caption_en": "A sidewalk com tam stall at dawn — an irreplaceable part of Saigon's daily rhythm",
+        "layout": "full"
+      },
+      {
+        "type": "paragraph",
+        "text_vi": "Có một câu nói nổi tiếng truyền từ đời này qua đời khác ở Nam Bộ: Người Hà Nội ăn phở, người Sài Gòn ăn cơm tấm. Câu nói này không đơn giản là về thức ăn — nó nói về bản sắc, về cách mỗi vùng đất Việt Nam nuôi dưỡng văn hóa của riêng mình từ những gì mình có trong tay. Cơm tấm đã thành một phần của nghi lễ hàng ngày người Sài Gòn: ăn sáng trước khi đi làm, ăn trưa với bạn bè, ăn khuya sau một đêm dài — không có thời điểm nào là không hợp lý với đĩa cơm tấm trên tay.",
+        "text_en": "A saying has passed through generations in the South: Hanoians eat pho, Saigon people eat com tam. This is not merely a statement about food — it speaks to identity, to how each part of Vietnam nurtures its own culture from whatever it has at hand. Com tam has become part of daily ritual for Saigon residents: breakfast before work, lunch with friends, a late-night meal after a long evening — there is no moment that feels wrong for a plate of broken rice."
+      },
+      {
+        "type": "image",
+        "url": "/food/com-tam-sai-gon/gallery-4.jpg",
+        "caption_vi": "Nước mắm pha — bí quyết phân biệt quán cơm tấm ngon và bình thường, mỗi nhà một công thức",
+        "caption_en": "The dipping fish sauce — the secret that separates an outstanding com tam restaurant from an ordinary one",
+        "layout": "inset-left"
+      }
+    ]
+  },
+  {
+    "content_hash": "fi_banh_mi_sai_gon_v1",
+    "cultural_post_hash": "hcm_at2_banhmi",
+    "slug": "banh-mi-sai-gon",
+    "title_vi": "Bánh mì Sài Gòn",
+    "title_en": "Saigon Bánh Mì",
+    "lede_vi": "Ổ bánh mì Sài Gòn là nơi 150 năm lịch sử giao thoa — baguette Pháp gặp pâté gan, rau thơm Việt gặp dưa chua, và từ cuộc gặp gỡ đó ra đời một thứ hoàn toàn mới: không còn là Pháp, không hẳn là Việt, mà là Sài Gòn.",
+    "lede_en": "A single bánh mì holds 150 years of history — French baguette meets liver pâté, Vietnamese herbs meet pickled daikon, and from that encounter emerges something wholly new: no longer French, not quite Vietnamese, but unmistakably Saigon.",
+    "tags": [
+      "Ẩm thực Pháp-Việt",
+      "Biểu tượng đường phố"
+    ],
+    "info_origin_vi": "Sài Gòn, thập niên 1860 → 1958",
+    "info_origin_en": "Colonial Saigon, 1860s → 1958",
+    "info_best_time_vi": "Sáng sớm (4–10h)",
+    "info_best_time_en": "Early morning (4–10 AM)",
+    "info_price_range": "20 – 80 k₫",
+    "info_vegetarian_vi": "Có bánh mì chay",
+    "info_vegetarian_en": "Vegetarian bánh mì available",
+    "story_vi": "Bánh mì Sài Gòn không phải là một chiếc sandwich thông thường — đó là 150 năm lịch sử được cuộn gọn lại và kẹp vào nhau. Năm 1860, người Pháp mang bánh baguette đến Sài Gòn như một thứ biểu tượng của \"văn minh\" thực dân. Nhưng người Việt Nam không bao giờ chỉ tiêu thụ những gì được áp đặt — họ tiếp nhận rồi biến đổi. Trong Thế Chiến I, khi nguồn lúa mì nhập khẩu gián đoạn, các thợ bánh Sài Gòn bắt đầu trộn bột gạo vào bột mì. Sản phẩm không chỉ rẻ hơn mà còn nhẹ và xốp hơn baguette Pháp thuần túy — một tiến hóa tình cờ trở thành đặc trưng.\n\nBánh mì Sài Gòn hiện đại ra đời sau năm 1954, khi hơn một triệu người di cư từ Bắc vào Nam. Trong số họ có vợ chồng Lê Minh Ngọc và Nguyễn Thị Tịnh, người mở tiệm Hòa Mã ở Quận 3. Năm 1958, Hòa Mã là một trong những tiệm đầu tiên bán bánh mì thịt — pâté Pháp kết hợp với chả lụa, dưa chua, rau mùi và ớt Việt. Từ đó, một thế hệ những người bán hàng rong Sài Gòn — đa số là phụ nữ — đã lớp thêm lớp sáng tạo: thêm xá xíu, thêm sườn nướng, thêm trứng ốp la. Ngày nay, bánh mì Sài Gòn có mặt ở Paris, New York, Tokyo — những nơi một thế kỷ trước đã gửi thực dân mang baguette đến Sài Gòn. Lịch sử đã đảo chiều một cách trọn vẹn.",
+    "story_en": "Bánh mì Sài Gòn is not an ordinary sandwich — it is 150 years of history compressed and tucked between two halves of bread. In 1860, the French brought the baguette to Saigon as a symbol of colonial \"civilization.\" But Vietnamese people have never simply consumed what is imposed on them — they receive, then transform. During World War I, when wheat imports were interrupted, Saigon's bakers began blending rice flour into wheat dough. The result was not only cheaper but lighter and fluffier than pure French baguette — an accidental evolution that became a defining characteristic.\n\nModern bánh mì Sài Gòn was born after 1954, when over one million northerners migrated south. Among them were Lê Minh Ngọc and Nguyễn Thị Tịnh, who opened the Hòa Mã bakery in District 3. By 1958, Hòa Mã was among the first to sell bánh mì thịt — French pâté combined with Vietnamese sausage, pickled daikon, cilantro, and chilies. From that moment, a generation of Saigon street vendors — mostly women — layered innovation upon innovation: adding barbecued pork, grilled chops, fried eggs. Today, bánh mì Sài Gòn appears in Paris, New York, Tokyo — the very places that once sent colonists with baguettes to Saigon. History has come full circle.",
+    "story_blockquote_vi": "Bánh mì Sài Gòn không phải là baguette Pháp, không phải ổ bánh Việt — nó là thứ thứ ba, thuần túy Sài Gòn.",
+    "story_blockquote_en": "Saigon bánh mì is not a French baguette, not a Vietnamese roll — it is a third thing, purely Saigon.",
+    "story_blockquote_cite": "— Tiệm Hòa Mã, Quận 3 · thành lập 1958",
+    "ingredients": [
+      {
+        "name_vi": "Bánh baguette Việt",
+        "name_en": "Vietnamese-style baguette",
+        "role_vi": "Vỏ giòn · ruột xốp nhẹ",
+        "role_en": "Crispy crust · airy crumb",
+        "svgVariant": 0
+      },
+      {
+        "name_vi": "Pâté gan",
+        "name_en": "Liver pâté",
+        "role_vi": "Béo creamy · hương đặc trưng",
+        "role_en": "Creamy richness · distinctive funk",
+        "svgVariant": 1
+      },
+      {
+        "name_vi": "Thịt / Chả lụa / Xá xíu",
+        "name_en": "Pork / Vietnamese sausage / Char siu",
+        "role_vi": "Protein mặn ngậy · đa dạng",
+        "role_en": "Savoury protein · variety of cuts",
+        "svgVariant": 1
+      },
+      {
+        "name_vi": "Mayonnaise",
+        "name_en": "Mayonnaise",
+        "role_vi": "Kết dính · béo mượt",
+        "role_en": "Binder · creamy smoothness",
+        "svgVariant": 3
+      },
+      {
+        "name_vi": "Dưa chua (cà rốt, củ cải)",
+        "name_en": "Pickled daikon & carrot",
+        "role_vi": "Chua giòn · cân bằng béo",
+        "role_en": "Tangy crunch · cuts through richness",
+        "svgVariant": 0
+      },
+      {
+        "name_vi": "Rau thơm (rau mùi, hành lá)",
+        "name_en": "Fresh herbs (cilantro, scallion)",
+        "role_vi": "Sáng tươi · thơm dịu",
+        "role_en": "Brightness · aromatic lift",
+        "svgVariant": 0
+      },
+      {
+        "name_vi": "Dưa chuột tươi",
+        "name_en": "Fresh cucumber",
+        "role_vi": "Mát · giòn · thanh ngọt",
+        "role_en": "Cool · crisp · subtly sweet",
+        "svgVariant": 0
+      },
+      {
+        "name_vi": "Tương ớt",
+        "name_en": "Chili sauce",
+        "role_vi": "Cay · sâu vị · tùy chọn",
+        "role_en": "Heat · depth · optional",
+        "svgVariant": 3
+      }
+    ],
+    "how_to_eat_vi": "## Chọn bánh\n\nBánh vừa ra lò là lý tưởng nhất — vỏ ngoài vẫn còn nóng, khi cầm nghe tiếng giòn khi bóp nhẹ. Tránh những chiếc bánh đã được bọc nilông hay để trong tủ kính lâu. Mùi thơm bánh nướng thoang thoảng và xếp hàng dài từ sáng sớm là dấu hiệu tốt nhất.\n\n## Chọn nhân\n\nLần đầu nên chọn **đặc biệt** (bánh mì đặc biệt) — thường có pâté, chả lụa, xá xíu, trứng, dưa chua, rau mùi và ớt tươi. Đây là cách \"chuẩn\" nhất để hiểu bánh mì Sài Gòn. Những lần sau có thể thử **sườn nướng** (thịt nướng than hoa) hoặc **trứng ốp la** thêm.\n\n## Kỹ thuật ăn\n\nCầm bánh bằng hai tay. Cắn dứt khoát từ đầu nhọn. Pâté và mayo sẽ chảy ra — giữ bánh hơi nghiêng và có khăn sẵn sàng. Ăn ngay khi bánh còn ấm — vỏ giòn tụt nhanh theo nhiệt độ.\n\n## Biến thể khu vực\n\nBánh mì Sài Gòn **nhiều nhân hơn** bánh mì Hà Nội và **lớn hơn** bánh mì Hội An. Nếu bạn thấy quán chỉ có một loại nhân duy nhất — đó thường là dấu hiệu của một tiệm chuyên nghiệp đã chọn làm thật tốt một thứ thay vì làm dàn trải nhiều thứ.",
+    "how_to_eat_en": "## Selecting your bread\n\nFreshly baked is ideal — the crust still warm, crackling when gently squeezed. Avoid bread that's been wrapped in plastic or sitting in a display case. The faint scent of baking and a long early-morning queue are the best signs.\n\n## Choosing your filling\n\nFirst-timers should order **đặc biệt** (special) — usually pâté, Vietnamese sausage, char siu, egg, pickled vegetables, cilantro and fresh chili. This is the most complete way to understand bánh mì Sài Gòn. On subsequent visits, explore **sườn nướng** (charcoal-grilled pork) or an extra **fried egg**.\n\n## The eating technique\n\nGrip with both hands. Bite decisively from the pointed end. Pâté and mayo will ooze — keep the bánh mì slightly angled and have a napkin ready. Eat while warm — the crust goes soft fast.\n\n## Regional variations\n\nSaigon bánh mì has **more filling** than Hanoi-style and is **larger** than Hội An-style. If you find a stall that specialises in just one filling type — that's usually a sign of a focused shop that has chosen to do one thing exceptionally well.",
+    "eateries": [
+      {
+        "name": "Bánh Mì Huỳnh Hoa",
+        "address": "26 Lê Thị Riêng, Quận 1",
+        "tags": [
+          "Nổi tiếng nhất Sài Gòn",
+          "Nhân đầy ắp",
+          "Luôn xếp hàng dài"
+        ],
+        "price_vnd": "30–50 k₫",
+        "price_note": "1 ổ bánh mì đặc biệt"
+      },
+      {
+        "name": "Bánh Mì 37 Nguyễn Trãi",
+        "address": "37 Nguyễn Trãi, Quận 1",
+        "tags": [
+          "Sườn nướng than hoa",
+          "Khói thơm đặc trưng",
+          "Mở sáng sớm"
+        ],
+        "price_vnd": "35–55 k₫",
+        "price_note": "1 ổ bánh mì sườn"
+      },
+      {
+        "name": "Bánh Mì Cô Điệp",
+        "address": "147 Cách Mạng Tháng 8, Quận 1, TP. Hồ Chí Minh",
+        "tags": [
+          "Bán hơn 3.000 ổ/ngày",
+          "Nước sốt gia truyền",
+          "Luôn kín khách"
+        ],
+        "price_vnd": "25–45 k₫",
+        "price_note": "1 ổ bánh mì"
+      },
+      {
+        "name": "Bánh Mì Bảy Hổ",
+        "address": "7 Lý Chính Thắng, Quận 3, TP. Hồ Chí Minh",
+        "tags": [
+          "Gần 100 năm tuổi",
+          "Nguyên liệu tự làm",
+          "Thế hệ gia đình"
+        ],
+        "price_vnd": "35–55 k₫",
+        "price_note": "1 ổ bánh mì đặc biệt"
+      }
+    ],
+    "tip_title_vi": "Mẹo nhận biết tiệm bánh mì chất lượng",
+    "tip_title_en": "How to spot a quality bánh mì stall",
+    "tip_body_vi": "Tiệm bánh mì tốt có **hàng dài từ sáng sớm**, bánh **nóng liên tục ra lò** trong giờ cao điểm, và chủ tiệm **làm từng ổ riêng khi có khách** chứ không làm sẵn. Mùi pâté, rau mùi tươi và bánh nướng hoà vào nhau là tín hiệu tốt. Tránh những quán có bánh đã được bọc sẵn trong túi nilông.",
+    "tip_body_en": "Great stalls have **long queues forming before dawn**, bread **coming out of the oven continuously** during peak hours, and vendors **assembling each bánh mì to order** — never from a pre-made stack. The mingled scent of pâté, fresh cilantro and hot bread is your green light. Avoid shops where bread comes pre-wrapped in plastic bags.",
+    "image_url": "/food/banh-mi-sai-gon/hero.jpg",
+    "gallery": [
+      "/food/banh-mi-sai-gon/gallery-1.jpg",
+      "/food/banh-mi-sai-gon/gallery-2.jpg",
+      "/food/banh-mi-sai-gon/gallery-3.jpg",
+      "/food/banh-mi-sai-gon/gallery-4.jpg"
+    ],
+    "status": "published",
+    "sources": [
+      {
+        "url": "https://nhandan.vn/banh-mi-viet-nam-di-san-am-thuc/",
+        "title": "Bánh mì Việt Nam — di sản ẩm thực",
+        "publisher": "nhandan.vn",
+        "accessed_date": "2024-01-15"
+      },
+      {
+        "url": "https://toquoc.vn/am-thuc-sai-gon-nhung-mon-an-dac-trung/",
+        "title": "Ẩm thực Sài Gòn — những món ăn đặc trưng",
+        "publisher": "toquoc.vn",
+        "accessed_date": "2024-01-15"
+      },
+      {
+        "url": "https://vietnamtourism.gov.vn/am-thuc-tp-ho-chi-minh/",
+        "title": "Ẩm thực TP. Hồ Chí Minh",
+        "publisher": "vietnamtourism.gov.vn",
+        "accessed_date": "2024-01-15"
+      }
+    ],
+    "body_blocks": [
+      {
+        "type": "paragraph",
+        "text_vi": "Bánh mì Sài Gòn không phải là một chiếc sandwich thông thường — đó là 150 năm lịch sử được cuộn gọn và kẹp vào nhau. Năm 1860, người Pháp mang bánh baguette đến Sài Gòn như biểu tượng của \"văn minh\" thực dân, nhưng người Việt Nam không bao giờ chỉ tiêu thụ những gì được áp đặt — họ tiếp nhận rồi biến đổi. Trong Thế Chiến I, khi nguồn lúa mì nhập khẩu gián đoạn, các thợ bánh Sài Gòn bắt đầu trộn bột gạo vào bột mì tạo ra ổ bánh nhẹ xốp hơn baguette Pháp thuần túy — một tiến hóa tình cờ trở thành đặc trưng. Đến năm 1958, tiệm Hòa Mã ở Quận 3 — do vợ chồng người Bắc di cư Lê Minh Ngọc và Nguyễn Thị Tịnh mở — chính thức định hình bánh mì thịt hiện đại với pâté, chả lụa, dưa chua và rau thơm Việt.",
+        "text_en": "Bánh mì Sài Gòn is not an ordinary sandwich — it is 150 years of history compressed between two halves of bread. In 1860, the French brought the baguette to Saigon as a symbol of colonial \"civilization,\" but Vietnamese people have never simply consumed what is imposed on them — they receive, then transform. During World War I, when wheat imports were interrupted, Saigon bakers began blending rice flour into wheat dough, producing a lighter and airier loaf than pure French baguette — an accidental evolution that became a defining characteristic. By 1958, the Hòa Mã bakery in District 3 — opened by northern migrants Lê Minh Ngọc and Nguyễn Thị Tịnh — formally defined the modern bánh mì thịt with pâté, Vietnamese sausage, pickled vegetables, and fresh herbs."
+      },
+      {
+        "type": "image",
+        "url": null,
+        "caption_vi": "Ổ bánh mì đặc biệt Sài Gòn được cắt đôi để lộ các lớp nhân phong phú: pâté, chả lụa, dưa chua và rau mùi",
+        "caption_en": "A Saigon special bánh mì sliced open to reveal its layered filling: pâté, Vietnamese sausage, pickled vegetables and cilantro",
+        "layout": "full"
+      },
+      {
+        "type": "paragraph",
+        "text_vi": "Điều làm bánh mì Sài Gòn khác biệt nằm ở vỏ bánh: lớp vỏ ngoài giòn rộp nhưng ruột trong lại mềm xốp đến mức nhẹ bẫng — kết quả trực tiếp từ tỷ lệ bột gạo đặc biệt mà mỗi lò bánh Sài Gòn bảo mật như bí quyết gia truyền. Pâté béo ngậy từ gan heo được phết đều bên trong, tiếp đó là lớp mayonnaise tạo độ kết dính, rồi chả lụa thái lát mỏng, xá xíu ngọt đậm, dưa chua giòn chua cân bằng vị béo và rau mùi thơm ngát. Sự cân bằng giữa béo-chua-ngọt-mặn-thơm trong một ổ bánh dài bàn tay là thứ không nhà hàng Michelin nào có thể tái tạo bằng nguyên liệu cao cấp.",
+        "text_en": "What distinguishes Saigon bánh mì is its crust: the exterior shatters with each bite while the interior is so light and airy it feels almost weightless — a direct result of the specific rice flour ratio that each Saigon bakery guards like a family secret. Rich pork liver pâté is spread evenly inside, followed by a layer of mayonnaise for binding, then thinly sliced Vietnamese sausage, sweet char siu pork, tangy pickled vegetables cutting through the richness, and aromatic cilantro. The balance of fat-sour-sweet-salty-fragrant in a hand-length loaf is something no Michelin-starred restaurant can replicate with premium ingredients."
+      },
+      {
+        "type": "image",
+        "url": null,
+        "caption_vi": "Quầy bánh mì vỉa hè Sài Gòn lúc 5 giờ sáng — bánh vừa ra lò, hàng khách dài và mùi nướng thơm phức khắp phố",
+        "caption_en": "A Saigon bánh mì cart at 5 AM — fresh bread from the oven, a long queue and the scent of baking filling the street",
+        "layout": "inset-right"
+      },
+      {
+        "type": "paragraph",
+        "text_vi": "Ngày nay, bánh mì Sài Gòn có mặt ở Paris, New York, Tokyo — những nơi một thế kỷ trước đã gửi thực dân mang baguette đến Sài Gòn. Năm 2012, từ \"bánh mì\" lần đầu tiên xuất hiện trong Từ điển Oxford — một dấu mốc văn hóa hiếm có. Mỗi ngày tại Sài Gòn có hàng triệu ổ bánh mì được bán ra từ 4 giờ sáng đến đêm khuya, từ xe đẩy vỉa hè đến chuỗi cửa hàng hiện đại — tất cả đều chứng minh rằng lịch sử có thể được gói gọn, cầm tay và ăn ngay trên phố.",
+        "text_en": "Today, Saigon bánh mì appears in Paris, New York, and Tokyo — the very places that once sent colonists with baguettes to Saigon. In 2012, the word \"bánh mì\" appeared in the Oxford English Dictionary for the first time — a rare cultural milestone. Each day in Saigon, millions of bánh mì are sold from 4 AM through to midnight, from sidewalk carts to modern chain stores — all proving that history can be wrapped up, held in the hand, and eaten right there on the street."
+      }
+    ]
+  },
+  {
+    "content_hash": "fi_goi_cuon_cha_gio_v1",
+    "cultural_post_hash": "hcm_at4_goicuon",
+    "slug": "goi-cuon-cha-gio",
+    "title_vi": "Gỏi cuốn & Chả giò",
+    "title_en": "Fresh & Fried Spring Rolls",
+    "lede_vi": "Hai cuốn, hai triết lý: gỏi cuốn trong suốt phản chiếu sự nguyên sơ của ẩm thực nhiệt đới, chả giò vàng giòn chứng minh rằng lửa cũng có thể biến bình thường thành xuất sắc.",
+    "lede_en": "Two rolls, two philosophies: gỏi cuốn's translucent wrapper mirrors tropical freshness at its most essential, while chả giò's golden crunch proves that fire can transform the ordinary into the extraordinary.",
+    "tags": [
+      "Ẩm thực miền Nam",
+      "Khai vị kinh điển"
+    ],
+    "info_origin_vi": "Miền Nam Việt Nam",
+    "info_origin_en": "Southern Vietnam",
+    "info_best_time_vi": "Cả ngày",
+    "info_best_time_en": "Any time of day",
+    "info_price_range": "14 – 80 k₫",
+    "info_vegetarian_vi": "Có gỏi cuốn chay & chả giò chay",
+    "info_vegetarian_en": "Both available in vegetarian versions",
+    "story_vi": "Gỏi cuốn và chả giò là hai câu trả lời của ẩm thực miền Nam cho cùng một câu hỏi: làm sao để gói gọn hương vị đồng bằng vào một thứ vừa vặn trong lòng bàn tay? Gỏi cuốn ra đời từ khí hậu. Ở Sài Gòn, nơi nhiệt độ hiếm khi xuống dưới 25 độ, cơ thể cần thứ gì đó mát, nhẹ, tươi sáng. Bánh tráng mỏng như tờ giấy bạc, trong suốt đến mức bạn nhìn thấy lớp tôm hồng và rau xanh bên trong — đó là gỏi cuốn. Cuộn vào đó là bún mềm, tôm luộc tươi ngọt, thịt lợn mềm, rau mùi thơm và dưa leo giòn. Chấm vào bát nước mắm chua ngọt hay nước lạc béo, ăn một cuốn là uống một ngụm gió mát giữa trưa hè Sài Gòn.\n\nChả giò là câu trả lời khác — thứ gỏi cuốn trở thành khi lửa can thiệp. Cũng là bánh tráng, cũng là nhân tôm thịt, nhưng lần này nhân được trộn với nấm tai gỗ, mì kính và cà rốt bào, rồi cuộn chặt và thả vào chảo dầu nóng đang sôi. Vài phút sau, thứ ra khỏi chảo là hoàn toàn khác: vỏ vàng nâu, giòn tan khi cắn, hơi nóng bốc lên cùng mùi thơm mặn ngọt từ nhân bên trong. Gỏi cuốn và chả giò là cặp đối lập bổ sung nhau — mát và nóng, trong suốt và vàng giòn, nguyên sơ và biến tấu. Ăn cả hai mới là ăn đủ ẩm thực Sài Gòn.",
+    "story_en": "Gỏi cuốn and chả giò are two answers from southern Vietnamese cuisine to the same question: how do you capture the flavours of the delta in something that fits in the palm of your hand? Gỏi cuốn was born from climate. In Saigon, where temperatures rarely drop below 25 degrees, the body craves something cool, light, and refreshing. Rice paper as thin as silver foil, so translucent you can see the pink shrimp and green herbs inside — that is gỏi cuốn. Rolled within it: soft rice vermicelli, sweet poached shrimp, tender pork, fragrant cilantro, and crisp cucumber. Dipped in sweet-sour fish sauce or rich peanut sauce, eating one roll is like drinking a breeze on a Saigon summer noon.\n\nChả giò is the other answer — what gỏi cuốn becomes when fire intervenes. Same rice paper, same shrimp and pork filling, but this time the filling is mixed with wood ear mushrooms, glass noodles, and shredded carrot, then rolled tight and lowered into a wok of boiling oil. Minutes later, what emerges is entirely different: golden-brown crust, shattering when bitten, heat rising with the savoury-sweet scent of the filling within. Gỏi cuốn and chả giò are complementary opposites — cool and hot, translucent and golden, raw and transformed. Eating both is eating Saigon cuisine in full.",
+    "story_blockquote_vi": "Gỏi cuốn là mùa hè, chả giò là mùa đông — cả hai cùng nhau mới là ẩm thực Sài Gòn.",
+    "story_blockquote_en": "Fresh rolls are summer, fried rolls are winter — together they are Saigon cuisine.",
+    "story_blockquote_cite": "— Triết lý ẩm thực Nam Bộ",
+    "ingredients": [
+      {
+        "name_vi": "Bánh tráng gạo",
+        "name_en": "Rice paper",
+        "role_vi": "Vỏ trong suốt · mỏng manh",
+        "role_en": "Translucent wrapper · delicate",
+        "svgVariant": 0
+      },
+      {
+        "name_vi": "Tôm tươi / luộc",
+        "name_en": "Fresh or poached shrimp",
+        "role_vi": "Ngọt mềm · màu hồng đẹp",
+        "role_en": "Sweet and tender · beautiful pink",
+        "svgVariant": 1
+      },
+      {
+        "name_vi": "Thịt lợn luộc / xá xíu",
+        "name_en": "Poached pork / char siu",
+        "role_vi": "Mềm · đậm vị mặn ngọt",
+        "role_en": "Tender · savourly sweet",
+        "svgVariant": 1
+      },
+      {
+        "name_vi": "Bún (mì gạo)",
+        "name_en": "Rice vermicelli",
+        "role_vi": "Mềm nhẹ · kết cấu trung tính",
+        "role_en": "Soft · neutral canvas",
+        "svgVariant": 0
+      },
+      {
+        "name_vi": "Rau thơm (rau mùi, hành, dưa leo)",
+        "name_en": "Fresh herbs (cilantro, scallion, cucumber)",
+        "role_vi": "Sáng · tươi · thơm dịu",
+        "role_en": "Bright · fresh · gently aromatic",
+        "svgVariant": 0
+      },
+      {
+        "name_vi": "Nấm tai gỗ (cho chả giò)",
+        "name_en": "Wood ear mushrooms (for chả giò)",
+        "role_vi": "Giòn · umami rừng",
+        "role_en": "Crunchy · earthy umami",
+        "svgVariant": 0
+      },
+      {
+        "name_vi": "Nước chấm (mắm chua ngọt / nước lạc)",
+        "name_en": "Dipping sauce (fish sauce / peanut sauce)",
+        "role_vi": "Kết nối mọi thành phần",
+        "role_en": "Binds everything together",
+        "svgVariant": 3
+      },
+      {
+        "name_vi": "Dầu ăn (cho chả giò)",
+        "name_en": "Cooking oil (for chả giò)",
+        "role_vi": "Chiên sâu · tạo lớp vỏ vàng giòn",
+        "role_en": "Deep-frying vehicle for crispness",
+        "svgVariant": 3
+      }
+    ],
+    "how_to_eat_vi": "## Gỏi cuốn — cách ăn\n\nCầm gỏi cuốn bằng hai tay. Nhúng một đầu vào nước chấm — đừng ngâm quá lâu, bánh tráng sẽ nhũn mất kết cấu. Cắn dứt khoát; bánh tráng mỏng nên không cần cắn mạnh. Ăn ngay sau khi cuốn được làm — gỏi cuốn để quá 15 phút sẽ bắt đầu mất độ tươi.\n\n**Nước chấm**: nước mắm chua ngọt (sắc, nhẹ, kích thích vị giác) phù hợp buổi sáng và trưa. Nước lạc (béo, đậm, no bụng hơn) phù hợp buổi chiều và tối. Một số quán Sài Gòn pha cả hai loại — hãy thử trước rồi quyết định.\n\n## Chả giò — cách ăn\n\nChờ 30 giây sau khi chả giò được bày ra — nhân bên trong rất nóng. Cầm một đầu, nhúng đầu kia vào nước chấm rồi cắn. Vỏ giòn khi bạn cắn — nếu không giòn, chả giò đã nguội hoặc chiên không đủ.\n\nCó thể ăn chả giò kèm bún và rau sống như gỏi cuốn — nhiều quán phục vụ theo cách này như một bữa ăn hoàn chỉnh hơn.\n\n## Nghệ thuật kết hợp hai loại\n\nNhiều người Sài Gòn ăn gỏi cuốn trước (mát, khai vị), rồi chuyển sang chả giò (nóng, thoả mãn). Xen kẽ giữa hai loại trong cùng bữa là cách tối ưu — mát và nóng thay nhau, không bao giờ một vị át hết vị kia.",
+    "how_to_eat_en": "## Gỏi cuốn — how to eat\n\nHold with both hands. Dip one end into sauce — don't submerge; rice paper softens quickly and loses its bite. Eat decisively; the wrapper is thin so no force is needed. Eat immediately after the rolls are made — gỏi cuốn begins to lose freshness after about 15 minutes.\n\n**Sauce choice**: fish sauce (sharp, light, palate-stimulating) suits morning and lunch. Peanut sauce (rich, filling, warming) suits afternoon and evening. Some Saigon stalls offer both — try each before committing.\n\n## Chả giò — how to eat\n\nWait 30 seconds after the fried rolls are served — the filling inside is scalding. Hold one end, dip the other into sauce, then bite. The crust cracks when you bite — if it doesn't, the rolls have cooled or were under-fried.\n\nChả giò can also be eaten alongside rice vermicelli and fresh herbs like gỏi cuốn — many stalls serve it this way as a more complete meal.\n\n## The pairing strategy\n\nMany Saigon regulars eat gỏi cuốn first (cool, palate-opening), then move to chả giò (hot, satisfying). Alternating between the two in the same meal is the optimal approach — cool and hot in turns, neither flavour overwhelming the other.",
+    "eateries": [
+      {
+        "name": "Gỏi Cuốn Bà Dzú",
+        "address": "26/26 Đỗ Quang Đẩu, Quận 1",
+        "tags": [
+          "Nguyên liệu cẩn thận",
+          "Rau thơm tươi",
+          "Dân địa phương hay đến"
+        ],
+        "price_vnd": "20–40 k₫",
+        "price_note": "1 cuốn"
+      },
+      {
+        "name": "Gỏi Cuốn Minh",
+        "address": "148/18 Bùi Viện, Quận 1",
+        "tags": [
+          "Quán nhỏ trong hẻm",
+          "Giá bình dân",
+          "Lúc nào cũng đông"
+        ],
+        "price_vnd": "14–30 k₫",
+        "price_note": "1 cuốn"
+      },
+      {
+        "name": "Bếp Cuốn Sài Gòn",
+        "address": "76 Võ Văn Tần, Quận 3",
+        "tags": [
+          "Phong cách miền Trung",
+          "Thịt nướng đặc biệt",
+          "Truyền thống"
+        ],
+        "price_vnd": "30–60 k₫",
+        "price_note": "1 phần (5 cuốn)"
+      },
+      {
+        "name": "Gỏi Cuốn Cô Chi",
+        "address": "148 Lê Quang Định, Bình Thạnh",
+        "tags": [
+          "Mở 8h–21h",
+          "Tôm tươi chất lượng",
+          "Ổn định"
+        ],
+        "price_vnd": "25–50 k₫",
+        "price_note": "1 cuốn"
+      }
+    ],
+    "tip_title_vi": "Mẹo nhận biết cuốn tươi & cuốn giòn chuẩn",
+    "tip_title_en": "How to spot quality fresh and fried rolls",
+    "tip_body_vi": "Gỏi cuốn tốt có **bánh tráng sáng bóng trong suốt** — nhìn thấy rõ màu hồng của tôm và màu xanh của rau bên trong. Bánh tráng đục, nhăn hoặc khô là dấu hiệu cuốn đã để quá lâu. Chả giò tốt có **vỏ vàng nâu giòn tan** — khi bạn cắn phải nghe tiếng nổ giòn, không phải tiếng ướt nhũn. Vỏ màu nâu nhạt hoặc mềm mại là dấu hiệu chiên chưa đủ hoặc để nguội quá lâu.",
+    "tip_body_en": "Quality gỏi cuốn has **glossy, translucent rice paper** — you should clearly see the pink of the shrimp and green of the herbs inside. Opaque, wrinkled, or dry paper means the rolls are too old. Quality chả giò has a **golden-brown, shattering crust** — when you bite, it cracks audibly, not yielding softly. Pale brown or soft exterior means under-fried or cooled too long.",
+    "image_url": "/food/goi-cuon-cha-gio/hero.jpg",
+    "gallery": [
+      "/food/goi-cuon-cha-gio/gallery-1.jpg",
+      "/food/goi-cuon-cha-gio/gallery-2.jpg",
+      "/food/goi-cuon-cha-gio/gallery-3.jpg",
+      "/food/goi-cuon-cha-gio/gallery-4.jpg"
+    ],
+    "status": "published",
+    "sources": [
+      {
+        "url": "https://nhandan.vn/am-thuc-mien-nam-dac-sac/",
+        "title": "Ẩm thực miền Nam đặc sắc",
+        "publisher": "nhandan.vn",
+        "accessed_date": "2024-01-15"
+      },
+      {
+        "url": "https://toquoc.vn/am-thuc-sai-gon-nhung-mon-an-dac-trung/",
+        "title": "Ẩm thực Sài Gòn — những món ăn đặc trưng",
+        "publisher": "toquoc.vn",
+        "accessed_date": "2024-01-15"
+      },
+      {
+        "url": "https://vietnamtourism.gov.vn/am-thuc-tp-ho-chi-minh/",
+        "title": "Ẩm thực TP. Hồ Chí Minh",
+        "publisher": "vietnamtourism.gov.vn",
+        "accessed_date": "2024-01-15"
+      }
+    ],
+    "body_blocks": [
+      {
+        "type": "paragraph",
+        "text_vi": "Gỏi cuốn và chả giò là hai câu trả lời của ẩm thực miền Nam cho cùng một câu hỏi: làm sao gói gọn hương vị đồng bằng vào thứ vừa vặn trong lòng bàn tay? Gỏi cuốn ra đời từ khí hậu nhiệt đới — ở Sài Gòn nơi nhiệt độ hiếm khi xuống dưới 25 độ, cơ thể cần thứ gì đó mát, nhẹ và tươi sáng. Bánh tráng mỏng như tờ giấy bạc, trong suốt đến mức nhìn thấy lớp tôm hồng và rau xanh bên trong, cuộn cùng bún mềm, tôm luộc tươi ngọt và rau thơm — đó chính là gỏi cuốn. Chấm vào nước mắm chua ngọt hay nước lạc béo, ăn một cuốn là uống một ngụm gió mát giữa trưa hè Sài Gòn.",
+        "text_en": "Gỏi cuốn and chả giò are two answers from southern Vietnamese cuisine to the same question: how do you capture the flavours of the delta in something that fits in the palm of your hand? Gỏi cuốn was born from tropical climate — in Saigon where temperatures rarely drop below 25 degrees, the body craves something cool, light and refreshing. Rice paper as thin as silver foil, so translucent you can see the pink shrimp and green herbs within, wrapped around soft vermicelli, sweet poached shrimp and fresh herbs — that is gỏi cuốn. Dipped in sweet-sour fish sauce or rich peanut sauce, eating one roll is like drinking a cool breeze on a Saigon summer noon."
+      },
+      {
+        "type": "image",
+        "url": null,
+        "caption_vi": "Gỏi cuốn tươi trong suốt để lộ lớp tôm hồng và rau xanh bên trong, bày cùng bát nước mắm chua ngọt và nước lạc",
+        "caption_en": "Translucent fresh spring rolls revealing the pink shrimp and green herbs inside, served alongside sweet-sour fish sauce and peanut dipping sauce",
+        "layout": "full"
+      },
+      {
+        "type": "paragraph",
+        "text_vi": "Chả giò là câu trả lời khác — thứ gỏi cuốn trở thành khi lửa can thiệp. Cũng là bánh tráng, cũng nhân tôm thịt, nhưng lần này nhân được trộn với nấm tai gỗ, mì kính và cà rốt bào, rồi cuộn chặt và thả vào chảo dầu nóng sôi. Vài phút sau, thứ ra khỏi chảo là hoàn toàn khác: vỏ vàng nâu giòn tan khi cắn, hơi nóng bốc lên cùng mùi thơm mặn ngọt từ nhân. Miền Nam có câu: gỏi cuốn là mùa hè, chả giò là mùa đông — cả hai cùng nhau mới là ẩm thực Sài Gòn đầy đủ.",
+        "text_en": "Chả giò is the other answer — what gỏi cuốn becomes when fire intervenes. Same rice paper, same shrimp and pork filling, but this time the filling is mixed with wood ear mushrooms, glass noodles and shredded carrot, then rolled tight and lowered into boiling oil. Minutes later what emerges is entirely different: golden-brown crust shattering with each bite, heat rising with the savoury-sweet scent of the filling. The South has a saying: fresh rolls are summer, fried rolls are winter — both together make a complete Saigon meal."
+      },
+      {
+        "type": "image",
+        "url": null,
+        "caption_vi": "Chả giò vàng giòn vừa ra chảo, xếp trên đĩa lá chuối kèm rau sống và nước chấm — cách phục vụ truyền thống tại các quán gia đình",
+        "caption_en": "Freshly fried chả giò arranged on banana leaf with fresh herbs and dipping sauce — the traditional presentation at family-style restaurants",
+        "layout": "inset-right"
+      },
+      {
+        "type": "paragraph",
+        "text_vi": "Điều đáng nói là cả hai món đều phản ánh triết lý ẩm thực miền Nam: tôn trọng nguyên liệu tươi, cân bằng giữa các vị và không bao giờ ép người ăn theo một cách duy nhất. Ăn gỏi cuốn và chả giò ở Sài Gòn không chỉ là việc thưởng thức một món ăn — đó là trải nghiệm cách người miền Nam ứng xử với thức ăn: sáng tạo, linh hoạt, hào phóng và luôn đặt người ăn lên trên hết. Không quán nào ở Sài Gòn dùng rau thơm héo hay tôm ươn cho hai món này — đó là nguyên tắc bất thành văn mà mọi người bán đều hiểu và tôn trọng.",
+        "text_en": "Both dishes reflect the southern Vietnamese culinary philosophy: respect for fresh ingredients, balance across flavours, and never forcing the diner into a single prescribed way. Eating gỏi cuốn and chả giò in Saigon is not merely tasting a dish — it is experiencing how southerners relate to food: inventive, flexible, generous and always putting the diner first. No Saigon vendor would ever use wilted herbs or stale shrimp for these two dishes — that is an unwritten rule every seller understands and honours."
+      }
+    ]
+  },
+  {
+    "content_hash": "fi_pho_mien_nam_v1",
+    "cultural_post_hash": "hcm_at7_phomiennam",
+    "slug": "hcm-pho-mien-nam",
+    "title_vi": "Phở miền Nam Sài Gòn",
+    "title_en": "Southern-Style Pho (Saigon Pho)",
+    "lede_vi": "Từ tô phở Bắc di cư vào Nam năm 1954, người Sài Gòn đã thêm giá, thêm rau, thêm tương và biến nó thành một tuyệt phẩm riêng — ngọt thanh hơn, cởi mở hơn, đúng như tâm tính của vùng đất phương Nam.",
+    "lede_en": "When Northern pho migrated south in 1954, Saigonese added bean sprouts, fresh herbs, and Cantonese sauces — sweetening the broth, opening the table, and creating a bowl as generous and open-handed as the South itself.",
+    "tags": [
+      "Phở Sài Gòn",
+      "Ẩm thực miền Nam"
+    ],
+    "info_origin_vi": "Sài Gòn (tiếp thu từ miền Bắc, cải biến theo khẩu vị phương Nam)",
+    "info_origin_en": "Saigon (adapted from Northern pho to suit Southern tastes)",
+    "info_best_time_vi": "Sáng sớm & trưa",
+    "info_best_time_en": "Early morning & lunch",
+    "info_price_range": "60 – 130 k₫",
+    "info_vegetarian_vi": "Không (phiên bản chay hiếm gặp)",
+    "info_vegetarian_en": "Not typically available",
+    "story_vi": "Năm 1954, hàng chục nghìn người Bắc di cư vào Nam theo Hiệp định Geneva, mang theo những gánh phở và bí quyết nấu từ Hà Nội, Nam Định, Hải Phòng. Nhưng người Sài Gòn có khẩu vị khác — họ thích nước dùng ngọt hơn, nhiều rau hơn, và không ngại pha trộn các hương liệu Hoa kiều. Dần dà, những người bán phở nhạy cảm đã thêm củ cải trắng và đường phèn vào nồi nước, dọn thêm đĩa giá sống, húng quế, ngò gai cùng chén tương đen, tương đỏ của người Quảng Đông — phở miền Nam ra đời như thế, không phải bằng một quyết định, mà bằng hàng triệu lần điều chỉnh nhỏ theo khẩu vị thực khách.\n\nĐường Pasteur (quận 3) từng được mệnh danh là \"con đường phở\" của Sài Gòn, với hàng chục tiệm chen nhau trên đoạn ngắn từ Võ Thị Sáu đến Trần Quốc Toản. Phở Hòa trên đường này — mở cửa từ khoảng năm 1960 — trở thành biểu tượng lịch sử. Phở Minh (3 năm liền được Michelin ghi nhận) và nhiều tiệm gia truyền khác chứng minh rằng phở miền Nam không phải phiên bản kém cỏi của phở Bắc, mà là một bản thể riêng biệt, hào sảng và đầy màu sắc như chính Sài Gòn.",
+    "story_en": "In 1954, tens of thousands of Northerners arrived in Saigon following the Geneva Accords, carrying pho recipes from Hanoi, Nam Dinh, and Hai Phong. But Saigonese palates were different — they craved sweeter broth, more greens, and had no reservations about blending in Cantonese condiments. Gradually, perceptive pho sellers added daikon and rock sugar to their pots, served platters of bean sprouts, Thai basil, and sawtooth herb alongside bowls of hoisin and Sriracha-style sauce — Southern pho was born not by decree but through millions of small adjustments made to please local guests.\n\nPasteur Street in District 3 once earned the title of Saigon's \"Pho Street,\" with dozens of shops crammed into a short stretch between Vo Thi Sau and Tran Quoc Toan. Pho Hoa on that street — open since around 1960 — became a living landmark. The Michelin-recognized Pho Minh and many other generational shops have proven that Southern pho is not an inferior copy of Northern pho but a distinct entity — as generous, colourful, and open as Saigon itself.",
+    "story_blockquote_vi": "Phở Nam không thua phở Bắc — nó chỉ là một con người khác, lớn lên ở một miền đất khác.",
+    "story_blockquote_en": "Southern pho is not inferior to Northern pho — it is simply a different person, raised in a different land.",
+    "story_blockquote_cite": "— Nhà báo ẩm thực, Tuổi Trẻ",
+    "ingredients": [
+      {
+        "name_vi": "Bánh phở tươi",
+        "name_en": "Fresh rice noodles",
+        "role_vi": "Nền tinh bột mềm mại, hút nước dùng",
+        "role_en": "Silky starch base that absorbs the broth",
+        "svgVariant": 0
+      },
+      {
+        "name_vi": "Xương bò hầm",
+        "name_en": "Beef bones (slow-simmered)",
+        "role_vi": "Tạo nước dùng vị ngọt sâu, thanh",
+        "role_en": "Builds the deep, clean sweetness of the broth",
+        "svgVariant": 1
+      },
+      {
+        "name_vi": "Thịt bò tái",
+        "name_en": "Rare sliced beef",
+        "role_vi": "Mềm, chín tái ngay trong nước dùng nóng",
+        "role_en": "Gently cooks to tender pink in the scalding broth",
+        "svgVariant": 1
+      },
+      {
+        "name_vi": "Củ cải trắng",
+        "name_en": "Daikon radish",
+        "role_vi": "Cho nước dùng vị ngọt thanh đặc trưng miền Nam",
+        "role_en": "Gives the Southern broth its characteristic gentle sweetness",
+        "svgVariant": 0
+      },
+      {
+        "name_vi": "Tương đen & tương đỏ",
+        "name_en": "Hoisin & chili sauce",
+        "role_vi": "Nét giao thoa Hoa kiều — không thể thiếu ở miền Nam",
+        "role_en": "The Cantonese influence — essential at any Southern pho table",
+        "svgVariant": 3
+      },
+      {
+        "name_vi": "Giá sống, húng quế, ngò gai",
+        "name_en": "Bean sprouts, Thai basil, sawtooth herb",
+        "role_vi": "Mâm rau đặc trưng tạo độ tươi mát, kết cấu đa dạng",
+        "role_en": "The defining herb platter adding freshness and textural contrast",
+        "svgVariant": 0
+      },
+      {
+        "name_vi": "Nước mắm & chanh",
+        "name_en": "Fish sauce & lime",
+        "role_vi": "Điều chỉnh độ mặn chua theo khẩu vị",
+        "role_en": "Fine-tune saltiness and acidity at the table",
+        "svgVariant": 3
+      },
+      {
+        "name_vi": "Gân bò",
+        "name_en": "Beef tendon",
+        "role_vi": "Keo sánh trong miệng, giàu collagen",
+        "role_en": "Silky, collagen-rich with a melt-in-mouth texture",
+        "svgVariant": 2
+      }
+    ],
+    "how_to_eat_vi": "## Bước 1: Chuẩn bị mâm rau trước khi ăn\n\nĐĩa rau thơm, giá và chanh ớt là \"linh hồn\" của tô phở Nam. **Vắt chanh vào nước dùng trước**, rồi mới cho giá và rau thơm vào — để giá vẫn còn giòn mà rau không bị dập nát.\n\n## Bước 2: Pha tương theo khẩu vị\n\nPhở Nam khác phở Bắc ở chỗ bạn có thể **pha tương đen và tương đỏ vào bát riêng** để chấm thịt, hoặc nhỏ trực tiếp vào tô với lượng vừa phải. Đây là nét giao thoa văn hóa Hoa Việt đặc trưng của Sài Gòn — không nên bỏ qua.\n\n## Bước 3: Ăn nóng, ăn liên tục\n\nPhở ngon nhất trong 3 phút đầu tiên khi nước dùng còn bốc khói. **Đừng chờ chụp ảnh quá lâu** — bánh phở sẽ nở trương và mất độ dai. Ăn một lúc lại nhúng thêm rau cho tươi.\n\n## Biến thể đáng thử\n\nPhở tái chín (nửa chín nửa tái), phở gân sách, phở bò viên — mỗi kiểu có kết cấu riêng. Nếu đến lần đầu, hãy gọi **\"phở đặc biệt\"** để có đủ mọi phần.",
+    "how_to_eat_en": "## Step 1: Prepare the herb plate first\n\nThe platter of fresh herbs, bean sprouts, lime, and chilies is the soul of a Southern pho bowl. **Squeeze lime into the broth first**, then add bean sprouts and herbs — keeping the sprouts crisp and the herbs intact.\n\n## Step 2: Mix your sauces\n\nSouthern pho differs from Northern precisely because **hoisin and chili sauce are expected**. Mix them in a small side dish for dipping meat, or add sparingly directly into the bowl. This Sino-Vietnamese condiment tradition is authentic Saigon — don't skip it.\n\n## Step 3: Eat hot, eat fast\n\nPho is at its peak in the first three minutes when the broth is still billowing steam. **Don't linger over photos** — the noodles swell and lose their texture quickly. Add fresh herbs in stages to keep each bite lively.\n\n## Variations worth trying\n\nPho tai chin (half-rare, half-well-done), pho gan sach (tendon and tripe), pho bo vien (beef ball) — each has its own texture. For a first visit, order **\"pho dac biet\"** (special pho) to experience every cut.",
+    "eateries": [
+      {
+        "name": "Phở Hòa Pasteur",
+        "address": "260C Pasteur, Phường 8, Quận 3",
+        "tags": [
+          "Lâu đời",
+          "Huyền thoại Sài Gòn"
+        ],
+        "price_vnd": "85–130 k₫",
+        "price_note": "Mở từ 1960, hàng dài từ 6h sáng"
+      },
+      {
+        "name": "Phở Minh",
+        "address": "35 Pasteur, Phường Bến Nghé, Quận 1",
+        "tags": [
+          "Michelin Bib Gourmand",
+          "Nước dùng đậm vị"
+        ],
+        "price_vnd": "90–140 k₫",
+        "price_note": "Michelin 3 năm liên tiếp (2023–2025)"
+      },
+      {
+        "name": "Phở Phú Gia",
+        "address": "260B Pasteur, Phường 8, Quận 3",
+        "tags": [
+          "Không rau giá",
+          "Cổ điển"
+        ],
+        "price_vnd": "75–110 k₫",
+        "price_note": "Phục vụ không rau giá — truyền thống Bắc di cư"
+      },
+      {
+        "name": "Phở Dậu",
+        "address": "Hẻm 288 Nam Kỳ Khởi Nghĩa, Phường 8, Quận 3",
+        "tags": [
+          "Phở Nam Định",
+          "Ẩn trong hẻm"
+        ],
+        "price_vnd": "80–120 k₫",
+        "price_note": "Phong cách Nam Định giữ nguyên qua nhiều thế hệ"
+      }
+    ],
+    "tip_title_vi": "Nhận biết phở Nam chuẩn vị",
+    "tip_title_en": "How to spot authentic Southern-style pho",
+    "tip_body_vi": "Nước dùng phở Nam chuẩn có màu trong, ngọt thanh nhưng không ngấy, thoang thoảng hương quế và hồi. Khi dọn ra, đĩa rau thơm phải có đủ húng quế, ngò gai và giá — thiếu một trong ba là quán chưa đúng vị. Đặc biệt, tương đen và tương đỏ phải có sẵn trên bàn mà không cần gọi.",
+    "tip_body_en": "Authentic Southern pho broth should be clear and gently sweet — fragrant with star anise and cinnamon but never cloying. The herb plate must include Thai basil, sawtooth herb, and bean sprouts — missing any one of them signals a shortcut. And crucially, hoisin and chili sauce should be on the table before you even sit down.",
+    "image_url": "/food/hcm-pho-mien-nam/hero.jpg",
+    "gallery": [
+      "/food/hcm-pho-mien-nam/gallery-1.jpg",
+      "/food/hcm-pho-mien-nam/gallery-2.jpg",
+      "/food/hcm-pho-mien-nam/gallery-3.jpg",
+      "/food/hcm-pho-mien-nam/gallery-4.jpg"
+    ],
+    "status": "published",
+    "sources": [
+      {
+        "url": "https://tuoitre.vn/pho-viet-ky-3-pho-hanh-phuong-nam-20171210115212598.htm",
+        "title": "Phở Việt - Kỳ 3: Phở 'hành phương Nam'",
+        "publisher": "Tuổi Trẻ",
+        "accessed_date": "2026-05-24"
+      },
+      {
+        "url": "https://tuoitre.vn/pho-minh-3-nam-lien-duoc-michelin-vinh-danh-va-cau-chuyen-no-nuc-don-vang-khap-thi-thanh-20251211160511221.htm",
+        "title": "Phở Minh 3 năm liền được Michelin vinh danh",
+        "publisher": "Tuổi Trẻ",
+        "accessed_date": "2026-05-24"
+      },
+      {
+        "url": "https://vnexpress.net/khac-biet-pho-bac-nam-trong-mat-chuyen-gia-michelin-4960235.html",
+        "title": "Khác biệt phở Bắc - Nam trong mắt chuyên gia Michelin",
+        "publisher": "VnExpress",
+        "accessed_date": "2026-05-24"
+      }
+    ],
+    "body_blocks": [
+      {
+        "type": "paragraph",
+        "text_vi": "Năm 1954, hàng chục nghìn người Bắc di cư vào Nam theo Hiệp định Geneva, mang theo những gánh phở và bí quyết nấu từ Hà Nội, Nam Định, Hải Phòng. Nhưng người Sài Gòn có khẩu vị khác — họ thích nước dùng ngọt hơn, nhiều rau hơn, và không ngại pha trộn các hương liệu Hoa kiều vốn đã quen thuộc qua nhiều thế hệ cộng cư với người Triều Châu ở Chợ Lớn. Dần dà, những người bán phở nhạy cảm đã thêm củ cải trắng và đường phèn vào nồi nước, dọn thêm đĩa giá sống, húng quế, ngò gai cùng chén tương đen, tương đỏ Quảng Đông. Phở miền Nam ra đời không phải bằng một quyết định, mà bằng hàng triệu lần điều chỉnh nhỏ theo khẩu vị thực khách trong nhiều thập kỷ.",
+        "text_en": "In 1954, tens of thousands of Northerners arrived in Saigon following the Geneva Accords, carrying pho recipes from Hanoi, Nam Dinh, and Hai Phong. But Saigonese palates were different — they craved sweeter broth, more greens, and had no reservations about blending in Cantonese condiments already familiar from generations of cohabitation with Teochew Chinese in Cholon. Gradually, perceptive pho sellers added daikon radish and rock sugar to their pots, and served platters of bean sprouts, Thai basil and sawtooth herb alongside bowls of hoisin and chili sauce. Southern pho was born not by decree but through millions of small adjustments made to please local guests over many decades."
+      },
+      {
+        "type": "image",
+        "url": null,
+        "caption_vi": "Tô phở miền Nam tại Phở Hòa Pasteur — nước dùng trong ngọt, đĩa rau thơm đầy ắp và chén tương đen tương đỏ đặc trưng Sài Gòn",
+        "caption_en": "A Southern pho bowl at Pho Hoa Pasteur — clear sweet broth, a heaped herb plate and the signature Saigon hoisin-chili condiments",
+        "layout": "full"
+      },
+      {
+        "type": "paragraph",
+        "text_vi": "Đường Pasteur (Quận 3) từng được mệnh danh là \"con đường phở\" của Sài Gòn, với hàng chục tiệm chen nhau trên đoạn ngắn từ Võ Thị Sáu đến Trần Quốc Toản. Phở Hòa — mở cửa từ khoảng năm 1960 — đã trở thành biểu tượng lịch sử với hàng khách dài từ 6 giờ sáng mỗi ngày không ngày nào vắng. Phở Minh trên cùng con đường này được Michelin ghi nhận ba năm liên tiếp từ 2023, chứng minh rằng phở miền Nam không phải phiên bản kém cỏi của phở Bắc — nó là một bản thể riêng biệt, đậm màu sắc đô thị và tính cởi mở đặc trưng của Sài Gòn.",
+        "text_en": "Pasteur Street in District 3 once earned the title of Saigon's \"Pho Street,\" with dozens of shops crammed into a short stretch between Vo Thi Sau and Tran Quoc Toan. Pho Hoa — open since around 1960 — became a living landmark with queues forming at 6 AM every day without exception. Pho Minh on the same street received Michelin recognition three consecutive years from 2023, proving that Southern pho is not an inferior copy of Northern pho but a distinct entity — as colourful, urban, and open-spirited as Saigon itself."
+      },
+      {
+        "type": "image",
+        "url": null,
+        "caption_vi": "Khách hàng xếp hàng trước tiệm Phở Hòa Pasteur buổi sáng sớm — hơn 60 năm tuổi và vẫn là địa chỉ huyền thoại của phố phở Sài Gòn",
+        "caption_en": "Customers queue outside Pho Hoa Pasteur in the early morning — 60 years old and still the legendary address of Saigon's pho street",
+        "layout": "inset-right"
+      },
+      {
+        "type": "paragraph",
+        "text_vi": "Điều phân biệt phở miền Nam với mọi nơi khác không chỉ là nước dùng ngọt hơn hay đĩa rau đầy hơn — đó là triết lý của sự cởi mở. Người Sài Gòn tin rằng một tô phở ngon là tô phở cho phép người ăn tự điều chỉnh theo khẩu vị của mình: thêm tương đen, thêm giá, thêm chanh ớt hay chỉ uống nước dùng thuần không. Không có cách ăn phở miền Nam \"sai\" — đó chính là điều khiến nó trở thành đặc sản đô thị phản ánh linh hồn của thành phố từng đón nhận hàng triệu người từ mọi nơi đổ về.",
+        "text_en": "What distinguishes Southern pho from everywhere else is not just the sweeter broth or the fuller herb plate — it is the philosophy of openness. Saigonese believe a good pho bowl is one that lets the diner adjust to their own taste: add hoisin, add bean sprouts, add lime and chili, or simply drink the pure broth alone. There is no \"wrong\" way to eat Southern pho — and that is precisely what makes it an urban specialty reflecting the soul of a city that has always welcomed millions of people from everywhere."
+      }
+    ]
+  },
+  {
+    "content_hash": "fi_lau_mam_v1",
+    "cultural_post_hash": "hcm_at8_laumam",
+    "slug": "hcm-lau-mam-mien-tay",
+    "title_vi": "Lẩu mắm miền Tây",
+    "title_en": "Mekong Delta Fermented Fish Hotpot",
+    "lede_vi": "Trong một nồi lẩu nồng mùi mắm cá sặc, hương vị của cả vùng Cửu Long hiện về — cái dân dã sông nước mà người Sài Gòn gốc miền Tây không bao giờ nguôi nhớ.",
+    "lede_en": "In a single bubbling pot of fermented fish broth, the whole Mekong Delta seems to return — the rustic, river-born flavours that Saigonese of southern origin never stop longing for.",
+    "tags": [
+      "Lẩu miền Tây",
+      "Ẩm thực Nam Bộ"
+    ],
+    "info_origin_vi": "Đồng bằng sông Cửu Long (phổ biến tại Sài Gòn từ thập niên 1940)",
+    "info_origin_en": "Mekong Delta (established in Saigon since the 1940s)",
+    "info_best_time_vi": "Tối, nhóm đông từ 4 người trở lên",
+    "info_best_time_en": "Evening; best enjoyed in groups of 4+",
+    "info_price_range": "150 – 400 k₫/người",
+    "info_vegetarian_vi": "Không có phiên bản chay truyền thống",
+    "info_vegetarian_en": "No traditional vegetarian version",
+    "story_vi": "Lẩu mắm bắt nguồn từ tập quán ủ mắm của người Khmer và người Việt vùng hạ lưu sông Cửu Long — trong điều kiện thiếu lạnh, mắm trở thành cách bảo quản cá lâu dài và cũng là nguồn hương vị cốt lõi cho mọi bữa ăn. Từ nồi mắm nấu đơn giản chan rau, người dân miền Tây dần nâng cấp thành nồi lẩu ăn tập thể với đầy đủ hải sản và rau đồng — một bữa tiệc của sự hào phóng và tình cộng đồng. Quán Phước Thành trên đường Lê Thị Riêng (Quận 10) được coi là một trong những địa chỉ lẩu mắm lâu đời nhất Sài Gòn, có nguồn gốc từ năm 1949.\n\nMùi mắm đặc trưng — nồng, sâu, dẫn dụ — chính là rào cản với người chưa quen nhưng lại là tín hiệu \"hương vị quê nhà\" với hàng triệu người Nam Bộ sống xa xứ tại Sài Gòn. Phần rau ăn kèm là điều làm lẩu mắm khác biệt hoàn toàn: bông súng, bắp chuối bào, kèo nèo, rau muống, cà tím — những thứ rau đồng sông nước mà người miền Tây gọi thân thương là \"rau vườn nhà\".",
+    "story_en": "Lau mam traces its roots to the fermentation traditions of Khmer and Vietnamese communities in the Mekong Delta's lower reaches. In a region without refrigeration, fermenting fish (mam) was essential preservation — and over centuries it became the defining flavour of southern cuisine. From a simple pot of mam broth poured over vegetables, Mekong cooks gradually evolved it into a communal hotpot loaded with seafood and water-vegetables — a feast of generosity and community spirit. Phuoc Thanh restaurant on Le Thi Rieng Street (District 10) is regarded as one of Saigon's oldest lau mam establishments, tracing back to 1949.\n\nThe characteristic pungency of fermented fish — deep, earthy, seductive — is the dish's chief barrier for the uninitiated but is precisely the \"taste of home\" signal for millions of southerners living away from the Mekong. The vegetable array is what makes lau mam wholly unlike any other hotpot: water lily stems, shredded banana blossom, swamp morning glory, water spinach, eggplant — the kind of water-meadow greens Mekong people call \"garden vegetables.\"",
+    "story_blockquote_vi": "Mùi mắm là mùi của sông nước, của quê hương — ai chưa ngửi qua thì chưa hiểu miền Tây.",
+    "story_blockquote_en": "The smell of mam is the smell of river country, of home — those who have never breathed it cannot understand the Mekong Delta.",
+    "story_blockquote_cite": "— Câu nói dân gian Nam Bộ",
+    "ingredients": [
+      {
+        "name_vi": "Mắm cá sặc",
+        "name_en": "Fermented pla ra fish paste",
+        "role_vi": "Nền nước lẩu đặc trưng — hương vị không thể thay thế",
+        "role_en": "The irreplaceable fermented base that defines the broth",
+        "svgVariant": 3
+      },
+      {
+        "name_vi": "Cá lóc tươi",
+        "name_en": "Fresh snakehead fish",
+        "role_vi": "Thịt ngọt, dai — nguyên liệu protein kinh điển của lẩu mắm",
+        "role_en": "Sweet, firm flesh — the classic protein of lau mam",
+        "svgVariant": 1
+      },
+      {
+        "name_vi": "Tôm sú & mực",
+        "name_en": "Tiger prawns & squid",
+        "role_vi": "Thêm vị ngọt của biển, bổ sung hải sản đa dạng",
+        "role_en": "Add oceanic sweetness and seafood variety",
+        "svgVariant": 1
+      },
+      {
+        "name_vi": "Thịt heo ba chỉ",
+        "name_en": "Pork belly",
+        "role_vi": "Béo ngậy hoà tan vào nước lẩu, cân bằng vị mắm",
+        "role_en": "Richness that melts into the broth and balances the mam's intensity",
+        "svgVariant": 1
+      },
+      {
+        "name_vi": "Bông súng & kèo nèo",
+        "name_en": "Water lily stems & swamp morning glory",
+        "role_vi": "Rau đồng đặc trưng miền Tây, giòn mát, hút nước lẩu",
+        "role_en": "Quintessential Mekong water-vegetables — crisp and broth-absorbent",
+        "svgVariant": 0
+      },
+      {
+        "name_vi": "Cà tím",
+        "name_en": "Eggplant",
+        "role_vi": "Mềm ngậm nước lẩu, vị béo hài hoà với mắm",
+        "role_en": "Absorbs the broth, becoming silky and complementing the mam's depth",
+        "svgVariant": 2
+      },
+      {
+        "name_vi": "Sả, ớt, tỏi",
+        "name_en": "Lemongrass, chili, garlic",
+        "role_vi": "Bộ ba tạo hương thơm cốt lõi của nước lẩu",
+        "role_en": "The aromatic trio that gives the broth its complexity",
+        "svgVariant": 3
+      },
+      {
+        "name_vi": "Bắp chuối bào",
+        "name_en": "Shredded banana blossom",
+        "role_vi": "Giòn sần, kết cấu độc đáo — thứ rau không thể thiếu",
+        "role_en": "Unique crunchy texture — an indispensable Mekong side",
+        "svgVariant": 0
+      }
+    ],
+    "how_to_eat_vi": "## Bước 1: Thả nguyên liệu theo thứ tự\n\n**Cho thịt và hải sản vào trước** khi nước lẩu sôi bùng để chín đều. Sau đó mới thả rau — rau mềm như kèo nèo chỉ cần 30 giây, còn cà tím cần 2–3 phút để ngấm vị. Bông súng nhúng nhanh, ăn vẫn còn độ giòn mới ngon.\n\n## Bước 2: Ăn kèm bún tươi hoặc cơm trắng\n\nLẩu mắm miền Tây thường ăn kèm **bún tươi trụng sơ** (không trụng kỹ quá để giữ độ dai) hoặc cơm trắng dẻo. Chan nước lẩu lên bún, không nên để bún ngâm quá lâu trong nồi.\n\n## Bước 3: Tận dụng nước lẩu cuối bữa\n\nKhi đã vơi nguyên liệu, **nước lẩu trở nên đậm đà nhất** — đây là lúc cho thêm mì hoặc cơm trắng vào húp cho no. Người miền Tây gọi đây là \"ăn hết mâm, uống cạn nồi\".",
+    "how_to_eat_en": "## Step 1: Add ingredients in the right order\n\n**Add meat and seafood first** when the broth reaches a rolling boil so they cook through evenly. Vegetables go in after — soft greens like swamp morning glory need only 30 seconds, while eggplant needs 2–3 minutes to absorb flavour. Water lily stems should be briefly dipped and eaten while still slightly crisp.\n\n## Step 2: Pair with fresh rice noodles or steamed rice\n\nMekong-style lau mam is traditionally served with **fresh rice vermicelli briefly blanched** (not overcooked, to preserve chewiness) or fluffy steamed rice. Ladle broth over the noodles rather than submerging them in the pot.\n\n## Step 3: Don't waste the end-of-meal broth\n\nOnce the main ingredients are gone, **the broth is at its most concentrated and flavourful** — this is the moment to add leftover rice or noodles and drink it down. Southern Vietnamese call this \"finishing the platter, draining the pot.\"",
+    "eateries": [
+      {
+        "name": "Lẩu mắm Bà Dú",
+        "address": "96 Trần Khắc Chân, Phường Tân Định, Quận 1",
+        "tags": [
+          "Lâu đời",
+          "Đông khách buổi tối"
+        ],
+        "price_vnd": "180–350 k₫/người",
+        "price_note": "Quán cô Ba gốc Cần Thơ, bày biện kiểu nhà dân"
+      },
+      {
+        "name": "Quán lẩu mắm 410 Nguyễn Xí",
+        "address": "410 Nguyễn Xí, Phường 26, Quận Bình Thạnh",
+        "tags": [
+          "Không gian rộng",
+          "Gia đình"
+        ],
+        "price_vnd": "150–300 k₫/người",
+        "price_note": "Phục vụ nhóm lớn, rau đồng đặc trưng đầy đủ"
+      },
+      {
+        "name": "Lẩu mắm Phước Thành",
+        "address": "Khu vực Lê Thị Riêng, Quận 10",
+        "tags": [
+          "Cổ điển",
+          "Từ năm 1949"
+        ],
+        "price_vnd": "200–400 k₫/người",
+        "price_note": "Một trong những địa chỉ lẩu mắm lâu đời nhất Sài Gòn"
+      },
+      {
+        "name": "Lẩu mắm Minh Phụng",
+        "address": "Giao lộ Minh Phụng - Hậu Giang, Quận 6",
+        "tags": [
+          "Bình dân",
+          "Vị truyền thống"
+        ],
+        "price_vnd": "120–250 k₫/người",
+        "price_note": "Khu vực người miền Tây sinh sống đông đúc"
+      }
+    ],
+    "tip_title_vi": "Cách chọn quán lẩu mắm ngon",
+    "tip_title_en": "How to find a great lau mam restaurant",
+    "tip_body_vi": "Quán lẩu mắm ngon thường có mùi mắm thoảng ngay từ ngoài cửa — đây là dấu hiệu tốt, không phải điều cần tránh. Rau đồng phải tươi, nhất là bông súng và kèo nèo. Nước lẩu chuẩn có màu nâu đỏ, không quá đậm tím và phải thấy được lớp dầu sả bóng lên mặt nồi.",
+    "tip_body_en": "A great lau mam restaurant often lets you smell the mam even from the doorway — this is a very good sign, not something to avoid. The water vegetables must be truly fresh, especially the water lily stems and swamp morning glory. Authentic broth should be a warm reddish-brown — not too dark — with a glistening layer of lemongrass oil visible on the surface.",
+    "image_url": "/food/hcm-lau-mam-mien-tay/hero.jpg",
+    "gallery": [
+      "/food/hcm-lau-mam-mien-tay/gallery-1.jpg",
+      "/food/hcm-lau-mam-mien-tay/gallery-2.jpg",
+      "/food/hcm-lau-mam-mien-tay/gallery-3.jpg",
+      "/food/hcm-lau-mam-mien-tay/gallery-4.jpg"
+    ],
+    "status": "published",
+    "sources": [
+      {
+        "url": "https://vnexpress.net/lau-mam-ban-hoa-tau-cua-rau-2342858.html",
+        "title": "Lẩu mắm - 'bản hoà tấu' của rau",
+        "publisher": "VnExpress",
+        "accessed_date": "2026-05-24"
+      },
+      {
+        "url": "https://ngoisao.vnexpress.net/dia-chi-cuoi-tuan-3-quan-lau-mam-mien-tay-o-sai-gon-4274315.html",
+        "title": "Địa chỉ cuối tuần: 3 quán lẩu mắm miền Tây ở Sài Gòn",
+        "publisher": "VnExpress (Ngôi Sao)",
+        "accessed_date": "2026-05-24"
+      },
+      {
+        "url": "https://tuoitre.vn/banh-mi-sai-gon-goi-sau-dau-lau-mam-u-minh-vao-top-100-mon-an-viet-dac-san-20220822104933209.htm",
+        "title": "Lẩu mắm U Minh vào top 100 món ăn Việt đặc sản",
+        "publisher": "Tuổi Trẻ",
+        "accessed_date": "2026-05-24"
+      }
+    ],
+    "body_blocks": [
+      {
+        "type": "paragraph",
+        "text_vi": "Lẩu mắm bắt nguồn từ tập quán ủ mắm của người Khmer và người Việt vùng hạ lưu sông Cửu Long — trong điều kiện thiếu lạnh, mắm trở thành cách bảo quản cá lâu dài và cũng là nguồn hương vị cốt lõi cho mọi bữa ăn. Từ nồi mắm nấu đơn giản chan rau đồng, người dân miền Tây dần nâng cấp thành nồi lẩu ăn tập thể với đầy đủ hải sản — một bữa tiệc của sự hào phóng sông nước. Quán Phước Thành trên đường Lê Thị Riêng (Quận 10) được coi là một trong những địa chỉ lẩu mắm lâu đời nhất Sài Gòn, có nguồn gốc từ năm 1949, khi làn sóng người miền Tây đổ về thành phố mang theo ký ức hương vị quê hương. Mùi mắm đặc trưng — nồng, sâu, dẫn dụ — chính là tín hiệu \"hương vị quê nhà\" với hàng triệu người Nam Bộ sống xa xứ tại Sài Gòn.",
+        "text_en": "Lẩu mắm traces its roots to the fermentation traditions of Khmer and Vietnamese communities in the lower Mekong Delta — without refrigeration, fermenting fish (mắm) was both essential preservation and the defining flavour of southern cuisine. From a simple pot of fermented fish broth poured over water vegetables, Mekong cooks gradually evolved it into a communal hotpot loaded with seafood — a feast of river-country generosity. The Phước Thành restaurant on Lê Thị Riêng Street (District 10) is regarded as one of Saigon's oldest lẩu mắm establishments, tracing back to 1949 when waves of Mekong migrants brought their home flavours to the city. The characteristic pungency of mắm — deep, earthy, seductive — is the exact \"taste of home\" signal for millions of southerners living away from the Mekong."
+      },
+      {
+        "type": "image",
+        "url": null,
+        "caption_vi": "Nồi lẩu mắm miền Tây nghi ngút khói với rau đồng bông súng, kèo nèo và cà tím xung quanh, cùng tô bún tươi trụng sơ",
+        "caption_en": "A Mekong-style lẩu mắm hotpot bubbling with steam, surrounded by water lily stems, swamp morning glory and eggplant, served with fresh rice vermicelli",
+        "layout": "full"
+      },
+      {
+        "type": "paragraph",
+        "text_vi": "Phần rau ăn kèm là điều làm lẩu mắm khác biệt hoàn toàn với mọi loại lẩu khác: bông súng, bắp chuối bào, kèo nèo, rau muống, cà tím — những thứ rau đồng sông nước mà người miền Tây gọi thân thương là \"rau vườn nhà\". Nước lẩu từ mắm cá sặc hoà cùng sả, ớt, tỏi rồi thấm vào từng cọng rau xanh mướt tạo ra vị ngon không thể mô tả bằng ngôn từ. Các loại hải sản — cá lóc tươi, tôm sú, mực — và thịt heo ba chỉ béo ngậy được thả vào nồi lẩu sôi, mỗi loại chín theo thứ tự riêng, tạo thành bản hòa tấu ẩm thực hội tụ tinh hoa Việt, Hoa và Khmer.",
+        "text_en": "The vegetable array is what makes lẩu mắm entirely unlike any other hotpot: water lily stems, shredded banana blossom, swamp morning glory (kèo nèo), water spinach, eggplant — the kind of water-meadow greens Mekong people call affectionately their \"garden vegetables.\" When the mắm broth — alive with lemongrass, chili and garlic — washes over these fresh greens, the result is something that cannot be described in words. Seafood — fresh snakehead fish, tiger prawns, squid — and rich pork belly are lowered into the boiling broth, each ingredient cooking at its own pace, creating a culinary symphony drawing on Vietnamese, Chinese and Khmer traditions."
+      },
+      {
+        "type": "image",
+        "url": null,
+        "caption_vi": "Mâm rau đồng tươi nguyên đặc trưng lẩu mắm miền Tây: bông súng, kèo nèo, bắp chuối bào và cà tím — những thứ chỉ có ở vùng sông nước",
+        "caption_en": "The fresh Mekong vegetable platter for lẩu mắm: water lily stems, swamp morning glory, shredded banana blossom and eggplant — ingredients found only in river country",
+        "layout": "inset-right"
+      },
+      {
+        "type": "paragraph",
+        "text_vi": "Lẩu mắm Sài Gòn ngày nay không chỉ là món ăn của người miền Tây nhớ nhà — nó đã trở thành trải nghiệm ẩm thực đích thực mà ngay cả du khách quốc tế cũng tìm kiếm. Những quán lẩu mắm tập trung nhiều ở khu vực Quận 1, Quận 3, Bình Thạnh — nơi người Sài Gòn tụ họp theo nhóm từ bốn người trở lên vào buổi tối để chia sẻ nồi lẩu nghi ngút khói. Không một nồi lẩu mắm nào là đủ cho một người — đây là món ăn của sự chia sẻ, của tình cộng đồng và của nỗi nhớ quê hương không thể nguôi ngoai.",
+        "text_en": "Saigon lẩu mắm today is no longer just a dish for Mekong migrants longing for home — it has become an authentic culinary experience that even international visitors seek out. Lẩu mắm restaurants cluster across District 1, District 3, and Bình Thạnh, where Saigonese gather in groups of four or more on evenings to share a steaming communal pot. No single pot of lẩu mắm is ever meant for one person alone — this is a dish of sharing, of community, and of a homesickness that cannot quite be cured."
+      }
+    ]
+  },
+  {
+    "content_hash": "fi_che_ba_mau_v1",
+    "cultural_post_hash": "hcm_at9_chebamau",
+    "slug": "hcm-che-ba-mau",
+    "title_vi": "Chè ba màu Sài Gòn",
+    "title_en": "Saigon Three-Color Dessert",
+    "lede_vi": "Ba lớp màu của một tô chè — đỏ, vàng, xanh — là hành trình di cư của người Hoa từ Quảng Đông sang Chợ Lớn rồi hoà vào tâm hồn ẩm thực Nam Bộ, để giờ đây trở thành đại diện duy nhất của Việt Nam trong top 100 tráng miệng ngon nhất châu Á.",
+    "lede_en": "Three layers of colour in a single bowl — red, gold, green — trace the migration of Cantonese settlers from Guangdong to Cholon and then into the Southern Vietnamese culinary soul, eventually landing the dish as Vietnam's sole representative in Asia's top 100 desserts.",
+    "tags": [
+      "Chè Sài Gòn",
+      "Tráng miệng Nam Bộ"
+    ],
+    "info_origin_vi": "Chợ Lớn, TP.HCM (gốc Quảng Đông, Trung Hoa)",
+    "info_origin_en": "Cholon, Ho Chi Minh City (Cantonese origin)",
+    "info_best_time_vi": "Chiều tối, mùa nắng nóng",
+    "info_best_time_en": "Afternoon and evening, especially during hot season",
+    "info_price_range": "20 – 50 k₫",
+    "info_vegetarian_vi": "Hoàn toàn chay (không có thịt hay hải sản)",
+    "info_vegetarian_en": "Fully vegetarian (no meat or seafood)",
+    "story_vi": "Người Hoa đầu tiên đặt chân đến Chợ Lớn mang theo tong sui — truyền thống đồ uống ngọt nóng/lạnh của người Quảng Đông với hàng chục biến thể từ đậu phộng, hạt sen đến thạch trái cây. Tại Sài Gòn, họ nhanh chóng thích nghi: đá bào thay nước nóng, nước cốt dừa béo ngậy bổ sung thêm lớp vị nhiệt đới. Chè ba màu — đậu đỏ, đậu xanh đánh mịn và thạch lá dứa xanh biếc — ra đời như một bản hoà ca ba nốt nhạc hoàn hảo: ngọt bùi, mịn màng và thơm mát.\n\nHàng chục năm trước, những xe chè ba màu của người Hoa Chợ Lớn đẩy qua các phố như Dương Tử Giang (quận 5), Nguyễn Phi Khanh (quận 1) đã trở thành ký ức không thể quên của nhiều thế hệ người Sài Gòn. Năm 2023, Taste Atlas chính thức đưa chè ba màu vào top 100 tráng miệng ngon nhất châu Á với điểm số 4,1/5 — bác bỏ hoàn toàn quan niệm rằng ẩm thực đường phố Việt Nam chỉ nổi tiếng với phở hay bánh mì.",
+    "story_en": "The first Cantonese settlers to arrive in Cholon brought tong sui — their centuries-old tradition of sweet hot or cold soups with dozens of variations from peanuts and lotus seeds to fruit jellies. In Saigon, they quickly adapted: shaved ice replaced hot broth, and coconut milk brought a layer of tropical richness. Che ba mau — red beans, blended mung bean paste, and vivid pandan-green jelly — emerged as a three-note chord of perfect contrast: sweet and earthy, smooth and fragrant.\n\nFor decades, Cantonese-Vietnamese dessert carts on streets like Duong Tu Giang (District 5) and Nguyen Phi Khanh (District 1) became an indelible childhood memory for generations of Saigonese. In 2023, Taste Atlas formally ranked che ba mau among Asia's top 100 desserts with a 4.1/5 score — definitively proving that Vietnamese street food greatness extends far beyond pho and banh mi.",
+    "story_blockquote_vi": "Một tô chè ba màu mà ngon phải có đậu đỏ đủ bùi, đậu xanh đủ mịn, thạch đủ thơm — thiếu một là hỏng cả bài.",
+    "story_blockquote_en": "A perfect bowl of che ba mau needs red beans that are perfectly nutty, mung bean that is perfectly smooth, and jelly that is perfectly fragrant — miss any one and the whole composition falls apart.",
+    "story_blockquote_cite": "— Người bán chè, Chợ Lớn",
+    "ingredients": [
+      {
+        "name_vi": "Đậu đỏ hầm",
+        "name_en": "Slow-braised red beans",
+        "role_vi": "Lớp thứ nhất — bùi, ngọt tự nhiên, màu đỏ nâu",
+        "role_en": "First layer — earthy, naturally sweet, deep red-brown",
+        "svgVariant": 2
+      },
+      {
+        "name_vi": "Đậu xanh đánh mịn",
+        "name_en": "Blended mung bean paste",
+        "role_vi": "Lớp thứ hai — mịn như kem, vị thơm nhẹ",
+        "role_en": "Second layer — smooth as cream, delicately fragrant",
+        "svgVariant": 0
+      },
+      {
+        "name_vi": "Thạch lá dứa (thạch xanh)",
+        "name_en": "Pandan jelly",
+        "role_vi": "Lớp thứ ba — xanh mướt, thơm lá dứa, mát lạnh",
+        "role_en": "Third layer — vivid green, fragrant pandan, cooling",
+        "svgVariant": 0
+      },
+      {
+        "name_vi": "Nước cốt dừa",
+        "name_en": "Coconut milk",
+        "role_vi": "Chan lên trên — béo ngậy kết nối cả ba lớp",
+        "role_en": "Poured over the top — rich cream that ties all three layers together",
+        "svgVariant": 3
+      },
+      {
+        "name_vi": "Đá bào nhuyễn",
+        "name_en": "Shaved ice",
+        "role_vi": "Làm mát, pha loãng vị ngọt, tạo kết cấu tan chảy",
+        "role_en": "Cooling base that dilutes sweetness and creates a melt-away texture",
+        "svgVariant": 3
+      },
+      {
+        "name_vi": "Nước đường thốt nốt",
+        "name_en": "Palm sugar syrup",
+        "role_vi": "Vị ngọt caramel nhẹ, đậm hơn đường trắng",
+        "role_en": "Gentle caramel sweetness, richer than refined sugar",
+        "svgVariant": 3
+      },
+      {
+        "name_vi": "Trân châu",
+        "name_en": "Tapioca pearls",
+        "role_vi": "Tuỳ quán — thêm kết cấu dai mềm thú vị",
+        "role_en": "Optional — adds a pleasantly chewy textural contrast",
+        "svgVariant": 2
+      }
+    ],
+    "how_to_eat_vi": "## Bước 1: Không trộn ngay — ngắm trước đã\n\nChè ba màu đẹp nhất khi còn nguyên ba lớp riêng biệt. **Hãy ngắm màu sắc trước khi trộn** — đây cũng là cách để thưởng thức từng lớp vị riêng lẻ nếu bạn muốn.\n\n## Bước 2: Trộn đều và ăn nhanh\n\nKhi đã sẵn sàng, **trộn đều tất cả lớp cùng nước cốt dừa và đá bào**. Chè ngon nhất trong 3–5 phút đầu khi đá chưa tan hoàn toàn — ăn chậm quá sẽ bị loãng và mất lạnh.\n\n## Biến thể và topping tuỳ chọn\n\nNhiều quán thêm hạt sen, hạt dẻ, bạch quả hoặc trân châu. **Nếu lần đầu thử**, hãy chọn phiên bản truyền thống ba lớp để cảm nhận đúng bản gốc trước khi thử các biến thể.",
+    "how_to_eat_en": "## Step 1: Don't stir immediately — admire first\n\nChe ba mau is most beautiful when the three layers remain distinct. **Take a moment to appreciate the colours** — or taste each layer separately to understand how they work individually before combining.\n\n## Step 2: Mix everything and eat quickly\n\nWhen ready, **stir all layers together with the coconut milk and shaved ice**. The dessert is at its best in the first 3–5 minutes before the ice fully melts — eat too slowly and it becomes watery and lukewarm.\n\n## Variations and optional toppings\n\nMany shops add lotus seeds, chestnuts, ginkgo nuts, or tapioca pearls. **On a first visit**, choose the classic three-layer version to understand the original before exploring variations.",
+    "eateries": [
+      {
+        "name": "Chè Hiển Khánh",
+        "address": "1 Lê Thánh Tôn, Phường Bến Nghé, Quận 1",
+        "tags": [
+          "Hơn 50 năm",
+          "Nổi tiếng Sài Gòn"
+        ],
+        "price_vnd": "25–45 k₫",
+        "price_note": "Đối diện chợ Bến Thành, mở từ thập niên 1970"
+      },
+      {
+        "name": "Chè người Hoa đường Dương Tử Giang",
+        "address": "Dương Tử Giang, Phường 12, Quận 5",
+        "tags": [
+          "Chợ Lớn",
+          "Phong cách Quảng Đông"
+        ],
+        "price_vnd": "20–40 k₫",
+        "price_note": "Khu người Hoa, phong cách tong sui cổ điển nhất"
+      },
+      {
+        "name": "Tiệm chè Bến Thành",
+        "address": "Bên trong chợ Bến Thành, Quận 1",
+        "tags": [
+          "Trong chợ",
+          "Tiện lợi"
+        ],
+        "price_vnd": "30–50 k₫",
+        "price_note": "Quán chè trong chợ, mở từ năm 1968"
+      },
+      {
+        "name": "Chè Nguyễn Phi Khanh",
+        "address": "Nguyễn Phi Khanh, Phường Tân Định, Quận 1",
+        "tags": [
+          "Tân Định",
+          "Được mách nhiều"
+        ],
+        "price_vnd": "20–35 k₫",
+        "price_note": "Phố tập trung nhiều xe chè truyền thống buổi chiều tối"
+      }
+    ],
+    "tip_title_vi": "Phân biệt chè ba màu và chè thập cẩm",
+    "tip_title_en": "Telling che ba mau apart from che thap cam",
+    "tip_body_vi": "Chè ba màu truyền thống chỉ có đúng 3 lớp cố định: đậu đỏ, đậu xanh đánh và thạch xanh. Nếu quán cho thêm hơn 5 loại topping khác nhau, đó thường là chè thập cẩm (nhiều vị) chứ không phải chè ba màu thuần tuý. Nước cốt dừa phải được chan nóng hoặc lạnh tùy chọn — đây là dấu hiệu quán có nghề.",
+    "tip_body_en": "Traditional che ba mau has exactly three fixed layers: red beans, blended mung bean, and pandan jelly. If a vendor adds more than five different toppings, you are likely eating che thap cam (mixed dessert) rather than the pure version. Coconut milk should be served either warm or cold according to your preference — a shop that asks this question knows what it is doing.",
+    "image_url": "/food/hcm-che-ba-mau/hero.jpg",
+    "gallery": [
+      "/food/hcm-che-ba-mau/gallery-1.jpg",
+      "/food/hcm-che-ba-mau/gallery-2.jpg",
+      "/food/hcm-che-ba-mau/gallery-3.jpg",
+      "/food/hcm-che-ba-mau/gallery-4.jpg"
+    ],
+    "status": "published",
+    "sources": [
+      {
+        "url": "https://vnexpress.net/che-ba-mau-vao-100-mon-trang-mieng-ngon-nhat-chau-a-4803604.html",
+        "title": "Chè ba màu vào 100 món tráng miệng ngon nhất châu Á",
+        "publisher": "VnExpress",
+        "accessed_date": "2026-05-24"
+      },
+      {
+        "url": "https://tuoitre.vn/lac-giua-thien-duong-che-nguoi-hoa-cho-lon-20190616162139197.htm",
+        "title": "Lạc giữa thiên đường chè người Hoa - Chợ Lớn",
+        "publisher": "Tuổi Trẻ",
+        "accessed_date": "2026-05-24"
+      },
+      {
+        "url": "https://vnexpress.net/tiem-che-6-thap-ky-goi-ky-uc-sai-gon-xua-3930692.html",
+        "title": "Tiệm chè 6 thập kỷ gợi ký ức Sài Gòn xưa",
+        "publisher": "VnExpress",
+        "accessed_date": "2026-05-24"
+      }
+    ],
+    "body_blocks": [
+      {
+        "type": "paragraph",
+        "text_vi": "Người Hoa đầu tiên đặt chân đến Chợ Lớn mang theo tong sui — truyền thống đồ uống ngọt nóng/lạnh của người Quảng Đông với hàng chục biến thể từ đậu phộng, hạt sen đến thạch trái cây. Tại Sài Gòn nhiệt đới, họ nhanh chóng thích nghi: đá bào thay nước nóng, nước cốt dừa béo ngậy bổ sung thêm lớp vị nhiệt đới đặc trưng. Chè ba màu — đậu đỏ hầm mềm, đậu xanh đánh mịn và thạch lá dứa xanh biếc — ra đời như một bản hoà ca ba nốt nhạc hoàn hảo: ngọt bùi, mịn màng và thơm mát, kết nối hương vị Quảng Đông với tâm hồn ẩm thực Nam Bộ. Hàng chục năm trước, những xe chè ba màu của người Hoa Chợ Lớn đẩy qua các phố Dương Tử Giang (Quận 5), Nguyễn Phi Khanh (Quận 1) đã trở thành ký ức tuổi thơ không thể quên của nhiều thế hệ người Sài Gòn.",
+        "text_en": "The first Cantonese settlers to arrive in Cholon brought tong sui — their tradition of sweet hot or cold soups with dozens of variations from peanuts and lotus seeds to fruit jellies. In tropical Saigon, they quickly adapted: shaved ice replaced hot broth, and coconut milk brought a layer of tropical richness specific to the region. Chè ba màu — slow-braised red beans, smooth blended mung bean paste, and vivid pandan-green jelly — emerged as a three-note chord of perfect contrast: earthy-sweet, silky, and fragrant, connecting Cantonese flavour with Southern Vietnamese culinary spirit. For decades, Cantonese dessert carts from Cholon threading through streets like Dương Tử Giang (District 5) and Nguyễn Phi Khanh (District 1) became unforgettable childhood memories for generations of Saigonese."
+      },
+      {
+        "type": "image",
+        "url": null,
+        "caption_vi": "Tô chè ba màu Sài Gòn với ba lớp đậu đỏ, đậu xanh đánh và thạch lá dứa xanh, được chan nước cốt dừa trắng mịn lên trên đá bào",
+        "caption_en": "A Saigon three-colour dessert bowl showing three distinct layers of red beans, blended mung bean and pandan jelly, topped with coconut milk over shaved ice",
+        "layout": "full"
+      },
+      {
+        "type": "paragraph",
+        "text_vi": "Bí quyết của một tô chè ba màu hoàn hảo nằm ở sự cân bằng và tỷ lệ giữa ba lớp: đậu đỏ phải đủ mềm nhưng không bở, giữ được hình dạng; đậu xanh đánh phải mịn như kem, không lợn cợn; thạch lá dứa phải thơm đặc trưng và đủ đông để không tan chảy ngay khi tiếp xúc với đá. Nước cốt dừa — béo ngậy, ấm áp — được chan lên trên cùng, rồi toàn bộ hệ thống được đặt trên nền đá bào tạo độ lạnh và cảm giác nhẹ bẫng. Năm 2023, Taste Atlas xếp chè ba màu vào top 100 tráng miệng ngon nhất châu Á với điểm 4,1/5 — bác bỏ quan niệm rằng ẩm thực đường phố Việt Nam chỉ nổi tiếng với phở hay bánh mì.",
+        "text_en": "The secret of a perfect chè ba màu lies in the balance and proportion of the three layers: red beans must be soft enough but not crumbling, retaining their shape; mung bean paste must be as smooth as cream with no lumps; pandan jelly must be fragrant and firm enough not to dissolve instantly on contact with the ice. Coconut milk — rich, warming — is poured over the top, and the whole assembly rests on a base of shaved ice for cool lightness. In 2023, Taste Atlas ranked chè ba màu among Asia's top 100 desserts with a 4.1/5 score — definitively proving that Vietnamese street food greatness extends far beyond pho and bánh mì."
+      },
+      {
+        "type": "image",
+        "url": null,
+        "caption_vi": "Xe chè truyền thống trong ngõ hẻm Chợ Lớn buổi chiều tà — người bán xếp từng tô theo lớp rồi chan nước cốt dừa theo thứ tự",
+        "caption_en": "A traditional dessert cart in a Cholon alley at dusk — the vendor layers each bowl methodically before finishing with coconut milk",
+        "layout": "inset-right"
+      },
+      {
+        "type": "paragraph",
+        "text_vi": "Chè ba màu là minh chứng cho cách người Sài Gòn tiếp nhận văn hóa từ bên ngoài: không bào mòn bản sắc gốc, không cóp nhặt y chang, mà tạo ra thứ gì đó mới hơn và ngon hơn cả hai nguồn gốc. Người Quảng Đông đã cho Sài Gòn đậu đỏ và đậu xanh; đất phương Nam đã cho thêm lá dứa, nước cốt dừa và đá bào — và kết quả là một tô chè mà cả hai nền văn hóa đều có thể tự hào nhận là của mình. Ngày nay, chè ba màu có mặt trên mọi con phố Sài Gòn, từ xe đẩy vỉa hè đến tiệm chè điều hòa mát lạnh, tất cả đều giữ ba lớp màu đặc trưng như một bản sắc không thể thay đổi.",
+        "text_en": "Chè ba màu is proof of how Saigon receives culture from outside: not erasing the original identity, not copying it wholesale, but creating something new that is better than either source. The Cantonese gave Saigon red beans and mung bean; the southern land added pandan leaf, coconut milk and shaved ice — and the result is a dessert that both cultures can proudly claim as their own. Today, chè ba màu appears on every Saigon street from sidewalk carts to air-conditioned dessert shops, all maintaining the three distinctive colour layers as an identity that cannot be changed."
+      }
+    ]
+  },
+  {
+    "content_hash": "fi_banh_trang_tron_v1",
+    "cultural_post_hash": "hcm_at10_banhtrangron",
+    "slug": "hcm-banh-trang-tron",
+    "title_vi": "Bánh tráng trộn Sài Gòn",
+    "title_en": "Saigon Mixed Rice-Paper Snack",
+    "lede_vi": "Khởi sinh từ những mảnh vụn bánh tráng bỏ đi ở Tây Ninh, bánh tráng trộn đã tràn ra khắp vỉa hè Sài Gòn và trở thành biểu tượng ăn vặt của cả một thế hệ — chiếc túi nhỏ đựng cả một thành phố.",
+    "lede_en": "Born from discarded rice-paper scraps in Tây Ninh province, bánh tráng trộn spilled onto Saigon's sidewalks to become an icon of a generation's snack culture — a small bag holding an entire city.",
+    "tags": [
+      "Ăn vặt Sài Gòn",
+      "Đặc sản đường phố"
+    ],
+    "info_origin_vi": "Tây Ninh (phổ biến và biến tấu tại Sài Gòn)",
+    "info_origin_en": "Tay Ninh province (popularised and adapted in Saigon)",
+    "info_best_time_vi": "Chiều muộn & tối (15:00 – 22:00)",
+    "info_best_time_en": "Late afternoon & evening (3 PM – 10 PM)",
+    "info_price_range": "15 – 35 k₫",
+    "info_vegetarian_vi": "Có phiên bản không khô bò, nhưng muối tôm vẫn có",
+    "info_vegetarian_en": "Available without beef jerky, though shrimp salt is still used",
+    "story_vi": "Ở Tây Ninh, người ta từng gom những mảnh bánh tráng vụn bỏ đi từ máy cắt, trộn với dầu hành, muối ớt và bột cá để ăn trong gia đình — một thói quen tiết kiệm tuyệt vời. Khi làn sóng di dân và thương buôn đổ về Sài Gòn, những gánh bánh tráng trộn theo họ tràn ra khắp vỉa hè. Học sinh, sinh viên yêu thích vì rẻ, ngon và ăn được ngay khi đứng — và thế là bánh tráng trộn trở thành \"quốc hồn quốc túy\" ăn vặt của Sài Gòn.\n\nCông thức hiện đại đã được cải tiến xa so với nguyên bản: sợi bánh tráng phơi sương (mềm hơn bánh tráng cứng thông thường) thái sợi nhỏ, trộn với xoài xanh bào sợi (chua thanh), rau răm băm (thơm hắc), muối tôm Tây Ninh (mặn ngọt thơm đặc trưng), dầu phi hành lạc, tắc vắt, trứng cút luộc và khô bò xé sợi. Phố Nguyễn Thượng Hiền (quận 3) với cả chục xe chen nhau là địa chỉ hành hương của dân mê bánh tráng trộn.",
+    "story_en": "In Tây Ninh, people once collected broken rice-paper scraps from cutting machines and mixed them with scallion oil, chili salt, and fish powder for home consumption — a wonderfully frugal habit. When migrants and traders flooded into Saigon, their bánh tráng trộn carts flooded the sidewalks with them. Students loved it for being cheap, delicious, and immediately edible while standing — and so bánh tráng trộn became the definitive street snack of Saigon.\n\nThe modern recipe has evolved well beyond its origins: dew-dried rice paper (softer than standard crispy sheets) is cut into thin strips and tossed with shredded green mango (sharp and sour), minced Vietnamese coriander (pungently aromatic), Tây Ninh shrimp salt (salty-sweet with a complex prawn fragrance), scallion-peanut oil, kumquat juice, boiled quail eggs, and hand-shredded beef jerky. Nguyễn Thượng Hiền Street in District 3 — with a dozen carts jostling for space — is the pilgrimage destination for devotees.",
+    "story_blockquote_vi": "Sài Gòn có nhiều thứ sang trọng, nhưng thứ người ta nhớ nhất khi rời đi thường là túi bánh tráng trộn cầm tay trên vỉa hè chiều tà.",
+    "story_blockquote_en": "Saigon has many luxuries, but what people most remember when they leave is often a bag of banh trang tron eaten standing on the pavement at dusk.",
+    "story_blockquote_cite": "— Ghi chép ẩm thực đường phố Sài Gòn, VnExpress",
+    "ingredients": [
+      {
+        "name_vi": "Bánh tráng phơi sương",
+        "name_en": "Dew-dried rice paper (thin strips)",
+        "role_vi": "Thái sợi 3–4mm · mềm dai sau khi phơi sương",
+        "role_en": "Cut into 3–4mm strips · pliable and chewy from the dew-drying process",
+        "svgVariant": 0
+      },
+      {
+        "name_vi": "Xoài xanh bào sợi",
+        "name_en": "Shredded green mango",
+        "role_vi": "Bào sợi · vắt bớt nước trước khi trộn",
+        "role_en": "Shredded · drained slightly before mixing",
+        "svgVariant": 0
+      },
+      {
+        "name_vi": "Muối tôm Tây Ninh",
+        "name_en": "Tay Ninh shrimp salt",
+        "role_vi": "Rắc trực tiếp · không thay thế bằng muối ớt thông thường",
+        "role_en": "Sprinkled directly · cannot substitute with standard chili salt",
+        "svgVariant": 3
+      },
+      {
+        "name_vi": "Rau răm",
+        "name_en": "Vietnamese coriander (rau ram)",
+        "role_vi": "Thái nhuyễn · bỏ cọng già",
+        "role_en": "Finely chopped · tough stems discarded",
+        "svgVariant": 0
+      },
+      {
+        "name_vi": "Khô bò xé sợi",
+        "name_en": "Shredded beef jerky",
+        "role_vi": "Xé sợi nhỏ · tẩm ướt nhẹ trước khi trộn",
+        "role_en": "Hand-shredded into strips · lightly marinated before mixing",
+        "svgVariant": 1
+      },
+      {
+        "name_vi": "Trứng cút luộc",
+        "name_en": "Boiled quail eggs",
+        "role_vi": "Béo béo, bùi bùi — điểm nhấn creamy giữa các vị chua cay",
+        "role_en": "Creamy, rich counterpoint amid the sour and spicy elements",
+        "svgVariant": 2
+      },
+      {
+        "name_vi": "Dầu hành phi lạc",
+        "name_en": "Scallion oil with roasted peanuts",
+        "role_vi": "Phi hành + lạc rang · rưới nóng lên bánh tráng",
+        "role_en": "Fried scallions + roasted peanuts · drizzled hot over the rice paper",
+        "svgVariant": 3
+      },
+      {
+        "name_vi": "Tắc (quất) vắt lấy nước",
+        "name_en": "Kumquat juice",
+        "role_vi": "Chua thơm nhẹ, làm dậy hương bánh tráng",
+        "role_en": "Gentle citrus brightness that lifts the rice-paper aroma",
+        "svgVariant": 3
+      }
+    ],
+    "how_to_eat_vi": "## Cách ăn đúng kiểu Sài Gòn\n\nBánh tráng trộn là món ăn bằng tay — **không dùng đũa, không dùng thìa**. Nhúng tay vào túi, bốc một nhúm và nhét vào miệng. Đây không phải thô lỗ mà là cách thưởng thức đúng chuẩn vỉa hè Sài Gòn.\n\n## Điều chỉnh độ cay\n\nMuối tôm đã có sẵn vị cay nhẹ. **Nếu muốn cay hơn**, hãy xin thêm sa tế hoặc tương ớt từ chủ xe. Nếu mua cho trẻ em, nhớ dặn \"ít cay\" ngay từ đầu vì mỗi xe có mức cay mặc định khác nhau.\n\n## Ăn ngay khi nhận\n\nBánh tráng trộn ngon nhất trong **10 phút đầu** — nếu để lâu, xoài sẽ ra nước và bánh tráng sẽ mềm nhão. Đây là lý do người Sài Gòn thường đứng ngay tại chỗ ăn chứ không mang về nhà.",
+    "how_to_eat_en": "## The authentic Saigon way\n\nBánh tráng trộn is a hand food — **no chopsticks, no spoon**. Reach into the bag, pinch a handful, and eat. This is not crude — it is the correct sidewalk protocol that Saigonese have perfected.\n\n## Adjusting the heat\n\nShrimp salt already carries mild chili heat. **For more spice**, ask the vendor for extra sa tế (chili oil) or chili sauce. If buying for children, specify 'ít cay' (less spicy) upfront as each cart has a different default heat level.\n\n## Eat immediately\n\nBánh tráng trộn is best within the **first 10 minutes** — the mango releases juice over time and the rice paper softens. This is precisely why Saigonese eat it standing right at the cart rather than carrying it home.",
+    "eateries": [
+      {
+        "name": "Xe bánh tráng trộn phố Nguyễn Thượng Hiền",
+        "address": "Khu vực số 1–15 Nguyễn Thượng Hiền, Phường 5, Quận 3 (đoạn gần Lê Văn Sỹ)",
+        "tags": [
+          "Phố ăn vặt nổi tiếng",
+          "Nhiều lựa chọn"
+        ],
+        "price_vnd": "15–30 k₫",
+        "price_note": "Hơn chục xe cạnh tranh nhau — nên thử nhiều xe để so sánh"
+      },
+      {
+        "name": "Xe bánh tráng trộn Hồ Con Rùa",
+        "address": "Công trường Quốc tế (Hồ Con Rùa), Phường 6, Quận 3",
+        "tags": [
+          "Không gian thoáng mát",
+          "Buổi tối"
+        ],
+        "price_vnd": "15–25 k₫",
+        "price_note": "Ăn vặt xung quanh hồ, đông nhất sau 17h"
+      },
+      {
+        "name": "Khu ăn vặt công viên 23/9",
+        "address": "Góc Phạm Ngũ Lão – Lê Lai (gần số 1 Lê Lai, công viên 23/9), Quận 1",
+        "tags": [
+          "Trung tâm Quận 1",
+          "Đa dạng ăn vặt"
+        ],
+        "price_vnd": "15–35 k₫",
+        "price_note": "Khu vực tập trung nhiều xe ăn vặt buổi chiều, trong đó có bánh tráng trộn"
+      },
+      {
+        "name": "Xe bánh tráng trộn Huỳnh Thúc Kháng",
+        "address": "Khu vực số 1–5 Huỳnh Thúc Kháng (đầu đường gần Lê Thánh Tôn), Quận 1",
+        "tags": [
+          "Đông khách 18–23h",
+          "Sinh viên"
+        ],
+        "price_vnd": "10–25 k₫",
+        "price_note": "Xe bán từ chiều tới 23h, khách đa phần là sinh viên và dân văn phòng gần đó"
+      }
+    ],
+    "tip_title_vi": "Bí quyết nhận biết xe bánh tráng trộn ngon",
+    "tip_title_en": "How to spot a great banh trang tron cart",
+    "tip_body_vi": "Xe ngon thường đông người xếp hàng dù giá không khác mấy. Quan sát xem xoài xanh có còn tươi chua không (không bị thâm hay héo), muối tôm có màu cam hồng tươi không. Một dấu hiệu chất lượng nữa: chủ xe trộn theo yêu cầu từng khách thay vì để sẵn — nghĩa là bánh tráng luôn tươi.",
+    "tip_body_en": "Great carts always have queues even when prices are similar nearby. Check if the green mango looks fresh and sharp — not browning or wilted — and that the shrimp salt is a vivid pinkish-orange. A reliable quality signal: the vendor mixes each order to order rather than pre-mixing — meaning the rice paper is always fresh.",
+    "image_url": "/food/hcm-banh-trang-tron/hero.jpg",
+    "gallery": [
+      "/food/hcm-banh-trang-tron/gallery-1.jpg",
+      "/food/hcm-banh-trang-tron/gallery-2.jpg",
+      "/food/hcm-banh-trang-tron/gallery-3.jpg",
+      "/food/hcm-banh-trang-tron/gallery-4.jpg"
+    ],
+    "status": "published",
+    "sources": [
+      {
+        "url": "https://vnexpress.net/banh-trang-tron-mon-an-duong-pho-noi-tieng-sai-gon-3249657.html",
+        "title": "Bánh tráng trộn - món ăn đường phố nổi tiếng Sài Gòn",
+        "publisher": "VnExpress",
+        "accessed_date": "2026-05-24"
+      },
+      {
+        "url": "https://ngoisao.vnexpress.net/banh-trang-tron-mon-ngon-via-he-2605594.html",
+        "title": "Bánh tráng trộn, món ngon vỉa hè",
+        "publisher": "VnExpress (Ngôi Sao)",
+        "accessed_date": "2026-05-24"
+      },
+      {
+        "url": "https://vnexpress.net/4-mon-an-vat-sai-gon-khien-nhieu-nguoi-me-man-3368753.html",
+        "title": "4 món ăn vặt Sài Gòn khiến nhiều người mê mẩn",
+        "publisher": "VnExpress",
+        "accessed_date": "2026-05-24"
+      }
+    ],
+    "body_blocks": [
+      {
+        "type": "paragraph",
+        "text_vi": "Ở Tây Ninh, người ta từng gom những mảnh bánh tráng vụn từ máy cắt, trộn với dầu hành, muối ớt và bột cá để ăn trong gia đình — một thói quen tiết kiệm tuyệt vời không tốn kém. Khi làn sóng di dân và thương buôn đổ về Sài Gòn, những gánh bánh tráng trộn theo họ tràn ra khắp vỉa hè, và học sinh sinh viên yêu thích vì rẻ, ngon, ăn được ngay khi đứng. Công thức hiện đại đã xa rời nguyên bản: sợi bánh tráng phơi sương (mềm hơn bánh tráng cứng thông thường) thái sợi nhỏ, trộn với xoài xanh bào chua thanh, rau răm thơm hắc, muối tôm Tây Ninh mặn ngọt, dầu phi hành lạc, tắc vắt, trứng cút luộc và khô bò xé sợi. Phố Nguyễn Thượng Hiền (Quận 3) với hàng chục xe chen nhau là \"thánh địa\" bánh tráng trộn nổi tiếng nhất thành phố, nơi mỗi xe có bí quyết riêng và khách quen biết thuộc từng chủ xe.",
+        "text_en": "In Tây Ninh, people once collected broken rice-paper scraps from cutting machines and mixed them with scallion oil, chili salt and fish powder for home consumption — a wonderfully frugal habit that cost next to nothing. When migrants and traders flooded into Saigon, their bánh tráng trộn carts flooded the sidewalks with them, and students loved it for being cheap, delicious and immediately edible while standing. The modern recipe has evolved well beyond its origins: dew-dried rice paper (softer than standard crispy sheets) is cut into thin strips and tossed with sharp shredded green mango, pungently aromatic Vietnamese coriander, Tây Ninh shrimp salt (salty-sweet with a complex prawn fragrance), scallion-peanut oil, kumquat juice, boiled quail eggs and hand-shredded beef jerky. Nguyễn Thượng Hiền Street in District 3 — with a dozen carts jostling for space — is the undisputed pilgrimage destination for devotees, where each cart guards its own recipe secrets and regulars know every vendor by name."
+      },
+      {
+        "type": "image",
+        "url": null,
+        "caption_vi": "Xe bánh tráng trộn trên phố Nguyễn Thượng Hiền buổi chiều — chủ xe thoăn thoắt trộn từng túi theo yêu cầu riêng của khách",
+        "caption_en": "A bánh tráng trộn cart on Nguyễn Thượng Hiền Street in the afternoon — the vendor nimbly mixing each bag to individual customer specifications",
+        "layout": "full"
+      },
+      {
+        "type": "paragraph",
+        "text_vi": "Linh hồn của bánh tráng trộn là muối tôm Tây Ninh — thứ gia vị không thể thay thế có màu cam hồng tươi, mùi thơm tôm nướng đặc trưng và vị mặn ngọt phức hợp không nơi nào sản xuất giống được. Xoài xanh bào sợi cung cấp vị chua thanh mát cần thiết để cân bằng với vị béo của dầu hành lạc; rau răm thêm chiều sâu hương thơm hắc đặc trưng miền Nam; khô bò xé sợi cho vị umami ngọt đậm và kết cấu dai thú vị. Khi tất cả được trộn đều trong túi nilon và được vắt thêm tắc vào — đó là khoảnh khắc tất cả các vị chua cay mặn ngọt béo thơm hợp lại thành một thứ hoàn toàn mới, không thể mô tả chính xác bằng bất kỳ từ đơn lẻ nào.",
+        "text_en": "The soul of bánh tráng trộn is Tây Ninh shrimp salt — the irreplaceable seasoning of vivid pinkish-orange colour, with the aroma of roasted prawns and a complex salty-sweet flavour that no other region can replicate. Shredded green mango provides the sharp, refreshing sourness needed to balance the richness of the scallion-peanut oil; Vietnamese coriander adds a layer of distinctively pungent southern fragrance; shredded beef jerky brings rich umami sweetness and a satisfying chewy texture. When everything is mixed together in the plastic bag and finished with a squeeze of kumquat — that is the moment all the sour, spicy, salty, sweet, fatty and aromatic notes merge into something entirely new that cannot be accurately described by any single word."
+      },
+      {
+        "type": "image",
+        "url": null,
+        "caption_vi": "Túi bánh tráng trộn vừa được trộn xong với đầy đủ topping — xoài xanh, rau răm, trứng cút và khô bò, sẵn sàng để ăn tại chỗ",
+        "caption_en": "A freshly mixed bánh tráng trộn bag with full toppings — shredded mango, Vietnamese coriander, quail eggs and beef jerky, ready to eat on the spot",
+        "layout": "inset-right"
+      },
+      {
+        "type": "paragraph",
+        "text_vi": "Bánh tráng trộn là món ăn của thế hệ — người Sài Gòn lớn lên những năm 1990, 2000 đều có ký ức về những buổi chiều tan học đứng ăn bánh tráng trộn trước cổng trường. Sự đơn giản, rẻ tiền và ăn ngay mà không cần bàn ghế hay dụng cụ — những phẩm chất tưởng chừng tầm thường đó lại là thứ đã tạo nên một biểu tượng ẩm thực vĩnh cửu. Ngày nay bánh tráng trộn đã vượt qua biên giới vỉa hè: có mặt trong thực đơn nhà hàng, được đóng gói bán online, thậm chí xuất hiện ở các thành phố nước ngoài có cộng đồng người Việt — nhưng không phiên bản nào ngon bằng ăn trực tiếp từ xe đẩy trên phố Sài Gòn lúc trời chạng vạng.",
+        "text_en": "Bánh tráng trộn is a generational dish — Saigonese who grew up in the 1990s and 2000s all share memories of after-school afternoons standing and eating it at the school gate. Its simplicity, low cost and immediate eat-while-standing format — qualities that seem unremarkable — are precisely what created a timeless culinary icon. Today bánh tráng trộn has crossed the sidewalk boundary: it appears on restaurant menus, is packaged for online sale and even turns up in overseas cities with Vietnamese communities — but no version tastes as good as eating it directly from a street cart on a Saigon evening at dusk."
+      }
+    ]
+  },
+  {
+    "content_hash": "fi_hcm_caphe_v1",
+    "cultural_post_hash": "hcm_at5_caphe",
+    "slug": "hcm-ca-phe-sua-da",
+    "title_vi": "Cà phê sữa đá phin",
+    "title_en": "Phin-drip Iced Coffee",
+    "lede_vi": "Không phải máy espresso, không phải capsule — chiếc phin kim loại nhỏ bé, nhỏ từng giọt chậm rãi vào ly sữa đặc béo ngậy mới là linh hồn thật sự của buổi sáng Sài Gòn.",
+    "lede_en": "Not espresso, not capsules — the tiny metal phin slowly dripping into condensed milk is the true soul of a Saigon morning.",
+    "tags": [
+      "Đặc sản Sài Gòn",
+      "Đồ uống truyền thống"
+    ],
+    "info_origin_vi": "Sài Gòn",
+    "info_origin_en": "Saigon",
+    "info_best_time_vi": "Sáng sớm",
+    "info_best_time_en": "Early morning",
+    "info_price_range": "15 – 50 k₫",
+    "info_vegetarian_vi": "Có (không sữa)",
+    "info_vegetarian_en": "Yes (without milk)",
+    "story_vi": "Cà phê phin xuất hiện ở Việt Nam từ cuối thế kỷ 19, khi người Pháp đưa cây cà phê Arabica đến trồng ở Tây Nguyên và thiết bị pha cà phê nhỏ giọt vào thói quen sinh hoạt đô thị. Người Việt nhanh chóng thích nghi chiếc phin kim loại đơn giản thay cho máy espresso cồng kềnh, và tìm ra bộ đôi hoàn hảo: cà phê Robusta đậm đặc từ Đắk Lắk — đắng mạnh, thơm khói — ghép với sữa đặc có đường béo ngậy của nhãn Ông Thọ. Sự kết hợp này không chỉ là phản ứng hóa học giữa đắng và ngọt mà còn là phản ứng văn hóa giữa Pháp thuộc và bản sắc Việt: biến thứ đồ uống sang trọng thành thứ bình dân nhất vỉa hè.\n\nVăn hóa ngồi cà phê vỉa hè Sài Gòn — ghế nhựa thấp, bàn nhựa nhỏ, ly cà phê đen hoặc sữa đặc trên tờ giấy báo lót — là một thiết chế xã hội không kém gì quán café Paris hay trà đình Hà Nội. Người ta đến không chỉ để uống mà để ngồi, để nhìn dòng xe, để nói chuyện không đầu không cuối từ sáu giờ sáng đến tám giờ tối. Hàng nghìn quán cóc vỉa hè tồn tại song song với Highlands Coffee, Trung Nguyên Legend, và các chuỗi cà phê quốc tế — chứng minh rằng cà phê phin không bị thay thế mà đang được tái sinh trong nhiều hình thức mới.\n\nCà phê sữa đá phin Sài Gòn ngày nay đã được CNN Travel, Lonely Planet và nhiều tạp chí ẩm thực quốc tế xếp vào danh sách những đồ uống nhất định phải thử khi đến Việt Nam. Điều khiến nó trở nên đặc biệt không chỉ là hương vị — đắng mạnh, ngọt sâu, lạnh buốt — mà còn là nghi lễ: đặt phin lên miệng ly, đổ nước sôi vừa đủ, rồi ngồi đợi. Trong thế giới tức thời, hành động đợi một ly cà phê nhỏ giọt từng giọt là một hình thức thiền định Sài Gòn.",
+    "story_en": "Phin drip coffee arrived in Vietnam in the late 19th century when the French introduced Arabica cultivation to the Central Highlands and brought drip brewing habits into urban life. Vietnamese people quickly adapted the simple metal phin filter in place of bulky espresso machines, and discovered a perfect pairing: intense Robusta beans from Dak Lak — boldly bitter, smoky — combined with the rich sweetness of Ong Tho brand condensed milk. This combination is not just a chemical reaction between bitter and sweet but a cultural reaction between French colonialism and Vietnamese identity: transforming a luxury beverage into the most democratic street-corner drink.\n\nSaigon's sidewalk coffee culture — low plastic stools, small plastic tables, a glass of black or milk coffee on a sheet of newspaper — is a social institution no less significant than a Parisian café or a Hanoi tea house. People come not just to drink but to sit, to watch the traffic stream past, to have conversations without beginning or end from six in the morning until eight at night. Thousands of sidewalk stalls coexist alongside Highlands Coffee, Trung Nguyen Legend, and international café chains — proving that phin coffee is not being replaced but reinvented in many new forms.\n\nSaigon iced phin coffee today has been listed by CNN Travel, Lonely Planet, and many international food publications among the drinks you must try when visiting Vietnam. What makes it special is not just the flavour — intensely bitter, deeply sweet, ice-cold — but the ritual: placing the phin on the glass, pouring just enough boiling water, then sitting to wait. In an instant-gratification world, waiting for coffee to drip one drop at a time is a form of Saigon meditation.",
+    "story_blockquote_vi": "Mỗi giọt phin nhỏ xuống là Sài Gòn thêm một nhịp thở.",
+    "story_blockquote_en": "Each drop from the phin is Saigon taking one more breath.",
+    "story_blockquote_cite": "— Báo Tuổi Trẻ, chuyên mục Sài Gòn tôi yêu",
+    "ingredients": [
+      {
+        "name_vi": "Cà phê Robusta rang đậm",
+        "name_en": "Dark-roast Robusta coffee",
+        "role_vi": "Xay thô · nền đắng đậm khói",
+        "role_en": "Coarse grind · bold smoky bitter base",
+        "svgVariant": 0
+      },
+      {
+        "name_vi": "Phin inox",
+        "name_en": "Stainless steel phin filter",
+        "role_vi": "Chiết xuất chậm · 4–5 phút",
+        "role_en": "Slow extraction · 4–5 minutes",
+        "svgVariant": 1
+      },
+      {
+        "name_vi": "Sữa đặc có đường",
+        "name_en": "Sweetened condensed milk",
+        "role_vi": "Nhãn Ông Thọ · ngọt béo đậm",
+        "role_en": "Ông Thọ brand · deeply sweet and rich",
+        "svgVariant": 2
+      },
+      {
+        "name_vi": "Nước sôi 90–95°C",
+        "name_en": "Near-boiling water (90–95 °C)",
+        "role_vi": "Không sôi 100° — tránh đắng chát",
+        "role_en": "Not full boil — prevents bitter astringency",
+        "svgVariant": 3
+      },
+      {
+        "name_vi": "Đá viên khối",
+        "name_en": "Block ice",
+        "role_vi": "Tan chậm · giữ độ lạnh lâu",
+        "role_en": "Slow-melting · keeps cold longer",
+        "svgVariant": 2
+      },
+      {
+        "name_vi": "Cà phê Arabica (biến tấu)",
+        "name_en": "Arabica blend (optional)",
+        "role_vi": "Trộn 20–30% để tăng hương hoa",
+        "role_en": "20–30% blend for floral aroma",
+        "svgVariant": 0
+      }
+    ],
+    "how_to_eat_vi": "## Kỹ thuật pha phin đúng chuẩn\n\nĐặt phin lên miệng ly có sẵn 2 muỗng sữa đặc. Cho 20–25g cà phê xay thô vào phin, **đậy nắp nén nhẹ tay** — không ép chặt quá, cà phê sẽ không thoát nước. Đổ khoảng 10–15ml nước 90–95°C để ủ 30 giây cho bã nở đều, rồi đổ thêm đầy nước. Đợi **4–5 phút** để cà phê nhỏ hết — đây là bước không thể rút ngắn.\n\n## Pha đá và uống đúng thứ tự\n\nKhi cà phê nhỏ xong, **đừng khuấy ngay** — ngắm nhìn lớp cà phê đen sánh nằm trên sữa đặc vàng kem trong giây lát, rồi mới khuấy đều. Thêm đá viên khối (không dùng đá bào — tan quá nhanh), và uống trong vòng 10 phút để cảm nhận đủ ba lớp: đắng, ngọt, lạnh.\n\n## Cà phê đen hay sữa — cách chọn\n\n**Cà phê đen đá**: không sữa, thêm ít đường hoặc để nguyên — dành cho ai muốn cảm nhận trọn vẹn độ đắng và hương khói Robusta. **Cà phê sữa đá**: sữa đặc Ông Thọ là chuẩn vị Sài Gòn cổ điển — ngọt sâu, béo ngậy, đủ sức cân bằng độ đắng mạnh của Robusta.",
+    "how_to_eat_en": "## Brewing the phin correctly\n\nPlace the phin over a glass containing 2 tablespoons of condensed milk. Add 20–25g of coarsely ground coffee, **press the inner cap down lightly** — not too tight or the water won't flow through. Pour 10–15ml of 90–95°C water to bloom the grounds for 30 seconds, then fill to the top. Wait **4–5 minutes** for the coffee to finish dripping — this step cannot be rushed.\n\n## Adding ice and drinking in the right order\n\nWhen the dripping is done, **don't stir immediately** — pause a moment to admire the black coffee sitting above the golden condensed milk, then stir well. Add block ice (not crushed ice — it melts too fast), and drink within 10 minutes to experience all three layers: bitter, sweet, cold.\n\n## Black or milk — how to choose\n\n**Iced black coffee (cà phê đen đá)**: no milk, a little sugar or none at all — for those who want the full bitterness and smoky aroma of Robusta. **Iced milk coffee (cà phê sữa đá)**: Ông Thọ condensed milk is the classic Saigon formula — deeply sweet, richly creamy, strong enough to balance the powerful bitterness of Robusta.",
+    "eateries": [
+      {
+        "name": "Cà Phê Chồn Phố Huế (quán cóc cổ điển)",
+        "address": "20 Phố Huế, Bến Nghé, Quận 1, TP. Hồ Chí Minh",
+        "tags": [
+          "Ghế nhựa thấp",
+          "Phin truyền thống",
+          "Mở từ 5h sáng"
+        ],
+        "price_vnd": "15–20 k₫",
+        "price_note": "1 ly cà phê sữa đá"
+      },
+      {
+        "name": "Trung Nguyên Legend Café",
+        "address": "82 Phạm Ngọc Thạch, Quận 3, TP. Hồ Chí Minh",
+        "tags": [
+          "Rang xay tại chỗ",
+          "Không gian rộng",
+          "Nhiều loại phin"
+        ],
+        "price_vnd": "39–65 k₫",
+        "price_note": "1 ly cà phê phin"
+      },
+      {
+        "name": "Cà Phê Bệt Nguyễn Văn Bình",
+        "address": "Đường sách Nguyễn Văn Bình (gần góc Đinh Tiên Hoàng), Bến Nghé, Quận 1, TP. Hồ Chí Minh",
+        "tags": [
+          "Ngồi bệt sân đường sách",
+          "Không gian sáng tạo",
+          "Cuối tuần đông"
+        ],
+        "price_vnd": "20–35 k₫",
+        "price_note": "1 ly"
+      },
+      {
+        "name": "Cà Phê Vợt Thích Quảng Đức",
+        "address": "396 Lê Văn Sỹ, Phường 14, Quận 3, TP. Hồ Chí Minh",
+        "tags": [
+          "Phin vợt vải pha cổ truyền",
+          "Hơn 60 năm",
+          "Cà phê đậm đặc"
+        ],
+        "price_vnd": "12–25 k₫",
+        "price_note": "1 ly cà phê đen hoặc sữa"
+      }
+    ],
+    "tip_title_vi": "Uống đúng giờ",
+    "tip_title_en": "Best time to drink",
+    "tip_body_vi": "Cà phê phin ngon nhất khi uống buổi sáng sớm, trước 9 giờ. Nắng Sài Gòn lên, ghế nhựa vỉa hè, ly cà phê sữa đá — không cần thêm gì nữa.",
+    "tip_body_en": "Phin coffee is best drunk early morning, before 9 AM. The Saigon sun rising, a low plastic stool on the sidewalk, an iced milk coffee — nothing more is needed.",
+    "image_url": "/food/hcm-ca-phe-sua-da/hero.jpg",
+    "gallery": [
+      "/food/hcm-ca-phe-sua-da/gallery-1.jpg",
+      "/food/hcm-ca-phe-sua-da/gallery-2.jpg",
+      "/food/hcm-ca-phe-sua-da/gallery-3.jpg",
+      "/food/hcm-ca-phe-sua-da/gallery-4.jpg"
+    ],
+    "status": "published",
+    "sources": [
+      {
+        "url": "https://toquoc.vn/van-hoa-ca-phe-sai-gon/",
+        "title": "Văn hóa cà phê Sài Gòn",
+        "publisher": "Báo Tổ Quốc",
+        "accessed_date": "2024-01-15"
+      },
+      {
+        "url": "https://vietnamtourism.gov.vn/am-thuc-tp-ho-chi-minh/",
+        "title": "Ẩm thực TP. Hồ Chí Minh",
+        "publisher": "Tổng cục Du lịch",
+        "accessed_date": "2024-01-15"
+      }
+    ],
+    "body_blocks": [
+      {
+        "type": "paragraph",
+        "text_vi": "Cà phê phin xuất hiện ở Việt Nam từ cuối thế kỷ 19, khi người Pháp đưa cây cà phê Arabica đến trồng ở Tây Nguyên và thiết bị pha cà phê nhỏ giọt vào thói quen sinh hoạt đô thị. Người Việt nhanh chóng thích nghi chiếc phin kim loại đơn giản thay cho máy espresso cồng kềnh, và tìm ra bộ đôi hoàn hảo: cà phê Robusta đậm đặc từ Đắk Lắk — đắng mạnh, thơm khói — ghép với sữa đặc có đường béo ngậy của nhãn Ông Thọ. Sự kết hợp này không chỉ là phản ứng hóa học giữa đắng và ngọt mà còn là phản ứng văn hóa giữa Pháp thuộc và bản sắc Việt. Biến thứ đồ uống sang trọng thành thứ bình dân nhất vỉa hè — đó là cách người Sài Gòn chinh phục mọi thứ ngoại nhập.",
+        "text_en": "Phin drip coffee arrived in Vietnam in the late 19th century when the French introduced Arabica cultivation to the Central Highlands and brought drip brewing habits into urban life. Vietnamese people quickly adapted the simple metal phin filter in place of bulky espresso machines, and discovered a perfect pairing: intense Robusta beans from Dak Lak — boldly bitter, smoky — combined with the rich sweetness of Ong Tho brand condensed milk. This combination is not just a chemical reaction between bitter and sweet but a cultural reaction between French colonialism and Vietnamese identity — transforming a luxury beverage into the most democratic street-corner drink."
+      },
+      {
+        "type": "image",
+        "url": null,
+        "caption_vi": "Ly cà phê sữa đá phin trên ghế nhựa vỉa hè Sài Gòn buổi sáng sớm — chiếc phin kim loại vẫn đang nhỏ giọt",
+        "caption_en": "An iced phin milk coffee on a Saigon sidewalk plastic stool in the early morning — the metal phin still dripping",
+        "layout": "full"
+      },
+      {
+        "type": "paragraph",
+        "text_vi": "Văn hóa ngồi cà phê vỉa hè Sài Gòn — ghế nhựa thấp, bàn nhựa nhỏ, ly cà phê đen hoặc sữa đặc — là một thiết chế xã hội không kém gì quán café Paris hay trà đình Hà Nội. Người ta đến không chỉ để uống mà để ngồi, để nhìn dòng xe, để nói chuyện không đầu không cuối từ sáu giờ sáng đến tám giờ tối. Hàng nghìn quán cóc vỉa hè tồn tại song song với Highlands Coffee, Trung Nguyên Legend, và các chuỗi quốc tế — chứng minh rằng cà phê phin không bị thay thế mà đang được tái sinh trong nhiều hình thức mới. Nghi lễ đặt phin, đổ nước, rồi ngồi đợi từng giọt nhỏ là một hình thức thiền định đặc trưng Sài Gòn giữa nhịp sống hối hả.",
+        "text_en": "Saigon's sidewalk coffee culture — low plastic stools, small plastic tables, a glass of black or milk coffee — is a social institution no less significant than a Parisian café or a Hanoi tea house. People come not just to drink but to sit, watch the traffic stream past, and have conversations without beginning or end from six in the morning until eight at night. Thousands of sidewalk stalls coexist alongside Highlands Coffee, Trung Nguyen Legend, and international chains — proving that phin coffee is not being replaced but reinvented in many new forms. The ritual of placing the phin, pouring the water, then sitting to wait for each drop is a distinctly Saigon form of meditation within a rushing life."
+      },
+      {
+        "type": "image",
+        "url": null,
+        "caption_vi": "Hàng cà phê vỉa hè buổi sáng với dãy ghế nhựa thấp — không gian xã hội đặc trưng của người Sài Gòn",
+        "caption_en": "A morning sidewalk coffee stall with rows of low plastic stools — the quintessential social space of Saigonese life",
+        "layout": "inset-right"
+      },
+      {
+        "type": "paragraph",
+        "text_vi": "Cà phê sữa đá phin Sài Gòn ngày nay đã được CNN Travel, Lonely Planet và nhiều tạp chí ẩm thực quốc tế xếp vào danh sách những đồ uống nhất định phải thử khi đến Việt Nam. Điều khiến nó trở nên đặc biệt không chỉ là hương vị — đắng mạnh, ngọt sâu, lạnh buốt — mà còn là nghi lễ của sự chờ đợi: trong thế giới tức thời, một ly cà phê nhỏ giọt từng giọt chậm rãi là thứ xa xỉ bình dân nhất. Robusta Việt Nam có hàm lượng caffeine cao hơn Arabica đến 60%, tạo ra cú đánh thức mạnh mẽ mà không một loại cà phê công nghiệp nào sánh được. Đây không chỉ là đồ uống — đây là bản sắc buổi sáng của một thành phố không bao giờ ngủ.",
+        "text_en": "Saigon iced phin coffee today has been listed by CNN Travel, Lonely Planet, and many international food publications among the drinks you must try when visiting Vietnam. What makes it special is not just the flavour — intensely bitter, deeply sweet, ice-cold — but the ritual of waiting: in an instant-gratification world, a coffee that drips one drop at a time is the most democratic of luxuries. Vietnamese Robusta contains up to 60% more caffeine than Arabica, delivering a wake-up punch that no industrial coffee can match. This is not merely a beverage — it is the morning identity of a city that never sleeps."
+      }
+    ]
+  },
+  {
+    "content_hash": "fi_hcm_banhxeo_v1",
+    "cultural_post_hash": "hcm_at6_banhxeo",
+    "slug": "hcm-banh-xeo-mien-tay",
+    "title_vi": "Bánh xèo miền Tây",
+    "title_en": "Mekong Sizzling Crepe",
+    "lede_vi": "Tiếng xèo khi bột đổ vào chảo mỡ nóng — âm thanh đó đã đặt tên cho chiếc bánh to bằng cái mâm, vàng ruộm, giòn rụm này từ vùng sông nước Cửu Long.",
+    "lede_en": "The sizzle of batter hitting hot oil — that sound named this platter-sized, golden, shatteringly crisp crepe from the Mekong River delta.",
+    "tags": [
+      "Đặc sản miền Tây",
+      "Ẩm thực Sài Gòn"
+    ],
+    "info_origin_vi": "Đồng bằng sông Cửu Long",
+    "info_origin_en": "Mekong River Delta",
+    "info_best_time_vi": "Trưa & tối",
+    "info_best_time_en": "Lunch & dinner",
+    "info_price_range": "40 – 100 k₫",
+    "info_vegetarian_vi": "Có biến tấu chay",
+    "info_vegetarian_en": "Vegetarian variant available",
+    "story_vi": "Bánh xèo có nguồn gốc từ vùng đồng bằng sông Cửu Long, nơi lúa gạo dồi dào và tôm cá sông rạch luôn sẵn có. Tên gọi xuất phát từ âm thanh \"xèo\" phát ra khi bột gạo pha nghệ được đổ vào chảo mỡ đang sôi — một âm thanh mà bất kỳ người Sài Gòn nào cũng nhận ra ngay từ cuối phố. Bánh xèo miền Tây có kích thước lớn hơn phiên bản miền Trung (nỏn nhỏ và giòn hơn) hay miền Bắc (bánh khuyết) — to như cái mâm, dày nhân, và phải gập đôi mới vừa tay cầm. Làn sóng di cư từ đồng bằng lên Sài Gòn mang theo chiếc bánh này, biến nó thành một trong những món ăn đường phố phổ biến nhất thành phố.\n\nBí quyết của bánh xèo ngon nằm ở ba yếu tố: bột, chảo và rau. Bột gạo xay mịn pha với nước cốt dừa và bột nghệ tươi tạo màu vàng rực và hương thơm đặc biệt; khi đổ vào chảo gang nóng đã láng mỡ heo, phải lắc tròn nhanh để bánh mỏng đều và giòn đến từng rìa. Nhân truyền thống gồm tôm tươi còn vỏ, thịt heo ba chỉ thái mỏng, giá đỗ xanh giòn và hành lá — đơn giản nhưng mỗi nguyên liệu đều đang ở đỉnh cao hương vị của mình. Bộ rau ăn kèm là phần không thể thiếu: lá diếp cá, rau húng lủi, rau thơm, lá lốt và đặc biệt là xà lách lá to để gói bánh.\n\nCách ăn bánh xèo đúng điệu là cả một nghệ thuật: lấy một lá xà lách to, đặt mảnh bánh xèo giòn lên, thêm vài ngọn rau thơm, cuốn lại rồi chấm vào nước mắm chua ngọt pha ớt — tất cả phải thực hiện trong vài giây trước khi bánh mất độ giòn. Đây là lý do tại sao bánh xèo được gọi là \"món ăn của khoảnh khắc\": nếu chần chừ là mất hết. Trên đường Đinh Công Tráng (Quận 1) — con phố được mệnh danh là phố bánh xèo của Sài Gòn — hàng chục quán phục vụ bánh xèo từ trưa đến tối, mỗi quán có bí quyết pha bột và pha nước chấm riêng tạo nên phong cách không trùng nhau.",
+    "story_en": "Banh xeo originates from the Mekong River delta, where rice is abundant and freshwater shrimp and fish are always available. The name comes from the sizzling \"xèo\" sound when turmeric-seasoned rice batter hits a pan of boiling oil — a sound any Saigonese recognizes from the end of the street. Mekong-style banh xeo is larger than the Central Vietnamese version (smaller and crispier) or the Northern version (banh khuyet) — platter-sized, thick with filling, and must be folded in half to hold. Waves of migration from the delta to Saigon brought this crepe along, making it one of the city's most beloved street foods.\n\nThe secret of great banh xeo lies in three elements: batter, pan, and herbs. Finely ground rice flour mixed with coconut milk and fresh turmeric powder creates the vivid yellow color and distinctive aroma; when poured into a hot cast-iron pan greased with pork lard, it must be swirled quickly to create an evenly thin, crispy crepe right to the edges. The traditional filling is simplicity at its peak: fresh whole shrimp, thinly sliced pork belly, crisp bean sprouts and green onion — each ingredient at the height of its flavor. The accompanying herb plate is essential: fish mint, Vietnamese perilla, Vietnamese basil, wild betel leaves and especially large lettuce leaves for wrapping.\n\nEating banh xeo properly is itself an art: take a large lettuce leaf, place a piece of the crispy crepe on it, add a few herb sprigs, roll it up and dip into sweet-sour fish sauce with chili — all within a few seconds before the crepe loses its crunch. This is why banh xeo is called the \"dish of the moment\": hesitate and it is gone. On Dinh Cong Trang Street in District 1 — Saigon's unofficial banh xeo street — dozens of restaurants serve from noon to night, each with their own batter recipe and dipping sauce formula that make no two identical.",
+    "story_blockquote_vi": "Bánh xèo ngon là bánh xèo ăn ngay — chần chừ mười giây là mất giòn.",
+    "story_blockquote_en": "Great banh xeo is eaten immediately — hesitate ten seconds and the crunch is gone.",
+    "story_blockquote_cite": "— Chủ quán Bánh Xèo Đinh Công Tráng, phỏng vấn VnExpress",
+    "ingredients": [
+      {
+        "name_vi": "Bột gạo xay mịn",
+        "name_en": "Finely ground rice flour",
+        "role_vi": "Pha nước cốt dừa · tạo vỏ giòn rụm",
+        "role_en": "Mixed with coconut milk · creates shatteringly crisp shell",
+        "svgVariant": 0
+      },
+      {
+        "name_vi": "Bột nghệ tươi",
+        "name_en": "Fresh turmeric powder",
+        "role_vi": "Màu vàng rực · hương thơm đặc trưng",
+        "role_en": "Vivid golden colour · distinctive aroma",
+        "svgVariant": 2
+      },
+      {
+        "name_vi": "Tôm tươi còn vỏ",
+        "name_en": "Whole fresh shrimp (shell-on)",
+        "role_vi": "Ngọt mọng · căng vỏ khi chiên",
+        "role_en": "Juicy sweet · shell crisps in the pan",
+        "svgVariant": 1
+      },
+      {
+        "name_vi": "Thịt heo ba chỉ",
+        "name_en": "Pork belly",
+        "role_vi": "Thái lát mỏng · béo mềm",
+        "role_en": "Thinly sliced · tender and rich",
+        "svgVariant": 1
+      },
+      {
+        "name_vi": "Giá đỗ xanh",
+        "name_en": "Mung bean sprouts",
+        "role_vi": "Giòn ngọt · hút dầu mỡ",
+        "role_en": "Crunchy and sweet · absorbs excess fat",
+        "svgVariant": 0
+      },
+      {
+        "name_vi": "Nước mắm pha chua ngọt",
+        "name_en": "Sweet-sour fish sauce",
+        "role_vi": "2 mắm : 1 đường : 2 nước : 1 chanh + tỏi ớt",
+        "role_en": "2 fish sauce : 1 sugar : 2 water : 1 lime + chili garlic",
+        "svgVariant": 3
+      }
+    ],
+    "how_to_eat_vi": "## Cách cuốn đúng kiểu — từng bước\n\nLấy một lá xà lách to đặt trên lòng bàn tay. **Gắp ngay một miếng bánh xèo còn nóng** — đừng đợi nguội. Đặt miếng bánh lên lá, thêm 2–3 ngọn rau húng lủi và vài lá diếp cá. **Cuốn chặt tay thành hình trụ**, nhúng vào bát nước mắm chua ngọt và cắn ngay — toàn bộ quá trình không nên quá 10 giây.\n\n## Nước chấm — tỷ lệ chuẩn\n\nTỷ lệ vàng: **2 muỗng nước mắm ngon : 1 muỗng đường : 2 muỗng nước lọc : 1 muỗng nước cốt chanh**, thêm tỏi băm nhuyễn và ớt thái lát. Không dùng tương hoisin hay tương đen — sẽ lấn át vị bánh. Nước chấm quá nhạt thì thêm nước mắm; quá mặn thì thêm nước và chanh.\n\n## Nhận biết bánh xèo chuẩn trước khi gọi\n\nBánh xèo đúng điệu phải **vàng đều đến tận rìa**, **không bị nhão giữa**, và khi nhấc lên nghe tiếng giòn. Nếu rìa bánh trắng nhợt hoặc giữa bánh còn bột sống, quán đó đổ bột quá dày hoặc nhiệt chảo chưa đủ.",
+    "how_to_eat_en": "## How to wrap — step by step\n\nPlace a large lettuce leaf flat in your palm. **Grab a piece of hot banh xeo immediately** — do not wait for it to cool. Lay the crepe on the leaf, add 2–3 sprigs of Vietnamese perilla and a few fish mint leaves. **Roll firmly into a cylinder**, dip into the sweet-sour fish sauce, and bite immediately — the entire process should take no more than 10 seconds.\n\n## Dipping sauce — the correct ratio\n\nThe golden ratio: **2 tbsp good fish sauce : 1 tbsp sugar : 2 tbsp water : 1 tbsp lime juice**, plus minced garlic and sliced chili. Never use hoisin or black bean sauce — they overwhelm the crepe. Too bland, add more fish sauce; too salty, add more water and lime.\n\n## How to spot a quality banh xeo before ordering\n\nA proper banh xeo must be **golden all the way to the edges**, **not soggy in the centre**, and make a crackling sound when lifted. If the edges are pale or the centre looks raw, the shop is using batter that is too thick or the pan heat is insufficient.",
+    "eateries": [
+      {
+        "name": "Bánh Xèo Đinh Công Tráng",
+        "address": "46A Đinh Công Tráng, Tân Định, Quận 1, TP. Hồ Chí Minh",
+        "tags": [
+          "Phố bánh xèo nổi tiếng nhất",
+          "Mở 10h–21h",
+          "Rau ăn kèm đa dạng"
+        ],
+        "price_vnd": "55–80 k₫",
+        "price_note": "1 bánh đầy nhân"
+      },
+      {
+        "name": "Bánh Xèo Mười Xiềm",
+        "address": "204 Nguyễn Trãi, Quận 1, TP. Hồ Chí Minh",
+        "tags": [
+          "Gia truyền hơn 30 năm",
+          "Size đại miền Tây",
+          "Tôm tươi nguyên vỏ"
+        ],
+        "price_vnd": "65–90 k₫",
+        "price_note": "1 bánh"
+      },
+      {
+        "name": "Bánh Xèo 46A Đinh Công Tráng (quán đối diện)",
+        "address": "46 Đinh Công Tráng, Tân Định, Quận 1, TP. Hồ Chí Minh",
+        "tags": [
+          "Bản sắc riêng",
+          "Bột pha nước cốt dừa đậm hơn",
+          "Ngồi thoáng mát"
+        ],
+        "price_vnd": "50–70 k₫",
+        "price_note": "1 bánh"
+      },
+      {
+        "name": "Bánh Xèo Ánh Hồng",
+        "address": "38B Đinh Công Tráng, Tân Định, Quận 1, TP. Hồ Chí Minh",
+        "tags": [
+          "Mở từ 1990",
+          "Nhân hải sản",
+          "Thường xếp hàng"
+        ],
+        "price_vnd": "60–85 k₫",
+        "price_note": "1 bánh đầy nhân"
+      }
+    ],
+    "tip_title_vi": "Ăn nóng, ăn ngay",
+    "tip_title_en": "Eat hot, eat now",
+    "tip_body_vi": "Bánh xèo chỉ ngon trong 60 giây đầu tiên. Đừng chụp ảnh lâu — cuốn và ăn ngay khi còn giòn rụm mới cảm nhận hết hương vị.",
+    "tip_body_en": "Banh xeo is only perfect in the first 60 seconds. Do not spend long on photos — wrap and eat immediately while still shatteringly crisp to taste the full experience.",
+    "image_url": "/food/hcm-banh-xeo-mien-tay/hero.jpg",
+    "gallery": [
+      "/food/hcm-banh-xeo-mien-tay/gallery-1.jpg",
+      "/food/hcm-banh-xeo-mien-tay/gallery-2.jpg",
+      "/food/hcm-banh-xeo-mien-tay/gallery-3.jpg",
+      "/food/hcm-banh-xeo-mien-tay/gallery-4.jpg"
+    ],
+    "status": "published",
+    "sources": [
+      {
+        "url": "https://nhandan.vn/am-thuc-mien-nam-dac-sac/",
+        "title": "Ẩm thực miền Nam đặc sắc",
+        "publisher": "Báo Nhân Dân",
+        "accessed_date": "2024-01-15"
+      },
+      {
+        "url": "https://vietnamtourism.gov.vn/am-thuc-tp-ho-chi-minh/",
+        "title": "Ẩm thực TP. Hồ Chí Minh",
+        "publisher": "Tổng cục Du lịch",
+        "accessed_date": "2024-01-15"
+      }
+    ],
+    "body_blocks": [
+      {
+        "type": "paragraph",
+        "text_vi": "Bánh xèo có nguồn gốc từ vùng đồng bằng sông Cửu Long, nơi lúa gạo dồi dào và tôm cá sông rạch luôn sẵn có. Tên gọi xuất phát từ âm thanh \"xèo\" phát ra khi bột gạo pha nghệ được đổ vào chảo mỡ đang sôi — một âm thanh mà bất kỳ người Sài Gòn nào cũng nhận ra ngay từ cuối phố. Bánh xèo miền Tây có kích thước lớn hơn phiên bản miền Trung hay miền Bắc — to như cái mâm, dày nhân, và phải gập đôi mới vừa tay cầm. Làn sóng di cư từ đồng bằng lên Sài Gòn mang theo chiếc bánh này, biến nó thành một trong những món ăn đường phố phổ biến nhất thành phố.",
+        "text_en": "Banh xeo originates from the Mekong River delta, where rice is abundant and freshwater shrimp and fish are always at hand. The name comes from the sizzling sound when turmeric-seasoned rice batter hits a pan of boiling oil — a sound any Saigonese recognizes from the end of the street. Mekong-style banh xeo is larger than the Central or Northern Vietnamese versions — platter-sized, thick with filling, and must be folded in half to hold properly. Waves of migration from the delta to Saigon brought this crepe along, making it one of the city's most beloved street foods."
+      },
+      {
+        "type": "image",
+        "url": null,
+        "caption_vi": "Chiếc bánh xèo miền Tây to bằng cái mâm, vàng ruộm, giòn rụm — đang được gắp ra từ chảo gang nóng tại một quán trên đường Đinh Công Tráng",
+        "caption_en": "A platter-sized Mekong banh xeo, golden and shatteringly crisp — being lifted from a hot cast-iron pan at a stall on Dinh Cong Trang Street",
+        "layout": "full"
+      },
+      {
+        "type": "paragraph",
+        "text_vi": "Bí quyết của bánh xèo ngon nằm ở ba yếu tố: bột, chảo và rau. Bột gạo xay mịn pha với nước cốt dừa và bột nghệ tươi tạo màu vàng rực và hương thơm đặc biệt; khi đổ vào chảo gang nóng đã láng mỡ heo, phải lắc tròn nhanh để bánh mỏng đều và giòn đến từng rìa. Nhân truyền thống gồm tôm tươi còn vỏ, thịt heo ba chỉ thái mỏng, giá đỗ xanh giòn và hành lá — mỗi nguyên liệu đều đang ở đỉnh cao hương vị. Bộ rau ăn kèm là phần không thể thiếu: lá diếp cá, rau húng lủi, lá lốt và đặc biệt là xà lách lá to để gói bánh trước khi chấm vào nước mắm chua ngọt pha ớt tỏi.",
+        "text_en": "The secret of great banh xeo lies in three elements: batter, pan, and herbs. Finely ground rice flour mixed with coconut milk and fresh turmeric creates vivid golden colour and distinctive aroma; when poured into a hot cast-iron pan greased with pork lard, it must be swirled quickly for an evenly thin, crispy crepe right to the edges. The traditional filling is simplicity at its peak: fresh whole shrimp, thinly sliced pork belly, crisp bean sprouts and spring onion — each ingredient at the height of its flavour. The herb plate is essential: fish mint, Vietnamese perilla, wild betel leaves and especially large lettuce leaves to wrap the crepe before dipping into sweet-sour fish sauce with chili and garlic."
+      },
+      {
+        "type": "image",
+        "url": null,
+        "caption_vi": "Mâm rau sống ăn kèm bánh xèo — xà lách, rau húng, diếp cá, lá lốt — và chén nước mắm chua ngọt đặc trưng",
+        "caption_en": "The fresh herb platter for banh xeo — lettuce, perilla, fish mint, wild betel leaves — and the signature sweet-sour fish sauce",
+        "layout": "inset-right"
+      },
+      {
+        "type": "paragraph",
+        "text_vi": "Cách ăn bánh xèo đúng điệu là cả một nghệ thuật: lấy một lá xà lách to, đặt mảnh bánh xèo giòn lên, thêm vài ngọn rau thơm, cuốn lại rồi chấm vào nước mắm chua ngọt pha ớt — tất cả phải thực hiện trong vài giây trước khi bánh mất độ giòn. Đây là lý do tại sao bánh xèo được gọi là \"món ăn của khoảnh khắc\": nếu chần chừ là mất hết. Trên đường Đinh Công Tráng (Quận 1) — con phố được mệnh danh là phố bánh xèo của Sài Gòn — hàng chục quán phục vụ từ trưa đến tối, mỗi quán có bí quyết pha bột và pha nước chấm riêng tạo nên phong cách không trùng nhau. Chiếc bánh xèo miền Tây, qua bao thế hệ di cư và thích nghi, đã trở thành một phần không thể tách rời của ẩm thực Sài Gòn đa văn hóa.",
+        "text_en": "Eating banh xeo properly is itself an art: take a large lettuce leaf, place a piece of the crispy crepe on it, add a few herb sprigs, roll tightly and dip into sweet-sour fish sauce with chili — all within seconds before the crepe loses its crunch. This is why banh xeo is called the dish of the moment: hesitate and it is gone. On Dinh Cong Trang Street in District 1 — Saigon's unofficial banh xeo street — dozens of restaurants serve from noon to night, each with their own batter and dipping sauce formula that make no two identical. The Mekong sizzling crepe, through generations of migration and adaptation, has become an inseparable part of Saigon's multicultural cuisine."
+      }
+    ]
+  }
+]

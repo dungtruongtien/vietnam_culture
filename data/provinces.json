@@ -1,0 +1,62 @@
+[
+  {
+    "name_vi": "Thành phố Hồ Chí Minh",
+    "name_en": "Ho Chi Minh City",
+    "slug": "ho-chi-minh",
+    "type": "thanh-pho",
+    "type_en": "city",
+    "svg_path_id": "ho-chi-minh",
+    "status": "active",
+    "meta_description_vi": "Khám phá lịch sử và văn hóa Thành phố Hồ Chí Minh — từ thành Gia Định xưa đến đô thị năng động nhất Việt Nam.",
+    "meta_description_en": "Explore the history and culture of Ho Chi Minh City — from ancient Gia Dinh citadel to Vietnam's most dynamic metropolis.",
+    "population": "9.3 triệu người",
+    "area_km2": 2095,
+    "region_vi": "Đông Nam Bộ",
+    "region_en": "Southeast"
+  },
+  {
+    "name_vi": "Hà Nội",
+    "name_en": "Hanoi",
+    "slug": "ha-noi",
+    "type": "thanh-pho",
+    "type_en": "city",
+    "svg_path_id": "ha-noi",
+    "status": "active",
+    "meta_description_vi": "Khám phá lịch sử và văn hóa Hà Nội — ngàn năm văn hiến, từ thành Thăng Long đến thủ đô hiện đại.",
+    "meta_description_en": "Explore the history and culture of Hanoi — a thousand years of civilization, from Thang Long Citadel to the modern capital.",
+    "population": "8.5 triệu người",
+    "area_km2": 3359,
+    "region_vi": "Đồng bằng sông Hồng",
+    "region_en": "Red River Delta"
+  },
+  {
+    "name_vi": "Thành phố Huế",
+    "name_en": "Hue City",
+    "slug": "thua-thien-hue",
+    "type": "thanh-pho",
+    "type_en": "city",
+    "svg_path_id": "thua-thien-hue",
+    "status": "active",
+    "meta_description_vi": "Khám phá Huế — cố đô bên sông Hương với di sản cung đình, ẩm thực tinh tế và nhịp sống chậm của miền Trung.",
+    "meta_description_en": "Explore Hue — the former imperial capital on the Perfume River, known for royal heritage, refined cuisine, and central Vietnam’s gentle rhythm.",
+    "population": "0.6 triệu người",
+    "area_km2": 265,
+    "region_vi": "Bắc Trung Bộ",
+    "region_en": "North Central Coast"
+  },
+  {
+    "name_vi": "Thành phố Đà Nẵng",
+    "name_en": "Da Nang City",
+    "slug": "da-nang",
+    "type": "thanh-pho",
+    "type_en": "city",
+    "svg_path_id": "da-nang",
+    "status": "active",
+    "meta_description_vi": "Khám phá Đà Nẵng — thành phố biển hiện đại với những cây cầu biểu tượng, bãi biển đẹp và nhịp sống miền Trung sôi động.",
+    "meta_description_en": "Explore Da Nang — a modern coastal city with iconic bridges, beautiful beaches, and a vibrant central Vietnam energy.",
+    "population": "1.2 triệu người",
+    "area_km2": 1285,
+    "region_vi": "Duyên hải Nam Trung Bộ",
+    "region_en": "South Central Coast"
+  }
+]

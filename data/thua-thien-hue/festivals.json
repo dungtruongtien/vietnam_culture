@@ -1,0 +1,61 @@
+[
+  {
+    "name_vi": "Festival Huế (Lễ hội Nghệ thuật Quốc tế)",
+    "name_en": "Hue Festival (International Arts Festival)",
+    "slug": "festival-hue",
+    "description_vi": "Festival Huế là lễ hội nghệ thuật quốc tế lớn nhất miền Trung, tổ chức hàng năm theo mô hình bốn mùa từ năm 2024, quy tụ nghệ sĩ từ nhiều quốc gia biểu diễn tại Đại Nội, trên sông Hương và khắp cố đô. Mùa hè (tháng 4–6) là điểm nhấn với Tuần lễ Festival Quốc tế, đêm \"Hoàng cung huyền ảo\" tại Đại Nội và Lễ hội Áo dài Huế, thu hút hàng triệu lượt du khách trong nước và quốc tế.",
+    "description_en": "Hue Festival is the largest international arts festival in central Vietnam, now running year-round in a four-season model since 2024, bringing together artists from dozens of countries to perform within the Imperial Citadel, on the Huong River, and throughout the ancient capital. The summer centrepiece (April–June) features the International Arts Week, the \"Enchanted Imperial Palace\" evening spectacular, and the Hue Ao Dai Festival.",
+    "start_date": "2026-04-25",
+    "end_date": "2026-05-05",
+    "is_lunar": 0,
+    "is_trending": 1,
+    "status": "active",
+    "sources": [
+      {
+        "url": "https://www.vietnamplus.vn/festival-hue-2026-chuoi-hoat-dong-dac-sac-trong-le-hoi-mua-ha-kinh-thanh-toa-sang-post1100913.vnp",
+        "title": "Festival Huế 2026: chuỗi hoạt động đặc sắc trong lễ hội mùa hạ — Kinh thành toả sáng",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-05-03"
+      }
+    ]
+  },
+  {
+    "name_vi": "Lễ hội Điện Huệ Nam (Hội Bà Chúa Xứ xứ Huế)",
+    "name_en": "Hue Nam Palace Festival (Mother Goddess Festival)",
+    "slug": "le-hoi-dien-hue-nam",
+    "description_vi": "Lễ hội Điện Huệ Nam — còn gọi là Điện Hòn Chén — là lễ hội dân gian thiêng liêng nhất cố đô, diễn ra hai lần mỗi năm vào tháng 3 (xuân kỳ) và tháng 7 (thu tế) âm lịch tại điện Huệ Nam trên núi Ngọc Trản ven sông Hương. Được công nhận Di sản văn hóa phi vật thể quốc gia năm 2025, lễ hội kết hợp rước bộ và rước thuyền trên sông Hương, thờ phụng Thánh Mẫu Thiên Y A Na — một tín ngưỡng giao thoa Việt-Chăm độc đáo.",
+    "description_en": "The Hue Nam Palace Festival (also known as Hon Chen Festival) is the ancient capital's most sacred folk celebration, held twice yearly in lunar March (spring festival) and lunar July (autumn festival) at Hue Nam Palace on Ngoc Tran Mountain overlooking the Huong River. Recognised as a national intangible heritage in 2025, it combines land and river processions in veneration of Mother Goddess Thien Y A Na — a uniquely Vietnamese-Cham syncretic tradition.",
+    "start_date": "2026-04-18",
+    "end_date": "2026-04-20",
+    "is_lunar": 1,
+    "is_trending": 0,
+    "status": "active",
+    "sources": [
+      {
+        "url": "https://www.vietnamplus.vn/le-hoi-dien-hue-nam-khong-gian-sinh-hoat-van-hoa-dac-trung-o-co-do-hue-post1105647.vnp",
+        "title": "Lễ hội điện Huệ Nam — không gian sinh hoạt văn hóa đặc trưng ở cố đô Huế",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-05-03"
+      }
+    ]
+  },
+  {
+    "name_vi": "Lễ tế Đàn Nam Giao Huế",
+    "name_en": "Nam Giao Esplanade Ritual (Royal Heaven-Worship Ceremony)",
+    "description_vi": "Lễ tế Đàn Nam Giao là nghi lễ tế trời quan trọng nhất của triều Nguyễn, được tổ chức lại định kỳ tại Đàn Nam Giao — công trình kiến trúc tâm linh đặc biệt xây dưới thời vua Gia Long năm 1806. Lễ hội được phục dựng công phu theo nghi thức cung đình Nguyễn, với đoàn rước hàng trăm người mặc trang phục hoàng triều, nhã nhạc và múa cung đình, thu hút hàng chục ngàn du khách mỗi lần tổ chức.",
+    "description_en": "The Nam Giao Esplanade Ritual was the Nguyen dynasty's most solemn heaven-worship ceremony, periodically revived at the Nam Giao Esplanade — a unique spiritual complex built under Emperor Gia Long in 1806. The painstakingly reconstructed ceremony follows authentic Nguyen court protocols, with a procession of hundreds in imperial court dress, royal court music, and court dance, attracting tens of thousands of spectators.",
+    "start_date": "2026-04-27",
+    "end_date": null,
+    "is_lunar": 0,
+    "is_trending": 0,
+    "status": "active",
+    "sources": [
+      {
+        "url": "https://www.vietnamplus.vn/le-te-dan-nam-giao-nghi-le-cung-dinh-dac-biet-xu-hue-post900000.vnp",
+        "title": "Lễ tế Đàn Nam Giao — nghi lễ cung đình đặc biệt xứ Huế",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-05-24"
+      }
+    ]
+  }
+]

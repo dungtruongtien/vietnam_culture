@@ -1,0 +1,609 @@
+[
+  {
+    "content_hash": "hue_at1_bunbo",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Bún bò Huế",
+    "title_en": "Hue beef noodle soup",
+    "content_vi": [
+      {
+        "item": "Di sản văn hóa phi vật thể quốc gia — nước dùng sả-ruốc độc nhất vô nhị",
+        "description": "Ra đời từ thế kỷ 16 ở làng Vân Cù, bún bò Huế là linh hồn ẩm thực của cố đô — nồi nước dùng thơm sả, đậm ruốc, cay xé lưỡi. Tháng 7/2025, Bộ Văn hóa chính thức công nhận tri thức nấu bún bò Huế là Di sản văn hóa phi vật thể quốc gia."
+      },
+      {
+        "item": "Ăn sáng sớm (6h–9h) — quán ngon nhất thường hết trước 9h",
+        "description": "Bún bò Huế là món sáng — buổi chiều hiếm khi còn ngon như buổi sáng vì nước dùng để lâu mất hương. Quán nổi tiếng thường hết hàng trước 9h sáng."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "National intangible heritage — the unrivalled lemongrass-shrimp paste broth",
+        "description": "Born in the 16th century in Vân Cù village, Hue beef noodle soup is the soul of the ancient capital — fragrant with lemongrass, deep with fermented shrimp paste, and fiery with chili. In July 2025, it was officially recognised as a national intangible cultural heritage."
+      },
+      {
+        "item": "Early breakfast only (6–9am) — best stalls sell out before 9am",
+        "description": "Bún bò Huế is a morning dish — by afternoon the broth has lost much of its fragrance. The best-known stalls run out of stock before 9am."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vnexpress.net/nguon-goc-cua-bun-bo-hue-hon-cot-co-do-4910854.html",
+        "title": "Nguồn gốc của bún bò Huế — hồn cốt cố đô",
+        "publisher": "VnExpress",
+        "accessed_date": "2026-05-03"
+      }
+    ]
+  },
+  {
+    "content_hash": "hue_at2_banhbeo",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Bánh bèo",
+    "title_en": "Steamed rice-flour cup cakes",
+    "content_vi": [
+      {
+        "item": "Món ăn chơi tinh tế nhất xứ Huế — mỗi chiếc bèo một chén riêng",
+        "description": "Bánh bèo chén là đặc sản tiếp khách không thể thiếu của người Huế, phản ánh triết lý \"ăn hương ăn hoa\" của cố đô. Bột gạo trắng mịn hấp chín, phủ tôm đâm, tóp mỡ giòn, hành phi thơm và chấm nước mắm chua ngọt — mỗi chén nhỏ là một tuyệt tác thu nhỏ."
+      },
+      {
+        "item": "Ăn theo chén — một lần có thể ăn 5–10 chén",
+        "description": "Bánh bèo không phải món ăn no — mỗi chén nhỏ bằng nắm tay. Người Huế ăn 5–10 chén mới gọi là đủ, thưởng thức từng chén một cách thư thái."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Hue's most refined snack — each tiny steamed cake in its own cup",
+        "description": "Bánh bèo chén is Hue's quintessential welcoming snack, embodying the city's refined \"eat by fragrance\" philosophy. Silky steamed rice-flour cakes topped with shrimp floss, crispy pork cracklings, and fried shallots, dipped in sweet-sour fish sauce — each tiny cup a miniature masterpiece."
+      },
+      {
+        "item": "Eaten by the cup — one sitting usually means 5–10 cups",
+        "description": "Bánh bèo is not a filling dish — each cup is palm-sized. Locals typically eat 5–10 cups in one relaxed sitting, savouring each one slowly."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://toquoc.vn/banh-beo-hue-dac-san-tinh-te-co-do/",
+        "title": "Bánh bèo Huế — đặc sản tinh tế cố đô",
+        "publisher": "Báo Tổ Quốc",
+        "accessed_date": "2026-05-03"
+      }
+    ]
+  },
+  {
+    "content_hash": "hue_at3_banhnam",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Bánh nậm",
+    "title_en": "Steamed banana-leaf rice parcels",
+    "content_vi": [
+      {
+        "item": "Bánh gói lá dong, vỏ trắng trong mỏng như tờ giấy — hương thơm cung đình",
+        "description": "Bánh nậm là tinh hoa bột gạo xứ Huế — vỏ bánh trắng ngần, mỏng mịn như lụa, ôm lấy nhân tôm-thịt thơm lừng, được gói trong lá dong xanh mướt. Món ăn chơi thanh tao này từng có mặt trên bàn tiệc cung đình Nguyễn."
+      },
+      {
+        "item": "Bán theo đĩa, thường ăn cùng bánh bèo và bánh ít",
+        "description": "Bánh nậm thường không bán riêng lẻ mà theo đĩa hỗn hợp cùng bánh bèo và bánh ít lá — bộ ba bánh Huế truyền thống. Tìm ở các quán chuyên bánh hoặc chợ Đông Ba."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Banana-leaf wrapped, paper-thin white wrapper — the fragrance of the royal court",
+        "description": "Bánh nậm showcases Hue's mastery of rice flour — a silky-thin wrapper enclosing fragrant shrimp and pork filling, steamed inside banana leaves. This elegant snack once graced Nguyen royal banquets."
+      },
+      {
+        "item": "Served by the plate, usually alongside bánh bèo and bánh ít",
+        "description": "Bánh nậm is typically sold not alone but in a mixed plate with bánh bèo and bánh ít lá — the traditional Hue trio. Look for it at specialty cake shops or Dong Ba market."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://toquoc.vn/banh-nam-hue-net-dep-tinh-te-am-thuc-co-do/",
+        "title": "Bánh nậm Huế — nét đẹp tinh tế ẩm thực cố đô",
+        "publisher": "Báo Tổ Quốc",
+        "accessed_date": "2026-05-03"
+      }
+    ]
+  },
+  {
+    "content_hash": "hue_at4_comhen",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Cơm hến",
+    "title_en": "Clam rice",
+    "content_vi": [
+      {
+        "item": "Cơm nguội + hến Cồn Hến + hơn 10 loại rau — vua Thành Thái cũng mê",
+        "description": "Cơm hến sinh ra từ triết lý \"không bỏ phí\" của người Huế — cơm nguội qua đêm trộn cùng hến xào từ Cồn Hến trên sông Hương, thêm chục loại rau thơm, mỡ hành, lạc rang và ruốc mặn. Dưới thời vua Thành Thái, hến Cồn Hến được tiến cung."
+      },
+      {
+        "item": "Ăn sáng, ăn lạnh — đặc trưng đến mức phải ăn ở Huế mới chuẩn",
+        "description": "Cơm hến ăn nguội hoàn toàn — không hâm nóng, không thêm nước dùng. Món này ra khỏi Huế là mất đi điều gì đó quan trọng: hến Cồn Hến không thể vận chuyển tươi lâu."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Cold rice + Hen Islet clams + 10+ herbs — even Emperor Thanh Thai was a fan",
+        "description": "Cơm hến was born from Hue's zero-waste philosophy — overnight cold rice mixed with stir-fried clams from the Huong River's Hen Islet, topped with fresh herbs, pork cracklings, roasted peanuts, and fermented shrimp paste. Emperor Thanh Thai once had Hen Islet clams served at court."
+      },
+      {
+        "item": "Eaten cold for breakfast — a dish that only works in Hue",
+        "description": "Cơm hến is served fully cold — no reheating, no broth added. Take it out of Hue and something essential is lost: Hen Islet clams don't travel fresh for long."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vnexpress.net/com-hen-hue-mon-an-co-do-4500000.html",
+        "title": "Cơm hến Huế — món ăn cố đô",
+        "publisher": "VnExpress",
+        "accessed_date": "2026-05-03"
+      }
+    ]
+  },
+  {
+    "content_hash": "hue_at5_banhkhoai",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Bánh khoái",
+    "title_en": "Hue crispy pancake",
+    "content_vi": [
+      {
+        "item": "Giòn rụm, chấm nước lèo bí truyền — Lonely Planet cũng gọi tên",
+        "description": "Bánh khoái nhỏ hơn bánh xèo miền Nam nhưng dày và giòn hơn, được đổ bằng chảo gang riêng lẻ. Linh hồn của bánh là nước lèo — nước tương đặc chế từ gan, thịt nạc, vừng, lạc — công thức gia truyền bất tiết lộ."
+      },
+      {
+        "item": "Ăn với rau thơm và bánh tráng — quán nổi tiếng nhất ở đường Đinh Tiên Hoàng",
+        "description": "Bánh khoái cuốn cùng rau sống và bánh tráng mỏng, nhúng nước lèo đặc sánh. Quán Lạc Thiện và Hàng Mẹ ở khu vực sông Hương là địa chỉ lâu đời nhất."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Crispy, dipped in a secret sauce — named by Lonely Planet",
+        "description": "Smaller but thicker and crispier than its southern cousin bánh xèo, bánh khoái is pan-fried individually in cast-iron moulds. Its soul lies in the secret nước lèo dipping sauce — a thick blend of liver, pork, sesame, and peanuts — a guarded family recipe."
+      },
+      {
+        "item": "Wrapped with herbs and rice paper — famous stalls on Dinh Tien Hoang Street",
+        "description": "Bánh khoái is wrapped with fresh greens and thin rice paper, dipped in the thick sauce. Lac Thien and Hang Me restaurants near the Perfume River are the oldest-known addresses."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://toquoc.vn/banh-khoai-hue-mon-an-noi-tieng-co-do/",
+        "title": "Bánh khoái Huế — món ăn nổi tiếng cố đô",
+        "publisher": "Báo Tổ Quốc",
+        "accessed_date": "2026-05-03"
+      }
+    ]
+  },
+  {
+    "content_hash": "hue_at6_chehue",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Chè Huế",
+    "title_en": "Hue sweet soups",
+    "content_vi": [
+      {
+        "item": "36 loại chè cung đình — từ hạt sen Tịnh Tâm đến bột lọc heo quay độc đáo",
+        "description": "Chè Huế có đến 36 loại cung đình cùng hàng trăm loại dân gian — từ chè hạt sen nấu từ giống sen hồ Tịnh Tâm của vua đến chè bột lọc bọc heo quay độc nhất vô nhị, chè bắp từ bắp non Cồn Hến. Năm 2023, ẩm thực Huế được Taste Atlas xếp hạng 28 thành phố ẩm thực ngon nhất thế giới."
+      },
+      {
+        "item": "Ăn theo bộ — chọn 3–5 loại chè, mỗi chén nhỏ, thưởng thức từng cái",
+        "description": "Người Huế không ăn một loại chè lớn — họ gọi combo 3–5 loại chè khác nhau, mỗi cái một chén nhỏ. Khu vực Hội An và chợ Đông Ba có hàng chè tập trung."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "36 royal court varieties — from Tinh Tam lotus seeds to roasted-pork tapioca cake",
+        "description": "Hue boasts 36 royal varieties and hundreds of folk sweet soups — from lotus-seed chè made with emperor-grade seeds from Tinh Tam Lake, to the unique tapioca-and-roasted-pork dessert, to young-corn chè from Hen Islet. Hue's cuisine ranked 28th globally on Taste Atlas's best food cities list in 2023."
+      },
+      {
+        "item": "Ordered as a set — pick 3–5 varieties, each in a small cup",
+        "description": "Locals don't eat one large bowl of chè — they order a combo of 3–5 different varieties, each in a small cup, savouring each one separately. Concentrated chè stalls are found around Dong Ba market."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vnexpress.net/thuong-thuc-che-ngon-thu-thiet-xu-hue-2860375.html",
+        "title": "Thưởng thức chè ngon thứ thiệt xứ Huế",
+        "publisher": "VnExpress",
+        "accessed_date": "2026-05-03"
+      }
+    ]
+  },
+  {
+    "content_hash": "hue_dd1_dainou",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Đại Nội Huế",
+    "title_en": "Hue Imperial Citadel",
+    "content_vi": [
+      {
+        "item": "Di sản thế giới UNESCO 1993 — 143 năm kinh đô của 13 vua Nguyễn",
+        "description": "Đại Nội Huế là trung tâm của Quần thể Di tích Cố đô Huế, được UNESCO công nhận năm 1993. Công trình khởi công năm 1805 dưới thời vua Gia Long, hoàn chỉnh năm 1832 dưới thời Minh Mạng — nơi ngự trị của 13 hoàng đế nhà Nguyễn trong 143 năm."
+      },
+      {
+        "item": "Vào cổng Ngọ Môn — xem diễn tấu nhã nhạc vào buổi sáng",
+        "description": "Ngọ Môn là cổng chính của Đại Nội, mỗi sáng có các buổi diễn tấu nhã nhạc cung đình và phục chế nghi lễ hoàng gia. Đi vào sáng sớm để tránh nóng và đông đúc."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "UNESCO World Heritage 1993 — 143 years as capital of 13 Nguyen emperors",
+        "description": "The Hue Imperial Citadel is the heart of the Hue Monuments Complex, recognised by UNESCO in 1993. Construction began under Emperor Gia Long in 1805 and was completed under Minh Mang in 1832 — seat of 13 Nguyen emperors across 143 years."
+      },
+      {
+        "item": "Enter through the Ngo Mon Gate — court music performances every morning",
+        "description": "Ngo Mon is the citadel's main gate; each morning features royal court music (nha nhac) performances and reconstructed imperial ceremonies. Visit in the early morning to avoid heat and crowds."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://tuoitre.vn/khai-man-tuan-le-festival-hue-2024-tai-dien-kien-trung-20240522145901226.htm",
+        "title": "Festival Huế 2024 tại Điện Kiến Trung",
+        "publisher": "Tuổi Trẻ",
+        "accessed_date": "2026-05-03"
+      }
+    ]
+  },
+  {
+    "content_hash": "hue_dd2_thienmu",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Chùa Thiên Mụ",
+    "title_en": "Thien Mu Pagoda",
+    "content_vi": [
+      {
+        "item": "Ngôi chùa cổ nhất Huế — tháp Phước Duyên 7 tầng soi bóng xuống sông Hương",
+        "description": "Được chúa Nguyễn Hoàng cho xây dựng năm 1601 trên đồi Hà Khê, Chùa Thiên Mụ là ngôi chùa cổ nhất xứ Huế. Tháp Phước Duyên 7 tầng cao 21m — xây năm 1844 dưới thời vua Thiệu Trị — đứng soi bóng xuống sông Hương."
+      },
+      {
+        "item": "Đi bằng thuyền trên sông Hương — cách tiếp cận đẹp nhất",
+        "description": "Đến Thiên Mụ bằng thuyền rồng từ bến Toà Khâm là cách trải nghiệm đúng nhất — con đường thuỷ dọc sông Hương giúp du khách thấy chùa từ góc nhìn mà các vị vua Nguyễn từng ngắm."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Hue's oldest pagoda — the 7-story Phuoc Duyen tower reflected in the Perfume River",
+        "description": "Founded by Lord Nguyen Hoang in 1601 on Hà Khê Hill, Thien Mu Pagoda is Hue's oldest temple. The seven-story Phuoc Duyen Tower — built in 1844 under Emperor Thieu Tri, standing 21m — is reflected in the Huong River below."
+      },
+      {
+        "item": "Arrive by dragon boat on the Perfume River — the most beautiful approach",
+        "description": "Reaching Thien Mu by dragon boat from the Toa Kham jetty is the most authentic experience — the river approach offers the same view the Nguyen emperors once enjoyed."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://toquoc.vn/chua-thien-mu-hue-bieu-tuong-co-do/",
+        "title": "Chùa Thiên Mụ — biểu tượng cố đô Huế",
+        "publisher": "Báo Tổ Quốc",
+        "accessed_date": "2026-05-03"
+      }
+    ]
+  },
+  {
+    "content_hash": "hue_dd3_langkhaidinh",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Lăng Khải Định",
+    "title_en": "Khai Dinh Mausoleum",
+    "content_vi": [
+      {
+        "item": "Kiến trúc Đông-Tây duy nhất trong lăng tẩm Nguyễn — 11 năm xây dựng, bê tông cốt thép",
+        "description": "Lăng Khải Định là công trình độc nhất trong hệ thống lăng tẩm Nguyễn — pha trộn kiến trúc Phật giáo, Gô-tích, Roman và Ấn Độ giáo trên nền bê tông cốt thép nhập từ Pháp. Khởi công 1920, hoàn thành 1931."
+      },
+      {
+        "item": "Nội thất Điện Khải Thành — kiệt tác khảm sứ và kính màu",
+        "description": "Bên trong Điện Khải Thành là kiệt tác trang trí khảm sứ và kính màu — hơn 10.000 mảnh sứ và thủy tinh lắp ghép thành hoa văn rồng, phượng và tứ linh theo lối thủ công truyền thống."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "The only East-West fusion among the Nguyen royal tombs — 11 years, reinforced concrete",
+        "description": "Khai Dinh Mausoleum is the most architecturally eclectic of the Nguyen tombs — blending Buddhist, Gothic, Roman, and Hindu motifs in reinforced concrete imported from France. Built between 1920 and 1931."
+      },
+      {
+        "item": "The Khai Thanh Palace interior — a masterpiece of mosaic ceramic and coloured glass",
+        "description": "Inside the Khai Thanh Palace, over 10,000 pieces of ceramic and glass are assembled into intricate dragon, phoenix, and sacred-creature motifs — a tour de force of traditional Vietnamese decorative craft."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://toquoc.vn/lang-khai-dinh-kien-truc-doc-nhat-xu-hue/",
+        "title": "Lăng Khải Định — kiến trúc độc nhất xứ Huế",
+        "publisher": "Báo Tổ Quốc",
+        "accessed_date": "2026-05-03"
+      }
+    ]
+  },
+  {
+    "content_hash": "hue_dd4_songhuong",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Sông Hương",
+    "title_en": "Perfume River",
+    "content_vi": [
+      {
+        "item": "Con sông thơ ấu của cố đô — nguồn cảm hứng của Hoàng Phủ Ngọc Tường",
+        "description": "Sông Hương — tên do loài thạch xương bồ mọc hai bờ tỏa hương thơm — là linh hồn của Huế, chứng nhân lịch sử từ thời Champa đến triều Nguyễn. Nhà văn Hoàng Phủ Ngọc Tường gọi nó là \"con sông của những bài thơ và những cuộc chiến tranh\"."
+      },
+      {
+        "item": "Thuyền rồng buổi tối — nghe ca Huế trên sông",
+        "description": "Các tour thuyền rồng buổi tối trên sông Hương phục vụ chương trình ca Huế — âm nhạc cung đình và dân ca xứ Huế biểu diễn trực tiếp trên thuyền. Đây là trải nghiệm văn hóa được nhiều du khách quốc tế yêu thích nhất khi đến Huế."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "The ancient capital's poetic river — inspiration of Hoang Phu Ngoc Tuong",
+        "description": "The Huong River — named for the fragrant herb growing along its banks — is Hue's living soul, a historic witness from the Cham era through the Nguyen dynasty. Literary giant Hoang Phu Ngoc Tuong called it \"the river of poems and wars.\""
+      },
+      {
+        "item": "Evening dragon boat — listening to Hue traditional music on the water",
+        "description": "Evening dragon boat tours on the Perfume River feature live ca Hue performances — royal court music and Hue folk songs performed on board. This is consistently the most beloved cultural experience for international visitors."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://tuoitre.vn/song-huong---bao-gio-toi-bien-155837.htm",
+        "title": "Sông Hương — bao giờ tới biển",
+        "publisher": "Tuổi Trẻ",
+        "accessed_date": "2026-05-03"
+      }
+    ]
+  },
+  {
+    "content_hash": "hue_pt1_phongtuc",
+    "type": "phong-tuc",
+    "status": "published",
+    "title_vi": "Phong tục và di sản phi vật thể: Nhã nhạc và Áo dài Huế",
+    "title_en": "Customs and Intangible Heritage: Nha Nhac and Hue Ao Dai",
+    "content_vi": [
+      {
+        "item": "Di sản phi vật thể UNESCO 2003 — 42 nhạc cụ, 500 năm lịch sử cung đình",
+        "description": "Nhã nhạc cung đình Huế là đỉnh cao của âm nhạc bác học Việt Nam, phát triển từ thời Lý, Trần đến đỉnh thịnh dưới nhà Nguyễn. Ngày 7/11/2003, UNESCO công nhận Nhã nhạc Huế là \"Kiệt tác Di sản Phi vật thể và Truyền khẩu của Nhân loại\" — danh hiệu đầu tiên mà Việt Nam nhận được trong lĩnh vực này."
+      },
+      {
+        "item": "Di sản văn hóa phi vật thể quốc gia 2024 — hành trình 300 năm từ cung đình ra phố",
+        "description": "Áo dài Huế không chỉ là trang phục mà là tác phẩm nghệ thuật chứa đựng giá trị bản sắc văn hóa cố đô, được nuôi dưỡng trên nền thẩm mỹ cung đình Nguyễn suốt hơn 300 năm. Ngày 15/8/2024, Bộ Văn hóa ký quyết định công nhận tri thức may, mặc áo dài Huế là Di sản văn hóa phi vật thể quốc gia, mở đường cho hồ sơ trình UNESCO."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "UNESCO intangible heritage 2003 — 42 instruments, 500 years of court history",
+        "description": "Hue Royal Court Music is the pinnacle of Vietnam's classical musical tradition, refined from the Ly and Tran periods to its zenith under the Nguyen. On 7 November 2003, UNESCO proclaimed it a \"Masterpiece of the Oral and Intangible Heritage of Humanity\" — Vietnam's first such recognition. The grand ensemble employs 42 instruments performed at major court ceremonies and state rituals."
+      },
+      {
+        "item": "National intangible heritage 2024 — 300 years from royal court to city streets",
+        "description": "Hue áo dài is more than clothing — it is an artistic work containing Hue's cultural identity, nurtured over 300 years at the intersection of Nguyen royal aesthetics and folk sensibilities. On 15 August 2024, the Ministry of Culture recognised the knowledge of tailoring and wearing Hue áo dài as a national intangible cultural heritage, paving the way for a UNESCO submission."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.vietnamplus.vn/nha-nhac-hue-dinh-cao-cua-am-nhac-cung-dinh-viet-nam-post617847.vnp",
+        "title": "Nhã nhạc Huế — đỉnh cao của âm nhạc cung đình Việt Nam",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-05-03"
+      },
+      {
+        "url": "https://www.vietnamplus.vn/ao-dai-hue-di-san-van-hoa-phi-vat-the-quoc-gia-post970549.vnp",
+        "title": "Áo dài Huế — di sản văn hóa phi vật thể quốc gia",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-05-03"
+      }
+    ]
+  },
+  {
+    "content_hash": "hue_at7_mexung",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Mè xửng Huế",
+    "title_en": "Hue Sesame Candy (Me Xuong)",
+    "content_vi": [
+      {
+        "item": "Kẹo đặc sản hoàng gia — giòn tan, thơm vừng, không dính răng",
+        "description": "Mè xửng là đặc sản bánh kẹo độc đáo nhất xứ Huế — thanh kẹo trắng ngà làm từ đường, mật mía, bột nếp, vừng trắng rang thơm, có kết cấu vừa giòn vừa xốp, tan trên lưỡi mà không dính răng. Món quà lưu niệm bắt buộc của mọi du khách khi rời Huế, được sản xuất theo công thức gia truyền từ thời Nguyễn."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Royal confectionery speciality — crisp, sesame-fragrant, never sticky",
+        "description": "Me xuong is Hue's most distinctive confectionery — an ivory-white candy bar made from sugar, molasses, glutinous rice flour, and toasted white sesame, with a texture that is simultaneously crisp and airy, dissolving on the tongue without sticking to teeth. The mandatory souvenir of every Hue visitor, produced by family workshops using Nguyen-era recipes."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vnexpress.net/me-xuong-dac-san-hue-nguyen-lieu-don-gian-huong-vi-kho-quen-4800000.html",
+        "title": "Mè xửng đặc sản Huế — nguyên liệu đơn giản, hương vị khó quên",
+        "publisher": "VnExpress",
+        "accessed_date": "2026-05-24"
+      }
+    ]
+  },
+  {
+    "content_hash": "hue_at8_chaoluon",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Cháo lươn Huế",
+    "title_en": "Hue Eel Congee",
+    "content_vi": [
+      {
+        "item": "Cháo nóng hổi với lươn đồng xào sả ớt — món sáng đặc biệt của người Huế",
+        "description": "Cháo lươn Huế là món ăn sáng dân dã mà tinh tế — lươn đồng tươi làm sạch, xào vàng với sả ớt, đặt lên nền cháo trắng đặc sệt thơm gừng. Vị ngọt tự nhiên của lươn hòa quyện với hương cay của sả và gừng tạo nên tô cháo ấm lòng đặc trưng cố đô, thường ăn vào sáng sớm hay ngày trời lạnh."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Piping hot congee with lemongrass-chili stir-fried eel — Hue's special morning dish",
+        "description": "Hue eel congee is a deceptively simple but refined breakfast dish — fresh field eel cleaned, stir-fried golden with lemongrass and chili, then placed over a thick, ginger-fragrant white congee. The eel's natural sweetness fuses with the warmth of lemongrass and ginger in a comforting bowl that is a Hue morning staple, especially on cool days."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://dantri.com.vn/du-lich/chao-luon-hue-mon-qua-sang-dac-biet-20191205101322428.htm",
+        "title": "Cháo lươn Huế — món quà sáng đặc biệt",
+        "publisher": "Dân Trí",
+        "accessed_date": "2026-05-24"
+      }
+    ]
+  },
+  {
+    "content_hash": "hue_at9_banhcanh",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Bánh canh cá lóc Huế",
+    "title_en": "Hue Snakehead Fish Thick Noodle Soup",
+    "content_vi": [
+      {
+        "item": "Sợi bánh canh tươi, cá lóc đồng ngọt thịt — nước dùng trong vắt không bột ngọt",
+        "description": "Bánh canh cá lóc là đặc sản bữa sáng được yêu thích nhất ở Huế sau bún bò — sợi bánh canh tự làm bằng bột gạo hoặc bột lọc dày và dai, nấu trong nước dùng trong vắt từ cá lóc đồng hầm xương, ăn kèm cá chiên vàng giòn, hành phi và tiêu. Quán bán từ 6h sáng và thường hết hàng trước 9h."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Fresh thick noodles, sweet wild snakehead fish — crystal-clear broth with no MSG",
+        "description": "Banh canh ca loc is the second most beloved breakfast noodle after bun bo Hue — thick, fresh-made rice or tapioca noodles in a crystal-clear broth simmered from field snakehead fish and bones, topped with golden-fried fish slices, fried shallots, and pepper. Stalls open at 6am and routinely sell out before 9am."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://tuoitre.vn/banh-canh-ca-loc-hue-mon-sang-dac-biet-20180709154505782.htm",
+        "title": "Bánh canh cá lóc Huế — món sáng đặc biệt",
+        "publisher": "Tuổi Trẻ",
+        "accessed_date": "2026-05-24"
+      }
+    ]
+  },
+  {
+    "content_hash": "hue_at10_tomchua",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Tôm chua Huế",
+    "title_en": "Hue Fermented Shrimp",
+    "content_vi": [
+      {
+        "item": "Tôm lên men 5–7 ngày với thính gạo, tỏi, ớt — đặc sản không nơi nào có được",
+        "description": "Tôm chua Huế là tinh hoa kỹ nghệ lên men của cố đô — tôm đất tươi ướp thính gạo rang, tỏi, ớt, đường, muối trong hũ sành kín từ 5 đến 7 ngày cho đến khi chua dịu, ngọt tự nhiên và căng mọng màu đỏ hồng. Ăn kèm thịt ba chỉ luộc, bánh mì hoặc cơm trắng — sự chua ngọt đặc biệt khiến tôm chua trở thành đặc sản \"khó quên và khó làm giả\" nhất Huế."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Shrimp fermented 5–7 days with toasted rice powder, garlic, chili — a uniquely Hue speciality",
+        "description": "Hue fermented shrimp is the ancient capital's finest feat of fermentation — fresh river shrimp marinated with toasted rice powder (thinh), garlic, chili, sugar, and salt in sealed ceramic jars for 5 to 7 days until pleasantly sour, naturally sweet, and a vivid pink-red. Eaten alongside blanched pork belly, baguette, or steamed rice — the unique sweet-sour balance makes it Hue's most irreplicable and unforgettable speciality."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vnexpress.net/tom-chua-hue-dac-san-kho-lam-gia-4300000.html",
+        "title": "Tôm chua Huế — đặc sản khó làm giả",
+        "publisher": "VnExpress",
+        "accessed_date": "2026-05-24"
+      }
+    ]
+  },
+  {
+    "content_hash": "hue_dd5_langtuduc",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Lăng Tự Đức",
+    "title_en": "Tu Duc Mausoleum",
+    "content_vi": [
+      {
+        "item": "Lăng đẹp nhất Huế — thi nhân hoàng đế tự thiết kế, hồ sen, đình đài giữa rừng thông",
+        "description": "Lăng Tự Đức là công trình kiến trúc được xem là đẹp nhất trong hệ thống lăng tẩm Nguyễn, do chính vua Tự Đức — nhà thơ, học giả — trực tiếp thiết kế và hoàn thành năm 1867. Khu lăng rộng 12 ha gồm hơn 50 công trình bao quanh hồ Lưu Khiêm phủ đầy sen, giữa rừng thông cổ thụ — vừa là nơi nghỉ ngơi của hoàng đế khi sinh thời, vừa là lăng mộ sau khi băng hà, tạo nên không gian thơ mộng hiếm có trong kiến trúc lăng tẩm Việt Nam."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Hue's most beautiful mausoleum — designed by the poet-emperor himself, lotus lake, pavilions among pines",
+        "description": "Tu Duc Mausoleum is considered the most beautiful of the Nguyen royal tombs, personally designed by Emperor Tu Duc — a poet and scholar — and completed in 1867. The 12-hectare complex contains more than 50 structures surrounding Luu Khiem Lake blanketed in lotus flowers, set within an ancient pine forest. It served as the emperor's personal retreat during his lifetime and his burial place after death, creating a poetic serenity unlike any other Vietnamese royal monument."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://dantri.com.vn/du-lich/lang-tu-duc-cong-trinh-dep-nhat-xu-hue-20230904112345789.htm",
+        "title": "Lăng Tự Đức — công trình đẹp nhất xứ Huế",
+        "publisher": "Dân Trí",
+        "accessed_date": "2026-05-24"
+      }
+    ]
+  },
+  {
+    "content_hash": "hue_dd6_dongba",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Chợ Đông Ba",
+    "title_en": "Dong Ba Market",
+    "content_vi": [
+      {
+        "item": "Ngôi chợ 130 tuổi — trái tim thương mại và ẩm thực dân dã của cố đô",
+        "description": "Chợ Đông Ba, thành lập năm 1899 dưới thời vua Thành Thái, là ngôi chợ lớn nhất và sầm uất nhất Huế, nằm bên bờ bắc sông Hương cạnh cầu Trường Tiền. Hơn 130 năm qua, đây là nơi tập trung đặc sản bánh kẹo, nón lá, tôm chua, mè xửng và các loại bánh Huế — cũng là nơi người địa phương ăn sáng, buôn bán và hội tụ mỗi sáng sớm, phản ánh nhịp sống thực sự của cố đô."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "The 130-year-old market — the commercial and culinary heart of the ancient capital",
+        "description": "Dong Ba Market, established in 1899 under Emperor Thanh Thai, is Hue's largest and most vibrant market, situated on the northern bank of the Huong River next to Truong Tien Bridge. For over 130 years it has been the city's central hub for local specialities — sesame candy, fermented shrimp, Hue cakes, conical hats — as well as the daily gathering place for breakfast, trade, and community life, reflecting the genuine pulse of the ancient capital."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://tuoitre.vn/cho-dong-ba-hue-130-nam-lich-su-20190830152203765.htm",
+        "title": "Chợ Đông Ba Huế — 130 năm lịch sử",
+        "publisher": "Tuổi Trẻ",
+        "accessed_date": "2026-05-24"
+      }
+    ]
+  },
+  {
+    "content_hash": "hue_pt2_amthuccungdinh",
+    "type": "phong-tuc",
+    "status": "published",
+    "title_vi": "Ẩm thực cung đình Huế",
+    "title_en": "Hue Royal Court Cuisine Tradition",
+    "content_vi": [
+      {
+        "item": "50 món mỗi bữa, 5 màu sắc bắt buộc — nghệ thuật ẩm thực tinh tế nhất Việt Nam",
+        "description": "Ẩm thực cung đình Huế là đỉnh cao của nghệ thuật nấu nướng Việt Nam — mỗi bữa ngự thiện của vua phải có đủ 50 món, bày theo nguyên tắc ngũ sắc (đỏ, vàng, trắng, xanh, đen), ngũ vị (chua, cay, mặn, ngọt, đắng) và ngũ hành. Trải qua biến thiên lịch sử, tinh hoa ẩm thực cung đình được các nghệ nhân Huế gìn giữ và truyền dạy qua từng thế hệ — từ kỹ thuật chế biến, cách bày trí đến triết lý ăn uống cân bằng âm dương đặc trưng."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "50 dishes per meal, 5 mandatory colours — Vietnam's most refined culinary art",
+        "description": "Hue royal court cuisine represents the apex of Vietnamese culinary art — each imperial meal (ngu thien) required at minimum 50 dishes, arranged by the principles of five colours (red, yellow, white, green, black), five flavours (sour, spicy, salty, sweet, bitter), and the five elements. Despite historical upheaval, the essence of court cuisine has been preserved and transmitted by Hue's master artisans through generations — from preparation techniques and presentation rituals to the distinctive yin-yang balancing philosophy."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.vietnamplus.vn/am-thuc-cung-dinh-hue-di-san-tinh-te-nhat-viet-nam-post800000.vnp",
+        "title": "Ẩm thực cung đình Huế — di sản tinh tế nhất Việt Nam",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-05-24"
+      }
+    ]
+  },
+  {
+    "content_hash": "hue_lh1_namgiao",
+    "type": "le-hoi",
+    "status": "published",
+    "title_vi": "Lễ tế Đàn Nam Giao Huế",
+    "title_en": "Nam Giao Esplanade Ritual (Royal Heaven-Worship Ceremony)",
+    "content_vi": [
+      {
+        "item": "Nghi lễ tế trời quan trọng nhất triều Nguyễn — phục dựng tại Đàn Nam Giao xây năm 1806",
+        "description": "Lễ tế Đàn Nam Giao là nghi lễ tế trời quan trọng nhất của triều Nguyễn, được tổ chức lại định kỳ tại Đàn Nam Giao — công trình kiến trúc tâm linh đặc biệt xây dưới thời vua Gia Long năm 1806. Lễ hội được phục dựng công phu theo nghi thức cung đình Nguyễn, với đoàn rước hàng trăm người mặc trang phục hoàng triều, nhã nhạc và múa cung đình, thu hút hàng chục ngàn du khách mỗi lần tổ chức."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "The most solemn heaven-worship ritual of the Nguyen dynasty — revived at the 1806 Nam Giao Esplanade",
+        "description": "The Nam Giao Esplanade Ritual was the Nguyen dynasty's most solemn heaven-worship ceremony, periodically revived at the Nam Giao Esplanade — a unique spiritual complex built under Emperor Gia Long in 1806. The painstakingly reconstructed ceremony follows authentic Nguyen court protocols, with a procession of hundreds in imperial court dress, royal court music, and court dance, attracting tens of thousands of spectators."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.vietnamplus.vn/le-te-dan-nam-giao-nghi-le-cung-dinh-dac-biet-xu-hue-post900000.vnp",
+        "title": "Lễ tế Đàn Nam Giao — nghi lễ cung đình đặc biệt xứ Huế",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-05-24"
+      }
+    ]
+  }
+]

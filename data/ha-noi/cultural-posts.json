@@ -1,0 +1,380 @@
+[
+  {
+    "content_hash": "hn_at1_pho",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Phở bò Hà Nội",
+    "title_en": "Hanoi beef pho",
+    "content_vi": [
+      { "item": "Nước dùng trong vắt từ xương bò ninh lâu, bánh phở mỏng trắng — linh hồn ẩm thực Hà Nội", "description": "Phở Hà Nội nổi tiếng với nước dùng trong vắt, ngọt nhẹ từ xương bò ninh nhiều giờ, bánh phở trắng mỏng mềm và thịt bò tươi. Không nước cốt dừa, không đồ chua — chỉ có vị thật và tinh tế." },
+      { "item": "Ăn sáng, uống nước dùng cạn đáy bát — thói quen không thể thiếu của người Hà Nội", "description": "Người Hà Nội ăn phở từ 5h sáng. Bát phở đúng kiểu Hà Nội không có giá đỗ hay tương đen — chỉ có chanh, ớt tươi và lá húng." }
+    ],
+    "content_en": [
+      { "item": "Crystal-clear beef bone broth, thin white noodles — the soul of Hanoi's cuisine", "description": "Hanoi pho is defined by its clear, gently sweet broth simmered from beef bones for many hours, paired with thin-soft rice noodles and fresh beef. No coconut milk, no pickled vegetables — just clean, precise flavour." },
+      { "item": "Eaten from 5am — the non-negotiable morning ritual of Hanoians", "description": "Hanoi locals start eating pho at 5am. A proper Hanoi-style bowl comes without bean sprouts or hoisin sauce — only lime, fresh chili, and coriander." }
+    ],
+    "sources": [
+      { "url": "https://toquoc.vn/pho-ha-noi-linh-hon-am-thuc-thu-do/", "title": "Phở Hà Nội — linh hồn ẩm thực thủ đô", "publisher": "Báo Tổ Quốc", "accessed_date": "2026-05-04" }
+    ]
+  },
+  {
+    "content_hash": "hn_at2_buncha",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Bún chả Hà Nội",
+    "title_en": "Hanoi grilled pork noodles",
+    "content_vi": [
+      { "item": "Chả nướng than hoa, bún lá và nước chấm chua ngọt — bữa trưa đặc trưng nhất Hà Nội", "description": "Bún chả gồm bún lá trắng ăn kèm chả viên và chả miếng nướng thơm lừng, nước chấm chua ngọt và rau thơm. Món này nổi tiếng toàn cầu khi Tổng thống Obama ăn tại Hà Nội năm 2016." },
+      { "item": "Ăn trưa (11h–13h) — quán ngon thường xếp hàng dài", "description": "Bún chả là món trưa, không phải sáng hay tối. Quán nổi tiếng như Bún chả Hương Liên (phố Lê Văn Hưu) thường xếp hàng dài từ 11h." }
+    ],
+    "content_en": [
+      { "item": "Charcoal-grilled pork patties, rice vermicelli, and sweet-sour dipping broth — Hanoi's definitive lunch", "description": "Bún chả consists of white rice vermicelli with grilled pork patties and medallions, served in a lightly sweet-sour dipping broth with fresh herbs. The dish gained global fame when President Obama dined on it in Hanoi in 2016." },
+      { "item": "Lunchtime only (11am–1pm) — famous stalls have long queues", "description": "Bún chả is a midday dish, not breakfast or dinner. Famous stalls like Huong Lien on Le Van Huu Street queue up from 11am." }
+    ],
+    "sources": [
+      { "url": "https://toquoc.vn/bun-cha-ha-noi-mon-trua-dac-trung-thu-do/", "title": "Bún chả Hà Nội — món trưa đặc trưng thủ đô", "publisher": "Báo Tổ Quốc", "accessed_date": "2026-05-04" }
+    ]
+  },
+  {
+    "content_hash": "hn_at3_banhcuon",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Bánh cuốn Thanh Trì",
+    "title_en": "Thanh Tri steamed rice rolls",
+    "content_vi": [
+      { "item": "Bánh cuốn mỏng nhân thịt-mộc nhĩ, ăn kèm chả lụa — nghề làng Thanh Trì hơn 100 năm", "description": "Bánh cuốn mỏng nhân thịt băm và mộc nhĩ, ăn kèm chả lụa và nước chấm mắm ngọt. Làng Thanh Trì (Hà Nội) nổi tiếng với nghề làm bánh cuốn truyền thống từ đầu thế kỷ 20." },
+      { "item": "Ăn sáng — tìm ở chợ Thanh Trì hoặc phố cổ Hà Nội", "description": "Bánh cuốn Thanh Trì đúng kiểu chỉ có ở một số địa chỉ quen. Trong phố cổ, khu vực Hàng Gà và Hàng Đậu có nhiều quán bánh cuốn buổi sáng." }
+    ],
+    "content_en": [
+      { "item": "Paper-thin steamed rice rolls with pork-mushroom filling, served with pork sausage — a century-old Thanh Tri craft", "description": "Thin rice flour sheets are steamed fresh and rolled around minced pork and wood-ear mushroom filling, served with Vietnamese pork sausage and sweet fish dipping sauce. Thanh Tri village has practised this craft since the early 20th century." },
+      { "item": "Breakfast — find it at Thanh Tri market or in Hanoi's Old Quarter", "description": "Authentic Thanh Tri banh cuon is only found at a handful of known addresses. In the Old Quarter, the Hang Ga and Hang Dau area has good morning stalls." }
+    ],
+    "sources": [
+      { "url": "https://toquoc.vn/banh-cuon-thanh-tri-nong-thom-sang-som/", "title": "Bánh cuốn Thanh Trì nóng thơm sáng sớm", "publisher": "Báo Tổ Quốc", "accessed_date": "2026-05-04" }
+    ]
+  },
+  {
+    "content_hash": "hn_at4_chauca",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Chả cá Lã Vọng",
+    "title_en": "La Vong grilled fish",
+    "content_vi": [
+      { "item": "Cá lăng nướng trên than hoa, ăn kèm thì là và bún — có cả con phố mang tên món ăn", "description": "Chả cá Hà Nội nổi tiếng với cá lăng hoặc cá quả nướng trên than hoa, ăn kèm thì là, hành lá, bún và mắm tôm. Phố Chả Cá ở quận Hoàn Kiếm có tên từ nhà hàng Lã Vọng hơn 100 năm tuổi." },
+      { "item": "Tự nướng tại bàn bằng chảo nhỏ — trải nghiệm ăn uống tương tác", "description": "Tại hầu hết các quán chả cá, cá được mang ra sống và nướng trên chảo nhỏ ngay tại bàn, rưới mỡ và thêm thì là liên tục — vừa nướng vừa ăn là cách thưởng thức đúng nhất." }
+    ],
+    "content_en": [
+      { "item": "Charcoal-grilled snakehead fish with dill and rice vermicelli — Hanoi has a whole street named after this dish", "description": "Hanoi's cha ca features grilled snakehead or catfish served with abundant fresh dill, spring onion, rice vermicelli, and fermented shrimp paste. Cha Ca Street in Hoan Kiem district takes its name from the century-old La Vong restaurant." },
+      { "item": "Self-grill at the table in a small pan — an interactive dining experience", "description": "At most cha ca restaurants, the fish arrives raw and is grilled in a small pan at the table, constantly basted with fat and dill — grilling and eating simultaneously is the correct way to enjoy it." }
+    ],
+    "sources": [
+      { "url": "https://toquoc.vn/cha-ca-la-vong-huong-vi-ha-noi-nghin-nam/", "title": "Chả cá Lã Vọng — hương vị Hà Nội ngàn năm", "publisher": "Báo Tổ Quốc", "accessed_date": "2026-05-04" }
+    ]
+  },
+  {
+    "content_hash": "hn_at5_com",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Cốm làng Vòng",
+    "title_en": "Vong village green sticky rice",
+    "content_vi": [
+      { "item": "Lúa nếp non rang xay — đặc sản mùa thu của Hà Nội, làm thủ công tại làng Vòng", "description": "Cốm (lúa nếp non rang xay) là đặc sản mùa thu của Hà Nội, được làm thủ công tại làng Vòng (quận Cầu Giấy). Ăn cốm phải kèm chuối tiêu chín vàng — vị ngọt mát thanh của cốm hòa vào vị ngọt thơm của chuối." },
+      { "item": "Chỉ có từ tháng 8–10 (âm lịch) — mua ở làng Vòng hoặc phố Hàng Than", "description": "Cốm chỉ làm được khi lúa nếp vừa vào hạt sữa — khoảng tháng 8 đến 10 âm lịch. Phố Hàng Than ở phố cổ là nơi bán cốm nổi tiếng nhất. Tránh mua ở quán không rõ nguồn gốc." }
+    ],
+    "content_en": [
+      { "item": "Hand-pounded young glutinous rice — Hanoi's autumn specialty, made in Vong village", "description": "Cốm (young glutinous rice, roasted and pounded) is Hanoi's signature autumn produce, crafted by hand in Vong village (Cau Giay district). It is traditionally eaten with ripe finger bananas — the fresh coolness of the cốm meeting the warm sweetness of the banana." },
+      { "item": "Available only August–October (lunar calendar) — buy at Vong village or Hang Than Street", "description": "Cốm can only be made when young glutinous rice is at the milky stage — roughly lunar August to October. Hang Than Street in the Old Quarter is the most reputable place to buy it. Avoid stalls of uncertain origin." }
+    ],
+    "sources": [
+      { "url": "https://toquoc.vn/com-lang-vong-mua-thu-ha-noi/", "title": "Cốm làng Vòng mùa thu Hà Nội", "publisher": "Báo Tổ Quốc", "accessed_date": "2026-05-04" }
+    ]
+  },
+  {
+    "content_hash": "hn_at6_banhmi",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Bánh mì Hà Nội",
+    "title_en": "Hanoi bánh mì",
+    "content_vi": [
+      { "item": "Vỏ giòn, nhân đậm — phiên bản Hà Nội khác miền Nam ở chỗ ít rau hơn, nhân đặc hơn", "description": "Bánh mì Hà Nội có vỏ giòn rụm và nhân đặc hơn so với phiên bản miền Nam — pate mềm, chả lụa, giò thủ, dưa góp và ít rau. Ít đồ chua, nhiều thịt — đậm đà kiểu Hà Nội." },
+      { "item": "Bữa sáng nhanh — phổ biến từ cổng trường đến phố lớn", "description": "Bánh mì là bữa sáng nhanh gọn và rẻ nhất Hà Nội — từ 15.000đ. Hàng bánh mì vỉa hè phổ biến khắp nơi, đặc biệt ở khu vực hồ Hoàn Kiếm và phố cổ." }
+    ],
+    "content_en": [
+      { "item": "Crispy shell, dense filling — the Hanoi version has less salad but richer filling than the south", "description": "Hanoi bánh mì has a crunchier crust and denser filling compared to its southern counterpart — soft pâté, pork sausage, pork head cheese, pickled vegetables, and fewer fresh herbs. Less tangy, more meat — distinctly Hanoi." },
+      { "item": "Quick breakfast — found everywhere from school gates to main streets", "description": "Bánh mì is Hanoi's fastest and most affordable breakfast — from 15,000VND. Streetside stalls are ubiquitous, especially around Hoan Kiem Lake and the Old Quarter." }
+    ],
+    "sources": [
+      { "url": "https://toquoc.vn/banh-mi-ha-noi-phong-cach-rieng-thu-do/", "title": "Bánh mì Hà Nội — phong cách riêng thủ đô", "publisher": "Báo Tổ Quốc", "accessed_date": "2026-05-04" }
+    ]
+  },
+  {
+    "content_hash": "hn_dd1_hoangthanh",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Hoàng thành Thăng Long",
+    "title_en": "Thang Long Imperial Citadel",
+    "content_vi": [
+      { "item": "Di sản Văn hóa Thế giới UNESCO 2010 — trung tâm quyền lực từ thế kỷ 11", "description": "Hoàng thành Thăng Long là trung tâm quyền lực của các triều đại Việt Nam từ thế kỷ 11. Khu khảo cổ trưng bày hàng ngàn cổ vật quý giá từ nhiều thời kỳ lịch sử." },
+      { "item": "Khu khảo cổ 18 Hoàng Diệu — tầng văn hóa 1.300 năm chồng lên nhau", "description": "Bên cạnh Hoàng thành là khu khảo cổ 18 Hoàng Diệu — nơi phát hiện hơn 1 triệu hiện vật thuộc nhiều thời kỳ, từ thế kỷ 7 đến thế kỷ 20, chồng lên nhau theo các tầng văn hóa." }
+    ],
+    "content_en": [
+      { "item": "UNESCO World Heritage 2010 — center of power since the 11th century", "description": "Thang Long Imperial Citadel was the seat of Vietnamese dynastic power from the 11th century. The archaeological site displays thousands of precious artifacts spanning multiple historical periods." },
+      { "item": "18 Hoang Dieu archaeological site — 1,300 years of cultural layers stacked above each other", "description": "Adjacent to the citadel, the 18 Hoang Dieu excavation revealed over 1 million artifacts from the 7th to the 20th century, layered in successive cultural strata — one of Southeast Asia's most significant archaeological finds." }
+    ],
+    "sources": [
+      { "url": "https://vietnamtourism.gov.vn/diem-den/ha-noi/hoang-thanh-thang-long/", "title": "Hoàng thành Thăng Long", "publisher": "Tổng cục Du lịch", "accessed_date": "2026-05-04" }
+    ]
+  },
+  {
+    "content_hash": "hn_dd2_hoguom",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Hồ Hoàn Kiếm & Đền Ngọc Sơn",
+    "title_en": "Hoan Kiem Lake & Ngoc Son Temple",
+    "content_vi": [
+      { "item": "Trái tim của Hà Nội — Tháp Rùa, cầu Thê Húc đỏ, Đền Ngọc Sơn giữa hồ", "description": "Hồ Gươm là trái tim của Hà Nội, nơi có Tháp Rùa huyền thoại và Đền Ngọc Sơn thơ mộng trên đảo nhỏ giữa hồ, kết nối bằng cầu Thê Húc đỏ rực. Chiều tà, từ bờ hồ có thể nhìn thấy Tháp Rùa in bóng trên mặt nước." },
+      { "item": "Đi bộ quanh hồ sáng sớm — thói quen không thể thiếu của người Hà Nội", "description": "Mỗi sáng từ 5h, người Hà Nội ra đi bộ, tập thể dục và thư giãn quanh hồ. Phố Đinh Tiên Hoàng và Hàng Khay là hai phía đông-tây sôi động nhất. Sáng thứ 7-CN, một phần phố được đóng cửa xe máy, tạo không gian đi bộ mở." }
+    ],
+    "content_en": [
+      { "item": "The heart of Hanoi — the legendary Turtle Tower, the red The Huc Bridge, Ngoc Son Temple on an island", "description": "Hoan Kiem Lake is the centre of Hanoi — home to the legendary Turtle Tower and the picturesque Ngoc Son Temple on a small island, reached by the red The Huc Bridge. At dusk, the Turtle Tower's reflection shimmers on the water." },
+      { "item": "Morning walk around the lake — the non-negotiable Hanoian daily ritual", "description": "From 5am daily, locals walk, exercise, and relax around the lake. Dinh Tien Hoang and Hang Khay streets are the liveliest east and west sides. On Saturday and Sunday mornings, part of the street is closed to motorbikes, creating an open pedestrian zone." }
+    ],
+    "sources": [
+      { "url": "https://vietnamtourism.gov.vn/diem-den/ha-noi/ho-hoan-kiem/", "title": "Hồ Hoàn Kiếm & Đền Ngọc Sơn", "publisher": "Tổng cục Du lịch", "accessed_date": "2026-05-04" }
+    ]
+  },
+  {
+    "content_hash": "hn_dd3_vanmieu",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Văn Miếu — Quốc Tử Giám",
+    "title_en": "Temple of Literature",
+    "content_vi": [
+      { "item": "Trường đại học đầu tiên của Việt Nam — xây năm 1070, thờ Khổng Tử và 82 bia tiến sĩ", "description": "Văn Miếu — Quốc Tử Giám xây dựng năm 1070 để thờ Khổng Tử và đào tạo hoàng tộc, sau mở rộng cho con em bách quan. 82 tấm bia đá ghi tên 1.307 tiến sĩ từ 1442–1779 là di vật quý nhất, được UNESCO công nhận là Di sản ký ức thế giới." },
+      { "item": "Đến vào sáng sớm hoặc đầu giờ chiều để tránh đông", "description": "Văn Miếu đông khách nhất vào dịp lễ tết và mùa thi đại học. Ngày thường, đến trước 9h sáng là trải nghiệm yên tĩnh và đẹp nhất — ánh sáng buổi sáng chiếu vào các khoảng sân rêu phong tạo cảm giác lịch sử rõ rệt." }
+    ],
+    "content_en": [
+      { "item": "Vietnam's first university — built 1070, honouring Confucius and 82 doctor's steles", "description": "Built in 1070 to honour Confucius and educate royalty, later expanded for scholar-official families. The 82 stone steles inscribed with the names of 1,307 doctoral graduates (1442–1779) are the site's most precious artefacts, recognised by UNESCO as a Memory of the World heritage." },
+      { "item": "Visit early morning or early afternoon to avoid crowds", "description": "The Temple of Literature is busiest during Tet and university examination season. On ordinary days, arriving before 9am gives a quiet, atmospheric experience — morning light across the moss-covered courtyards makes history feel tangible." }
+    ],
+    "sources": [
+      { "url": "https://vietnamtourism.gov.vn/diem-den/ha-noi/van-mieu-quoc-tu-giam/", "title": "Văn Miếu — Quốc Tử Giám", "publisher": "Tổng cục Du lịch", "accessed_date": "2026-05-04" }
+    ]
+  },
+  {
+    "content_hash": "hn_dd4_langho",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Lăng Chủ tịch Hồ Chí Minh",
+    "title_en": "Ho Chi Minh Mausoleum",
+    "content_vi": [
+      { "item": "Công trình trang nghiêm tại Quảng trường Ba Đình — nơi Bác Hồ đọc Tuyên ngôn Độc lập", "description": "Lăng Hồ Chí Minh tọa lạc tại Quảng trường Ba Đình — chính nơi ngày 2/9/1945 Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập. Công trình lưu giữ và trưng bày thi hài Bác Hồ, mở cửa cho nhân dân và du khách quốc tế tham quan." },
+      { "item": "Mở cửa sáng thứ 3–thứ 6 và thứ 7 (trừ mùa bảo dưỡng) — xếp hàng từ 7h", "description": "Lăng mở cửa 7h30–10h30 (thứ 3–6) và 7h30–11h (thứ 7, CN). Mỗi năm đóng cửa 2–3 tháng để bảo dưỡng (thường vào tháng 9–11). Mặc trang phục lịch sự và không mang túi xách lớn." }
+    ],
+    "content_en": [
+      { "item": "The solemn landmark at Ba Dinh Square — where Ho Chi Minh read the Declaration of Independence", "description": "Ho Chi Minh Mausoleum stands at Ba Dinh Square — the very place where on 2 September 1945 President Ho Chi Minh proclaimed Vietnam's Declaration of Independence. The mausoleum preserves and displays his remains, open to Vietnamese nationals and international visitors alike." },
+      { "item": "Open Tuesday–Saturday mornings (except maintenance season) — queue from 7am", "description": "Opening hours: 7:30–10:30am (Tue–Fri), 7:30–11am (Sat–Sun). The mausoleum closes 2–3 months annually for maintenance (typically September–November). Dress modestly and do not bring large bags." }
+    ],
+    "sources": [
+      { "url": "https://vietnamtourism.gov.vn/diem-den/ha-noi/lang-chu-tich-ho-chi-minh/", "title": "Lăng Chủ tịch Hồ Chí Minh", "publisher": "Tổng cục Du lịch", "accessed_date": "2026-05-04" }
+    ]
+  },
+  {
+    "content_hash": "hn_dd5_phoco",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Phố cổ Hà Nội",
+    "title_en": "Hanoi Old Quarter",
+    "content_vi": [
+      { "item": "36 phố phường nghề — trung tâm thương mại từ thế kỷ 13 đến nay", "description": "Khu phố cổ 36 phường nghề với kiến trúc nhà ống truyền thống là trung tâm thương mại sầm uất từ thế kỷ 13. Mỗi phố gắn liền với một nghề thủ công: Hàng Bạc (bạc), Hàng Đào (tơ lụa), Hàng Thiếc (đồ thiếc)..." },
+      { "item": "Đi bộ phố đêm thứ 6–CN — chợ đêm Đồng Xuân và phố đi bộ", "description": "Tối thứ 6, 7 và CN, khu vực quanh hồ Hoàn Kiếm và phố cổ có chợ đêm và phố đi bộ. Đây là thời điểm sôi động nhất để khám phá ẩm thực đường phố và hàng thủ công." }
+    ],
+    "content_en": [
+      { "item": "36 guild streets — a commercial hub from the 13th century to today", "description": "Hanoi's 36-guild Old Quarter, with its traditional tube-house architecture, has been a bustling commercial centre since the 13th century. Each street is associated with a craft: Hang Bac (silver), Hang Dao (silk), Hang Thiec (tinware)..." },
+      { "item": "Weekend night market Fri–Sun — Dong Xuan Night Market and pedestrian streets", "description": "On Friday, Saturday, and Sunday evenings, the area around Hoan Kiem Lake and the Old Quarter hosts a night market and pedestrian street closures. These are the best times to explore street food and handicraft stalls." }
+    ],
+    "sources": [
+      { "url": "https://toquoc.vn/khu-pho-co-ha-noi-36-pho-phuong-nghe/", "title": "Khu phố cổ Hà Nội — 36 phố phường nghề", "publisher": "Báo Tổ Quốc", "accessed_date": "2026-05-04" }
+    ]
+  },
+  {
+    "content_hash": "hn_dd6_baotang",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Bảo tàng Dân tộc học Việt Nam",
+    "title_en": "Vietnam Museum of Ethnology",
+    "content_vi": [
+      { "item": "54 dân tộc Việt Nam — hơn 15.000 hiện vật và nhà truyền thống ngoài trời", "description": "Bảo tàng Dân tộc học giới thiệu văn hóa của 54 dân tộc Việt Nam với hơn 15.000 hiện vật và các công trình kiến trúc truyền thống ngoài trời. Được Lonely Planet đánh giá là bảo tàng tốt nhất Đông Nam Á." },
+      { "item": "Khu trưng bày ngoài trời — nhà dài Ê Đê, nhà Rông Tây Nguyên thật sự", "description": "Khu vườn ngoài trời của bảo tàng có các công trình kiến trúc truyền thống quy mô thật: nhà dài Ê Đê, nhà Rông Ba Na, nhà sàn Thái — nơi tổ chức các hoạt động văn hóa định kỳ." }
+    ],
+    "content_en": [
+      { "item": "54 ethnic groups of Vietnam — 15,000+ artefacts and real outdoor traditional houses", "description": "The Museum of Ethnology introduces the cultures of Vietnam's 54 ethnic groups with over 15,000 artefacts and full-scale traditional architectural structures outdoors. Lonely Planet rates it the best museum in Southeast Asia." },
+      { "item": "Outdoor exhibition area — real Ede longhouses and Central Highland communal houses", "description": "The museum's outdoor garden features full-scale traditional structures: Ede longhouses, Ba Na communal halls, Thai stilt houses — the setting for periodic cultural activities and demonstrations." }
+    ],
+    "sources": [
+      { "url": "https://vietnamtourism.gov.vn/diem-den/ha-noi/bao-tang-dan-toc-hoc/", "title": "Bảo tàng Dân tộc học Việt Nam", "publisher": "Tổng cục Du lịch", "accessed_date": "2026-05-04" }
+    ]
+  },
+  {
+    "content_hash": "hn_at7_bunrieu",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Bún riêu cua Hà Nội",
+    "title_en": "Hanoi Crab Noodle Soup",
+    "content_vi": [
+      { "item": "Riêu cua đồng, dấm bỗng, cà chua", "description": "Bún riêu cua Hà Nội là món súp sợi bún nấu với riêu cua đồng xào thơm, nước dùng chua nhẹ từ dấm bỗng và cà chua đỏ tươi. Theo lối xưa, nước dùng trong vắt, không nêm nhiều gia vị, để gạch cua và riêu nổi bật như linh hồn của bát. Ngày nay vẫn có thể tìm thấy vị bún riêu cổ truyền ấy trong những gánh hàng lâu đời ở phố cổ Hà Nội." },
+      { "item": "Ăn sáng sớm (6h–10h) — gánh hàng rong phố cổ lâu đời hơn một thế kỷ", "description": "Bún riêu cua theo chân những gánh hàng rong vào lòng phố cổ Hà Nội và trở thành bữa sáng không thể thiếu của người Hà thành. Nước dùng phải trong và hơi ngả vàng hồng từ cà chua — tuyệt đối không đục hay sẫm màu." }
+    ],
+    "content_en": [
+      { "item": "Freshwater field crab, fermented rice vinegar, ripe tomatoes", "description": "Hanoi crab noodle soup is built on a clear, lightly sour broth of fermented rice vinegar and ripe tomato, crowned with golden fried crab paste from freshwater field crabs. Old-style bowls keep the broth clean and restrained so the crab's sweetness shines through. Decades-old stalls in the Old Quarter still serve this classic rendition." },
+      { "item": "Early morning (6am–10am) — Old Quarter street vendors with over a century of tradition", "description": "Bún riêu made its way into the Old Quarter on the shoulders of street hawkers and became the indispensable breakfast of Hanoians for more than a century. The broth should be clear and faintly rosy-orange from tomatoes — never cloudy or dark." }
+    ],
+    "sources": [
+      { "url": "https://tuoitre.vn/bun-rieu-ha-noi-xua-rieu-cua-ca-chua-va-chut-mo-2026030519515754.htm", "title": "Bún riêu Hà Nội xưa: Riêu cua, cà chua và chút mỡ", "publisher": "Tuổi Trẻ Online", "accessed_date": "2026-05-24" }
+    ]
+  },
+  {
+    "content_hash": "hn_at8_bunthang",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Bún thang Hà Nội",
+    "title_en": "Hanoi Royal Vermicelli Soup",
+    "content_vi": [
+      { "item": "20+ nguyên liệu, tinh tế như tranh thủy mặc", "description": "Bún thang là một trong những món ăn đòi hỏi kỹ thuật và sự kiên nhẫn bậc nhất của bếp Hà thành — ít nhất 20 nguyên liệu được sắp xếp cẩn thận trên nền nước dùng gà trong vắt. Tương truyền bún thang ra đời từ việc tận dụng thực phẩm Tết còn lại, chế biến lại thành món hội tụ đủ thịt gà, chả lụa, trứng tráng thái sợi, tôm khô và mắm tôm." },
+      { "item": "Bán buổi chiều tối (16h–22h) — bát bún đẹp như một bức tranh thu nhỏ", "description": "Bún thang phản chiếu nét thanh lịch đặc trưng của ẩm thực Hà Nội. Nước dùng gà phải trong vắt như pha lê, không được có váng mỡ hay đục. Chả lụa phải thái chỉ bằng tay, và không thể thiếu đĩa củ cải muối đi kèm." }
+    ],
+    "content_en": [
+      { "item": "20+ ingredients, as refined as a watercolour painting", "description": "Bún thang is among the most technically demanding dishes in Hanoi's culinary canon, requiring at least 20 precisely prepared components layered over a crystal-clear chicken broth. Legend traces its origin to repurposing Tet leftovers — shredded chicken, silk sausage, egg ribbons, dried shrimp and shrimp paste." },
+      { "item": "Served in the evening (4pm–10pm) — each bowl arranged like a miniature painting", "description": "Bún thang is a window into Hanoi's famed refinement and elegance. The broth must be crystal-clear — no surface fat, no cloudiness. Silk sausage should be julienned by hand, and pickled daikon is non-negotiable." }
+    ],
+    "sources": [
+      { "url": "https://vnexpress.net/hang-bun-thang-ban-500-bat-moi-toi-4626356.html", "title": "Hàng bún thang bán 500 bát mỗi tối", "publisher": "VnExpress", "accessed_date": "2026-05-24" }
+    ]
+  },
+  {
+    "content_hash": "hn_at9_xoi",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Xôi xéo Hà Nội",
+    "title_en": "Hanoi Mung Bean Sticky Rice",
+    "content_vi": [
+      { "item": "Di sản văn hóa phi vật thể quốc gia", "description": "Xôi xéo là món xôi truyền thống của người Hà Nội với hạt nếp vàng ươm áo đậu xanh bùi bột, mỡ hành phi thơm và hành phi giòn rụm. Tên gọi xéo xuất phát từ động tác dùng đũa cả xéo đều hạt đậu xanh đã hấp chín vào xôi, tạo lớp áo vàng óng." },
+      { "item": "Nghề làm xôi Phú Thượng — cội nguồn xôi xéo Hà Nội từ thế kỷ XVIII", "description": "Nghề làm xôi Phú Thượng (Tây Hồ) — cái nôi của xôi xéo Hà Nội — đã được công nhận là Di sản văn hóa phi vật thể quốc gia năm 2024. Xôi có trong sách Nữ công lãm thắng từ năm 1760. Mua sáng sớm (5h30–9h) để được xôi tươi nóng nhất." }
+    ],
+    "content_en": [
+      { "item": "National intangible cultural heritage", "description": "Xôi xéo is Hanoi's iconic sticky rice dish — glossy glutinous rice grains coated in crumbled steamed mung bean, fragrant scallion oil, and crispy fried shallots. The name xeo comes from the motion of folding cooked mung beans into the rice with a large paddle, creating the dish's signature golden hue." },
+      { "item": "The Phu Thuong sticky-rice craft — roots of Hanoi xoi xeo dating to the 18th century", "description": "The craft of making xoi Phu Thuong, originating in Tay Ho district, was inscribed as a national intangible cultural heritage in 2024. The dish was recorded in a culinary text from 1760. Buy early morning (5:30–9am) for the freshest, hottest sticky rice." }
+    ],
+    "sources": [
+      { "url": "https://nhandan.vn/xoi-phu-thuong-di-san-van-hoa-phi-vat-the-quoc-gia-post924284.html", "title": "Xôi Phú Thượng — Di sản văn hóa phi vật thể quốc gia", "publisher": "Nhân Dân", "accessed_date": "2026-05-24" }
+    ]
+  },
+  {
+    "content_hash": "hn_at10_banhgoi",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Bánh gối Hà Nội",
+    "title_en": "Hanoi Pillow Pastry",
+    "content_vi": [
+      { "item": "Vỏ chiên giòn, nhân thịt mộc nhĩ miến", "description": "Bánh gối là món quà vặt phố cổ kinh điển của Hà Nội — chiếc bánh hình gối nhỏ với vỏ bột mì chiên giòn vàng rụm, bên trong là nhân thịt lợn băm, mộc nhĩ, nấm hương, miến và tiêu. Bánh gối ăn kèm nước chấm pha chua ngọt từ giấm và đường — tuyệt đối không pha nước mắm theo truyền thống Hà Nội." },
+      { "item": "Ăn chiều tối (14h–21h) — đặc biệt hút khách vào mùa đông Hà Nội", "description": "Bánh gối gắn liền với những con phố như Lý Quốc Sư, Hòe Nhai và Lương Văn Can. Bánh ngon nhất khi vừa vớt khỏi chảo dầu — vỏ bánh khi gõ nhẹ ngón tay phải phát ra tiếng rỗng giòn, không bị mềm hay xẹp." }
+    ],
+    "content_en": [
+      { "item": "Shatteringly crispy shell, pork-mushroom-noodle filling", "description": "Banh goi is a quintessential Hanoi street snack — a pillow-shaped pastry with a shatteringly crisp wheat-dough shell encasing a filling of minced pork, wood-ear mushroom, shiitake, glass noodles and black pepper. Tradition dictates the dipping sauce is vinegar-and-sugar based, never fish sauce." },
+      { "item": "Afternoon and evening (2pm–9pm) — most popular on cold Hanoi winter evenings", "description": "Streets like Ly Quoc Su, Hoe Nhai and Luong Van Can have long been the heartland of these golden pastries. Best eaten immediately from the oil — tap the crust lightly and it should sound hollow and crisp, not soft or deflated." }
+    ],
+    "sources": [
+      { "url": "https://vietnamtourism.gov.vn/post/27614", "title": "Quán bánh gối, quẩy nóng giòn rụm cho ngày mưa lạnh ở Hà Nội", "publisher": "Vietnam Tourism", "accessed_date": "2026-05-24" }
+    ]
+  },
+  {
+    "content_hash": "hn_dd7_hotay",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Hồ Tây",
+    "title_en": "West Lake",
+    "content_vi": [
+      { "item": "Hồ tự nhiên lớn nhất Hà Nội, 526 ha", "description": "Hồ Tây rộng hơn 526 ha với chu vi gần 15 km là hồ tự nhiên lớn nhất nội thành Hà Nội, bao quanh bởi hơn 71 di tích lịch sử văn hóa. Từ thời Lý–Trần, các vua chúa đã lập cung điện quanh hồ làm nơi nghỉ mát; ngày nay chùa Trấn Quốc, phủ Tây Hồ và các làng hoa ven hồ tạo nên không gian tâm linh và thiên nhiên hiếm có giữa lòng đô thị." },
+      { "item": "Điểm hẹn lãng mạn bậc nhất Hà Nội — cà phê ven hồ và sương khói buổi chiều", "description": "Buổi chiều sương khói trên mặt hồ và những quán cà phê, nhà hàng ven đường Thanh Niên biến Hồ Tây thành điểm hẹn lãng mạn bậc nhất của người Hà Nội. Chùa Trấn Quốc trên đảo hồ là điểm tổ chức lễ Phật Đản đẹp nhất Hà Nội." }
+    ],
+    "content_en": [
+      { "item": "Hanoi's largest natural lake, 526 hectares", "description": "Stretching over 526 hectares with a 15-kilometre shoreline, West Lake is Hanoi's largest natural lake and is encircled by more than 71 historical and cultural monuments. Since the Ly and Tran dynasties, emperors established pleasure palaces along its banks; today Tran Quoc Pagoda, Phu Tay Ho temple and the famous flower villages create a rare blend of spirituality and nature within the city." },
+      { "item": "Hanoi's most romantic gathering spot — lakeside cafes and misty afternoon light", "description": "On misty afternoons the lakeside cafes and restaurants along Thanh Nien Road make West Lake Hanoi's most romantic gathering spot. Tran Quoc Pagoda on the lake island is Hanoi's most beautiful venue for the Vesak lantern festival." }
+    ],
+    "sources": [
+      { "url": "https://vietnamtourism.gov.vn/post/26023", "title": "Hồ Tây — Điểm đến văn hóa và thiên nhiên Hà Nội", "publisher": "Vietnam Tourism", "accessed_date": "2026-05-24" }
+    ]
+  },
+  {
+    "content_hash": "hn_dd8_nhahat",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Nhà hát Lớn Hà Nội",
+    "title_en": "Hanoi Opera House",
+    "content_vi": [
+      { "item": "Kiến trúc Pháp 1911, biểu tượng nghệ thuật Thủ đô", "description": "Nhà hát Lớn Hà Nội được khởi công năm 1901 và khánh thành tháng 12/1911, lấy cảm hứng từ Opéra Garnier của Paris nhưng điều chỉnh vật liệu và tỉ lệ cho phù hợp với khí hậu nhiệt đới. Công trình sử dụng 35.000 cọc tre, 600 tấn gang thép và 12.000 m³ vật liệu xây dựng." },
+      { "item": "Năm 1945: nơi diễn ra mít tinh ra mắt Mặt trận Việt Minh — dấu mốc lịch sử", "description": "Kiến trúc Tân Cổ Điển Pháp độc đáo không thể nhầm lẫn. Năm 1945 Nhà hát Lớn là nơi diễn ra mít tinh ra mắt Mặt trận Việt Minh — dấu mốc lịch sử gắn liền với tên tuổi của công trình 115 tuổi này." }
+    ],
+    "content_en": [
+      { "item": "French architecture 1911, the capital's icon of the arts", "description": "Hanoi Opera House broke ground in 1901 and opened in December 1911, drawing inspiration from Paris's Opera Garnier while adapting materials and proportions to the tropical climate. Its construction consumed 35,000 bamboo piles, 600 tonnes of cast iron and 12,000 cubic metres of building material." },
+      { "item": "In 1945: the site of the Viet Minh Front rally — a historic moment forever linked to this landmark", "description": "A French Neoclassical masterpiece unlike any other in the world. In August 1945 the Opera House hosted the rally that launched the Viet Minh Front — a historic moment forever entwined with this 115-year-old landmark." }
+    ],
+    "sources": [
+      { "url": "https://nhandan.vn/115-nam-nha-hat-lon-ha-noi-ke-chuyen-di-san-cat-loi-bang-anh-sang-va-cong-nghe-post920735.html", "title": "115 năm Nhà hát Lớn Hà Nội", "publisher": "Nhân Dân", "accessed_date": "2026-05-24" }
+    ]
+  },
+  {
+    "content_hash": "hn_dd9_battrang",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Làng gốm Bát Tràng",
+    "title_en": "Bat Trang Pottery Village",
+    "content_vi": [
+      { "item": "Làng nghề gốm 700 năm tuổi ven sông Hồng", "description": "Làng gốm Bát Tràng nằm bên bờ nam sông Hồng, cách trung tâm Hà Nội khoảng 15 km, là một trong những làng nghề thủ công lâu đời và nổi tiếng nhất Việt Nam với hơn 700 năm lịch sử. Hàng trăm lò gốm vẫn hoạt động, sản xuất từ gốm gia dụng truyền thống đến các tác phẩm nghệ thuật được xuất khẩu đi khắp thế giới." },
+      { "item": "Tự tay nặn gốm và khám phá bộ sưu tập gốm cổ Lý–Trần–Lê", "description": "Du khách có thể tự tay nặn gốm, tham quan chợ gốm đầu làng và chiêm ngưỡng bộ sưu tập gốm cổ qua các triều đại Lý, Trần, Lê trong các bảo tàng mini của làng." }
+    ],
+    "content_en": [
+      { "item": "700-year-old pottery village on the Red River bank", "description": "Bat Trang Pottery Village sits on the south bank of the Red River roughly 15 kilometres from central Hanoi and is one of Vietnam's oldest and most celebrated craft villages, with more than 700 years of continuous ceramic production. Hundreds of kilns remain active, turning out everything from everyday household pottery to fine-art pieces exported worldwide." },
+      { "item": "Throw clay yourself and explore ancient Ly–Tran–Le dynasty ceramics", "description": "Visitors can throw clay on a wheel, browse the village market for distinctive blue-and-white glazed pieces and explore private mini-museums displaying ceramics from the Ly, Tran and Le dynasties." }
+    ],
+    "sources": [
+      { "url": "https://www.vietnamplus.vn/quan-tay-ho-phong-canh-huu-tinh-bao-boc-bau-vat-ngan-nam-post887658.vnp", "title": "Làng gốm Bát Tràng — Bảo vật nghìn năm ven sông Hồng", "publisher": "VietnamPlus", "accessed_date": "2026-05-24" }
+    ]
+  },
+  {
+    "content_hash": "hn_pt1_caphe",
+    "type": "phong-tuc",
+    "status": "published",
+    "title_vi": "Văn hóa cà phê trứng Hà Nội",
+    "title_en": "Hanoi Egg Coffee Culture",
+    "content_vi": [
+      { "item": "Sáng tạo từ năm 1946, thay sữa bằng lòng đỏ trứng", "description": "Cà phê trứng Hà Nội ra đời năm 1946 từ bàn tay của ông Nguyễn Văn Giảng — nhân viên pha chế khách sạn Metropole dùng lòng đỏ trứng đánh bông thay cho sữa tươi đang khan hiếm thời chiến. Hỗn hợp lòng đỏ trứng, sữa đặc và cà phê robusta tạo ra thức uống sánh mịn, ngọt béo như kem — được Michelin Guide gọi là tuyệt tác của Hà Nội." },
+      { "item": "Cà phê Giảng — thánh địa cà phê trứng 80 năm giữa phố cổ Hà Nội", "description": "Ngày nay, Cà phê Giảng ở phố Nguyễn Hữu Huân vẫn là địa chỉ cà phê trứng mà du khách quốc tế tìm đến như một nghi lễ không thể bỏ qua khi đặt chân đến Hà Nội." }
+    ],
+    "content_en": [
+      { "item": "Created in 1946, replacing milk with beaten egg yolk", "description": "Hanoi egg coffee was born in 1946 when Nguyen Van Giang, a bartender at the Metropole Hotel, replaced scarce fresh milk with whipped egg yolks. The resulting blend of beaten egg yolk, condensed milk and robust Vietnamese robusta produces a drink as thick and sweet as cream — which Michelin Guide has called a Hanoi masterpiece." },
+      { "item": "Ca phe Giang — the 80-year-old spiritual home of egg coffee in Hanoi's Old Quarter", "description": "Today, Ca phe Giang on Nguyen Huu Huan Street remains the spiritual home of egg coffee, a pilgrimage site that international visitors treat as a mandatory ritual upon arriving in the capital." }
+    ],
+    "sources": [
+      { "url": "https://vnexpress.net/lich-su-80-nam-cua-ca-phe-trung-trong-khach-san-ha-noi-4878901.html", "title": "Lịch sử 80 năm của cà phê trứng trong khách sạn Hà Nội", "publisher": "VnExpress", "accessed_date": "2026-05-24" }
+    ]
+  },
+  {
+    "content_hash": "hn_pt2_thanh-lich",
+    "type": "phong-tuc",
+    "status": "published",
+    "title_vi": "Nếp sống thanh lịch người Hà Nội",
+    "title_en": "Hanoi's Culture of Refined Elegance",
+    "content_vi": [
+      { "item": "Thanh nhã trong ăn, mặc và giao tiếp — bản sắc Tràng An", "description": "Người Hà Nội gốc tự hào với phong thái thanh lịch — kết tinh của nghìn năm văn minh Thăng Long được biểu hiện qua cách ăn, mặc và giao tiếp. Trong ẩm thực, người Hà thành ăn tinh tế, chuộng vị thanh đạm, bày biện đẹp mắt và hiếm khi ăn bốc." },
+      { "item": "Chẳng thơm cũng thể hoa nhài — câu ngạn ngữ về niềm tự hào người Thủ đô", "description": "Trong giao tiếp, người Hà Nội nói năng nhẹ nhàng, tránh thô lỗ và trọng phép tắc. Câu ngạn ngữ Chẳng thơm cũng thể hoa nhài / Dẫu không thanh lịch cũng người Tràng An đã trở thành niềm tự hào muôn đời của người Thủ đô." }
+    ],
+    "content_en": [
+      { "item": "Elegance in eating, dressing and speaking — the identity of Trang An", "description": "Native Hanoians take pride in the quality of thanh lich — refined elegance — a distillation of a thousand years of Thang Long civilisation expressed in the way they eat, dress and speak. At the table, Hanoians favour delicate, lightly seasoned flavours and beautiful presentation over extravagance." },
+      { "item": "Even without fragrance, the jasmine is still jasmine — a proverb of Hanoian civic pride", "description": "In conversation, Hanoians prize soft speech and courtesy over bluntness. The old proverb captures a civic identity — Even without fragrance, a jasmine is still jasmine; even without grace, a person of Trang An is still of Trang An — that Hanoians have cherished across the centuries." }
+    ],
+    "sources": [
+      { "url": "https://nhandan.vn/xay-dung-nep-song-thanh-lich-cua-nguoi-ha-noi-post559607.html", "title": "Xây dựng nếp sống thanh lịch của người Hà Nội", "publisher": "Nhân Dân", "accessed_date": "2026-05-24" }
+    ]
+  }
+]

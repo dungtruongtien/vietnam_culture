@@ -1,0 +1,66 @@
+{
+  "site": {
+    "name": "Explore Vietnam",
+    "tagline": "Discover Vietnam's history and culture",
+    "description": "Learn about history, culture, cuisine and tourist destinations across Vietnam's provinces"
+  },
+  "nav": {
+    "home": "Home",
+    "history": "History",
+    "culture": "Culture",
+    "search": "Search"
+  },
+  "map": {
+    "title": "Map of Vietnam",
+    "comingSoon": "Coming soon",
+    "clickToExplore": "Click to explore",
+    "hover": "Hover to see information"
+  },
+  "onThisDay": {
+    "title": "On This Day in History",
+    "subtitle": "Events that happened on this day",
+    "yearsAgo": "{years} years ago",
+    "readMore": "Read more",
+    "noEvents": "No events found for this date"
+  },
+  "trending": {
+    "title": "Festivals & Featured Destinations",
+    "subtitle": "Upcoming events in the near future",
+    "upcomingFestivals": "Upcoming festivals",
+    "noFestivals": "No upcoming festivals at the moment"
+  },
+  "search": {
+    "placeholder": "Search provinces, events, culture...",
+    "noResults": "No results found",
+    "provinces": "Provinces",
+    "events": "Historical events",
+    "culture": "Culture"
+  },
+  "province": {
+    "history": "History",
+    "culture": "Culture",
+    "backToHome": "Home",
+    "sources": "References",
+    "readMore": "Read more",
+    "collapse": "Collapse"
+  },
+  "culturalTypes": {
+    "all": "All",
+    "am-thuc": "Cuisine",
+    "dia-diem": "Places",
+    "phong-tuc": "Customs",
+    "le-hoi": "Festivals"
+  },
+  "footer": {
+    "disclaimer": "Information on this site is aggregated from various internet sources and may contain errors. It is not an official academic source. We are not responsible for the absolute accuracy of the content. Users should verify with official sources.",
+    "copyright": "© {year} Explore Vietnam",
+    "language": "Language"
+  },
+  "disclaimer": {
+    "short": "Information is aggregated from multiple sources and may contain errors. Please verify from official sources."
+  },
+  "lunarCalendar": {
+    "lunar": "Lunar calendar",
+    "solar": "Solar calendar"
+  }
+}

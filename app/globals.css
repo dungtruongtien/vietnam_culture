@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    background-color: #FBF8F1;
+    color: #1B1B1A;
+    font-family: var(--font-body), system-ui, sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 1.75;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading), Georgia, serif;
+  }
+}
+
+@layer components {
+  .ad-slot {
+    @apply min-h-[90px] w-full rounded border-2 border-dashed border-vn-mist bg-vn-fog flex items-center justify-center text-xs text-vn-stone;
+  }
+
+  .disclaimer-strip {
+    @apply bg-[#FBF6E8] border-y border-[#EDD98A] px-4 py-2.5 text-sm text-[#8A6C00];
+  }
+}
+
+@keyframes pinPulse {
+  0%, 100% { transform: translateY(0); }
+  50%       { transform: translateY(-3px); }
+}
+
+.map-pin {
+  animation: pinPulse 2.4s cubic-bezier(0.22, 1, 0.36, 1) infinite;
+}
+.map-pin-delayed {
+  animation: pinPulse 2.4s cubic-bezier(0.22, 1, 0.36, 1) 0.6s infinite;
+}
+
+/* SVG province transform support */
+svg g path:last-child {
+  transform-box: fill-box;
+  transform-origin: center;
+}
+
+/* Post-row hover interactions */
+.post-row-item {
+  position: relative;
+}
+.post-row-item::before {
+  content: "";
+  position: absolute;
+  left: 0; top: 50%;
+  width: 3px;
+  height: 0;
+  background: #C8102E;
+  transform: translateY(-50%);
+  transition: height 0.2s ease;
+  border-radius: 999px;
+}
+.post-row-item:hover {
+  background: #F5F3EE;
+  padding-left: 1.25rem !important;
+}
+.post-row-item:hover::before {
+  height: 60%;
+}
+.post-row-item:hover h4 {
+  color: #C8102E !important;
+}
+.post-row-item:hover > div:last-child {
+  background: #C8102E;
+  color: #FBF8F1;
+  transform: translateX(4px);
+}

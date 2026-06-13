@@ -1,0 +1,428 @@
+[
+  {
+    "content_hash": "hcm_at1_comtam",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Cơm tấm Sài Gòn",
+    "title_en": "Saigon Broken Rice",
+    "content_vi": [
+      { "item": "Sườn nướng · bì · chả trứng", "description": "Linh hồn ẩm thực Sài Gòn — cơm gạo tấm dẻo ăn kèm sườn heo nướng than, bì sợi, chả trứng hấp và mỡ hành thơm lừng, chan nước mắm pha chua ngọt." },
+      { "item": "Ăn sáng hoặc trưa", "description": "Phổ biến nhất vào buổi sáng và trưa, bán ở hầu hết các con phố từ xe đẩy vỉa hè đến nhà hàng. Quận 3, quận Bình Thạnh có nhiều hàng lâu đời nhất." }
+    ],
+    "content_en": [
+      { "item": "Grilled pork · shredded skin · egg cake", "description": "The soul of Saigon cuisine — sticky broken rice with charcoal-grilled pork chop, shredded pork skin, steamed egg cake, and fragrant scallion oil, served with sweet-sour fish sauce." },
+      { "item": "Breakfast or lunch", "description": "Most popular in the morning and at noon, sold on almost every street from sidewalk carts to restaurants. District 3 and Binh Thanh have the oldest stalls." }
+    ],
+    "sources": [
+      { "url": "https://vietnamtourism.gov.vn/am-thuc-tp-ho-chi-minh/", "title": "Ẩm thực TP. Hồ Chí Minh", "publisher": "Tổng cục Du lịch", "accessed_date": "2024-01-15" },
+      { "url": "https://toquoc.vn/am-thuc-sai-gon-nhung-mon-an-dac-trung/", "title": "Ẩm thực Sài Gòn", "publisher": "Báo Tổ Quốc", "accessed_date": "2024-01-15" }
+    ]
+  },
+  {
+    "content_hash": "hcm_at2_banhmi",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Bánh mì Sài Gòn",
+    "title_en": "Saigon Bánh Mì",
+    "content_vi": [
+      { "item": "Pa-tê · chả lụa · đồ chua", "description": "Sự giao thoa Pháp–Việt hoàn hảo: ổ bánh mì giòn rụm nhân pa-tê, chả lụa, thịt nguội, đồ chua, ngò rí và một chút tương ớt — ăn lúc nào trong ngày cũng được." },
+      { "item": "Xe bánh mì vỉa hè", "description": "Tìm ở mọi góc phố Sài Gòn, đặc biệt trên đường Huỳnh Thúc Kháng (Q.1) và khu Phạm Ngũ Lão. Hòa Mã là thương hiệu lâu đời nổi tiếng nhất." }
+    ],
+    "content_en": [
+      { "item": "Pâté · Vietnamese sausage · pickles", "description": "The perfect French-Vietnamese fusion: a crispy baguette with pâté, Vietnamese sausage, cold cuts, pickled daikon and carrot, coriander, and a dash of chili sauce." },
+      { "item": "Sidewalk carts everywhere", "description": "Found on every corner of Saigon, especially on Huynh Thuc Khang Street (D.1) and the Pham Ngu Lao area. Hoa Ma is the oldest and most famous brand." }
+    ],
+    "sources": [
+      { "url": "https://vietnamtourism.gov.vn/am-thuc-tp-ho-chi-minh/", "title": "Ẩm thực TP. Hồ Chí Minh", "publisher": "Tổng cục Du lịch", "accessed_date": "2024-01-15" },
+      { "url": "https://nhandan.vn/banh-mi-viet-nam-di-san-am-thuc/", "title": "Bánh mì Việt Nam — di sản ẩm thực", "publisher": "Báo Nhân Dân", "accessed_date": "2024-01-15" }
+    ]
+  },
+  {
+    "content_hash": "hcm_at3_hutieu",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Hủ tiếu Nam Vang",
+    "title_en": "Nam Vang Noodle Soup",
+    "content_vi": [
+      { "item": "Mì gốc Khmer–Hoa", "description": "Hủ tiếu trong vắt với tôm, gan heo, thịt bằm, trứng cút — di sản ẩm thực của cộng đồng người Hoa Chợ Lớn, ăn khô hoặc nước đều ngon." },
+      { "item": "Chợ Lớn và khắp thành phố", "description": "Nguồn gốc từ Phnom Penh (Nam Vang) qua tay người Hoa Triều Châu. Hàng nổi tiếng tập trung ở Quận 5, Quận 6 và các khu chợ sáng." }
+    ],
+    "content_en": [
+      { "item": "Khmer–Chinese noodle heritage", "description": "Crystal-clear noodle soup with shrimp, pork liver, minced pork, and quail eggs — culinary heritage of the Cholon Chinese community, served wet or dry." },
+      { "item": "Cholon and citywide", "description": "Originating from Phnom Penh (Nam Vang) via Teochew Chinese immigrants. Famous stalls are concentrated in Districts 5 and 6 and morning markets." }
+    ],
+    "sources": [
+      { "url": "https://toquoc.vn/am-thuc-sai-gon-nhung-mon-an-dac-trung/", "title": "Ẩm thực Sài Gòn", "publisher": "Báo Tổ Quốc", "accessed_date": "2024-01-15" },
+      { "url": "https://vietnamtourism.gov.vn/am-thuc-tp-ho-chi-minh/", "title": "Ẩm thực TP. Hồ Chí Minh", "publisher": "Tổng cục Du lịch", "accessed_date": "2024-01-15" }
+    ]
+  },
+  {
+    "content_hash": "hcm_at4_goicuon",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Gỏi cuốn & Chả giò",
+    "title_en": "Fresh Rolls & Fried Spring Rolls",
+    "content_vi": [
+      { "item": "Cuốn tươi · cuốn chiên", "description": "Hai mặt của một phong cách: gỏi cuốn tươi mát cuộn tôm, thịt heo, bún, rau sống — hoặc chả giò giòn rụm chiên vàng. Đều chấm nước mắm chua ngọt." },
+      { "item": "Ăn nhẹ hoặc khai vị", "description": "Xuất hiện trong mọi bữa ăn gia đình và nhà hàng — gỏi cuốn phổ biến như món ăn nhẹ ban ngày, chả giò thường dùng trong tiệc hay khai vị." }
+    ],
+    "content_en": [
+      { "item": "Fresh roll · fried roll", "description": "Two sides of the same spirit: light gỏi cuốn with shrimp, pork, vermicelli, and fresh herbs — or crispy golden chả giò. Both dipped in sweet-sour fish sauce." },
+      { "item": "Snack or starter", "description": "Found in every family meal and restaurant — gỏi cuốn is popular as a daytime snack, while chả giò often appears at banquets and as a starter." }
+    ],
+    "sources": [
+      { "url": "https://vietnamtourism.gov.vn/am-thuc-tp-ho-chi-minh/", "title": "Ẩm thực TP. Hồ Chí Minh", "publisher": "Tổng cục Du lịch", "accessed_date": "2024-01-15" },
+      { "url": "https://nhandan.vn/am-thuc-mien-nam-dac-sac/", "title": "Ẩm thực miền Nam đặc sắc", "publisher": "Báo Nhân Dân", "accessed_date": "2024-01-15" }
+    ]
+  },
+  {
+    "content_hash": "hcm_at5_caphe",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Cà phê sữa đá phin",
+    "title_en": "Phin-drip Iced Coffee",
+    "content_vi": [
+      { "item": "Phin nhỏ giọt · sữa đặc", "description": "Văn hóa cà phê vỉa hè Sài Gòn — ngồi ghế nhựa thấp, nhìn dòng xe ồn ào, đợi từng giọt cà phê phin nhỏ chậm vào ly sữa đặc Ông Thọ béo ngậy." },
+      { "item": "Quán cóc và chuỗi hiện đại", "description": "Từ quán cóc 5.000đ vỉa hè đến Trung Nguyên, Highlands Coffee — cà phê phin là nghi lễ sáng không thể thiếu của hàng triệu người Sài Gòn." }
+    ],
+    "content_en": [
+      { "item": "Slow drip · condensed milk", "description": "Saigon sidewalk coffee culture — low plastic stool, noisy traffic, waiting for each drop of phin-brewed coffee to fall into a glass of rich condensed milk." },
+      { "item": "Hole-in-the-wall to chains", "description": "From 5,000-dong sidewalk stalls to Trung Nguyen and Highlands Coffee — phin coffee is the unmissable morning ritual for millions of Saigonese." }
+    ],
+    "sources": [
+      { "url": "https://toquoc.vn/van-hoa-ca-phe-sai-gon/", "title": "Văn hóa cà phê Sài Gòn", "publisher": "Báo Tổ Quốc", "accessed_date": "2024-01-15" },
+      { "url": "https://vietnamtourism.gov.vn/am-thuc-tp-ho-chi-minh/", "title": "Ẩm thực TP. Hồ Chí Minh", "publisher": "Tổng cục Du lịch", "accessed_date": "2024-01-15" }
+    ]
+  },
+  {
+    "content_hash": "hcm_at6_banhxeo",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Bánh xèo miền Tây",
+    "title_en": "Mekong Sizzling Crepe",
+    "content_vi": [
+      { "item": "Bột gạo · nghệ · tôm thịt", "description": "Chiếc bánh xèo vàng ruộm to bằng cái mâm — bột gạo pha nghệ đổ giòn rụm, nhân tôm, thịt heo, giá đỗ, gói trong lá diếp cùng hơn chục loại rau sống." },
+      { "item": "Đặc sản miền Tây nhập cư", "description": "Mang theo từ vùng sông nước Cửu Long, bánh xèo Sài Gòn có size lớn hơn phiên bản miền Trung. Nổi tiếng nhất trên đường Đinh Công Tráng, Quận 1." }
+    ],
+    "content_en": [
+      { "item": "Rice flour · turmeric · shrimp & pork", "description": "A platter-sized golden sizzling crepe — turmeric rice batter fried crispy, filled with shrimp, pork, bean sprouts, and wrapped in lettuce with over a dozen fresh herbs." },
+      { "item": "Mekong Delta immigrant specialty", "description": "Brought from the Mekong River delta, Saigon's bánh xèo is larger than the Central Vietnamese version. Most famous along Dinh Cong Trang Street, District 1." }
+    ],
+    "sources": [
+      { "url": "https://nhandan.vn/am-thuc-mien-nam-dac-sac/", "title": "Ẩm thực miền Nam đặc sắc", "publisher": "Báo Nhân Dân", "accessed_date": "2024-01-15" },
+      { "url": "https://vietnamtourism.gov.vn/am-thuc-tp-ho-chi-minh/", "title": "Ẩm thực TP. Hồ Chí Minh", "publisher": "Tổng cục Du lịch", "accessed_date": "2024-01-15" }
+    ]
+  },
+  {
+    "content_hash": "hcm_dd1_dinhdoclap",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Dinh Độc Lập",
+    "title_en": "Independence Palace",
+    "content_vi": [
+      { "item": "Quận 1 · Di tích quốc gia đặc biệt", "description": "Nơi diễn ra sự kiện 30/4/1975 — hôm nay là bảo tàng kiến trúc hiện đại hiếm thấy, nguyên vẹn từng phòng họp, phòng chiến tranh đến hầm ngầm bí mật dưới lòng đất." },
+      { "item": "Mở cửa hàng ngày 7:30–11:00 & 13:00–16:00", "description": "Vé vào cửa 40.000đ. Nên đặt hướng dẫn viên để nghe kể câu chuyện từng căn phòng — đặc biệt là hầm chỉ huy tác chiến và phòng thông tin." }
+    ],
+    "content_en": [
+      { "item": "District 1 · Special National Relic", "description": "Site of the April 30, 1975 event — today a rare museum of modern architecture, with every meeting room, war room, and secret underground bunker preserved intact." },
+      { "item": "Open daily 7:30–11:00 & 13:00–16:00", "description": "Entrance 40,000 VND. A guide is recommended to hear the story of each room — especially the underground command bunker and communications room." }
+    ],
+    "sources": [
+      { "url": "https://dsvh.gov.vn/di-tich-dinh-doc-lap/", "title": "Di tích Dinh Độc Lập", "publisher": "Cục Di sản văn hóa", "accessed_date": "2024-01-15" },
+      { "url": "https://vietnamtourism.gov.vn/diem-den/tp-ho-chi-minh/", "title": "Điểm đến TP. Hồ Chí Minh", "publisher": "Tổng cục Du lịch", "accessed_date": "2024-01-15" }
+    ]
+  },
+  {
+    "content_hash": "hcm_dd2_buudien",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Bưu điện Trung tâm & Nhà thờ Đức Bà",
+    "title_en": "Central Post Office & Notre-Dame Cathedral",
+    "content_vi": [
+      { "item": "Quận 1 · Kiến trúc Pháp", "description": "Cặp công trình Pháp thuộc đứng đối diện nhau trên Công xã Paris — Bưu điện thiết kế theo phong cách Gustave Eiffel (1891), Nhà thờ Đức Bà xây bằng gạch đỏ nhập từ Marseille (1880)." },
+      { "item": "Mở cửa hàng ngày", "description": "Bưu điện mở cửa 7:00–19:00, có thể mua bưu thiếp và đồ lưu niệm. Nhà thờ Đức Bà đang trùng tu nhưng vẫn mở lễ vào các buổi sáng sớm." }
+    ],
+    "content_en": [
+      { "item": "District 1 · French colonial architecture", "description": "Two French colonial landmarks facing each other on Paris Commune Square — the Post Office designed in Gustave Eiffel's style (1891), the Cathedral built with red bricks from Marseille (1880)." },
+      { "item": "Open daily", "description": "Post Office open 7:00–19:00, with postcards and souvenirs for sale. Notre-Dame Cathedral is under renovation but still opens for early morning masses." }
+    ],
+    "sources": [
+      { "url": "https://dsvh.gov.vn/di-tich-nha-tho-duc-ba/", "title": "Di tích Nhà thờ Đức Bà", "publisher": "Cục Di sản văn hóa", "accessed_date": "2024-01-15" },
+      { "url": "https://vietnamtourism.gov.vn/diem-den/tp-ho-chi-minh/", "title": "Điểm đến TP. Hồ Chí Minh", "publisher": "Tổng cục Du lịch", "accessed_date": "2024-01-15" }
+    ]
+  },
+  {
+    "content_hash": "hcm_dd3_nguyenhue",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Phố đi bộ Nguyễn Huệ",
+    "title_en": "Nguyen Hue Walking Street",
+    "content_vi": [
+      { "item": "Quận 1 · Tối đến nửa đêm", "description": "Đại lộ rộng nhất Sài Gòn xưa — nay là không gian đi bộ với quảng trường ánh sáng, đài phun nước, biểu diễn đường phố cuối tuần và đường hoa rực rỡ dịp Tết." },
+      { "item": "Trung tâm sự kiện thành phố", "description": "Nơi tổ chức các sự kiện lớn nhất TP.HCM: đếm ngược Năm mới, đường hoa Tết, lễ hội ánh sáng và các buổi hòa nhạc ngoài trời thu hút hàng trăm nghìn người." }
+    ],
+    "content_en": [
+      { "item": "District 1 · Evening until midnight", "description": "Once Saigon's widest boulevard — now a pedestrian zone with a light square, fountain, weekend street performances, and a dazzling flower street during Tết." },
+      { "item": "City event center", "description": "Ho Chi Minh City's venue for the biggest events: New Year countdown, Tết flower street, light festivals, and outdoor concerts drawing hundreds of thousands of visitors." }
+    ],
+    "sources": [
+      { "url": "https://vietnamtourism.gov.vn/diem-den/tp-ho-chi-minh/", "title": "Điểm đến TP. Hồ Chí Minh", "publisher": "Tổng cục Du lịch", "accessed_date": "2024-01-15" },
+      { "url": "https://nhandan.vn/pho-di-bo-nguyen-hue-khong-gian-van-hoa/", "title": "Phố đi bộ Nguyễn Huệ — không gian văn hóa", "publisher": "Báo Nhân Dân", "accessed_date": "2024-01-15" }
+    ]
+  },
+  {
+    "content_hash": "hcm_dd4_benthanh",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Chợ Bến Thành",
+    "title_en": "Ben Thanh Market",
+    "content_vi": [
+      { "item": "Quận 1 · Mở từ 1914", "description": "Tháp đồng hồ vàng chuông biểu tượng — chợ trung tâm với hàng nghìn gian hàng đặc sản vùng miền, thủ công mỹ nghệ, quần áo và khu ẩm thực đêm sôi động." },
+      { "item": "Mở cửa 6:00–18:00 (chợ đêm đến 24:00)", "description": "Buổi tối sau 18:00 là chợ đêm với hải sản tươi và đồ ăn đường phố xung quanh. Mặc cả là nghệ thuật bắt buộc — giá niêm yết thường cao hơn 30–50%." }
+    ],
+    "content_en": [
+      { "item": "District 1 · Open since 1914", "description": "The iconic golden clock tower market — thousands of stalls with regional specialties, handicrafts, clothing, and a lively night food court." },
+      { "item": "Open 6:00–18:00 (night market until 24:00)", "description": "After 18:00 it becomes a night market with fresh seafood and street food stalls around the perimeter. Bargaining is mandatory — listed prices are often 30–50% above fair value." }
+    ],
+    "sources": [
+      { "url": "https://vietnamtourism.gov.vn/diem-den/tp-ho-chi-minh/", "title": "Điểm đến TP. Hồ Chí Minh", "publisher": "Tổng cục Du lịch", "accessed_date": "2024-01-15" },
+      { "url": "https://toquoc.vn/cho-ben-thanh-bieu-tuong-sai-gon/", "title": "Chợ Bến Thành — biểu tượng Sài Gòn", "publisher": "Báo Tổ Quốc", "accessed_date": "2024-01-15" }
+    ]
+  },
+  {
+    "content_hash": "hcm_dd5_nharong",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Bến Nhà Rồng — Bảo tàng Hồ Chí Minh",
+    "title_en": "Nha Rong Wharf — Ho Chi Minh Museum",
+    "content_vi": [
+      { "item": "Quận 4 · Bảo tàng HCM", "description": "Cảng cũ nơi Nguyễn Tất Thành rời đi năm 1911 tìm đường cứu nước — nay là Bảo tàng Hồ Chí Minh chi nhánh TP.HCM, một địa chỉ thiêng liêng không thể bỏ qua." },
+      { "item": "Mở cửa thứ 3–CN, 7:30–11:30 & 13:30–17:00", "description": "Trưng bày hiện vật, hình ảnh và tài liệu về cuộc đời Chủ tịch Hồ Chí Minh. Kiến trúc Pháp cuối thế kỷ 19, nhìn thẳng ra sông Sài Gòn." }
+    ],
+    "content_en": [
+      { "item": "District 4 · HCM Museum branch", "description": "The old port where Nguyen Tat Thanh departed in 1911 to seek national salvation — now the Ho Chi Minh Museum branch, a sacred and unmissable address for every visitor." },
+      { "item": "Open Tue–Sun, 7:30–11:30 & 13:30–17:00", "description": "Displays artifacts, photographs, and documents about the life of President Ho Chi Minh. Late 19th-century French architecture overlooking the Saigon River." }
+    ],
+    "sources": [
+      { "url": "https://baotanglichsu.vn/vi/Articles/ben-nha-rong/", "title": "Bến Nhà Rồng", "publisher": "Bảo tàng Lịch sử Quốc gia", "accessed_date": "2024-01-15" },
+      { "url": "https://vietnamtourism.gov.vn/diem-den/tp-ho-chi-minh/", "title": "Điểm đến TP. Hồ Chí Minh", "publisher": "Tổng cục Du lịch", "accessed_date": "2024-01-15" }
+    ]
+  },
+  {
+    "content_hash": "hcm_dd6_cholon",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Phố người Hoa Chợ Lớn",
+    "title_en": "Cholon Chinatown",
+    "content_vi": [
+      { "item": "Quận 5 · Khu Triều Châu, Phúc Kiến", "description": "Hệ thống đền chùa Hoa cổ kính, hủ tiếu, dim sum và ánh đèn lồng đỏ — một Sài Gòn hoàn toàn khác, sầm uất từ thế kỷ 18. Điểm nhấn: chùa Bà Thiên Hậu (1760)." },
+      { "item": "Ẩm thực và tâm linh", "description": "Không thể bỏ qua: dim sum sáng sớm ở nhà hàng Hoa, chùa Bà Thiên Hậu nghi ngút khói hương, và chợ Bình Tây — \"chợ lớn\" nguyên bản với hàng trăm gian hàng buôn sỉ." }
+    ],
+    "content_en": [
+      { "item": "District 5 · Teochew & Fujian quarter", "description": "Ancient Chinese temples, hủ tiếu, dim sum, and red lantern light — a completely different Saigon bustling since the 18th century. Highlight: Thien Hau Temple (1760)." },
+      { "item": "Food and spirituality", "description": "Not to miss: early morning dim sum at Chinese restaurants, the incense-filled Thien Hau Pagoda, and Binh Tay Market — the original \"big market\" with hundreds of wholesale stalls." }
+    ],
+    "sources": [
+      { "url": "https://dsvh.gov.vn/di-tich-cho-lon/", "title": "Di tích Chợ Lớn", "publisher": "Cục Di sản văn hóa", "accessed_date": "2024-01-15" },
+      { "url": "https://vietnamtourism.gov.vn/diem-den/tp-ho-chi-minh/", "title": "Điểm đến TP. Hồ Chí Minh", "publisher": "Tổng cục Du lịch", "accessed_date": "2024-01-15" }
+    ]
+  },
+  {
+    "content_hash": "hcm_at7_phomiennam",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Phở miền Nam Sài Gòn",
+    "title_en": "Southern-Style Pho",
+    "content_vi": [
+      { "item": "Ngọt thanh, rau thơm, giá trụng — hương vị riêng của đất phương Nam", "description": "Khi người Bắc di cư vào Nam sau năm 1954, họ mang theo phở nhưng rồi chính mảnh đất Sài Gòn đã biến tấu nó thành một thứ hoàn toàn mới. Nước dùng ngọt hơn nhờ củ cải và đường phèn, tô phở được dọn kèm giá trụng, húng quế, ngò gai và tương đen, tương đỏ Hoa kiều. Mỗi quán phở cố cựu ở phố Pasteur, quận 3 như Phở Hòa (hơn 60 năm tuổi) vẫn giữ hương vị huyền thoại của \"con đường phở\" Sài Gòn xưa." },
+      { "item": "Sáng sớm & trưa · Quận 1, Quận 3", "description": "Phở Nam khác phở Bắc ở nước dùng ngọt hơn, đĩa rau phong phú và tương đen tương đỏ Hoa kiều không thể thiếu. Phở Hòa Pasteur, Phở Minh (Michelin) là hai địa chỉ huyền thoại." }
+    ],
+    "content_en": [
+      { "item": "Sweeter broth, herb platter, Cantonese sauces — distinctly Southern", "description": "When Northerners migrated south after 1954 they brought their beloved pho, but Saigon's palate quietly transformed it into something distinctly its own. The broth runs sweeter — enriched with daikon radish and rock sugar — and each bowl arrives with bean sprouts, Thai basil, sawtooth herb, and Cantonese-style hoisin and chili sauces on the side. Venerable shops like Pho Hoa on Pasteur Street in District 3, open for over 60 years, keep the legend of Saigon's original \"pho street\" alive." },
+      { "item": "Early morning & lunch · Districts 1 & 3", "description": "Southern pho differs from Northern in its sweeter broth, abundant herb platter, and the obligatory hoisin and chili sauces. Pho Hoa Pasteur and Michelin-recognised Pho Minh are two legendary addresses." }
+    ],
+    "sources": [
+      { "url": "https://tuoitre.vn/pho-viet-ky-3-pho-hanh-phuong-nam-20171210115212598.htm", "title": "Phở Việt - Kỳ 3: Phở 'hành phương Nam'", "publisher": "Tuổi Trẻ", "accessed_date": "2026-05-24" }
+    ]
+  },
+  {
+    "content_hash": "hcm_at8_laumam",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Lẩu mắm miền Tây",
+    "title_en": "Mekong Delta Fermented Fish Hotpot",
+    "content_vi": [
+      { "item": "Hương mắm đặc trưng miền Tây, ngập tràn rau đồng và hải sản sông nước", "description": "Lẩu mắm là bản hòa tấu ẩm thực hội tụ tinh hoa Việt, Hoa và Khmer — nồi lẩu được ninh từ mắm cá sặc đặc sản sông Cửu Long, thả vào đó thịt heo, cá lóc, tôm, mực cùng mâm rau đồng xanh mướt. Theo dòng di dân từ miền Tây đổ về Sài Gòn, món ăn dân dã này đã có mặt ở thành phố từ năm 1949 với quán Phước Thành lừng danh trên đường Lê Thị Riêng. Giữa lòng đô thị hối hả, nồi lẩu mắm nghi ngút khói vẫn gợi về cái mộc mạc của vùng sông nước." },
+      { "item": "Tối · nhóm đông · 150–400 k₫/người", "description": "Ăn kèm bún tươi trụng sơ và mâm rau đồng đầy ắp bông súng, kèo nèo, cà tím. Quán Phước Thành (Lê Thị Riêng, Quận 10) là địa chỉ lâu đời nhất Sài Gòn." }
+    ],
+    "content_en": [
+      { "item": "Fermented fish broth, Mekong water-vegetables, seafood abundance", "description": "Lau mam is a culinary symphony rooted in Mekong Delta folk traditions, drawing on Vietnamese, Chinese, and Khmer influences. The broth is built on fermented ca sac fish — a Mekong specialty — and loaded with pork belly, snakehead fish, shrimp, and squid, served alongside a heaped platter of fresh water-vegetables. Brought to Saigon by Mekong migrants, the dish has been served here since at least 1949 at the legendary Phuoc Thanh on Le Thi Rieng Street." },
+      { "item": "Evening · groups of 4+ · 150–400 k per person", "description": "Served with briefly blanched fresh rice vermicelli and a full platter of Mekong water-vegetables including water lily stems, swamp morning glory, and eggplant." }
+    ],
+    "sources": [
+      { "url": "https://vnexpress.net/lau-mam-ban-hoa-tau-cua-rau-2342858.html", "title": "Lẩu mắm - 'bản hoà tấu' của rau", "publisher": "VnExpress", "accessed_date": "2026-05-24" }
+    ]
+  },
+  {
+    "content_hash": "hcm_at9_chebamau",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Chè ba màu Sài Gòn",
+    "title_en": "Saigon Three-Color Dessert",
+    "content_vi": [
+      { "item": "Tráng miệng ba lớp đậu rực rỡ — đại diện duy nhất của Việt Nam trong top 100 châu Á", "description": "Chè ba màu là đặc sản nhiệt đới giao thoa văn hóa: lớp đậu đỏ hầm mềm, đậu xanh đánh mịn và thạch xanh lá, tất cả dội nước cốt dừa béo ngậy lên trên đá lạnh bào nhuyễn. Món chè gốc Quảng Đông này đã được người Hoa Chợ Lớn mang sang và biến tấu theo khẩu vị phương Nam qua nhiều thế hệ. Năm 2023, Taste Atlas xếp chè ba màu vào danh sách 100 món tráng miệng ngon nhất châu Á, điểm 4,1/5, đưa Sài Gòn lên bản đồ ẩm thực toàn cầu." },
+      { "item": "Chiều tối · mùa nắng nóng · 20–50 k₫", "description": "Chè ba màu hoàn toàn chay, ngon nhất khi ăn lúc còn lạnh. Tìm ở các xe chè vỉa hè, đặc biệt tập trung ở Chợ Lớn (quận 5), khu Nguyễn Phi Khanh (quận 1) và đối diện Chợ Bến Thành." }
+    ],
+    "content_en": [
+      { "item": "Three-layer bean dessert — Vietnam's sole entry in Asia's Top 100", "description": "Che ba mau is a tropical dessert born from cultural crossroads: a layer of soft-braised red beans, smooth blended mung bean paste, and pandan-green jelly, all crowned with rich coconut milk over shaved ice. Originating in Cantonese tong sui tradition, it was brought to Saigon by Cholon's Chinese community and adapted to Southern Vietnamese tastes across generations. In 2023, Taste Atlas ranked it among Asia's top 100 desserts with a 4.1/5 score, placing Saigon on the global dessert map." },
+      { "item": "Afternoon & evening · hot season · 20–50k per bowl", "description": "Fully vegetarian, best eaten while still ice-cold. Found at pavement dessert carts, particularly concentrated in Cholon (District 5), Nguyen Phi Khanh area (District 1), and opposite Ben Thanh Market." }
+    ],
+    "sources": [
+      { "url": "https://vnexpress.net/che-ba-mau-vao-100-mon-trang-mieng-ngon-nhat-chau-a-4803604.html", "title": "Chè ba màu vào 100 món tráng miệng ngon nhất châu Á", "publisher": "VnExpress", "accessed_date": "2026-05-24" }
+    ]
+  },
+  {
+    "content_hash": "hcm_at10_banhtrangron",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Bánh tráng trộn Sài Gòn",
+    "title_en": "Saigon Mixed Rice-Paper Snack",
+    "content_vi": [
+      { "item": "Ăn vặt \"quốc dân\" Sài Gòn — chua cay ngọt mặn trong một chiếc túi", "description": "Bánh tráng trộn xuất phát từ thói quen tận dụng mảnh vụn bánh tráng ở Tây Ninh, rồi theo chân học sinh, sinh viên len lỏi vào từng góc phố Sài Gòn để trở thành món ăn vặt \"quốc dân\". Những sợi bánh tráng phơi sương thái mỏng được trộn cùng xoài xanh bào, rau răm, muối tôm Tây Ninh, dầu hành phi lạc, trứng cút và khô bò — vị chua cay mặn ngọt hòa quyện trong một chiếc túi nhỏ. Phố Nguyễn Thượng Hiền (quận 3) là \"thánh địa\" bánh tráng trộn nổi tiếng nhất thành phố." },
+      { "item": "Chiều muộn & tối · 15–35 k₫ · ăn ngay tại chỗ", "description": "Ăn bằng tay, ăn ngay khi nhận — bánh tráng trộn ngon nhất trong 10 phút đầu. Phố Nguyễn Thượng Hiền (quận 3) là địa chỉ tập trung đông xe nhất. Cũng phổ biến tại công viên 23/9 và Hồ Con Rùa." }
+    ],
+    "content_en": [
+      { "item": "Saigon's defining street snack — sour, spicy, sweet, salty in one bag", "description": "Banh trang tron started as a frugal habit of mixing rice-paper scraps in Tay Ninh province, then hitchhiked with students and street vendors into every alley in Saigon to become the city's defining snack. Dew-dried rice paper cut into thin strips is tossed with shredded green mango, Vietnamese coriander, Tay Ninh shrimp salt, scallion-peanut oil, quail eggs, and beef jerky — a pocket-sized symphony of sour, spicy, salty, and sweet. Nguyen Thuong Hien Street in District 3 is the city's undisputed mecca for this beloved sidewalk treat." },
+      { "item": "Late afternoon & evening · 15–35k · eat on the spot", "description": "Hand food eaten immediately — best within the first 10 minutes. Nguyen Thuong Hien Street (District 3) is the densest cluster. Also popular at April 23rd Park and Ho Con Rua roundabout." }
+    ],
+    "sources": [
+      { "url": "https://vnexpress.net/banh-trang-tron-mon-an-duong-pho-noi-tieng-sai-gon-3249657.html", "title": "Bánh tráng trộn - món ăn đường phố nổi tiếng Sài Gòn", "publisher": "VnExpress", "accessed_date": "2026-05-24" }
+    ]
+  },
+  {
+    "content_hash": "hcm_dd7_landmark81",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Landmark 81 & Vinhomes Central Park",
+    "title_en": "Landmark 81 & Vinhomes Central Park",
+    "content_vi": [
+      { "item": "Tòa nhà cao nhất Việt Nam (461 m) — biểu tượng hiện đại của Sài Gòn thế kỷ 21", "description": "Cao 461,3 m với 81 tầng và hình dáng cụm tre vươn lên trời xanh, Landmark 81 là tòa nhà cao nhất Việt Nam và từng lọt top 20 thế giới khi khánh thành năm 2018. Tọa lạc trong khu đô thị Vinhomes Central Park ven sông Sài Gòn (quận Bình Thạnh), tòa tháp này biểu trưng cho kỳ vọng của thành phố vươn lên thành trung tâm kinh tế hàng đầu Đông Nam Á. Từ đài quan sát Vinpearl Sky 81 trên tầng thượng, du khách phóng tầm mắt bao quát toàn cảnh siêu đô thị 10 triệu dân." },
+      { "item": "Quận Bình Thạnh · Vinpearl Sky 81 · Mở cửa hàng ngày", "description": "Đài quan sát Sky 81 mở cửa 9:30–22:30 với vé 400.000đ. Khu Vinhomes Central Park phía dưới có công viên ven sông, trung tâm thương mại Vincom Mega Mall và nhiều nhà hàng view đẹp." }
+    ],
+    "content_en": [
+      { "item": "Vietnam's tallest building (461 m) — Saigon's 21st-century icon", "description": "Standing 461.3 m tall with 81 floors modeled on a bundle of bamboo shoots, Landmark 81 is Vietnam's tallest building and ranked among the world's top 20 skyscrapers at its 2018 inauguration. Anchoring the Vinhomes Central Park waterfront development along the Saigon River in Binh Thanh District, it symbolizes the city's ambition to become a leading Southeast Asian metropolis. From the Vinpearl Sky 81 observation deck, visitors command a 360-degree panorama of a 10-million-person megacity." },
+      { "item": "Binh Thanh District · Vinpearl Sky 81 · Open daily", "description": "Sky 81 observation deck open 9:30 AM–10:30 PM, tickets 400,000 VND. The Vinhomes Central Park complex below features riverside parkland, Vincom Mega Mall, and multiple restaurants with river views." }
+    ],
+    "sources": [
+      { "url": "https://vnexpress.net/goc-nhin-sai-gon-tu-dinh-toa-nha-cao-nhat-viet-nam-3785480.html", "title": "Góc nhìn Sài Gòn từ đỉnh tòa nhà cao nhất Việt Nam", "publisher": "VnExpress", "accessed_date": "2026-05-24" }
+    ]
+  },
+  {
+    "content_hash": "hcm_dd8_baotangchungtic",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Bảo tàng Chứng tích Chiến tranh",
+    "title_en": "War Remnants Museum",
+    "content_vi": [
+      { "item": "Địa chỉ đỏ hơn 25 triệu lượt khách — điểm tham quan lịch sử hàng đầu châu Á", "description": "Thành lập ngày 4-9-1975 trên đường Võ Văn Tần (quận 3), Bảo tàng Chứng tích Chiến tranh lưu giữ hơn 20.000 tài liệu và hiện vật về cuộc chiến tranh Việt Nam — từ máy bay, pháo, chuồng cọp đến bộ ảnh nổi tiếng về chất độc da cam. Sau 50 năm, bảo tàng đã đón hơn 25 triệu lượt khách, trong đó phần lớn là người nước ngoài." },
+      { "item": "28 Võ Văn Tần, Quận 3 · Mở 7:30–18:00 hàng ngày", "description": "Vé vào cửa 40.000đ. Nhiều tổ chức du lịch quốc tế xếp đây là một trong những bảo tàng ám ảnh nhất châu Á. Nên dành ít nhất 2–3 giờ và chuẩn bị tinh thần trước khi vào." }
+    ],
+    "content_en": [
+      { "item": "Over 25 million visitors — one of Asia's most important history museums", "description": "Founded on 4 September 1975 at 28 Vo Van Tan Street (District 3), the War Remnants Museum holds over 20,000 documents and artefacts documenting the Vietnam War — from warplanes, artillery pieces, and tiger cages to landmark photo essays on Agent Orange. In 50 years it has welcomed more than 25 million visitors, the majority international tourists." },
+      { "item": "28 Vo Van Tan, District 3 · Open 7:30 AM–6:00 PM daily", "description": "Entrance 40,000 VND. Multiple global travel platforms rank it among Asia's most haunting and important museums. Allow at least 2–3 hours and prepare yourself emotionally before entering." }
+    ],
+    "sources": [
+      { "url": "https://tuoitre.vn/bao-tang-chung-tich-chien-tranh-don-hon-25-trieu-luot-du-khach-trong-50-nam-20250904151339179.htm", "title": "Bảo tàng Chứng tích Chiến tranh đón hơn 25 triệu lượt du khách trong 50 năm", "publisher": "Tuổi Trẻ", "accessed_date": "2026-05-24" }
+    ]
+  },
+  {
+    "content_hash": "hcm_dd9_diadadocuchi",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Địa đạo Củ Chi",
+    "title_en": "Cu Chi Tunnels",
+    "content_vi": [
+      { "item": "250 km địa đạo ngầm — \"Đất thép thành đồng\" của miền Nam kháng chiến", "description": "Nằm cách trung tâm TP.HCM khoảng 70 km về phía tây bắc, địa đạo Củ Chi là mê cung đường hầm ngầm dài gần 250 km được đào tay trong nhiều thập kỷ kháng chiến, từng là sở chỉ huy và cuộc sống sinh hoạt của hàng nghìn chiến sĩ giải phóng. Hiện hai khu di tích Bến Dược và Bến Đình được bảo tồn và mở cửa đón khách, trong đó tour đêm \"Trăng chiến khu\" ra mắt năm 2022 là trải nghiệm hút khách nhất." },
+      { "item": "Cách trung tâm 70 km · Tour đêm \"Trăng chiến khu\" · Hàng trăm nghìn khách/năm", "description": "Hai khu di tích Bến Dược và Bến Đình mở cửa hàng ngày 7:00–17:00. Từ trung tâm TP.HCM có thể đi xe máy, xe khách hoặc đặt tour trọn gói. Tour đêm cần đặt trước qua trang web chính thức." }
+    ],
+    "content_en": [
+      { "item": "250 km of hand-dug tunnels — the \"Iron Land\" of the Southern Resistance", "description": "Located about 70 km northwest of central HCMC, the Cu Chi Tunnels are a labyrinthine network of nearly 250 km of hand-dug passages that served as the command headquarters and living quarters for thousands of Resistance fighters across decades of war. Today two preserved sites — Ben Duoc and Ben Dinh — are open to the public; the nighttime \"Moonlit Resistance Zone\" tour launched in 2022 is the most sought-after experience." },
+      { "item": "70 km from downtown · Moonlit night tour · Hundreds of thousands of visitors annually", "description": "Ben Duoc and Ben Dinh sites open daily 7:00 AM–5:00 PM. Reachable from HCMC city centre by motorbike, bus, or package tour. Night tours must be booked in advance via the official website." }
+    ],
+    "sources": [
+      { "url": "https://vnexpress.net/cam-nang-du-lich-mot-ngay-kham-pha-dia-dao-cu-chi-4873164.html", "title": "Cẩm nang du lịch một ngày khám phá địa đạo Củ Chi", "publisher": "VnExpress", "accessed_date": "2026-05-24" }
+    ]
+  },
+  {
+    "content_hash": "hcm_pt1_capheviache",
+    "type": "phong-tuc",
+    "status": "published",
+    "title_vi": "Văn hóa cà phê vỉa hè Sài Gòn",
+    "title_en": "Saigon Sidewalk Coffee Culture",
+    "content_vi": [
+      { "item": "Nét sống chậm giữa thành phố hối hả — vỉa hè là phòng khách của người Sài Gòn", "description": "Từ cuối thế kỷ 19 khi người Pháp đặt chân vào Sài Gòn, cà phê nhanh chóng trở thành nghi lễ buổi sáng không thể thiếu của người dân đô thị. Hình thức uống cà phê vỉa hè — ngồi ghế nhựa thấp trên hè phố, ly cà phê phin pha sẵn hoặc bình trà đặt giữa bàn — là cách người Sài Gòn khởi động ngày mới, bàn chuyện làm ăn, giải cờ tướng hay chỉ đơn giản là nhìn phố xá qua lại. Văn hóa \"cà phê cóc\" này đã sản sinh ra cả một triết học sống: chậm hơn, thực hơn, gần người hơn giữa một đô thị không bao giờ ngủ." },
+      { "item": "Cà phê cóc · Sáng sớm từ 5h · Khắp các quận trung tâm", "description": "Quán cà phê cóc (nhỏ, vỉa hè) là nét văn hóa không thể thiếu ở Sài Gòn. Ghế nhựa thấp, phin cà phê nhỏ giọt, tiếng ồn của đô thị — đây là \"phòng khách\" ngoài trời của người dân thành phố." }
+    ],
+    "content_en": [
+      { "item": "Slow living amid the rush — the pavement as Saigon's living room", "description": "Since the late 19th century when French colonists introduced coffee to Saigon, a morning cup became an essential urban ritual. Sidewalk coffee culture — low plastic stools on the pavement, drip-filter phin coffee or a shared pot of tea — is how Saigonese kickstart their day, negotiate deals, play Chinese chess, or simply watch the city flow past. This 'ca phe coc' (roadside cafe) tradition has spawned a philosophy of its own: slower, more real, and closer to people in a city that never truly sleeps." },
+      { "item": "Roadside cafes · From 5 AM · Throughout central districts", "description": "Ca phe coc (tiny sidewalk cafes) are an inseparable part of Saigon culture. Low plastic stools, a slow-dripping phin filter, the urban soundtrack — this is the city's outdoor living room." }
+    ],
+    "sources": [
+      { "url": "https://vnexpress.net/4-phong-cach-ca-phe-dac-trung-nguoi-sai-gon-3137715.html", "title": "4 phong cách cà phê đặc trưng người Sài Gòn", "publisher": "VnExpress", "accessed_date": "2026-05-24" }
+    ]
+  },
+  {
+    "content_hash": "hcm_pt2_ngaythantai",
+    "type": "phong-tuc",
+    "status": "published",
+    "title_vi": "Ngày vía Thần Tài (Mùng 10 tháng Giêng)",
+    "title_en": "God of Wealth Day (10th Day of Lunar New Year)",
+    "content_vi": [
+      { "item": "Mùng 10 Tết — người Sài Gòn xếp hàng từ bình minh để mua vàng cầu tài lộc", "description": "Vào mùng 10 tháng Giêng âm lịch, từ tờ mờ sáng, các tiệm vàng trên khắp TP.HCM đã dài hàng trăm người xếp hàng lấy số để mua vàng cầu may mắn và tài lộc cho cả năm. Phong tục này bắt nguồn từ tín ngưỡng thờ Thần Tài phổ biến trong cộng đồng thương nhân người Hoa Chợ Lớn, rồi lan rộng ra toàn thành phố và cả nước. Ngoài mua vàng, nhiều gia đình còn cúng cá lóc nướng trui, heo quay, hoa quả để mâm cỗ trên bàn thờ Thần Tài dồi dào, mong một năm kinh doanh phát đạt." },
+      { "item": "Mùng 10 tháng Giêng âm lịch · Toàn thành phố · Xếp hàng từ 5h sáng", "description": "Phong tục có nguồn gốc từ cộng đồng thương nhân người Hoa Chợ Lớn, nay lan rộng khắp cả nước. Cúng Thần Tài với cá lóc nướng, heo quay, hoa quả và mua vàng cầu may là hai nghi thức không thể thiếu." }
+    ],
+    "content_en": [
+      { "item": "Day 10 of Tet — Saigonese queue from dawn to buy gold and invite wealth", "description": "On the 10th day of the first lunar month, gold shops across HCMC open to queues of hundreds stretching from dawn, as residents rush to buy a piece of gold to invite wealth and good fortune for the year. The custom originated with Cantonese merchant communities in Cholon who venerated the God of Wealth (Than Tai), then spread city-wide and beyond. Alongside gold purchases, families prepare offerings of grilled snakehead fish, roast pork, and fresh fruit for the household Wealth God altar." },
+      { "item": "10th of 1st lunar month · Citywide · Queues from 5 AM", "description": "Originating from Cholon's Cantonese merchant community, this custom has spread nationwide. Offerings of grilled snakehead fish, roast pork, and fruit on the Wealth God altar alongside gold purchases are the two indispensable rituals." }
+    ],
+    "sources": [
+      { "url": "https://vnexpress.net/cach-cung-via-than-tai-mung-10-thang-gieng-3142188.html", "title": "Cách cúng vía Thần Tài mùng 10 tháng Giêng", "publisher": "VnExpress", "accessed_date": "2026-05-24" }
+    ]
+  },
+  {
+    "content_hash": "hcm_lh1_nguyentieu",
+    "type": "le-hoi",
+    "status": "published",
+    "title_vi": "Tết Nguyên Tiêu Chợ Lớn",
+    "title_en": "Cholon Lantern Festival (Nguyen Tieu)",
+    "content_vi": [
+      { "item": "Rằm tháng Giêng · Quận 5 · Di sản Văn hóa phi vật thể Quốc gia 2020", "description": "Hình thành từ khoảng thế kỷ XVII trong cộng đồng người Hoa Chợ Lớn, Tết Nguyên Tiêu là đêm rằm đầu tiên của năm mới âm lịch, được tổ chức hoành tráng nhất ở quận 5 TP.HCM với đoàn diễu hành hàng nghìn người hoá trang, múa lân sư rồng và rước Quan Thánh Đế Quân xuất du qua các hội quán. Năm 2020, tập quán này được Bộ VHTTDL công nhận là Di sản Văn hóa phi vật thể quốc gia. Mỗi năm lễ hội thu hút hàng chục nghìn người dân và du khách đổ về các tuyến phố Nguyễn Trãi, Triệu Quang Phục (quận 5)." },
+      { "item": "Tháng 1 âm lịch (rằm tháng Giêng) · Nguyễn Trãi, Triệu Quang Phục, Quận 5", "description": "Diễu hành lân sư rồng, rước Quan Thánh qua các hội quán người Hoa, đèn lồng rực rỡ. Đây là lễ hội giao thoa văn hóa Việt-Hoa đặc sắc nhất tại TP.HCM." }
+    ],
+    "content_en": [
+      { "item": "First full moon of lunar year · District 5 · National Intangible Heritage 2020", "description": "Rooted in the 17th-century Chinese Cantonese community of Cholon, the Nguyen Tieu Lantern Festival marks the first full moon of the lunar new year and is celebrated most spectacularly in District 5, HCMC, with thousands of costumed marchers, lion and dragon dances, and the procession of Guan Di through the district's historic assembly halls. Recognized as a National Intangible Cultural Heritage in 2020, it draws tens of thousands of visitors each year to Nguyen Trai and Trieu Quang Phuc Streets." },
+      { "item": "1st lunar month full moon · Nguyen Trai & Trieu Quang Phuc Streets, District 5", "description": "Lion, unicorn and dragon dances; Guan Di procession through Chinese assembly halls; radiant lantern displays. This is the most spectacular Sino-Vietnamese cultural festival in HCMC." }
+    ],
+    "sources": [
+      { "url": "https://tuoitre.vn/tet-nguyen-tieu-cua-nguoi-hoa-cho-lon-la-di-san-van-hoa-phi-vat-the-quoc-gia-20200207101142766.htm", "title": "Tết Nguyên Tiêu của người Hoa Chợ Lớn là di sản văn hóa phi vật thể quốc gia", "publisher": "Tuổi Trẻ", "accessed_date": "2026-05-24" }
+    ]
+  },
+  {
+    "content_hash": "hcm_lh2_nghinhong",
+    "type": "le-hoi",
+    "status": "published",
+    "title_vi": "Lễ hội Nghinh Ông Cần Giờ",
+    "title_en": "Nghinh Ong Sea Festival — Can Gio",
+    "content_vi": [
+      { "item": "Ngày 14–16 tháng 8 âm lịch · Huyện Cần Giờ · Di sản Quốc gia từ 2013", "description": "Tổ chức từ năm 1913, Lễ hội Nghinh Ông Cần Giờ diễn ra vào ngày 14–16 tháng 8 âm lịch hằng năm tại huyện Cần Giờ — vùng biển duy nhất của TP.HCM. Ngư dân Cần Giờ rước tượng thần cá Ông (cá voi) ra biển trên đoàn thuyền trang hoàng rực rỡ, cầu cho quốc thái dân an, biển lặng sóng yên và mùa cá bội thu. Năm 2013, lễ hội được Bộ VHTTDL công nhận là Di sản Văn hóa phi vật thể Quốc gia." },
+      { "item": "\"Tết biển\" của ngư dân Nam Bộ · Thu hút hàng chục nghìn khách trong 3 ngày", "description": "Đoàn thuyền trang hoàng rực rỡ rước cá Ông ra biển, cùng lễ hội dân gian sôi động trên bờ. Cần Giờ cách trung tâm TP.HCM khoảng 50 km theo hướng đông nam, có phà Bình Khánh." }
+    ],
+    "content_en": [
+      { "item": "14th–16th of 8th lunar month · Can Gio District · National Heritage since 2013", "description": "Dating to 1913, the Nghinh Ong Festival takes place on the 14th–16th of the 8th lunar month in Can Gio District — HCMC's only coastal area. Fishermen escort an effigy of Ong Nam Hai (the whale deity) to sea aboard a colourfully decorated fleet, praying for national peace, calm waters, and abundant harvests. Recognized as a National Intangible Cultural Heritage in 2013." },
+      { "item": "The 'Festival of the Sea' for southern fishermen · Tens of thousands of visitors over 3 days", "description": "A brilliantly decorated fleet escorts the whale deity effigy to sea, with lively folk festivities onshore. Can Gio is about 50 km southeast of central HCMC, accessible via Binh Khanh ferry." }
+    ],
+    "sources": [
+      { "url": "https://tuoitre.vn/le-hoi-nghinh-ong-tet-cua-nguoi-xu-bien-can-gio-20251007090740183.htm", "title": "Lễ hội Nghinh Ông - Tết của người xứ biển Cần Giờ", "publisher": "Tuổi Trẻ", "accessed_date": "2026-05-24" }
+    ]
+  }
+]
