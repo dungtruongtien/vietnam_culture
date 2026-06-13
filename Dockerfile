@@ -41,8 +41,6 @@ COPY --from=builder /app/startup.sh ./startup.sh
 RUN chmod +x startup.sh \
  && chown -R nextjs:nodejs /app
 
-VOLUME ["/data"]
-
 USER nextjs
 EXPOSE 3000
 
