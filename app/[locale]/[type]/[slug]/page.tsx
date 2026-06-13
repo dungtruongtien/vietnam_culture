@@ -11,7 +11,6 @@ import {
   getCulturalPosts,
   getFoodItemsByProvince,
   getPlaceItemsByProvince,
-  getAllProvinces,
 } from '@/lib/queries';
 import Timeline from '@/components/Timeline';
 import CulturalPostList from '@/components/CulturalPostList';
@@ -42,17 +41,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
-export async function generateStaticParams() {
-  const provinces = await getAllProvinces();
-  const locales = ['vi', 'en'];
-  return locales.flatMap((locale) =>
-    provinces.map((p) => ({
-      locale,
-      type: locale === 'vi' ? p.type : p.type_en,
-      slug: p.slug,
-    }))
-  );
-}
 
 export default async function ProvincePage({ params }: Props) {
   const { locale, slug } = await params;

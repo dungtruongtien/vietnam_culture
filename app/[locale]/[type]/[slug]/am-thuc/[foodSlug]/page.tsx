@@ -6,9 +6,8 @@ export const dynamic = 'force-dynamic';
 import {
   getProvinceBySlug,
   getFoodItemBySlug,
-  getFoodItemsByProvince,
   getFoodItemSources,
-  getAllProvinces,
+  getFoodItemsByProvince,
 } from '@/lib/queries';
 import FoodDetail from '@/components/FoodDetail';
 import AdSlot from '@/components/AdSlot';
@@ -33,26 +32,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
-export async function generateStaticParams() {
-  const provinces = await getAllProvinces();
-  const locales = ['vi', 'en'];
-  const params: { locale: string; type: string; slug: string; foodSlug: string }[] = [];
-
-  for (const province of provinces) {
-    const foodItems = await getFoodItemsByProvince(province.id);
-    for (const food of foodItems) {
-      for (const locale of locales) {
-        params.push({
-          locale,
-          type: locale === 'vi' ? province.type : province.type_en,
-          slug: province.slug,
-          foodSlug: food.slug,
-        });
-      }
-    }
-  }
-  return params;
-}
 
 export default async function FoodItemPage({ params }: Props) {
   const { locale, slug, foodSlug } = await params;

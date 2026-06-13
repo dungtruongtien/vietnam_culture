@@ -424,7 +424,8 @@
       "Bash(curl -s http://localhost:3002/vi/thanh-pho/ho-chi-minh)",
       "Bash(kill 15001)",
       "Bash(npm --version)",
-      "Bash(node node_modules/.bin/ts-node --project tsconfig.scripts.json --transpile-only scripts/seed.ts)"
+      "Bash(node node_modules/.bin/ts-node --project tsconfig.scripts.json --transpile-only scripts/seed.ts)",
+      "Bash(DATABASE_PATH=/nonexistent/path.db npm run build)"
     ],
     "additionalDirectories": [
       "/Users/tiendung/Desktop/du-lich-viet-nam/app/[locale]/[type]/[slug]/dia-diem",

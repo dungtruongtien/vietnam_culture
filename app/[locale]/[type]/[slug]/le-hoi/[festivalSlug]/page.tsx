@@ -8,30 +8,12 @@ import {
   getFestivalBySlug,
   getFestivalsByProvince,
   getSourcesForEntity,
-  getAllFestivals,
 } from '@/lib/queries';
 
 type Props = {
   params: Promise<{ locale: string; type: string; slug: string; festivalSlug: string }>;
 };
 
-export async function generateStaticParams() {
-  const festivals = await getAllFestivals();
-  const locales = ['vi', 'en'];
-  const params: { locale: string; type: string; slug: string; festivalSlug: string }[] = [];
-  for (const f of festivals) {
-    if (!f.slug) continue;
-    for (const locale of locales) {
-      params.push({
-        locale,
-        type: locale === 'vi' ? f.province_type : f.province_type_en,
-        slug: f.province_slug,
-        festivalSlug: f.slug,
-      });
-    }
-  }
-  return params;
-}
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale, slug, festivalSlug } = await params;
