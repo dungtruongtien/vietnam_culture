@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 import { Be_Vietnam_Pro, Cormorant_Garamond } from 'next/font/google';
 import type { Metadata } from 'next';
+import Script from 'next/script';
 
 const beVietnamPro = Be_Vietnam_Pro({
   subsets: ['vietnamese', 'latin'],
@@ -57,6 +58,15 @@ export default async function LocaleLayout({ children, params }: Props) {
       lang={locale}
       className={`${beVietnamPro.variable} ${cormorantGaramond.variable}`}
     >
+      <head>
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-GGVVE9NV95" strategy="afterInteractive" />
+        <Script id="gtag-init" strategy="afterInteractive">{`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-GGVVE9NV95');
+        `}</Script>
+      </head>
       <body>
         <NextIntlClientProvider messages={messages}>
           {children}
