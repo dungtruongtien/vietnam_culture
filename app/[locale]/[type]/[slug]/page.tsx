@@ -2,7 +2,6 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import type { Metadata } from 'next';
 
-export const dynamic = 'force-dynamic';
 import {
   getProvinceBySlug,
   getProvinces,
@@ -11,10 +10,23 @@ import {
   getCulturalPosts,
   getFoodItemsByProvince,
   getPlaceItemsByProvince,
+  getAllProvinces,
 } from '@/lib/queries';
 import Timeline from '@/components/Timeline';
 import CulturalPostList from '@/components/CulturalPostList';
 import AdSlot from '@/components/AdSlot';
+
+export async function generateStaticParams() {
+  const provinces = await getAllProvinces();
+  const locales = ['vi', 'en'];
+  return locales.flatMap((locale) =>
+    provinces.map((p) => ({
+      locale,
+      type: locale === 'vi' ? p.type : p.type_en,
+      slug: p.slug,
+    }))
+  );
+}
 
 type Props = {
   params: Promise<{ locale: string; type: string; slug: string }>;

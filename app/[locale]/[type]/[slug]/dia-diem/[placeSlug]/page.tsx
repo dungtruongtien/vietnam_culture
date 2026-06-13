@@ -2,15 +2,35 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import type { Metadata } from 'next';
 
-export const dynamic = 'force-dynamic';
 import {
   getProvinceBySlug,
   getPlaceItemBySlug,
   getPlaceItemSources,
   getPlaceItemsByProvince,
+  getAllProvinces,
 } from '@/lib/queries';
 import PlaceDetail from '@/components/PlaceDetail';
 import AdSlot from '@/components/AdSlot';
+
+export async function generateStaticParams() {
+  const provinces = await getAllProvinces();
+  const locales = ['vi', 'en'];
+  const params: { locale: string; type: string; slug: string; placeSlug: string }[] = [];
+  for (const province of provinces) {
+    const placeItems = await getPlaceItemsByProvince(province.id);
+    for (const place of placeItems) {
+      for (const locale of locales) {
+        params.push({
+          locale,
+          type: locale === 'vi' ? province.type : province.type_en,
+          slug: province.slug,
+          placeSlug: place.slug,
+        });
+      }
+    }
+  }
+  return params;
+}
 
 type Props = {
   params: Promise<{ locale: string; type: string; slug: string; placeSlug: string }>;

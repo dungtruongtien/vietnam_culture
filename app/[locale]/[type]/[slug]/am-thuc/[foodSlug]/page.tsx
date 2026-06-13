@@ -2,15 +2,35 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import type { Metadata } from 'next';
 
-export const dynamic = 'force-dynamic';
 import {
   getProvinceBySlug,
   getFoodItemBySlug,
   getFoodItemSources,
   getFoodItemsByProvince,
+  getAllProvinces,
 } from '@/lib/queries';
 import FoodDetail from '@/components/FoodDetail';
 import AdSlot from '@/components/AdSlot';
+
+export async function generateStaticParams() {
+  const provinces = await getAllProvinces();
+  const locales = ['vi', 'en'];
+  const params: { locale: string; type: string; slug: string; foodSlug: string }[] = [];
+  for (const province of provinces) {
+    const foodItems = await getFoodItemsByProvince(province.id);
+    for (const food of foodItems) {
+      for (const locale of locales) {
+        params.push({
+          locale,
+          type: locale === 'vi' ? province.type : province.type_en,
+          slug: province.slug,
+          foodSlug: food.slug,
+        });
+      }
+    }
+  }
+  return params;
+}
 
 type Props = {
   params: Promise<{ locale: string; type: string; slug: string; foodSlug: string }>;

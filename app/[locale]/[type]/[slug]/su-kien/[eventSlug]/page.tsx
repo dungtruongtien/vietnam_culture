@@ -2,13 +2,31 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import type { Metadata } from 'next';
 
-export const dynamic = 'force-dynamic';
 import {
   getProvinceBySlug,
   getEventBySlug,
   getSourcesForEntity,
   getEventsByProvince,
+  getAllEvents,
 } from '@/lib/queries';
+
+export async function generateStaticParams() {
+  const events = await getAllEvents();
+  const locales = ['vi', 'en'];
+  const params: { locale: string; type: string; slug: string; eventSlug: string }[] = [];
+  for (const e of events) {
+    if (!e.slug) continue;
+    for (const locale of locales) {
+      params.push({
+        locale,
+        type: locale === 'vi' ? e.province_type : e.province_type_en,
+        slug: e.province_slug,
+        eventSlug: e.slug,
+      });
+    }
+  }
+  return params;
+}
 
 type Props = {
   params: Promise<{ locale: string; type: string; slug: string; eventSlug: string }>;
