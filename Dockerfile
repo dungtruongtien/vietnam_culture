@@ -39,7 +39,9 @@ COPY --from=builder /app/package.json        ./package.json
 # Startup script: seed → start server
 COPY --from=builder /app/startup.sh ./startup.sh
 RUN chmod +x startup.sh \
- && chown -R nextjs:nodejs /app
+ && chown -R nextjs:nodejs /app \
+ && mkdir -p /data \
+ && chown nextjs:nodejs /data
 
 USER nextjs
 EXPOSE 3000
