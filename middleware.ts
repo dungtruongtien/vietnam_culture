@@ -6,12 +6,15 @@ const intlMiddleware = createMiddleware(routing);
 
 export default function middleware(request: NextRequest) {
   const host = request.headers.get('host') ?? '';
+
   if (host.startsWith('www.')) {
-    const canonical = host.slice(4); // strip www.
-    const url = request.nextUrl.clone();
-    url.host = canonical;
-    return NextResponse.redirect(url, { status: 301 });
+    // Use x-forwarded-proto so the redirect is https:// in production behind Railway's proxy
+    const proto = request.headers.get('x-forwarded-proto') ?? request.nextUrl.protocol.replace(':', '');
+    const canonical = host.slice(4).split(':')[0]; // strip www. and any port
+    const redirectUrl = `${proto}://${canonical}${request.nextUrl.pathname}${request.nextUrl.search}`;
+    return NextResponse.redirect(redirectUrl, { status: 301 });
   }
+
   return intlMiddleware(request);
 }
 

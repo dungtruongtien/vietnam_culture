@@ -425,7 +425,12 @@
       "Bash(kill 15001)",
       "Bash(npm --version)",
       "Bash(node node_modules/.bin/ts-node --project tsconfig.scripts.json --transpile-only scripts/seed.ts)",
-      "Bash(DATABASE_PATH=/nonexistent/path.db npm run build)"
+      "Bash(DATABASE_PATH=/nonexistent/path.db npm run build)",
+      "Bash(curl -si -H \"Host: www.vietlore.com\" http://localhost:3000/vi)",
+      "Bash(kill 4801)",
+      "Bash(curl -si -H \"Host: www.vietlore.com\" -H \"x-forwarded-proto: https\" http://localhost:3000/vi)",
+      "Bash(curl -si -H \"Host: vietlore.com\" http://localhost:3000/vi)",
+      "Bash(kill 8298)"
     ],
     "additionalDirectories": [
       "/Users/tiendung/Desktop/du-lich-viet-nam/app/[locale]/[type]/[slug]/dia-diem",
