@@ -59,6 +59,13 @@ export default async function LocaleLayout({ children, params }: Props) {
       className={`${beVietnamPro.variable} ${cormorantGaramond.variable}`}
     >
       <head>
+        <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+        <link rel="preconnect" href="https://www.googletagmanager.com" crossOrigin="anonymous" />
+      </head>
+      <body>
+        <NextIntlClientProvider messages={messages}>
+          {children}
+        </NextIntlClientProvider>
         <Script src="https://www.googletagmanager.com/gtag/js?id=G-GGVVE9NV95" strategy="afterInteractive" />
         <Script id="gtag-init" strategy="afterInteractive">{`
           window.dataLayer = window.dataLayer || [];
@@ -66,11 +73,6 @@ export default async function LocaleLayout({ children, params }: Props) {
           gtag('js', new Date());
           gtag('config', 'G-GGVVE9NV95');
         `}</Script>
-      </head>
-      <body>
-        <NextIntlClientProvider messages={messages}>
-          {children}
-        </NextIntlClientProvider>
       </body>
     </html>
   );
