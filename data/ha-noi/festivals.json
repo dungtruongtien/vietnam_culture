@@ -94,8 +94,14 @@
     "is_trending": 0,
     "status": "active",
     "sources": [
-      { "url": "https://vietnamtourism.gov.vn/post/66864", "title": "Lễ hội Chùa Hương — Vietnam Tourism", "publisher": "Vietnam Tourism", "accessed_date": "2026-05-24" }
-    ]
+      {
+        "url": "https://vietnamtourism.gov.vn/post/66864",
+        "title": "Lễ hội Chùa Hương — Vietnam Tourism",
+        "publisher": "Vietnam Tourism",
+        "accessed_date": "2026-05-24"
+      }
+    ],
+    "slug": "le-hoi-chua-huong"
   },
   {
     "name_vi": "Lễ hội Gò Đống Đa (mới)",
@@ -108,8 +114,14 @@
     "is_trending": 0,
     "status": "active",
     "sources": [
-      { "url": "https://toquoc.vn/le-hoi-go-dong-da-ghi-nho-chien-cong-lay-lung-cua-dan-toc-20230126113236133.htm", "title": "Lễ hội Gò Đống Đa ghi nhớ chiến công lẫy lừng của dân tộc", "publisher": "Tổ Quốc", "accessed_date": "2026-05-24" }
-    ]
+      {
+        "url": "https://toquoc.vn/le-hoi-go-dong-da-ghi-nho-chien-cong-lay-lung-cua-dan-toc-20230126113236133.htm",
+        "title": "Lễ hội Gò Đống Đa ghi nhớ chiến công lẫy lừng của dân tộc",
+        "publisher": "Tổ Quốc",
+        "accessed_date": "2026-05-24"
+      }
+    ],
+    "slug": "le-hoi-go-dong-da-updated"
   },
   {
     "name_vi": "Lễ hội Tết Nguyên Đán Hà Nội",
@@ -122,8 +134,14 @@
     "is_trending": 0,
     "status": "active",
     "sources": [
-      { "url": "https://dantri.com.vn/du-lich/nep-song-dac-biet-ngay-tet-cua-gia-dinh-danh-gia-o-ha-noi-xua-20210209094212944.htm", "title": "Nếp sống đặc biệt ngày Tết của gia đình danh giá ở Hà Nội xưa", "publisher": "Dan Tri", "accessed_date": "2026-05-24" }
-    ]
+      {
+        "url": "https://dantri.com.vn/du-lich/nep-song-dac-biet-ngay-tet-cua-gia-dinh-danh-gia-o-ha-noi-xua-20210209094212944.htm",
+        "title": "Nếp sống đặc biệt ngày Tết của gia đình danh giá ở Hà Nội xưa",
+        "publisher": "Dan Tri",
+        "accessed_date": "2026-05-24"
+      }
+    ],
+    "slug": "tet-nguyen-dan-ha-noi"
   },
   {
     "name_vi": "Quốc khánh 2/9 — Lễ kỷ niệm tại Quảng trường Ba Đình",

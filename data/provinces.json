@@ -59,4 +59,20 @@
     "region_vi": "Duyên hải Nam Trung Bộ",
     "region_en": "South Central Coast"
   }
+,
+  {
+    "name_vi": "Hà Giang",
+    "name_en": "Ha Giang",
+    "slug": "ha-giang",
+    "type": "tinh",
+    "type_en": "province",
+    "svg_path_id": "ha-giang",
+    "status": "active",
+    "meta_description_vi": "Khám phá Hà Giang — cao nguyên đá Đồng Văn, văn hóa H'Mông và những đặc sản ẩm thực độc đáo nhất vùng biên cương phía Bắc.",
+    "meta_description_en": "Explore Ha Giang — the Dong Van karst plateau, H'Mong highland culture, and the most distinctive cuisine of Vietnam's northern frontier.",
+    "population": "0.9 triệu người",
+    "area_km2": 7929,
+    "region_vi": "Đông Bắc",
+    "region_en": "Northeast"
+  }
 ]

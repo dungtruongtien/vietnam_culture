@@ -578,6 +578,87 @@ export async function getPlaceItemSources(placeItemId: number): Promise<PlaceIte
   return result.rows.map((r) => toRow<PlaceItemSource>(r as Record<string, unknown>));
 }
 
+// ----------------------------------------------------------------
+// Festival items
+// ----------------------------------------------------------------
+
+export type FestivalItem = {
+  id: number;
+  festival_id: number;
+  slug: string;
+  title_vi: string;
+  title_en: string;
+  lede_vi: string;
+  lede_en: string;
+  tags_json: string;
+  info_when_vi: string | null;
+  info_when_en: string | null;
+  info_location_vi: string | null;
+  info_location_en: string | null;
+  info_admission_vi: string | null;
+  info_admission_en: string | null;
+  info_best_time_vi: string | null;
+  info_best_time_en: string | null;
+  story_vi: string;
+  story_en: string;
+  story_blockquote_vi: string | null;
+  story_blockquote_en: string | null;
+  story_blockquote_cite: string | null;
+  body_blocks_json: string | null;
+  highlights_json: string;
+  how_to_attend_vi: string;
+  how_to_attend_en: string;
+  tip_title_vi: string | null;
+  tip_title_en: string | null;
+  tip_body_vi: string | null;
+  tip_body_en: string | null;
+  image_url: string | null;
+  gallery_json: string;
+  status: 'published' | 'draft' | 'archived';
+};
+
+export type FestivalItemSource = {
+  id: number;
+  festival_item_id: number;
+  url: string;
+  title: string;
+  publisher: string;
+  accessed_date: string;
+};
+
+export async function getFestivalItemBySlug(slug: string): Promise<FestivalItem | null> {
+  const db = getDb();
+  const result = await db.execute({
+    sql: 'SELECT * FROM festival_items WHERE slug = ? AND status = ?',
+    args: [slug, 'published'],
+  });
+  return result.rows.length ? toRow<FestivalItem>(result.rows[0] as Record<string, unknown>) : null;
+}
+
+export async function getFestivalItemsByProvince(provinceId: number): Promise<FestivalItem[]> {
+  const db = getDb();
+  const result = await db.execute({
+    sql: `
+      SELECT fi.*
+      FROM festival_items fi
+      JOIN festivals f ON fi.festival_id = f.id
+      WHERE f.province_id = ? AND fi.status = 'published' AND f.status = 'active'
+      ORDER BY f.start_date ASC
+    `,
+    args: [provinceId],
+  });
+  return result.rows.map((r) => toRow<FestivalItem>(r as Record<string, unknown>));
+}
+
+export async function getFestivalItemSources(festivalItemId: number): Promise<FestivalItemSource[]> {
+  const db = getDb();
+  const result = await db.execute({
+    sql: 'SELECT * FROM festival_item_sources WHERE festival_item_id = ?',
+    args: [festivalItemId],
+  });
+  return result.rows.map((r) => toRow<FestivalItemSource>(r as Record<string, unknown>));
+}
+
 export async function searchAll(query: string): Promise<SearchResult> {
   const db = getDb();
   const q = `%${query}%`;

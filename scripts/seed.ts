@@ -168,6 +168,45 @@ async function insertFestival(db: Client, provinceId: number, f: FestivalData): 
   return Number(r.lastInsertRowid);
 }
 
+async function upsertFestivalItem(db: Client, festivalId: number, fi: FestivalItemData): Promise<number> {
+  const r = await db.execute({
+    sql: `INSERT INTO festival_items
+      (festival_id, slug, title_vi, title_en, lede_vi, lede_en, tags_json,
+       info_when_vi, info_when_en, info_location_vi, info_location_en,
+       info_admission_vi, info_admission_en, info_best_time_vi, info_best_time_en,
+       story_vi, story_en, story_blockquote_vi, story_blockquote_en, story_blockquote_cite,
+       body_blocks_json, highlights_json, how_to_attend_vi, how_to_attend_en,
+       tip_title_vi, tip_title_en, tip_body_vi, tip_body_en,
+       image_url, gallery_json, status, content_hash)
+      VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)`,
+    args: [
+      festivalId, fi.slug, fi.title_vi, fi.title_en, fi.lede_vi, fi.lede_en,
+      JSON.stringify(fi.tags ?? []),
+      fi.info_when_vi ?? null, fi.info_when_en ?? null,
+      fi.info_location_vi ?? null, fi.info_location_en ?? null,
+      fi.info_admission_vi ?? null, fi.info_admission_en ?? null,
+      fi.info_best_time_vi ?? null, fi.info_best_time_en ?? null,
+      fi.story_vi, fi.story_en,
+      fi.story_blockquote_vi ?? null, fi.story_blockquote_en ?? null, fi.story_blockquote_cite ?? null,
+      fi.body_blocks ? JSON.stringify(fi.body_blocks) : null,
+      JSON.stringify(fi.highlights ?? []),
+      fi.how_to_attend_vi, fi.how_to_attend_en,
+      fi.tip_title_vi ?? null, fi.tip_title_en ?? null,
+      fi.tip_body_vi ?? null, fi.tip_body_en ?? null,
+      fi.image_url ?? null, JSON.stringify(fi.gallery ?? []),
+      fi.status, hash(fi.content_hash),
+    ],
+  });
+  return Number(r.lastInsertRowid);
+}
+
+async function insertFestivalItemSource(db: Client, festivalItemId: number, s: SourceData): Promise<void> {
+  await db.execute({
+    sql: `INSERT OR IGNORE INTO festival_item_sources (festival_item_id, url, title, publisher, accessed_date) VALUES (?,?,?,?,?)`,
+    args: [festivalItemId, s.url, s.title, s.publisher, s.accessed_date],
+  });
+}
+
 // ================================================================
 // JSON data types
 // ================================================================
@@ -251,6 +290,24 @@ interface FestivalData {
   sources?: SourceData[];
 }
 
+interface FestivalItemData {
+  content_hash: string; festival_slug: string; slug: string;
+  title_vi: string; title_en: string; lede_vi: string; lede_en: string;
+  tags?: string[];
+  info_when_vi?: string; info_when_en?: string;
+  info_location_vi?: string; info_location_en?: string;
+  info_admission_vi?: string; info_admission_en?: string;
+  info_best_time_vi?: string; info_best_time_en?: string;
+  story_vi: string; story_en: string;
+  story_blockquote_vi?: string; story_blockquote_en?: string; story_blockquote_cite?: string;
+  body_blocks?: unknown[];
+  highlights: Array<{ title_vi: string; title_en: string; body_vi: string; body_en: string }>;
+  how_to_attend_vi: string; how_to_attend_en: string;
+  tip_title_vi?: string; tip_title_en?: string; tip_body_vi?: string; tip_body_en?: string;
+  image_url?: string | null; gallery?: string[];
+  status: string; sources: SourceData[];
+}
+
 function readJson<T>(filePath: string): T | null {
   if (!fs.existsSync(filePath)) return null;
   return JSON.parse(fs.readFileSync(filePath, 'utf-8')) as T;
@@ -268,6 +325,8 @@ async function seedAll(): Promise<void> {
 
   // Clear existing seed data
   await db.executeMultiple(`
+    DELETE FROM festival_item_sources;
+    DELETE FROM festival_items;
     DELETE FROM place_item_sources;
     DELETE FROM place_items;
     DELETE FROM food_item_sources;
@@ -277,7 +336,7 @@ async function seedAll(): Promise<void> {
     DELETE FROM cultural_posts;
     DELETE FROM events;
     DELETE FROM provinces;
-    DELETE FROM sqlite_sequence WHERE name IN ('provinces','events','cultural_posts','sources','festivals','food_items','food_item_sources','place_items','place_item_sources');
+    DELETE FROM sqlite_sequence WHERE name IN ('provinces','events','cultural_posts','sources','festivals','food_items','food_item_sources','place_items','place_item_sources','festival_items','festival_item_sources');
   `);
 
   const provinces = readJson<ProvinceData[]>(path.join(DATA_DIR, 'provinces.json'));
@@ -343,13 +402,30 @@ async function seedAll(): Promise<void> {
 
     // Festivals
     const festivals = readJson<FestivalData[]>(path.join(provinceDir, 'festivals.json')) ?? [];
+    const festivalIdBySlug = new Map<string, number>();
     for (const festival of festivals) {
       const festivalId = await insertFestival(db, provinceId, festival);
+      if (festival.slug) festivalIdBySlug.set(festival.slug, festivalId);
       for (const source of festival.sources ?? []) {
         await insertSource(db, 'festival', festivalId, source);
       }
     }
     console.log(`[seed]   festivals: ${festivals.length}`);
+
+    // Festival items
+    const festivalItems = readJson<FestivalItemData[]>(path.join(provinceDir, 'festival-items.json')) ?? [];
+    for (const fi of festivalItems) {
+      const festivalId = festivalIdBySlug.get(fi.festival_slug);
+      if (!festivalId) {
+        console.warn(`[seed]   WARNING: festival_slug "${fi.festival_slug}" not found for festival-item "${fi.slug}" — skipping`);
+        continue;
+      }
+      const fiId = await upsertFestivalItem(db, festivalId, fi);
+      for (const source of fi.sources) {
+        await insertFestivalItemSource(db, fiId, source);
+      }
+    }
+    console.log(`[seed]   festival_items: ${festivalItems.length}`);
   }
 
   console.log('[seed] Database seeded successfully!');

@@ -47,7 +47,7 @@ const NAME_TO_SLUG: Record<string, string> = {
   // 'AnGiang':         'an-giang',
   // 'KiênGiang':       'kien-giang',
   // 'ĐiệnBiên':        'dien-bien',
-  // 'HàGiang':         'ha-giang',
+  'HàGiang':         'ha-giang',
   // 'NghệAn':          'nghe-an',
   // 'BàRịa-VũngTàu':   'ba-ria-vung-tau',
   // 'NinhBình':        'ninh-binh',
@@ -58,6 +58,7 @@ const DISPLAY_NAMES: Record<string, { vi: string; en: string }> = {
   'HồChíMinh': { vi: 'TP. Hồ Chí Minh', en: 'Ho Chi Minh City' },
   'ĐàNẵng': { vi: 'Đà Nẵng', en: 'Da Nang' },
   'ThừaThiênHuế': { vi: 'Huế', en: 'Hue' },
+  'HàGiang':      { vi: 'Hà Giang', en: 'Ha Giang' },
 };
 
 // SVG canvas dimensions (full projection space)

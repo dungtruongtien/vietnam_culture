@@ -1,0 +1,122 @@
+[
+  {
+    "name_vi": "Lễ hội Khèn Mông",
+    "name_en": "H'Mong Reed Pipe Festival",
+    "slug": "le-hoi-khen-mong",
+    "description_vi": "Tiếng khèn Mông vang lên trong sương núi Đồng Văn mỗi dịp Tết đến — không chỉ là âm nhạc, mà là ngôn ngữ bí mật giữa người sống và người đã khuất, giữa chàng trai và người con gái anh ta yêu. Những cuộc thi khèn trên cao nguyên đá đánh giá cả kỹ thuật lẫn vũ đạo, trong khi phụ nữ trong trang phục thêu tay hàng tháng trời đứng xem và đáp lại bằng điệu múa riêng của mình.",
+    "description_en": "The sound of the Mong reed pipe rises through mountain mist in Dong Van each Lunar New Year — not merely music, but a secret language between the living and the dead, and between a young man and the woman he loves. Reed pipe competitions on the rocky plateau judge both technique and acrobatics, while women in months-embroidered dress watch and respond with their own dance.",
+    "start_date": "2026-02-03",
+    "end_date": null,
+    "is_lunar": 1,
+    "is_trending": 0,
+    "status": "active",
+    "sources": [
+      {
+        "url": "https://vietnamtourism.gov.vn/tin-tuc/le-hoi-khen-mong-ha-giang",
+        "title": "Lễ hội Khèn Mông Hà Giang",
+        "publisher": "Tổng cục Du lịch Việt Nam",
+        "accessed_date": "2026-06-21"
+      }
+    ]
+  },
+  {
+    "name_vi": "Lễ hội Hoa Tam Giác Mạch",
+    "name_en": "Buckwheat Flower Festival",
+    "slug": "le-hoi-hoa-tam-giac-mach",
+    "description_vi": "Mỗi tháng Mười và tháng Mười Một, những triền núi đá tai mèo khắp cao nguyên Đồng Văn biến thành biển hoa hồng nhạt và trắng tinh của tam giác mạch — loài ngũ cốc bền bỉ nhất trên vùng đất khắc nghiệt nhất miền Bắc Việt Nam. Lễ hội này bắt đầu từ những cuộc gặp gỡ tự phát của người H'Mông và nay trở thành sự kiện ảnh du lịch lớn nhất Hà Giang, nơi bánh tam giác mạch và rượu ngô đi cùng với những câu chuyện kể về loài hoa sống được trên đá.",
+    "description_en": "Each October and November, the karst limestone mountainsides across the Dong Van Plateau transform into seas of pale pink and white buckwheat flowers — the hardiest grain crop on Vietnam's most unforgiving terrain. Beginning as informal H'Mong gatherings and now Ha Giang's largest tourism photography event, the festival pairs buckwheat cake and corn wine with stories about a flower that blooms on bare rock.",
+    "start_date": "2026-10-01",
+    "end_date": "2026-11-30",
+    "is_lunar": 0,
+    "is_trending": 1,
+    "status": "active",
+    "sources": [
+      {
+        "url": "https://vietnamtourism.gov.vn/tin-tuc/le-hoi-hoa-tam-giac-mach-ha-giang",
+        "title": "Lễ hội Hoa Tam Giác Mạch Hà Giang",
+        "publisher": "Tổng cục Du lịch Việt Nam",
+        "accessed_date": "2026-06-21"
+      }
+    ]
+  },
+  {
+    "name_vi": "Chợ Tình Khâu Vai",
+    "name_en": "Khau Vai Love Market",
+    "slug": "cho-tinh-khau-vai",
+    "description_vi": "Mỗi năm một lần vào ngày 27 tháng 3 âm lịch, người ta đến Khâu Vai không phải để mua bán — mà để gặp lại người mình đã không thể lấy làm vợ làm chồng. Phiên chợ duy nhất ở Việt Nam nơi cả vợ lẫn chồng đi riêng, gặp lại mối tình cũ theo tập tục được xã hội chấp thuận, bắt nguồn từ câu chuyện bi thương của đôi tình nhân Nùng–Giáy bị hai dòng họ thù địch ngăn cản.",
+    "description_en": "Once a year on the 27th day of the 3rd lunar month, people come to Khau Vai not to buy and sell — but to meet the person they were unable to marry. Vietnam's only market where husbands and wives attend separately to see former loves under socially accepted custom, rooted in the tragic story of a Nung-Giay couple separated by their rival clans.",
+    "start_date": "2026-04-23",
+    "end_date": null,
+    "is_lunar": 1,
+    "is_trending": 1,
+    "status": "active",
+    "sources": [
+      {
+        "url": "https://vietnamtourism.gov.vn/tin-tuc/cho-tinh-khau-vai-ha-giang",
+        "title": "Chợ Tình Khâu Vai — Di sản văn hóa phi vật thể",
+        "publisher": "Tổng cục Du lịch Việt Nam",
+        "accessed_date": "2026-06-21"
+      }
+    ]
+  },
+  {
+    "name_vi": "Lễ hội Lồng Tồng (Xuống Đồng)",
+    "name_en": "Lồng Tồng Festival — Going Down to the Fields",
+    "slug": "le-hoi-long-tong",
+    "description_vi": "Người Tày, Nùng, Giáy và Bố Y ở các thung lũng Hà Giang tổ chức lễ Xuống Đồng vào tháng Giêng âm lịch — buổi lễ cầu mùa tập thể nơi các cụ già thực hiện nghi thức đầu tiên trên ruộng lúa cộng đồng, tiếp theo là ném còn, đánh yến, kéo co và những đêm hát then mà giọng ca cứ vang mãi qua thung lũng sương khói. Đây là lễ hội nông nghiệp thuần túy nhất của vùng núi cao phía Bắc, chưa bị thương mại hóa.",
+    "description_en": "The Tay, Nung, Giay, and Bo Y ethnic communities in Ha Giang's valleys hold the Going Down to the Fields ceremony in the first lunar month — a collective harvest prayer where elders perform the first rituals on communal rice land, followed by embroidered-ball throwing, shuttlecock, tug-of-war, and nights of then singing that echo across misty valleys. This is the north's most authentic agricultural festival, still uncommercialised.",
+    "start_date": "2026-02-03",
+    "end_date": null,
+    "is_lunar": 1,
+    "is_trending": 0,
+    "status": "active",
+    "sources": [
+      {
+        "url": "https://vietnamtourism.gov.vn/tin-tuc/le-hoi-long-tong-ha-giang",
+        "title": "Lễ hội Lồng Tồng Hà Giang",
+        "publisher": "Tổng cục Du lịch Việt Nam",
+        "accessed_date": "2026-06-21"
+      }
+    ]
+  },
+  {
+    "name_vi": "Lễ hội Gầu Tào",
+    "name_en": "Gầu Tào — H'Mong Spring Thanksgiving Festival",
+    "slug": "le-hoi-gau-tao",
+    "description_vi": "Khi một gia đình H'Mông dựng cây nêu cao vút với dải vải đỏ trên đỉnh, cả bản biết rằng nhà đó đang tạ ơn — sau trận ốm nặng vượt qua, sau đứa con chào đời, sau một năm mùa màng no ấm. Lễ Gầu Tào là lời cảm ơn riêng của từng gia đình được nâng thành ngày hội cả cộng đồng, với tiếng khèn, tiếng đàn môi và đua ngựa trên sườn dốc — những hình ảnh đặc trưng nhất của mùa xuân H'Mông Hà Giang.",
+    "description_en": "When an H'Mong family erects a tall bamboo pole topped with red cloth strips, the whole village knows that household is giving thanks — for surviving a serious illness, for a child born, for a prosperous year. Gầu Tào is each family's private gratitude elevated into a community celebration, with reed pipes, jaw harps, and horse racing on steep slopes — the most emblematic images of H'Mong spring in Ha Giang.",
+    "start_date": "2026-01-29",
+    "end_date": "2026-01-31",
+    "is_lunar": 1,
+    "is_trending": 0,
+    "status": "active",
+    "sources": [
+      {
+        "url": "https://vietnamtourism.gov.vn/tin-tuc/le-hoi-gau-tao-ha-giang",
+        "title": "Lễ hội Gầu Tào Hà Giang",
+        "publisher": "Tổng cục Du lịch Việt Nam",
+        "accessed_date": "2026-06-21"
+      }
+    ]
+  },
+  {
+    "name_vi": "Lễ Nhảy Lửa của người Pà Thẻn",
+    "name_en": "Pa Then Fire Dance Ceremony",
+    "slug": "le-nhay-lua-pa-then",
+    "description_vi": "Vào ngày 16 tháng 10 âm lịch, thầy cúng người Pà Thẻn bước vào trạng thái nhập thần và dẫn các thành viên cộng đồng nhảy chân trần qua than hồng — không ai bị bỏng. Nghi lễ tâm linh hiếm gặp này của dân tộc Pà Thẻn (chỉ khoảng 7.000 người) tại Hà Giang và Tuyên Quang được công nhận là Di sản văn hóa phi vật thể quốc gia năm 2012 và là một trong những trải nghiệm nghi lễ khó gặp nhất tại Việt Nam.",
+    "description_en": "On the 16th day of the 10th lunar month, the Pa Then shaman enters a trance state and leads community members to dance barefoot through burning coal beds — no one is burned. This rare shamanic ceremony of the Pa Then ethnic minority (around 7,000 people) in Ha Giang and Tuyen Quang was inscribed as a National Intangible Cultural Heritage in 2012 and is one of the most difficult-to-witness ritual experiences in Vietnam.",
+    "start_date": "2026-11-13",
+    "end_date": null,
+    "is_lunar": 1,
+    "is_trending": 0,
+    "status": "active",
+    "sources": [
+      {
+        "url": "https://vietnamtourism.gov.vn/tin-tuc/le-nhay-lua-pa-then",
+        "title": "Lễ Nhảy Lửa người Pà Thẻn — Di sản phi vật thể quốc gia",
+        "publisher": "Tổng cục Du lịch Việt Nam",
+        "accessed_date": "2026-06-21"
+      }
+    ]
+  }
+]
