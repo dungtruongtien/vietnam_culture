@@ -86,7 +86,7 @@ export default async function FestivalDetailPage({ params }: Props) {
     const prevFestival = idx > 0 ? allFestivalItems[idx - 1] : null;
     const nextFestival = idx < allFestivalItems.length - 1 ? allFestivalItems[idx + 1] : null;
 
-    const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000';
+    const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3005';
     const title = isVi ? festivalItem.title_vi : festivalItem.title_en;
     const jsonLd = {
       '@context': 'https://schema.org',

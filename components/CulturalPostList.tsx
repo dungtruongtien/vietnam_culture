@@ -88,7 +88,7 @@ export default function CulturalPostList({ locale, posts, provinceSlug, province
     );
   }
 
-  const typeOrder = ['am-thuc', 'dia-diem', 'le-hoi', 'phong-tuc'];
+  const typeOrder = ['am-thuc', 'dia-diem'];
   const grouped = typeOrder
     .map((type) => ({ type, items: posts.filter((p) => p.type === type) }))
     .filter((g) => g.items.length > 0);
@@ -136,28 +136,21 @@ export default function CulturalPostList({ locale, posts, provinceSlug, province
             borderTop: groupIdx === 0 ? 'none' : '1px solid #D9D3C5',
           }}>
             {/* Category header */}
-            <div style={{ display: 'flex', alignItems: 'baseline', justifyContent: 'space-between', gap: '1rem', flexWrap: 'wrap', marginBottom: '1.25rem' }}>
-              <div>
-                <span style={{
-                  fontSize: '0.7rem',
-                  fontWeight: 600,
-                  letterSpacing: '0.12em',
-                  textTransform: 'uppercase',
-                  color: meta.eyebrowColor,
-                  display: 'flex',
-                  alignItems: 'center',
-                  gap: '8px',
-                  marginBottom: '6px',
-                }}>
-                  <span style={{ width: 24, height: 1.5, background: 'currentColor', display: 'inline-block' }} />
-                  {catNum} · {label}
-                </span>
-                <h3 className="font-heading" style={{ fontSize: 'clamp(1.4rem, 2vw + 0.5rem, 1.9rem)', fontWeight: 500, color: '#1B1B1A', letterSpacing: '-0.01em', lineHeight: 1.25 }}>
-                  {isVi
-                    ? `Top ${items.length} ${meta.vi.toLowerCase()} không thể bỏ qua.`
-                    : `Top ${items.length} ${meta.en.toLowerCase()} not to miss.`}
-                </h3>
-              </div>
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '1rem', flexWrap: 'wrap', marginBottom: '1.25rem' }}>
+              <span style={{
+                fontSize: '1.1rem',
+                fontWeight: 700,
+                letterSpacing: '0.04em',
+                textTransform: 'uppercase',
+                color: meta.eyebrowColor,
+                display: 'flex',
+                alignItems: 'center',
+                gap: '10px',
+                fontFamily: 'var(--font-body, system-ui)',
+              }}>
+                <span style={{ width: 24, height: 2, background: 'currentColor', display: 'inline-block', flexShrink: 0 }} />
+                {catNum} · {label}
+              </span>
               <div style={{ display: 'flex', alignItems: 'center', gap: '10px', fontSize: '0.75rem', color: '#6E6A60', flexShrink: 0 }}>
                 <span>{items.length} {isVi ? 'bài' : 'posts'}</span>
                 <span style={{ width: 4, height: 4, borderRadius: '50%', background: '#D9D3C5', display: 'inline-block' }} />

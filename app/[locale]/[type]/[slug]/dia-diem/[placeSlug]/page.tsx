@@ -76,7 +76,7 @@ export default async function PlaceItemPage({ params }: Props) {
   const prevPlace = idx > 0 ? allPlaceItems[idx - 1] : null;
   const nextPlace = idx < allPlaceItems.length - 1 ? allPlaceItems[idx + 1] : null;
 
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000';
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3005';
   const title = isVi ? place.title_vi : place.title_en;
   const jsonLd = {
     '@context': 'https://schema.org',

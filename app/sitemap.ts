@@ -1,7 +1,7 @@
 import type { MetadataRoute } from 'next';
 import { getAllProvinces } from '@/lib/queries';
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000';
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3005';
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const provinces = await getAllProvinces();

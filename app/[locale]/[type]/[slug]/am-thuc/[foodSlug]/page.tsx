@@ -76,7 +76,7 @@ export default async function FoodItemPage({ params }: Props) {
   const prevFood = idx > 0 ? allFoodItems[idx - 1] : null;
   const nextFood = idx < allFoodItems.length - 1 ? allFoodItems[idx + 1] : null;
 
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000';
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3005';
   const title = isVi ? food.title_vi : food.title_en;
   const jsonLd = {
     '@context': 'https://schema.org',

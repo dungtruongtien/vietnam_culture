@@ -11,6 +11,8 @@ import {
   getFoodItemsByProvince,
   getPlaceItemsByProvince,
   getAllProvinces,
+  getFestivalsByProvince,
+  getFestivalItemsByProvince,
 } from '@/lib/queries';
 import Timeline from '@/components/Timeline';
 import CulturalPostList from '@/components/CulturalPostList';
@@ -76,10 +78,12 @@ export default async function ProvincePage({ params }: Props) {
     sources: await getSourcesForEntity('cultural_post', post.id),
   })));
 
-  const [foodItems, placeItems, allProvinces] = await Promise.all([
+  const [foodItems, placeItems, allProvinces, festivals, festivalItems] = await Promise.all([
     getFoodItemsByProvince(province.id),
     getPlaceItemsByProvince(province.id),
     getProvinces(),
+    getFestivalsByProvince(province.id),
+    getFestivalItemsByProvince(province.id),
   ]);
   const foodSlugs: Record<number, string> = Object.fromEntries(
     foodItems.map((f) => [f.cultural_post_id, f.slug])
@@ -93,9 +97,12 @@ export default async function ProvincePage({ params }: Props) {
   const placeImageUrls: Record<number, string> = Object.fromEntries(
     placeItems.filter((p) => p.image_url).map((p) => [p.cultural_post_id, p.image_url!])
   );
+  const festivalItemByFestivalId: Record<number, typeof festivalItems[number]> = Object.fromEntries(
+    festivalItems.map((fi) => [fi.festival_id, fi])
+  );
   const relatedProvinces = allProvinces.filter((p) => p.slug !== slug);
 
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000';
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3005';
   const typeSlug = isVi ? province.type : province.type_en;
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -343,6 +350,7 @@ export default async function ProvincePage({ params }: Props) {
               <ul className="flex gap-0 text-sm font-medium">
                 {[
                   { href: '#culture', label: isVi ? 'Văn hóa' : 'Culture', count: displayCulturalPosts.length },
+                  ...(festivals.length > 0 ? [{ href: '#festivals', label: isVi ? 'Lễ Hội' : 'Festivals', count: festivals.length }] : []),
                   { href: '#sources', label: isVi ? 'Nguồn' : 'Sources', count: null },
                 ].map((tab) => (
                   <li key={tab.href}>
@@ -394,6 +402,111 @@ export default async function ProvincePage({ params }: Props) {
                   placeImageUrls={placeImageUrls}
                 />
               </section>
+
+              {/* ===== Lễ Hội / Festivals section ===== */}
+              {festivals.length > 0 && (
+                <section id="festivals" className="scroll-mt-32" style={{ paddingTop: '3rem', marginTop: '1.5rem', borderTop: '1px solid #D9D3C5' }}>
+                  {/* Section eyebrow */}
+                  <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '1rem', flexWrap: 'wrap', marginBottom: '1.25rem' }}>
+                    <span style={{ fontSize: '1.1rem', fontWeight: 700, letterSpacing: '0.04em', textTransform: 'uppercase', color: '#8A6C00', display: 'flex', alignItems: 'center', gap: '10px', fontFamily: 'var(--font-body, system-ui)' }}>
+                      <span style={{ width: 24, height: 2, background: 'currentColor', display: 'inline-block', flexShrink: 0 }} />
+                      03 · {isVi ? 'Lễ hội' : 'Festivals'}
+                    </span>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '10px', fontSize: '0.75rem', color: '#6E6A60', flexShrink: 0 }}>
+                      <span>{festivals.length} {isVi ? 'bài' : 'posts'}</span>
+                    </div>
+                  </div>
+
+                  {/* Row list */}
+                  <div style={{ borderTop: '1px solid #D9D3C5' }}>
+                    {festivals.map((festival, idx) => {
+                      const fi = festival.slug ? festivalItemByFestivalId[festival.id] : null;
+                      const imageUrl = fi?.image_url ?? null;
+                      const festivalName = isVi ? festival.name_vi : festival.name_en;
+                      const lede = fi ? (isVi ? fi.lede_vi : fi.lede_en) : (isVi ? festival.description_vi : festival.description_en);
+                      const startDate = new Date(festival.start_date);
+                      const lang = isVi ? 'vi-VN' : 'en-US';
+                      const dateDisplay = startDate.toLocaleDateString(lang, { day: 'numeric', month: 'long' });
+                      const href = festival.slug ? `/${locale}/${typeSlug}/${slug}/le-hoi/${festival.slug}` : undefined;
+                      const rowStyle: React.CSSProperties = {
+                        display: 'grid',
+                        gridTemplateColumns: '120px minmax(0,1fr) auto',
+                        gap: 'clamp(1rem, 2vw, 1.75rem)',
+                        padding: '1.1rem 0.5rem',
+                        borderBottom: '1px solid #D9D3C5',
+                        alignItems: 'center',
+                        textDecoration: 'none',
+                        color: 'inherit',
+                        position: 'relative',
+                        borderRadius: 4,
+                        cursor: href ? 'pointer' : 'default',
+                      };
+
+                      const rowContent = (
+                        <>
+                          {/* Thumbnail */}
+                          <div style={{ width: 120, height: 120, borderRadius: 8, overflow: 'hidden', position: 'relative', flexShrink: 0, background: 'linear-gradient(135deg, #3D1A1F, #1B2A4A)' }}>
+                            {imageUrl ? (
+                              <img src={imageUrl} alt={festivalName} style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
+                            ) : (
+                              <div style={{ width: '100%', height: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                                <svg width="36" height="36" viewBox="0 0 48 48" fill="none" opacity="0.5">
+                                  <circle cx="24" cy="24" r="20" stroke="#DEC07F" strokeWidth="1.5"/>
+                                  <path d="M24 8 L26 18 L36 18 L28 24 L31 34 L24 28 L17 34 L20 24 L12 18 L22 18 Z" fill="#DEC07F"/>
+                                </svg>
+                              </div>
+                            )}
+                            <div style={{ position: 'absolute', top: 8, left: 8, width: 28, height: 28, borderRadius: '50%', background: 'rgba(255,255,255,0.95)', color: '#1B1B1A', fontFamily: 'var(--font-heading, Georgia, serif)', fontWeight: 600, fontSize: '0.8rem', display: 'grid', placeItems: 'center', boxShadow: '0 1px 3px rgba(27,27,26,0.2)', zIndex: 2 }}>
+                              {idx + 1}
+                            </div>
+                          </div>
+
+                          {/* Body */}
+                          <div style={{ minWidth: 0 }}>
+                            <div style={{ fontSize: '0.68rem', letterSpacing: '0.1em', textTransform: 'uppercase', color: '#6E6A60', fontWeight: 600, marginBottom: 4 }}>
+                              {dateDisplay}{festival.is_lunar === 1 ? (isVi ? ' · Âm lịch' : ' · Lunar') : ''}
+                            </div>
+                            <h4 className="font-heading" style={{ fontSize: 'clamp(1.1rem, 1.5vw + 0.4rem, 1.4rem)', fontWeight: 500, lineHeight: 1.25, letterSpacing: '-0.01em', color: '#1B1B1A', marginBottom: 6 }}>
+                              {festivalName}
+                            </h4>
+                            {lede && (
+                              <p style={{ fontSize: '0.875rem', color: '#6E6A60', lineHeight: 1.65, overflow: 'hidden', display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical' }}>
+                                {lede}
+                              </p>
+                            )}
+                            {festival.is_trending === 1 && (
+                              <div style={{ marginTop: 8 }}>
+                                <span style={{ fontSize: '0.68rem', letterSpacing: '0.06em', padding: '3px 9px', borderRadius: 999, background: '#FBF6E8', color: '#8A6C00', fontWeight: 500 }}>
+                                  {isVi ? 'Nổi bật' : 'Trending'}
+                                </span>
+                              </div>
+                            )}
+                          </div>
+
+                          {/* Arrow */}
+                          {href ? (
+                            <div style={{ width: 40, height: 40, borderRadius: '50%', background: '#F0EDE6', color: '#6E6A60', display: 'grid', placeItems: 'center', flexShrink: 0 }}>
+                              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.4" strokeLinecap="round" strokeLinejoin="round">
+                                <path d="M5 12h14M13 5l7 7-7 7"/>
+                              </svg>
+                            </div>
+                          ) : <div />}
+                        </>
+                      );
+
+                      return href ? (
+                        <Link key={festival.id} href={href} style={rowStyle} className="post-row-item">
+                          {rowContent}
+                        </Link>
+                      ) : (
+                        <div key={festival.id} style={rowStyle}>
+                          {rowContent}
+                        </div>
+                      );
+                    })}
+                  </div>
+                </section>
+              )}
 
               {/* Contribute CTA */}
               <section
