@@ -467,7 +467,11 @@
       "Bash(lsof -ti:3001)",
       "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:3000/vi/thanh-pho/ho-chi-minh)",
       "Bash(curl -sL -o /dev/null -w \"%{http_code}\" http://localhost:3000/vi/thanh-pho/ho-chi-minh)",
-      "Bash(curl -sL -o /dev/null -w \" %{http_code}\" http://localhost:3000/vi/thanh-pho/ha-noi)"
+      "Bash(curl -sL -o /dev/null -w \" %{http_code}\" http://localhost:3000/vi/thanh-pho/ha-noi)",
+      "Bash(sqlite3 /Users/tiendung/Desktop/du-lich-viet-nam/database.db \"SELECT f.slug, f.name_vi, f.start_date, f.end_date, f.is_lunar, p.name_vi as province FROM festivals f JOIN provinces p ON f.province_id = p.id WHERE f.status = 'published' ORDER BY f.start_date LIMIT 30\")",
+      "Bash(sqlite3 /Users/tiendung/Desktop/du-lich-viet-nam/database.db \"SELECT f.slug, f.name_vi, f.start_date, f.end_date, f.is_lunar, p.name_vi as province FROM festivals f JOIN provinces p ON f.province_id = p.id ORDER BY f.start_date LIMIT 30\")",
+      "Bash(curl -sL -o /dev/null -w \"%{http_code}\" http://localhost:3000/vi)",
+      "Bash(sqlite3 /Users/tiendung/Desktop/du-lich-viet-nam/database.db ' *)"
     ],
     "additionalDirectories": [
       "/Users/tiendung/Desktop/du-lich-viet-nam/app/[locale]/[type]/[slug]/dia-diem",

@@ -650,6 +650,46 @@ export async function getFestivalItemsByProvince(provinceId: number): Promise<Fe
   return result.rows.map((r) => toRow<FestivalItem>(r as Record<string, unknown>));
 }
 
+export type UpcomingFestival = Festival & {
+  province_name_vi: string;
+  province_name_en: string;
+  province_slug: string;
+  province_type: string;
+  province_type_en: string;
+  fi_slug: string | null;
+  fi_image_url: string | null;
+};
+
+export async function getUpcomingFestivals(limit = 8): Promise<UpcomingFestival[]> {
+  await ensureReady();
+  const db = getDb();
+  const today = new Date().toISOString().split('T')[0];
+  const result = await db.execute({
+    sql: `
+      SELECT f.*,
+             p.name_vi  AS province_name_vi,
+             p.name_en  AS province_name_en,
+             p.slug     AS province_slug,
+             p.type     AS province_type,
+             p.type_en  AS province_type_en,
+             fi.slug    AS fi_slug,
+             fi.image_url AS fi_image_url
+      FROM festivals f
+      JOIN provinces p ON f.province_id = p.id
+      LEFT JOIN festival_items fi ON fi.festival_id = f.id AND fi.status = 'published'
+      WHERE f.slug IS NOT NULL
+        AND (
+          f.end_date >= ?
+          OR (f.end_date IS NULL AND f.start_date >= ?)
+        )
+      ORDER BY f.start_date ASC
+      LIMIT ?
+    `,
+    args: [today, today, limit],
+  });
+  return result.rows.map((r) => toRow<UpcomingFestival>(r as Record<string, unknown>));
+}
+
 export async function getFestivalItemSources(festivalItemId: number): Promise<FestivalItemSource[]> {
   const db = getDb();
   const result = await db.execute({

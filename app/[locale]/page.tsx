@@ -1,5 +1,5 @@
 import { getTranslations } from 'next-intl/server';
-import { getProvinces, getEventsOnThisDay, getEventsInMonth, getFeaturedPlaces, getFeaturedFoods } from '@/lib/queries';
+import { getProvinces, getEventsOnThisDay, getEventsInMonth, getFeaturedPlaces, getFeaturedFoods, getUpcomingFestivals } from '@/lib/queries';
 import VietnamMap from '@/components/VietnamMap';
 import OnThisDay from '@/components/OnThisDay';
 import SearchBar from '@/components/SearchBar';
@@ -34,12 +34,13 @@ export default async function HomePage({ params }: Props) {
 
   const FEATURED_PROVINCES = ['ho-chi-minh', 'ha-noi', 'da-nang', 'thua-thien-hue'];
 
-  const [provinces, todayEvents, monthEvents, featuredPlaces, featuredFoods] = await Promise.all([
+  const [provinces, todayEvents, monthEvents, featuredPlaces, featuredFoods, upcomingFestivals] = await Promise.all([
     getProvinces(),
     getEventsOnThisDay(month, day),
     getEventsInMonth(month),
     getFeaturedPlaces(FEATURED_PROVINCES),
     getFeaturedFoods(['ho-chi-minh', 'ha-noi', 'da-nang']),
+    getUpcomingFestivals(8),
   ]);
 
   const activeProvinces = provinces.map((p) => ({
@@ -296,8 +297,14 @@ export default async function HomePage({ params }: Props) {
               const name = isVi ? p.name_vi : p.name_en;
               const description = isVi ? p.meta_description_vi : p.meta_description_en;
               const region = isVi ? p.region_vi : p.region_en;
-              const isHCM = p.slug === 'ho-chi-minh';
-              const bg = isHCM ? '#F1A6B2' : '#F4D8B5';
+              const provinceHeroImage: Record<string, string> = {
+                'ho-chi-minh': '/places/dinh-doc-lap/hero.jpg',
+                'ha-noi':      '/places/hoang-thanh-thang-long/hero.jpg',
+                'da-nang':     '/places/bai-bien-my-khe/hero.jpg',
+                'thua-thien-hue': '/places/dai-noi-hue/hero.jpg',
+                'ha-giang':    '/places/cot-co-lung-cu/hero.jpg',
+              };
+              const heroImage = provinceHeroImage[p.slug];
               return (
                 <Link
                   key={p.slug}
@@ -305,30 +312,18 @@ export default async function HomePage({ params }: Props) {
                   className="group rounded-2xl border border-vn-mist overflow-hidden hover:-translate-y-1 hover:shadow-lg transition-all duration-200"
                   style={{ background: '#FFFFFF', boxShadow: '0 2px 8px rgba(27,27,26,0.06)' }}
                 >
-                  <div className="relative h-40 overflow-hidden" style={{ background: bg }}>
-                    {isHCM ? (
-                      <svg viewBox="0 0 320 160" className="w-full h-full" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
-                        <rect width="320" height="160" fill="#F1A6B2"/>
-                        <rect x="20" y="70" width="25" height="90" fill="#8E0A1F"/>
-                        <rect x="55" y="45" width="35" height="115" fill="#4D050F"/>
-                        <rect x="100" y="25" width="20" height="135" fill="#A60D26"/>
-                        <rect x="130" y="60" width="30" height="100" fill="#8E0A1F"/>
-                        <rect x="170" y="38" width="24" height="122" fill="#4D050F"/>
-                        <rect x="204" y="55" width="28" height="105" fill="#A60D26"/>
-                        <rect x="244" y="70" width="36" height="90" fill="#8E0A1F"/>
-                        <rect x="290" y="80" width="30" height="80" fill="#4D050F"/>
-                        <circle cx="240" cy="25" r="16" fill="#FBF6E8" opacity="0.55"/>
-                      </svg>
+                  <div className="relative h-40 overflow-hidden" style={{ background: '#3D1A1F' }}>
+                    {heroImage ? (
+                      <img
+                        src={heroImage}
+                        alt={name}
+                        style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block', transition: 'transform 0.4s ease' }}
+                        className="group-hover:scale-105"
+                      />
                     ) : (
-                      <svg viewBox="0 0 320 160" className="w-full h-full" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
-                        <rect width="320" height="160" fill="#F4D8B5"/>
-                        <path d="M0 130 L40 100 L60 115 L80 90 L100 110 L130 85 L160 105 L185 80 L215 100 L245 85 L275 105 L320 90 L320 160 L0 160 Z" fill="#B5934F" opacity="0.9"/>
-                        <path d="M0 145 L50 130 L80 138 L120 122 L160 135 L200 118 L240 132 L280 115 L320 128 L320 160 L0 160 Z" fill="#8E5A1F"/>
-                        <circle cx="260" cy="35" r="18" fill="#FBF6E8" opacity="0.8"/>
-                        <rect x="150" y="108" width="30" height="52" fill="#4D050F"/>
-                        <rect x="250" y="100" width="32" height="60" fill="#4D050F"/>
-                      </svg>
+                      <div style={{ width: '100%', height: '100%', background: 'linear-gradient(135deg, #3D1A1F, #8E0A1F)' }} />
                     )}
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent" />
                     <span className="absolute top-3 left-3 text-[10px] font-semibold uppercase px-2 py-0.5 rounded-full" style={{ background: '#C8102E', color: '#FBF8F1' }}>
                       {isVi ? 'Nổi bật' : 'Featured'}
                     </span>
@@ -348,6 +343,90 @@ export default async function HomePage({ params }: Props) {
 
           </div>
         </section>
+
+        {/* ── Lễ hội sắp diễn ra ── */}
+        {upcomingFestivals.length > 0 && (
+          <section id="festivals" className="scroll-mt-24">
+            <div className="flex items-end justify-between mb-6 gap-4">
+              <div>
+                <span className="text-xs font-medium text-vn-stone uppercase tracking-widest block mb-1">
+                  {isVi ? 'Lễ hội sắp diễn ra' : 'Upcoming festivals'}
+                </span>
+                <h2 className="font-heading text-3xl font-semibold text-vn-ink">
+                  {isVi ? 'Theo lịch âm và dương — đừng bỏ lỡ.' : "By lunar and solar calendar — don't miss out."}
+                </h2>
+              </div>
+            </div>
+
+            {/* Horizontal scrollable rail */}
+            <div
+              className="flex gap-3 overflow-x-auto pb-2"
+              style={{ scrollSnapType: 'x mandatory', WebkitOverflowScrolling: 'touch', msOverflowStyle: 'none', scrollbarWidth: 'none' }}
+            >
+              {upcomingFestivals.map((f) => {
+                const festivalName = isVi ? f.name_vi : f.name_en;
+                const provName = isVi ? f.province_name_vi : f.province_name_en;
+                const typeSlug = isVi ? f.province_type : f.province_type_en;
+                const href = `/${locale}/${typeSlug}/${f.province_slug}/le-hoi/${f.slug}`;
+                const startDate = new Date(f.start_date);
+                const lang = isVi ? 'vi-VN' : 'en-US';
+                const day = startDate.toLocaleDateString(lang, { day: 'numeric' });
+                const month = startDate.toLocaleDateString(lang, { month: 'short' });
+
+                return (
+                  <Link
+                    key={f.slug}
+                    href={href}
+                    className="group flex-shrink-0 rounded-2xl border border-vn-mist overflow-hidden hover:-translate-y-1 hover:shadow-lg transition-all duration-200"
+                    style={{ width: 200, background: '#FFFFFF', boxShadow: '0 2px 8px rgba(27,27,26,0.06)', scrollSnapAlign: 'start' }}
+                  >
+                    {/* Image / date block */}
+                    <div className="relative overflow-hidden" style={{ height: 120, background: 'linear-gradient(135deg, #3D1A1F, #1B2A4A)' }}>
+                      {f.fi_image_url ? (
+                        <img
+                          src={f.fi_image_url}
+                          alt={festivalName}
+                          loading="lazy"
+                          className="group-hover:scale-105 transition-transform duration-500"
+                          style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }}
+                        />
+                      ) : (
+                        <div className="w-full h-full flex items-center justify-center">
+                          <svg width="40" height="40" viewBox="0 0 48 48" fill="none" opacity="0.4">
+                            <circle cx="24" cy="24" r="20" stroke="#DEC07F" strokeWidth="1.5"/>
+                            <path d="M24 8 L26 18 L36 18 L28 24 L31 34 L24 28 L17 34 L20 24 L12 18 L22 18 Z" fill="#DEC07F"/>
+                          </svg>
+                        </div>
+                      )}
+                      <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
+
+                      {/* Date badge — bottom left */}
+                      <div className="absolute bottom-0 left-0 p-3 flex items-end gap-2">
+                        <div className="text-center leading-none">
+                          <div className="font-heading text-2xl font-semibold text-white">{day}</div>
+                          <div className="text-[10px] font-medium uppercase tracking-wider text-white/70">{month}</div>
+                        </div>
+                        {f.is_lunar === 1 && (
+                          <span className="text-[9px] font-semibold px-1.5 py-0.5 rounded-full mb-0.5" style={{ background: 'rgba(222,192,127,0.25)', color: '#DEC07F', border: '1px solid rgba(222,192,127,0.4)' }}>
+                            {isVi ? 'ÂL' : 'Lunar'}
+                          </span>
+                        )}
+                      </div>
+                    </div>
+
+                    {/* Text */}
+                    <div className="p-3">
+                      <p className="text-[10px] font-medium text-vn-stone uppercase tracking-wider truncate mb-0.5">{provName}</p>
+                      <h3 className="font-heading text-sm font-semibold text-vn-ink leading-snug line-clamp-2 group-hover:text-vn-red transition-colors">
+                        {festivalName}
+                      </h3>
+                    </div>
+                  </Link>
+                );
+              })}
+            </div>
+          </section>
+        )}
 
         {/* ── Địa điểm nổi bật ── */}
         <section id="featured-places">
