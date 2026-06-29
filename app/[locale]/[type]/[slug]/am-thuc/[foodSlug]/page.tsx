@@ -96,10 +96,10 @@ export default async function FoodItemPage({ params }: Props) {
       <div className="min-h-screen flex flex-col" style={{ background: '#FBF8F1' }}>
 
         {/* Topbar */}
-        <div style={{ background: '#F4EFE6', borderBottom: '1px solid #D9D3C5' }} className="text-xs">
-          <div className="max-w-7xl mx-auto px-4 py-2 flex items-center justify-between gap-4">
-            <div className="flex items-center gap-2 min-w-0 text-vn-stone">
-              <span className="w-1.5 h-1.5 rounded-full bg-vn-gold flex-shrink-0" />
+        <div style={{ background: '#3D1A1F' }} className="text-xs">
+          <div className="max-w-7xl mx-auto px-6 py-2 flex items-center justify-between gap-4">
+            <div className="flex items-center gap-2 min-w-0" style={{ color: 'rgba(255,255,255,0.55)' }}>
+              <span className="w-1.5 h-1.5 rounded-full flex-shrink-0" style={{ background: '#C9A24C' }} />
               <span className="truncate">
                 {isVi
                   ? 'Thông tin tổng hợp từ nhiều nguồn — vui lòng kiểm tra từ nguồn chính thống'
@@ -108,7 +108,8 @@ export default async function FoodItemPage({ params }: Props) {
             </div>
             <Link
               href={`/${otherLocale}/${otherTypeSlug}/${slug}/am-thuc/${foodSlug}`}
-              className="flex-shrink-0 text-vn-stone hover:text-vn-ink transition-colors font-medium"
+              className="flex-shrink-0 font-medium transition-colors"
+              style={{ color: 'rgba(255,255,255,0.7)' }}
             >
               {locale === 'vi' ? 'English' : 'Tiếng Việt'}
             </Link>
@@ -117,11 +118,12 @@ export default async function FoodItemPage({ params }: Props) {
 
         {/* Header */}
         <header
-          className="sticky top-0 z-40 border-b border-vn-mist"
+          className="sticky top-0 z-40"
           style={{
-            background: 'rgba(251,248,241,0.88)',
+            background: 'rgba(251,248,241,0.95)',
             backdropFilter: 'saturate(150%) blur(14px)',
             WebkitBackdropFilter: 'saturate(150%) blur(14px)',
+            borderBottom: '1px solid #E9E6DE',
           }}
         >
           <div className="max-w-7xl mx-auto px-4 h-[64px] flex items-center justify-between gap-4">
