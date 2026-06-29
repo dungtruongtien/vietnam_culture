@@ -1,0 +1,56 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "cao-nguyen-da-dong-van",
+    "url": "https://hagiangamazingtours.com/wp-content/uploads/2023/04/dong-van-krast-plateau-6.jpg",
+    "domain": "hagiangamazingtours.com",
+    "downloaded_at": "2026-06-28T12:48:21.957Z",
+    "ok": true,
+    "size_kb": 156
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "cao-nguyen-da-dong-van",
+    "url": "https://hagiangamazingtours.com/wp-content/uploads/2023/04/dong-van-krast-plateau-4.jpg",
+    "domain": "hagiangamazingtours.com",
+    "downloaded_at": "2026-06-28T12:48:22.999Z",
+    "ok": true,
+    "size_kb": 201
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "cao-nguyen-da-dong-van",
+    "url": "https://hagiangamazingtours.com/wp-content/uploads/2023/04/dong-van-krast-plateau-9.jpg",
+    "domain": "hagiangamazingtours.com",
+    "downloaded_at": "2026-06-28T12:48:24.044Z",
+    "ok": true,
+    "size_kb": 191
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "cao-nguyen-da-dong-van",
+    "url": "https://hagiangamazingtours.com/wp-content/uploads/2023/04/dong-van-krast-plateau-16.jpg",
+    "domain": "hagiangamazingtours.com",
+    "downloaded_at": "2026-06-28T12:48:25.084Z",
+    "ok": true,
+    "size_kb": 175
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "cao-nguyen-da-dong-van",
+    "url": "https://hagiangamazingtours.com/wp-content/uploads/2023/04/dong-van-krast-plateau-3.jpg",
+    "domain": "hagiangamazingtours.com",
+    "downloaded_at": "2026-06-28T12:48:26.125Z",
+    "ok": true,
+    "size_kb": 116
+  },
+  {
+    "file": "gallery-5.jpg",
+    "label": "cao-nguyen-da-dong-van",
+    "url": "https://vietadvisor.travel/wp-content/uploads/2025/06/Dong-Van-Karst-Plateau.webp",
+    "domain": "vietadvisor.travel",
+    "downloaded_at": "2026-06-28T12:48:27.599Z",
+    "ok": true,
+    "size_kb": 397
+  }
+]

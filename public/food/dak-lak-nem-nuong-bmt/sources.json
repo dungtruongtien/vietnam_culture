@@ -1,0 +1,47 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "Nem Nướng Buôn Ma Thuột",
+    "url": "https://www.hungryhuy.com/wp-content/uploads/1-bun-nem-nuong.jpg",
+    "domain": "www.hungryhuy.com",
+    "downloaded_at": "2026-06-28T12:47:43.866Z",
+    "ok": true,
+    "size_kb": 226
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "Nem Nướng Buôn Ma Thuột",
+    "url": "https://www.hungryhuy.com/wp-content/uploads/2-bun-nem-nuong.jpg",
+    "domain": "www.hungryhuy.com",
+    "downloaded_at": "2026-06-28T12:47:45.115Z",
+    "ok": true,
+    "size_kb": 120
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "Nem Nướng Buôn Ma Thuột",
+    "url": "https://www.hungryhuy.com/wp-content/uploads/3-bun-nem-nuong.jpg",
+    "domain": "www.hungryhuy.com",
+    "downloaded_at": "2026-06-28T12:47:46.200Z",
+    "ok": true,
+    "size_kb": 144
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "Nem Nướng Buôn Ma Thuột",
+    "url": "https://i0.wp.com/vickypham.com/wp-content/uploads/2018/04/39778-vietnamesegrilledporksausagenemnuongvickypham.jpg",
+    "domain": "i0.wp.com",
+    "downloaded_at": "2026-06-28T12:47:47.581Z",
+    "ok": true,
+    "size_kb": 303
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "Nem Nướng Buôn Ma Thuột",
+    "url": "https://i0.wp.com/vickypham.com/wp-content/uploads/2018/04/bec5a-vietnamesegrilledporknemnuong.jpg",
+    "domain": "i0.wp.com",
+    "downloaded_at": "2026-06-28T12:47:48.681Z",
+    "ok": true,
+    "size_kb": 418
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "Xôi Ngũ Sắc Hà Giang",
+    "url": "https://media.mia.vn/uploads/blog-du-lich/me-man-voi-mui-vi-thom-ngon-dam-da-cua-goi-xoi-ngu-sac-ha-giang-03-1642970279.jpg",
+    "domain": "media.mia.vn",
+    "downloaded_at": "2026-06-28T13:28:16.992Z",
+    "ok": true,
+    "size_kb": 105
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "Xôi Ngũ Sắc Hà Giang",
+    "url": "https://vnn-imgs-a1.vgcloud.vn/icdn.dantri.com.vn/zoom/1200_630/2021/02/24/cong-thuc-don-gian-lam-xoi-ngu-sac-cung-ram-thang-giengdocx-1614125647992.jpeg",
+    "domain": "vnn-imgs-a1.vgcloud.vn",
+    "downloaded_at": "2026-06-28T13:28:18.713Z",
+    "ok": true,
+    "size_kb": 190
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "Xôi Ngũ Sắc Hà Giang",
+    "url": "https://thodiahagiang.com/wp-content/uploads/2018/01/xoi-ngu-sac-ha-giang-1.jpg",
+    "domain": "thodiahagiang.com",
+    "downloaded_at": "2026-06-28T13:28:20.393Z",
+    "ok": true,
+    "size_kb": 57
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "Xôi Ngũ Sắc Hà Giang",
+    "url": "https://dulichkhatvongviet.com/wp-content/uploads/2020/08/xoi_ngu_sac_ha_giang.jpg",
+    "domain": "dulichkhatvongviet.com",
+    "downloaded_at": "2026-06-28T13:28:21.674Z",
+    "ok": true,
+    "size_kb": 94
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "Xôi Ngũ Sắc Hà Giang",
+    "url": "https://motortrip.vn/wp-content/uploads/2023/02/xoi-ngu-sac-ha-giang_9.jpg",
+    "domain": "motortrip.vn",
+    "downloaded_at": "2026-06-28T13:28:23.207Z",
+    "ok": true,
+    "size_kb": 70
+  }
+]

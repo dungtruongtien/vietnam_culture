@@ -1,0 +1,47 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "Thịt Nướng Ống Tre Tây Nguyên",
+    "url": "https://vovworld.vn/sites/default/files/world/Uploaded/vietanh/2021_04_23/heolaihapnuongongtre_JZMD.jpg",
+    "domain": "vovworld.vn",
+    "downloaded_at": "2026-06-28T12:47:23.499Z",
+    "ok": true,
+    "size_kb": 1311
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "Thịt Nướng Ống Tre Tây Nguyên",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Pork_skewers_on_the_grill_-_Banh_Uot_hawker.jpg",
+    "domain": "upload.wikimedia.org",
+    "downloaded_at": "2026-06-28T12:47:27.177Z",
+    "ok": true,
+    "size_kb": 290
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "Thịt Nướng Ống Tre Tây Nguyên",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Pork_BBQ.jpg",
+    "domain": "upload.wikimedia.org",
+    "downloaded_at": "2026-06-28T12:47:32.072Z",
+    "ok": true,
+    "size_kb": 2691
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "Thịt Nướng Ống Tre Tây Nguyên",
+    "url": "https://vietsensetravel.com/view/at_ga-nuong-ban-don_00deff23f813baa200b4155d2f84d632.jpg",
+    "domain": "vietsensetravel.com",
+    "downloaded_at": "2026-06-28T12:47:33.365Z",
+    "ok": true,
+    "size_kb": 187
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "Thịt Nướng Ống Tre Tây Nguyên",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Grilled_Pork%2C_Banh_Uot%2C_herbs%2C_rice_paper_VND10000_each_-_photo_by_Julia.jpg",
+    "domain": "upload.wikimedia.org",
+    "downloaded_at": "2026-06-28T12:47:37.118Z",
+    "ok": true,
+    "size_kb": 156
+  }
+]

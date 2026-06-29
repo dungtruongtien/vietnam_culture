@@ -1,0 +1,56 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "con-duong-hanh-phuc",
+    "url": "https://vietadvisor.travel/wp-content/uploads/2025/06/Ma-Pi-Leng-Sky-Walk.jpg",
+    "domain": "vietadvisor.travel",
+    "downloaded_at": "2026-06-28T12:48:48.676Z",
+    "ok": true,
+    "size_kb": 74
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "con-duong-hanh-phuc",
+    "url": "https://hagiangamazingtours.com/wp-content/uploads/2023/07/ma-pi-leng-ha-giang-14.jpg",
+    "domain": "hagiangamazingtours.com",
+    "downloaded_at": "2026-06-28T12:48:49.707Z",
+    "ok": true,
+    "size_kb": 79
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "con-duong-hanh-phuc",
+    "url": "https://hagiangamazingtours.com/wp-content/uploads/2023/07/ma-pi-leng-pass-8.jpg",
+    "domain": "hagiangamazingtours.com",
+    "downloaded_at": "2026-06-28T12:48:50.747Z",
+    "ok": true,
+    "size_kb": 122
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "con-duong-hanh-phuc",
+    "url": "https://hagiangamazingtours.com/wp-content/uploads/2023/07/ma-pi-leng-pass-6.jpg",
+    "domain": "hagiangamazingtours.com",
+    "downloaded_at": "2026-06-28T12:48:51.786Z",
+    "ok": true,
+    "size_kb": 140
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "con-duong-hanh-phuc",
+    "url": "https://vietadvisor.travel/wp-content/uploads/2026/03/Ma-Pi-Leng-pass.webp",
+    "domain": "vietadvisor.travel",
+    "downloaded_at": "2026-06-28T12:48:52.978Z",
+    "ok": true,
+    "size_kb": 213
+  },
+  {
+    "file": "gallery-5.jpg",
+    "label": "con-duong-hanh-phuc",
+    "url": "https://vietadvisor.travel/wp-content/uploads/2025/06/Ma-Pi-Leng-Pass.webp",
+    "domain": "vietadvisor.travel",
+    "downloaded_at": "2026-06-28T12:48:54.367Z",
+    "ok": true,
+    "size_kb": 124
+  }
+]

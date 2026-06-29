@@ -1,0 +1,56 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "cong-chieng-tay-nguyen-dak-lak",
+    "url": "https://mia.vn/media/uploads/blog-du-lich/trai-nghiem-le-hoi-cong-chieng-tay-nguyen-thu-vi-tai-dak-lak-02-1651914001.jpg",
+    "domain": "mia.vn",
+    "downloaded_at": "2026-06-28T14:18:41.158Z",
+    "ok": true,
+    "size_kb": 339
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "cong-chieng-tay-nguyen-dak-lak",
+    "url": "https://media.mia.vn/uploads/blog-du-lich/trai-nghiem-le-hoi-cong-chieng-tay-nguyen-thu-vi-tai-dak-lak-08-1651914296.jpg",
+    "domain": "media.mia.vn",
+    "downloaded_at": "2026-06-28T14:18:42.375Z",
+    "ok": true,
+    "size_kb": 262
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "cong-chieng-tay-nguyen-dak-lak",
+    "url": "https://dantoc.vietnamtourism.gov.vn/wp-content/uploads/2024/12/23.11.-Dak-Lak-Ket-noi-VHDS-phi-vat-the-Khong-gian-VH-cong-chieng-Tay-Nguyen-1-1024x658.jpg",
+    "domain": "dantoc.vietnamtourism.gov.vn",
+    "downloaded_at": "2026-06-28T14:18:43.495Z",
+    "ok": true,
+    "size_kb": 135
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "cong-chieng-tay-nguyen-dak-lak",
+    "url": "https://images.vietnamtourism.gov.vn/vn/images/2025/thang_12/1912.dak-lak-cong-chieng-2.jpg",
+    "domain": "images.vietnamtourism.gov.vn",
+    "downloaded_at": "2026-06-28T14:18:44.544Z",
+    "ok": true,
+    "size_kb": 105
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "cong-chieng-tay-nguyen-dak-lak",
+    "url": "https://www.vietfuntravel.com.vn/image/data/Blog/chia-se/ve-buon-don-kham-pha-van-hoa-cong-chieng-o-dak-lak/ve-buon-don-kham-pha-van-hoa-cong-chieng-o-dak-lak-h3.png",
+    "domain": "www.vietfuntravel.com.vn",
+    "downloaded_at": "2026-06-28T14:18:45.925Z",
+    "ok": true,
+    "size_kb": 970
+  },
+  {
+    "file": "gallery-5.jpg",
+    "label": "cong-chieng-tay-nguyen-dak-lak",
+    "url": "https://static-images.vanhoanghethuat.vn/datasite/201807/BAI_VIET_22556/doan%20Dak%20Lak.jpg?width=0&s=jd8GwYkhX2Fe38VXqld0-w",
+    "domain": "static-images.vanhoanghethuat.vn",
+    "downloaded_at": "2026-06-28T14:18:47.209Z",
+    "ok": true,
+    "size_kb": 229
+  }
+]

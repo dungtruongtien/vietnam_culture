@@ -1,0 +1,672 @@
+[
+  {
+    "content_hash": "dak-lak_at1_bun-do",
+    "province_slug": "dak-lak",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Bún Đỏ Buôn Ma Thuột",
+    "title_en": "Red Noodle Soup of Buôn Ma Thuột",
+    "content_vi": [
+      {
+        "item": "Sợi bún nhuộm đỏ từ dầu hạt điều Tây Nguyên",
+        "description": "Bún đỏ là linh hồn của những buổi chiều tà ở Buôn Ma Thuột — sợi bún đại đỏ cam từ dầu điều, chan ngập nước dùng xương heo và riêu cua, ăn kèm chả viên giòn và trứng cút. Quán chỉ mở từ 3 giờ chiều đến tận 1-2 giờ sáng, khi làn gió cao nguyên bắt đầu se lạnh."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Cashew-red noodles in pork-crab broth — a highland evening ritual",
+        "description": "Bún đỏ is the soul of Buôn Ma Thuột's twilight hours — thick rice noodles dyed brick-red with cashew oil, submerged in rich pork bone and crab broth, topped with pork meatballs and quail eggs. Stalls open only from late afternoon through the small hours of the morning."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vnexpress.net/bun-do-mon-an-dan-da-ben-dong-serepok-3234721.html",
+        "title": "Bún đỏ - món ăn dân dã bên dòng Sêrêpôk",
+        "publisher": "VnExpress",
+        "accessed_date": "2026-06-25"
+      },
+      {
+        "url": "https://dantri.com.vn/du-lich/bun-do-mon-an-gay-thuong-nho-o-thu-phu-ban-me-20210912133909274.htm",
+        "title": "Bún đỏ - món ăn \"gây thương nhớ\" ở thủ phủ Ban Mê",
+        "publisher": "Dân Trí",
+        "accessed_date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "content_hash": "dak-lak_at2_com-lam-ga-nuong",
+    "province_slug": "dak-lak",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Cơm Lam Gà Nướng Sa Lửa",
+    "title_en": "Bamboo Rice & Charcoal-Grilled Chicken",
+    "content_vi": [
+      {
+        "item": "Gạo thổi trong ống tre non nướng trên lửa rừng",
+        "description": "Cơm lam ra đời từ những chuyến đi rừng dài ngày của người đồng bào Ê Đê — gạo nếp đổ vào ống tre non, bịt lá rừng rồi vùi vào lửa than 45-60 phút. Gà tơ thả vườn nặng khoảng 1kg được ướp mật ong, sả, tỏi và lá rừng, nướng sa lửa đến khi da giòn vàng."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Sticky rice steamed in young bamboo, grilled over highland coals",
+        "description": "Cơm lam was born from the highland people's forest expeditions — glutinous rice packed into fresh bamboo tubes, sealed with leaves, and buried in glowing coals for up to an hour. The accompanying free-range chicken is marinated in forest honey, lemongrass, and wild herbs before being grilled golden over charcoal."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://dantri.com.vn/du-lich/ga-nuong-sa-lua-com-lam-chuyen-tu-nuong-ray-thanh-am-thuc-tay-nguyen-20210909100730598.htm",
+        "title": "Gà nướng sa lửa, cơm lam, chuyện từ nương rẫy thành ẩm thực Tây Nguyên",
+        "publisher": "Dân Trí",
+        "accessed_date": "2026-06-25"
+      },
+      {
+        "url": "https://www.vietnamplus.vn/ga-nuong-com-lam-dac-san-dan-da-cua-nui-rung-tay-nguyen-post841089.vnp",
+        "title": "Gà nướng, cơm lam - Đặc sản dân dã của núi rừng Tây Nguyên",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "content_hash": "dak-lak_at3_lau-ca-lang",
+    "province_slug": "dak-lak",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Lẩu Cá Lăng Sông Sêrêpôk",
+    "title_en": "Serepok River Catfish Hotpot",
+    "content_vi": [
+      {
+        "item": "Cá lăng thịt chắc từ dòng Sêrêpôk hùng vĩ",
+        "description": "Cá lăng sông Sêrêpôk có thịt dai ngọt đặc biệt do phải bơi ngược dòng chảy suốt quanh năm. Nấu lẩu với măng rừng, cà chua, nghệ tươi và các loại rau dớn dại, nước dùng chua nhẹ cân bằng béo ngậy của cá, tạo nên hương vị Tây Nguyên đặc trưng không nơi nào có được."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Sweet, firm-fleshed river catfish from the wild Serepok River",
+        "description": "Serepok catfish develop unusually firm, sweet flesh from swimming against the river's year-round current. Simmered in a hotpot with wild bamboo shoots, fresh turmeric, tomatoes, and highland greens, the gently tart broth perfectly offsets the fish's rich flavour — a Central Highlands signature impossible to replicate elsewhere."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vnexpress.net/mon-lau-ca-dam-chat-tay-nguyen-dai-ngan-4326393.html",
+        "title": "Món lẩu cá đậm chất Tây Nguyên đại ngàn",
+        "publisher": "VnExpress",
+        "accessed_date": "2026-06-25"
+      },
+      {
+        "url": "https://vnexpress.net/nhung-mon-ngon-doc-quyen-cua-buon-ma-thuot-3516878.html",
+        "title": "Những món ngon 'độc quyền' của Buôn Ma Thuột",
+        "publisher": "VnExpress",
+        "accessed_date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "content_hash": "dak-lak_at4_ca-dang",
+    "province_slug": "dak-lak",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Cà Đắng — Linh Hồn Ẩm Thực Ê Đê",
+    "title_en": "Bitter Highland Eggplant — Soul of Ê Đê Cuisine",
+    "content_vi": [
+      {
+        "item": "Vị đắng đặc trưng của rừng núi Tây Nguyên",
+        "description": "Cà đắng mọc hoang trên rừng núi Tây Nguyên là nguyên liệu trung tâm của ẩm thực Ê Đê — nấu canh với cá suối, lươn, bò hoặc xào đơn giản với tỏi. Vị đắng ban đầu khiến người lạ ái ngại, nhưng hậu vị ngọt thanh đọng lại trên đầu lưỡi mới là thứ làm du khách nhớ mãi."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Wild-foraged bitter eggplant at the heart of highland cooking",
+        "description": "Bitter eggplant grows wild in Đắk Lắk's highland forests and anchors Ê Đê cuisine — stewed with stream fish, eels, or buffalo, or simply stir-fried with garlic. The initial bitterness that puts newcomers off resolves into a lingering sweet aftertaste that becomes the defining flavour memory of any visit to Buôn Ma Thuột."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://tuoitre.vn/am-thuc/an-ca-dang-moi-hieu-long-nguoi-ede-1195270.htm",
+        "title": "Ăn cà đắng mới hiểu lòng người Êđê",
+        "publisher": "Tuổi Trẻ",
+        "accessed_date": "2026-06-25"
+      },
+      {
+        "url": "https://dantri.com.vn/du-lich/canh-thut-ca-dang-mon-an-co-ten-la-lung-nhung-ngon-tru-danh-o-tay-nguyen-20210214102604891.htm",
+        "title": "Canh thụt, cà đắng - món ăn có tên lạ lùng nhưng ngon trứ danh ở Tây Nguyên",
+        "publisher": "Dân Trí",
+        "accessed_date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "content_hash": "dak-lak_at5_canh-thut",
+    "province_slug": "dak-lak",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Canh Thụt — Đặc Sản M'nông Nấu Trong Ống Tre",
+    "title_en": "Canh Thụt — M'nông Bamboo-Pounded Soup",
+    "content_vi": [
+      {
+        "item": "Nấu và giã trong ống lồ ô dài một mét của người M'nông",
+        "description": "Canh thụt là di sản của người M'nông — cá suối nướng trong lá chuối, nấm mối rừng và cà đắng được cho vào ống lồ ô dài 1 mét, đun sôi rồi liên tục thụt (giã) cho đến khi nguyên liệu hòa quyện thành hỗn hợp sánh mịn. Mỗi gia đình có công thức riêng, mang theo hương ký ức của những chuyến làm rẫy trên núi cao."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Fish and forest mushrooms pounded creamy inside a one-metre bamboo tube",
+        "description": "Canh thụt is M'nông heritage in edible form — banana-leaf-grilled stream fish, termite mound mushrooms, and bitter eggplant loaded into a metre-long bamboo tube, simmered, then rhythmically pounded until everything blends into a creamy, unified mass. Each family guards its own recipe, carrying the flavour of hillside farming life down through generations."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://dantri.com.vn/du-lich/canh-thut-ca-dang-mon-an-co-ten-la-lung-nhung-ngon-tru-danh-o-tay-nguyen-20210214102604891.htm",
+        "title": "Canh thụt, cà đắng - món ăn có tên lạ lùng nhưng ngon trứ danh ở Tây Nguyên",
+        "publisher": "Dân Trí",
+        "accessed_date": "2026-06-25"
+      },
+      {
+        "url": "https://nhandan.vn/mon-canh-thut-nam-moi-cua-nguoi-mnong-post814021.html",
+        "title": "Món canh thụt nấm mối của người M'nông",
+        "publisher": "Nhân Dân",
+        "accessed_date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "content_hash": "dak-lak_at6_thit-nuong-ong-tre",
+    "province_slug": "dak-lak",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Thịt Nướng Ống Tre Ê Đê",
+    "title_en": "Ê Đê Bamboo-Tube Grilled Pork",
+    "content_vi": [
+      {
+        "item": "Hương thịt và gia vị được ống tre giữ lại, thấm ngược vào từng thớ thịt",
+        "description": "Thịt heo thái mỏng, ướp gừng và riềng rồi nhét vào ống tre, một đầu bít lá chuối tươi. Khi nướng trên bếp than, hương thịt không thoát ra ngoài mà thấm ngược vào từng thớ. Ống tre còn nóng hổi được mang thẳng lên bàn, rút nút lá chuối, mùi thơm ùa ra như mở một gói quà từ rừng núi."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Pork sealed in bamboo so its own smoke re-infuses every fibre",
+        "description": "Thin-sliced pork seasoned with ginger and galangal is packed into a bamboo tube stoppered with a fresh banana leaf. As it grills over charcoal, the sealed chamber traps all aromatics and forces them back into the meat. The tube arrives at the table still sizzling, and pulling the leaf stopper releases a rush of fragrance like unwrapping a gift from the forest."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.vietnamplus.vn/thit-bo-nuong-ong-tre-mon-an-duoc-ua-thich-trong-thuc-don-tiec-tung-post841093.vnp",
+        "title": "Thịt bò nướng ống tre - món ăn được ưa thích trong thực đơn tiệc tùng",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-06-25"
+      },
+      {
+        "url": "https://tuoitre.vn/thit-nuong-ong-tre-ngay-tet-423192.htm",
+        "title": "Thịt nướng ống tre ngày tết",
+        "publisher": "Tuổi Trẻ",
+        "accessed_date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "content_hash": "dak-lak_at7_canh-chua-kien-vang",
+    "province_slug": "dak-lak",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Canh Chua Kiến Vàng Ê Đê",
+    "title_en": "Ê Đê Golden Ant Sour Soup",
+    "content_vi": [
+      {
+        "item": "Kiến vàng rừng mang vị chua tự nhiên thay cho me hay chanh",
+        "description": "Người Ê Đê không dùng me hay giấm để tạo vị chua — họ dùng kiến vàng. Canh chua kiến vàng nấu cùng tôm, cua suối, cá nhỏ và hoa djam tang bên dòng Sêrêpôk, vị chua thanh của axit formic tự nhiên trong kiến kết hợp với béo ngậy của trứng kiến tạo nên thứ nước dùng không thể tìm thấy ở bất kỳ nơi nào khác."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Wild ants replace vinegar — their formic acid is the souring agent",
+        "description": "Ê Đê cooks don't use tamarind or lime to sour a broth — they use golden ants. This iconic soup combines the ants with river shrimp, crab, small fish, and djam tang blossoms from the Sêrêpôk riverbank; the ants' natural formic acid creates the tartness while their eggs add a rich, fatty depth found nowhere else on earth."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://dantri.com.vn/du-lich/nguoi-e-de-dai-khach-den-nha-bang-mon-kien-vang-tru-danh-20200125140222550.htm",
+        "title": "Người Ê Đê đãi khách đến nhà bằng món kiến vàng trứ danh",
+        "publisher": "Dân Trí",
+        "accessed_date": "2026-06-25"
+      },
+      {
+        "url": "https://dantri.com.vn/du-lich/canh-thut-goi-ca-kien-vang-nhung-mon-an-co-ten-la-lung-nhung-ngon-tru-danh-20191104110936142.htm",
+        "title": "Canh thụt, gỏi cá kiến vàng – những món ăn có tên lạ lùng nhưng ngon trứ danh",
+        "publisher": "Dân Trí",
+        "accessed_date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "content_hash": "dak-lak_at8_nem-nuong-bmt",
+    "province_slug": "dak-lak",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Nem Nướng Buôn Ma Thuột",
+    "title_en": "Buôn Ma Thuột Grilled Pork Rolls",
+    "content_vi": [
+      {
+        "item": "Nem quấn sả nướng than, cuốn bánh tráng cùng xoài chua và chả ram",
+        "description": "Nem nướng Buôn Ma Thuột có nét riêng — thịt xay quấn quanh cành sả rồi nướng than, ăn cuốn bánh tráng cùng chả ram giòn rụm, bún tươi, xoài chua xanh, dưa leo và rau sống. Nước chấm sệt mặn-ngọt có vị bùi của đậu phộng giã là thứ níu chân thực khách lâu nhất."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Lemongrass-skewered grilled pork rolled with sour green mango",
+        "description": "Buôn Ma Thuột's grilled pork rolls have their own character — minced pork wound around lemongrass stalks and charcoal-grilled, then self-wrapped in rice paper with crispy spring rolls, fresh vermicelli, sour green mango, cucumber, and herbs. The thick, slightly sweet peanut dipping sauce is what keeps diners lingering longest."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vnexpress.net/nhung-mon-nen-thu-o-buon-ma-thuot-4247663.html",
+        "title": "Những món nên thử ở Buôn Ma Thuột",
+        "publisher": "VnExpress",
+        "accessed_date": "2026-06-25"
+      },
+      {
+        "url": "https://vnexpress.net/dia-chi-an-choi-bo-tui-khi-den-buon-ma-thuot-2882855.html",
+        "title": "Địa chỉ ăn chơi bỏ túi khi đến Buôn Ma Thuột",
+        "publisher": "VnExpress",
+        "accessed_date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "content_hash": "dak-lak_at9_bo-nhung-me",
+    "province_slug": "dak-lak",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Bò Nhúng Me Buôn Ma Thuột",
+    "title_en": "Tamarind Beef Hot-Dip",
+    "content_vi": [
+      {
+        "item": "Thịt bò mỏng nhúng me chua ngọt, ăn cuốn bánh tráng giữa tiết trời cao nguyên",
+        "description": "Bò nhúng me là món lý tưởng cho những tối se lạnh ở Buôn Ma Thuột — thịt bò thái mỏng nhúng vào nồi me chua ngọt sôi sùng sục cùng hành tây và bơ, rồi cuốn bánh tráng với rau sống và bún tươi. Giá khoảng 150.000 đồng một phần, thường thưởng thức trên phố Lê Thánh Tông sau 6 giờ tối."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Thin beef swiped through bubbling tamarind broth and rolled in rice paper",
+        "description": "Bò nhúng me is the perfect dish for Buôn Ma Thuột's cool highland evenings — paper-thin beef swished through a bubbling sweet-sour tamarind pot with caramelised onions and butter, then rolled up in rice paper with fresh herbs and vermicelli. At around 150,000 VND per serving on Lê Thánh Tông street, it's an affordable ritual for locals and visitors alike."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vnexpress.net/nhung-mon-nen-thu-o-buon-ma-thuot-4247663.html",
+        "title": "Những món nên thử ở Buôn Ma Thuột",
+        "publisher": "VnExpress",
+        "accessed_date": "2026-06-25"
+      },
+      {
+        "url": "https://vnexpress.net/6-mon-nen-thuong-thuc-o-buon-ma-thuot-dip-2-9-4781762.html",
+        "title": "6 món nên thưởng thức ở Buôn Ma Thuột dịp 2/9",
+        "publisher": "VnExpress",
+        "accessed_date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "content_hash": "dak-lak_at10_ca-phe-ban-me",
+    "province_slug": "dak-lak",
+    "type": "am-thuc",
+    "status": "published",
+    "title_vi": "Cà Phê Ban Mê — Thủ Phủ Cà Phê Thế Giới",
+    "title_en": "Buôn Ma Thuột Coffee — The World's Coffee Capital",
+    "content_vi": [
+      {
+        "item": "Robusta hảo hạng trên đất đỏ bazan — di sản văn hóa phi vật thể quốc gia",
+        "description": "Đắk Lắk cung cấp hơn 40% sản lượng cà phê xuất khẩu của Việt Nam, và thương hiệu \"Cà phê Buôn Ma Thuột\" được bảo hộ địa lý tại hơn 30 quốc gia. Năm 2025, tri thức trồng và chế biến cà phê tại Đắk Lắk được công nhận là Di sản văn hóa phi vật thể quốc gia — một tách phin ở đây không chỉ là đồ uống, mà là ký ức của cả vùng đất."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Robusta on red basalt soil — Vietnam's only nationally certified coffee heritage",
+        "description": "Đắk Lắk supplies over 40% of Vietnam's coffee exports, and the \"Buôn Ma Thuột Coffee\" geographical indication is legally protected in more than 30 countries. In 2025 the knowledge of growing and processing coffee here was declared a national intangible cultural heritage — a single phin-drip glass in this city carries the weight of an entire civilisation built on red basalt soil."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://nhandan.vn/buon-ma-thuot-diem-den-am-thuc-tot-nhat-the-gioi-post970032.html",
+        "title": "Buôn Ma Thuột - điểm đến ẩm thực tốt nhất thế giới",
+        "publisher": "Nhân Dân",
+        "accessed_date": "2026-06-25"
+      },
+      {
+        "url": "https://www.vietnamplus.vn/van-hoa-caphe-dua-buon-ma-thuot-lot-top-15-diem-den-am-thuc-hang-dau-the-gioi-post1114205.vnp",
+        "title": "Văn hóa cà phê đưa Buôn Ma Thuột lọt top 15 điểm đến ẩm thực hàng đầu thế giới",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "content_hash": "dak-lak_dd1_museum",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Bảo tàng Đắk Lắk",
+    "title_en": "Dak Lak Museum",
+    "content_vi": [
+      {
+        "item": "Trung tâm thành phố · Bảo tàng lớn nhất Tây Nguyên",
+        "description": "Được xây dựng năm 1940 theo kiến trúc nhà dài Ê Đê kết hợp phong cách Pháp, bảo tàng Đắk Lắk lưu giữ hơn 30.000 hiện vật về lịch sử và văn hóa các dân tộc bản địa. Từ trống đồng, bộ cồng chiêng đến dụng cụ săn voi, đây là cổng vào không gian văn hóa Tây Nguyên."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "City center · Largest museum in the Central Highlands",
+        "description": "Built in 1940 in a style blending Ede longhouse design with French colonial architecture, Dak Lak Museum preserves over 30,000 artifacts from the region's indigenous ethnic groups. From bronze drums and gong collections to elephant-hunting tools, it is the definitive gateway to Central Highlands culture."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.daklakmuseum.vn/tin-tuc-su-kien/bai-viet/background-of-dak-lak-museum",
+        "title": "Background of Dak Lak Museum",
+        "publisher": "Bảo tàng Đắk Lắk",
+        "accessed_date": "2026-06-25"
+      },
+      {
+        "url": "https://vietnamtourism.gov.vn/en/post/8944",
+        "title": "Dak Lak Museum of Ethnology",
+        "publisher": "Vietnam Tourism",
+        "accessed_date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "content_hash": "dak-lak_dd2_holak",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Hồ Lắk",
+    "title_en": "Lak Lake",
+    "content_vi": [
+      {
+        "item": "Huyện Lắk, cách Buôn Ma Thuột 52 km · Hồ nước ngọt tự nhiên lớn thứ hai Việt Nam",
+        "description": "Hồ Lắk là vùng nước ngọt tự nhiên rộng lớn, nơi người M'Nông sinh sống hàng thế kỷ trong các buôn làng truyền thống bên hồ. Thuyền độc mộc — phương tiện đặc trưng Tây Nguyên — đưa du khách lướt qua mặt hồ phẳng lặng và ghé thăm buôn Jun với nhà sàn cổ."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Lak District, 52 km from Buon Ma Thuot · Vietnam's second-largest natural freshwater lake",
+        "description": "Lak Lake is a vast natural freshwater expanse where the M'Nong people have lived for centuries in traditional waterside villages. Dugout canoes — the iconic vessel of the Central Highlands — carry visitors across the still water to Buon Jun village, where ancient stilt houses and M'Nong culture remain vibrant."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vinpearl.com/en/lak-lake-explore-the-beauty-of-vietnams-hidden-gem",
+        "title": "Lak Lake: Explore the beauty of Vietnam's hidden gem",
+        "publisher": "Vinpearl",
+        "accessed_date": "2026-06-25"
+      },
+      {
+        "url": "https://e.vnexpress.net/news/travel/places/luck-out-at-lak-lake-pulse-of-the-central-highlands-4094653.html",
+        "title": "Luck out at Lak Lake, pulse of the Central Highlands",
+        "publisher": "VnExpress International",
+        "accessed_date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "content_hash": "dak-lak_dd3_buondon",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Buôn Đôn — Vùng đất voi",
+    "title_en": "Buon Don — Land of Elephants",
+    "content_vi": [
+      {
+        "item": "Huyện Buôn Đôn, cách thành phố 50 km · Di sản văn hóa săn voi",
+        "description": "Buôn Đôn từng là trung tâm của nghề săn và thuần dưỡng voi rừng nổi tiếng nhất Đông Nam Á. Lăng mộ \"Vua voi\" Khun Yu Nob, ngôi nhà sàn gỗ 130 năm tuổi và cây cầu treo tre dài 1 km là những điểm nhấn không thể bỏ qua nơi đây."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Buon Don District, 50 km from city · Wild elephant-taming cultural heritage",
+        "description": "Buon Don was the most celebrated center of wild elephant trapping and taming in Southeast Asia. The tomb of \"Elephant King\" Khun Yu Nob, a 130-year-old wooden stilt house in Laotian style, and a 1-kilometre bamboo suspension bridge are the defining landmarks of this remarkable ethnic village."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.vietnam.vn/en/voi-va-mien-dat-buon-don-huyen-thoai",
+        "title": "Elephants and the legendary land of Buon Don",
+        "publisher": "Vietnam.vn",
+        "accessed_date": "2026-06-25"
+      },
+      {
+        "url": "https://www.vietnam.vn/en/doc-dao-ngoi-nha-vua-voi-hon-130-nam-tuoi-o-buon-don",
+        "title": "The unique elephant king's house, over 130 years old, in Buon Don",
+        "publisher": "Vietnam.vn",
+        "accessed_date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "content_hash": "dak-lak_dd4_draynur",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Thác Dray Nur",
+    "title_en": "Dray Nur Waterfall",
+    "content_vi": [
+      {
+        "item": "Huyện Krông Ana, cách Buôn Ma Thuột 30 km · Thác lớn nhất Tây Nguyên",
+        "description": "Dray Nur — \"thác nữ\" theo truyền thuyết Ê Đê về đôi tình nhân gieo mình xuống sông Sêrêpôk — trải dài 250 mét, đổ từ độ cao 30 mét xuống vực xanh ngắt bên dưới. Sau lưng màn nước là một hang động sâu 300 m² ẩn khuất, chỉ những ai dám lội vào mới khám phá được."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Krong Ana District, 30 km from Buon Ma Thuot · Widest waterfall in the Central Highlands",
+        "description": "Dray Nur — the \"female waterfall\" of Ede legend, born when a couple leapt into the Serepok River and split it into two — stretches 250 metres wide and plunges 30 metres into a turquoise pool below. Behind the curtain of water hides a 300-square-metre cave accessible only to those willing to wade through the spray."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://authentiktravel.com/dray-nur-waterfall-central-highlands",
+        "title": "Dray Nur Waterfall, the majestic beauty of the Central Highlands",
+        "publisher": "Authentik Travel",
+        "accessed_date": "2026-06-25"
+      },
+      {
+        "url": "https://vinpearl.com/en/dray-nur-waterfall-dak-lak-things-to-do-here",
+        "title": "Dray Nur Waterfall: Location, history and things to do here",
+        "publisher": "Vinpearl",
+        "accessed_date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "content_hash": "dak-lak_dd5_yokdon",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Vườn Quốc gia Yok Đôn",
+    "title_en": "Yok Don National Park",
+    "content_vi": [
+      {
+        "item": "Huyện Buôn Đôn, 115.545 ha · Rừng khộp duy nhất Việt Nam",
+        "description": "Vườn quốc gia Yok Đôn là khu bảo tồn thiên nhiên lớn thứ hai Việt Nam, nơi duy nhất trên cả nước còn rừng khộp — loại rừng thay lá khô hạn hiếm gặp nhất Đông Nam Á. Từ tháng 12 đến tháng 2, toàn bộ tán rừng chuyển sang màu vàng rực như mùa thu châu Âu."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Buon Don District, 115,545 ha · Vietnam's only dry dipterocarp forest",
+        "description": "Yok Don National Park is Vietnam's second-largest nature reserve and home to the country's only surviving dry dipterocarp forest — a woodland type as rare in Southeast Asia as temperate forests are in the tropics. Between December and February, the entire canopy turns brilliant gold, creating a scene unlike any other in Vietnam."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.vietnam.vn/en/vuon-quoc-gia-yok-don-ngam-rung-khop-lon-nhat-viet-nam-mua-thay-la-dep-nhu-chau-au",
+        "title": "Yok Don National Park: Admire Vietnam's largest dipterocarp forest",
+        "publisher": "Vietnam.vn",
+        "accessed_date": "2026-06-25"
+      },
+      {
+        "url": "https://tour.yokdonnationalpark.vn/EN/yokdon-national-park.html",
+        "title": "About Yok Don National Park",
+        "publisher": "Yok Don National Park official",
+        "accessed_date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "content_hash": "dak-lak_dd6_caffemuseum",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Bảo tàng Thế giới Cà phê",
+    "title_en": "World Coffee Museum",
+    "content_vi": [
+      {
+        "item": "Thành phố Buôn Ma Thuột · Bảo tàng cà phê duy nhất Đông Nam Á",
+        "description": "Khai trương năm 2018 bởi tập đoàn Trung Nguyên, Bảo tàng Thế giới Cà phê là nơi duy nhất ở Đông Nam Á dành trọn cho lịch sử và văn hóa cà phê toàn cầu. Hơn 10.000 hiện vật từ khắp nơi trên thế giới — máy xay cổ, dụng cụ pha chế, bản đồ 3D — kể câu chuyện của thức uống thay đổi thế giới."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Buon Ma Thuot city · Only coffee museum in Southeast Asia",
+        "description": "Opened in 2018 by the Trung Nguyen Legend Group, the World Coffee Museum is Southeast Asia's sole institution dedicated entirely to the history and culture of coffee worldwide. Over 10,000 artifacts — antique grinders, brewing tools, 3D civilisation maps — tell the story of the drink that changed the world, set inside five Ede-longhouse-inspired buildings."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://baotangthegioicaphe.com/en-US/the-world-coffee-museum",
+        "title": "The World Coffee Museum",
+        "publisher": "World Coffee Museum official",
+        "accessed_date": "2026-06-25"
+      },
+      {
+        "url": "https://vinpearl.com/en/the-world-coffee-museum-a-famous-attraction-in-dak-lak",
+        "title": "The World Coffee Museum: A famous attraction in Dak Lak",
+        "publisher": "Vinpearl",
+        "accessed_date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "content_hash": "dak-lak_dd7_akodhong",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Buôn Ako Dhong",
+    "title_en": "Ako Dhong Village",
+    "content_vi": [
+      {
+        "item": "Phường Tân Lợi, trung tâm thành phố · Buôn Ê Đê nguyên vẹn nhất nội thành",
+        "description": "Giữa lòng Buôn Ma Thuột, buôn Ako Dhong vẫn giữ nguyên nhịp sống truyền thống Ê Đê: nhà dài nằm dưới bóng cà phê, tiếng khung cửi dệt thổ cẩm, và rượu cần uống dưới ánh lửa tối tối. \"Ako\" nghĩa là \"đầu nguồn\", \"Dhong\" là \"thung lũng\" — buôn khai sinh năm 1956."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Tan Loi Ward, city center · Most intact Ede village within Buon Ma Thuot",
+        "description": "In the heart of Buon Ma Thuot, Ako Dhong village preserves authentic Ede daily life: longhouses shaded by coffee gardens, handlooms weaving brocade, and communal jars of rice wine shared by firelight each evening. \"Ako\" means \"source\" and \"Dhong\" means \"valley\" in Ede — the village was cleared and settled in 1956."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://e.vnexpress.net/news/travel-guide/dak-lak-the-heart-of-the-central-highlands-4567672.html",
+        "title": "Dak Lak travel guide: when to visit, how to get there, what to explore",
+        "publisher": "VnExpress International",
+        "accessed_date": "2026-06-25"
+      },
+      {
+        "url": "https://izitour.com/en/blog/things-to-do-in-buon-ma-thuot",
+        "title": "Best Things to Do in Buon Ma Thuot, Vietnam 2026",
+        "publisher": "Izitour",
+        "accessed_date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "content_hash": "dak-lak_dd8_yangprong",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Tháp Yang Prong",
+    "title_en": "Yang Prong Cham Tower",
+    "content_vi": [
+      {
+        "item": "Xã Ea Rốc, huyện Ea Súp · Tháp Chăm duy nhất ở Tây Nguyên",
+        "description": "Được vua Chăm Jaya Sinhavarman III (Chế Mân) xây dựng vào cuối thế kỷ XIII, tháp Yang Prong đứng một mình giữa rừng đại ngàn Đắk Lắk như minh chứng cho sự hiện diện của vương quốc Champa trên cao nguyên. \"Yang Prong\" nghĩa là \"thần linh vĩ đại\" trong ngôn ngữ Ê Đê, Gia Rai và M'Nông."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Ea Roc Commune, Ea Sup District · Only Cham tower in the Central Highlands",
+        "description": "Built by Cham King Jaya Sinhavarman III (Che Man) in the late 13th century, Yang Prong Tower stands alone amid Dak Lak's ancient forest as testimony to the Champa kingdom's reach into the highlands. \"Yang Prong\" means \"great spirit\" in the Ede, Jarai, and M'Nong languages — the only Cham monument remaining in the Central Highlands."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://izitour.com/en/blog/dak-lak-travel-guide",
+        "title": "A Comprehensive Dak Lak Travel Guide",
+        "publisher": "Izitour",
+        "accessed_date": "2026-06-25"
+      },
+      {
+        "url": "https://vietnamtourism.gov.vn/en/post/14802",
+        "title": "Buon Ma Thuot — an urban center of the Central Highlands",
+        "publisher": "Vietnam Tourism",
+        "accessed_date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "content_hash": "dak-lak_dd9_nhaday",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Nhà đày Buôn Ma Thuột",
+    "title_en": "Buon Ma Thuot Prison",
+    "content_vi": [
+      {
+        "item": "Đường Tân Thuật, trung tâm thành phố · Di tích quốc gia đặc biệt 2019",
+        "description": "Được thực dân Pháp xây dựng năm 1930–1931 để giam cầm những người cộng sản từ Trung Kỳ, nhà đày Buôn Ma Thuột là nơi nhiều chiến sĩ cách mạng biến xà lim thành trường học bí mật. Di tích nằm trên khu đất rộng 2 ha, bao gồm 6 nhà giam và khu biệt giam chứa đựng lịch sử đấu tranh bi tráng nhất Đắk Lắk."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Tan Thuat Street, city center · Special National Historic Site 2019",
+        "description": "Built by French colonists in 1930–1931 to detain communist leaders exiled from Central Vietnam, Buon Ma Thuot Prison became a site where revolutionary fighters secretly transformed their cells into schools. The 2-hectare complex includes six cellblocks and solitary confinement chambers that chronicle the most dramatic resistance story of Dak Lak."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.originvietnam.com/destinations/buon-ma-thuot-prison/",
+        "title": "The Best Buon Ma Thuot Prison Travel Guide",
+        "publisher": "Origin Vietnam",
+        "accessed_date": "2026-06-25"
+      },
+      {
+        "url": "https://en.vietnamplus.vn/buon-ma-thuot-prison-recognised-as-special-national-relic-site-post145614.vnp",
+        "title": "Buon Ma Thuot prison recognised as special national relic site",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "content_hash": "dak-lak_dd10_baodalilak",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Dinh Bảo Đại tại Hồ Lắk",
+    "title_en": "Bao Dai's Palace at Lak Lake",
+    "content_vi": [
+      {
+        "item": "Thị trấn Liên Sơn, huyện Lắk · Biệt thự săn bắn của vua Nguyễn cuối cùng",
+        "description": "Tọa lạc trên đồi cao nhìn xuống mặt hồ Lắk xanh thẳm, dinh thự Bảo Đại được xây dựng trong thời Pháp thuộc như nơi nghỉ dưỡng và săn bắn của vua Bảo Đại — vị vua cuối cùng của triều Nguyễn. Từ đây, bình minh trên hồ và rừng M'Nông hiện ra như một bức tranh không thể nào quên."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Lien Son town, Lak District · Hunting villa of Vietnam's last Nguyen emperor",
+        "description": "Perched on a hilltop overlooking the emerald expanse of Lak Lake, Bao Dai's Palace was built during French colonial rule as a hunting retreat and rest house for Bao Dai — the last emperor of the Nguyen dynasty. From its terrace, dawn light on the lake and the surrounding M'Nong forest compose one of the most memorable views in the Central Highlands."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vietreader.com/travel/52160-bao-dai-palace-on-lak-lake.html",
+        "title": "Bao Dai Palace on Lak Lake",
+        "publisher": "Vietreader",
+        "accessed_date": "2026-06-25"
+      },
+      {
+        "url": "https://vinpearl.com/en/lak-lake-explore-the-beauty-of-vietnams-hidden-gem",
+        "title": "Lak Lake: Explore the beauty of Vietnam's hidden gem",
+        "publisher": "Vinpearl",
+        "accessed_date": "2026-06-25"
+      }
+    ]
+  }
+]

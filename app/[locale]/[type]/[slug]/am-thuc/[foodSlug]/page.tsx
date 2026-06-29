@@ -10,7 +10,6 @@ import {
   getAllProvinces,
 } from '@/lib/queries';
 import FoodDetail from '@/components/FoodDetail';
-import AdSlot from '@/components/AdSlot';
 
 export async function generateStaticParams() {
   const provinces = await getAllProvinces();
@@ -149,11 +148,6 @@ export default async function FoodItemPage({ params }: Props) {
           </div>
         </header>
 
-        {/* Ad — top */}
-        <div className="max-w-7xl mx-auto w-full px-4 mt-3">
-          <AdSlot id={`${food.slug}-banner-top`} size="leaderboard" />
-        </div>
-
         {/* Food detail content */}
         <main className="flex-1">
           <FoodDetail
@@ -167,11 +161,6 @@ export default async function FoodItemPage({ params }: Props) {
             provinceTypeSlug={provinceTypeSlug}
           />
         </main>
-
-        {/* Ad — bottom */}
-        <div className="max-w-7xl mx-auto w-full px-4 mb-3">
-          <AdSlot id={`${food.slug}-banner-bottom`} size="leaderboard" />
-        </div>
 
         {/* Footer */}
         <footer style={{ background: '#3D1A1F' }} className="text-white/60 mt-8">

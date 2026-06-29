@@ -1,0 +1,47 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "Cháo Ấu Tẩu Hà Giang",
+    "url": "https://media.mia.vn/uploads/blog-du-lich/chao-au-tau-ha-giang-mon-dac-san-doc-dao-cua-dan-toc-mong-04-1642338681.jpg",
+    "domain": "media.mia.vn",
+    "downloaded_at": "2026-06-28T13:27:43.120Z",
+    "ok": true,
+    "size_kb": 313
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "Cháo Ấu Tẩu Hà Giang",
+    "url": "https://mia.vn/media/uploads/blog-du-lich/chao-au-tau-ha-giang-mon-dac-san-doc-dao-cua-dan-toc-mong-1645714427.jpg",
+    "domain": "mia.vn",
+    "downloaded_at": "2026-06-28T13:27:44.422Z",
+    "ok": true,
+    "size_kb": 231
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "Cháo Ấu Tẩu Hà Giang",
+    "url": "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/02_2021/chao-au-tau-ha-giang.jpg",
+    "domain": "luhanhvietnam.com.vn",
+    "downloaded_at": "2026-06-28T13:27:45.589Z",
+    "ok": true,
+    "size_kb": 90
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "Cháo Ấu Tẩu Hà Giang",
+    "url": "https://thuexegianggia.com/wp-content/uploads/2023/08/Chao-au-tau-mon-an-doc-la-Ha-Giang.jpg",
+    "domain": "thuexegianggia.com",
+    "downloaded_at": "2026-06-28T13:32:08.344Z",
+    "ok": true,
+    "size_kb": 132
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "Cháo Ấu Tẩu Hà Giang",
+    "url": "https://tripmap.vn/wp-content/uploads/2023/12/chao-au-tau-dac-san-ha-giang-doc-dao-cua-dan-toc-mong_40.jpg",
+    "domain": "tripmap.vn",
+    "downloaded_at": "2026-06-28T13:27:48.328Z",
+    "ok": true,
+    "size_kb": 939
+  }
+]

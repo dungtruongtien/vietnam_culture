@@ -1,0 +1,44 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "Cà Đắng Tây Nguyên",
+    "url": "https://vietsensetravel.com/view/at_ca-dang_f240f14454394d1325eba28fde4a7d73.jpg",
+    "domain": "vietsensetravel.com",
+    "downloaded_at": "2026-06-28T12:38:31.422Z",
+    "ok": true
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "Cà Đắng Tây Nguyên",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Wild_Eggplant_Solanum_torvum_%2816240444987%29.jpg",
+    "domain": "upload.wikimedia.org",
+    "downloaded_at": "2026-06-28T12:38:35.125Z",
+    "ok": true
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "Cà Đắng Tây Nguyên",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Solanum_torvum_2.jpg",
+    "domain": "upload.wikimedia.org",
+    "downloaded_at": "2026-06-28T12:38:38.868Z",
+    "ok": true
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "Cà Đắng Tây Nguyên",
+    "url": "https://icdn.dantri.com.vn/2021/02/15/7-1613383960964.jpg",
+    "domain": "icdn.dantri.com.vn",
+    "downloaded_at": "2026-06-28T14:31:08.300Z",
+    "ok": true,
+    "size_kb": 369
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "Cà Đắng Tây Nguyên",
+    "url": "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/12_2020/Canh-chua-kien-vang-danviet.jpg",
+    "domain": "luhanhvietnam.com.vn",
+    "downloaded_at": "2026-06-28T12:47:13.548Z",
+    "ok": true,
+    "size_kb": 97
+  }
+]

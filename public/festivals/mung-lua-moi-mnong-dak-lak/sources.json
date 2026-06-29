@@ -1,0 +1,56 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "mung-lua-moi-mnong-dak-lak",
+    "url": "https://media.mia.vn/uploads/blog-du-lich/tim-hieu-le-hoi-dam-trau-mung-lua-moi-tai-binh-phuoc-5-1657005747.jpg",
+    "domain": "media.mia.vn",
+    "downloaded_at": "2026-06-28T14:18:48.416Z",
+    "ok": true,
+    "size_kb": 137
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "mung-lua-moi-mnong-dak-lak",
+    "url": "https://mia.vn/media/uploads/blog-du-lich/kham-pha-le-hoi-mung-lua-moi-cua-dong-bao-s-tieng-1657025962.jpg",
+    "domain": "mia.vn",
+    "downloaded_at": "2026-06-28T14:18:49.618Z",
+    "ok": true,
+    "size_kb": 100
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "mung-lua-moi-mnong-dak-lak",
+    "url": "https://images.vietnamtourism.gov.vn/vn/images/2022/thang_10/3010.cung_lua_moi_-_dak_lak_2.jpg",
+    "domain": "images.vietnamtourism.gov.vn",
+    "downloaded_at": "2026-06-28T14:18:50.689Z",
+    "ok": true,
+    "size_kb": 604
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "mung-lua-moi-mnong-dak-lak",
+    "url": "https://dantoc.vietnamtourism.gov.vn/wp-content/uploads/2024/11/29.11.-Gia-Lai-Phuc-dung-Le-mung-lua-moi-cua-dong-bao-Jrai-1.jpg",
+    "domain": "dantoc.vietnamtourism.gov.vn",
+    "downloaded_at": "2026-06-28T14:18:51.770Z",
+    "ok": true,
+    "size_kb": 274
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "mung-lua-moi-mnong-dak-lak",
+    "url": "https://dantoc.vietnamtourism.gov.vn/wp-content/uploads/2024/11/29.11.-Gia-Lai-Phuc-dung-Le-mung-lua-moi-cua-dong-bao-Jrai-1.jpg",
+    "domain": "dantoc.vietnamtourism.gov.vn",
+    "downloaded_at": "2026-06-28T14:31:33.084Z",
+    "ok": true,
+    "size_kb": 274
+  },
+  {
+    "file": "gallery-5.jpg",
+    "label": "mung-lua-moi-mnong-dak-lak",
+    "url": "https://media.baovanhoa.vn/uploaded/ngothithuytrang/2025_12_18/mung_lua_moi_2_fykv.jpg",
+    "domain": "media.baovanhoa.vn",
+    "downloaded_at": "2026-06-28T14:18:54.747Z",
+    "ok": true,
+    "size_kb": 815
+  }
+]

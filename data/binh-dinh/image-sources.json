@@ -1,0 +1,132 @@
+[
+  {
+    "slug": "thap-doi",
+    "type": "place",
+    "label": "thap-doi",
+    "hero": "https://mia.vn/media/uploads/blog-du-lich/thap-doi-quy-nhon-1-1742020819.jpg",
+    "gallery": [
+      "https://mia.vn/media/uploads/blog-du-lich/thap-doi-quy-nhon-2-1742020822.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/thap-doi-quy-nhon-3-1742020824.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/thap-doi-quy-nhon-4-1742020827.jpg",
+      "https://quynhonreview.vn/wp-content/uploads/2023/10/thap-doi-quy-nhon.1-min-1.jpg",
+      "https://quynhonreview.vn/wp-content/uploads/2023/10/thap-doi-quy-nhon.3-min.jpg"
+    ]
+  },
+  {
+    "slug": "thap-duong-long",
+    "type": "place",
+    "label": "thap-duong-long",
+    "hero": "https://mia.vn/media/uploads/blog-du-lich/thap-duong-long-01-1699180793.jpeg",
+    "gallery": [
+      "https://mia.vn/media/uploads/blog-du-lich/thap-duong-long-02-1699180793.jpeg",
+      "https://mia.vn/media/uploads/blog-du-lich/thap-duong-long-03-1699180793.jpeg",
+      "https://mia.vn/media/uploads/blog-du-lich/thap-duong-long-04-1699180793.jpeg",
+      "https://mia.vn/media/uploads/blog-du-lich/thap-duong-long-05-1699180793.jpeg",
+      "https://mia.vn/media/uploads/blog-du-lich/thap-duong-long-06-1699180793.jpeg"
+    ]
+  },
+  {
+    "slug": "thanh-do-ban",
+    "type": "place",
+    "label": "thanh-do-ban",
+    "hero": "https://mia.vn/media/uploads/blog-du-lich/thanh-do-ban-1755649067.jpg",
+    "gallery": [
+      "https://mia.vn/media/uploads/blog-du-lich/thanh-do-ban-con-lai-1755649067.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/thanh-do-ban-kien-truc-co-1755649067.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/thanh-do-ban-co-vat-1755649067.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/thanh-do-ban-co-xua-1755649067.jpg",
+      "https://quynhonreview.vn/wp-content/uploads/2024/06/thanh-do-ban-1717492969.jpg"
+    ]
+  },
+  {
+    "slug": "bao-tang-quang-trung",
+    "type": "place",
+    "label": "bao-tang-quang-trung",
+    "hero": "https://mia.vn/media/uploads/blog-du-lich/bao-tang-quang-trung-quy-nhon-1703524160.jpg",
+    "gallery": [
+      "https://mia.vn/media/uploads/blog-du-lich/bao-tang-quang-trung-1703524011.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/bao-tang-quang-trung-tuong-1703524257.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/bao-tang-quang-trung-tham-quan-1703524888.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/bao-tang-quang-trung-phong-trung-bay-1703524011.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/bao-tang-quang-trung-nhac-vo-tay-son-1703524011.jpg"
+    ]
+  },
+  {
+    "slug": "ghenh-rang-tien-sa",
+    "type": "place",
+    "label": "ghenh-rang-tien-sa",
+    "hero": "https://quynhonreview.vn/wp-content/uploads/2024/06/ghenh-rang-tien-sa-1.jpg",
+    "gallery": [
+      "https://quynhonreview.vn/wp-content/uploads/2024/06/ghenh-rang-tien-sa-2.jpg",
+      "https://quynhonreview.vn/wp-content/uploads/2024/06/ghenh-rang-tien-sa-3.jpg",
+      "https://quynhonreview.vn/wp-content/uploads/2024/06/ghenh-rang-tien-sa-4.jpg",
+      "https://quynhonreview.vn/wp-content/uploads/2024/06/ghenh-rang-tien-sa-5.jpg",
+      "https://quynhonreview.vn/wp-content/uploads/2024/06/ghenh-rang-tien-sa-6.jpg"
+    ]
+  },
+  {
+    "slug": "bai-ky-co",
+    "type": "place",
+    "label": "bai-ky-co",
+    "hero": "https://vietadvisor.travel/wp-content/uploads/2025/10/Ky-Co-Beach-1.jpg",
+    "gallery": [
+      "https://vietadvisor.travel/wp-content/uploads/2025/10/Ky-Co-Beach-2.jpg",
+      "https://vietadvisor.travel/wp-content/uploads/2025/10/Ky-Co-Beach-3.jpg",
+      "https://vietadvisor.travel/wp-content/uploads/2025/10/Ky-Co-Beach-4.jpg",
+      "https://vietadvisor.travel/wp-content/uploads/2025/10/Ky-Co-Beach-5.jpg",
+      "https://vietadvisor.travel/wp-content/uploads/2025/10/Ky-Co-Beach-6.jpg"
+    ]
+  },
+  {
+    "slug": "eo-gio",
+    "type": "place",
+    "label": "eo-gio",
+    "hero": "https://vietadvisor.travel/wp-content/uploads/2025/10/Eo-Gio-Cape.jpg",
+    "gallery": [
+      "https://vietadvisor.travel/wp-content/uploads/2025/10/Eo-Gio-Cape-2.jpg",
+      "https://vietadvisor.travel/wp-content/uploads/2025/10/Eo-Gio-Cape-3.jpg",
+      "https://vietadvisor.travel/wp-content/uploads/2025/10/Eo-Gio-Cape-4.jpg",
+      "https://vietadvisor.travel/wp-content/uploads/2025/10/Khu-Du-Lich-Ky-Co.jpg",
+      "https://vietadvisor.travel/wp-content/uploads/2025/10/Phuong-Mai-Peninsula.jpg"
+    ]
+  },
+  {
+    "slug": "dao-cu-lao-xanh",
+    "type": "place",
+    "label": "dao-cu-lao-xanh",
+    "hero": "https://quynhonreview.vn/wp-content/uploads/2023/10/cu-lao-xanh-hon-ngoc-bien-quy-gia-cua-quy-nhon-1-1.jpg",
+    "gallery": [
+      "https://quynhonreview.vn/wp-content/uploads/2023/10/cu-lao-xanh-hon-ngoc-bien-quy-gia-cua-quy-nhon-2.jpg",
+      "https://quynhonreview.vn/wp-content/uploads/2023/10/cu-lao-xanh-hon-ngoc-bien-quy-gia-cua-quy-nhon-3.jpg",
+      "https://quynhonreview.vn/wp-content/uploads/2023/10/cu-lao-xanh-hon-ngoc-bien-quy-gia-cua-quy-nhon-4.jpg",
+      "https://quynhonreview.vn/wp-content/uploads/2023/10/cu-lao-xanh-hon-ngoc-bien-quy-gia-cua-quy-nhon-5-1.jpg",
+      "https://quynhonreview.vn/wp-content/uploads/2023/10/cu-lao-xanh-hon-ngoc-bien-quy-gia-cua-quy-nhon-6-1.jpg"
+    ]
+  },
+  {
+    "slug": "thap-banh-it",
+    "type": "place",
+    "label": "thap-banh-it",
+    "hero": "https://mia.vn/media/uploads/blog-du-lich/thap-banh-it-net-dep-in-dam-dau-an-champa-co-giua-long-binh-dinh-1-1679648753.jpg",
+    "gallery": [
+      "https://mia.vn/media/uploads/blog-du-lich/thap-banh-it-net-dep-in-dam-dau-an-champa-co-giua-long-binh-dinh-2-1679648753.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/thap-banh-it-net-dep-in-dam-dau-an-champa-co-giua-long-binh-dinh-3-1679648753.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/thap-banh-it-net-dep-in-dam-dau-an-champa-co-giua-long-binh-dinh-4-1679648753.jpg",
+      "https://quynhonreview.vn/wp-content/uploads/2023/10/thap-banh-it-1.jpg",
+      "https://quynhonreview.vn/wp-content/uploads/2023/10/thap-banh-it-2.jpg"
+    ]
+  },
+  {
+    "slug": "ham-ho",
+    "type": "place",
+    "label": "ham-ho",
+    "hero": "https://mia.vn/media/uploads/blog-du-lich/kham-pha-khu-du-lich-sinh-thai-ham-ho-hang-dong-xanh-giua-dat-troi-binh-dinh-1-1679284056.jpg",
+    "gallery": [
+      "https://mia.vn/media/uploads/blog-du-lich/kham-pha-khu-du-lich-sinh-thai-ham-ho-hang-dong-xanh-giua-dat-troi-binh-dinh-2-1679281999.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/kham-pha-khu-du-lich-sinh-thai-ham-ho-hang-dong-xanh-giua-dat-troi-binh-dinh-3-1679281999.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/kham-pha-khu-du-lich-sinh-thai-ham-ho-hang-dong-xanh-giua-dat-troi-binh-dinh-4-1679281999.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/kham-pha-khu-du-lich-sinh-thai-ham-ho-hang-dong-xanh-giua-dat-troi-binh-dinh-6-1679281999.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/kham-pha-khu-du-lich-sinh-thai-ham-ho-hang-dong-xanh-giua-dat-troi-binh-dinh-7-1679281999.jpg"
+    ]
+  }
+]

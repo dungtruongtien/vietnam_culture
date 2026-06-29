@@ -1,0 +1,47 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "Lẩu Cá Lăng Sông Sêrêpôk",
+    "url": "https://mia.vn/media/uploads/blog-du-lich/thuong-thuc-ngay-mon-lau-ca-lang-buon-ma-thuot-ngon-nuc-tieng-01-1651584444.jpeg",
+    "domain": "mia.vn",
+    "downloaded_at": "2026-06-28T12:46:56.368Z",
+    "ok": true,
+    "size_kb": 376
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "Lẩu Cá Lăng Sông Sêrêpôk",
+    "url": "https://mia.vn/media/uploads/blog-du-lich/thuong-thuc-ngay-mon-lau-ca-lang-buon-ma-thuot-ngon-nuc-tieng-02-1651584446.jpg",
+    "domain": "mia.vn",
+    "downloaded_at": "2026-06-28T12:46:57.458Z",
+    "ok": true,
+    "size_kb": 124
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "Lẩu Cá Lăng Sông Sêrêpôk",
+    "url": "https://mia.vn/media/uploads/blog-du-lich/thuong-thuc-ngay-mon-lau-ca-lang-buon-ma-thuot-ngon-nuc-tieng-03-1651584449.jpg",
+    "domain": "mia.vn",
+    "downloaded_at": "2026-06-28T12:46:58.641Z",
+    "ok": true,
+    "size_kb": 423
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "Lẩu Cá Lăng Sông Sêrêpôk",
+    "url": "https://mia.vn/media/uploads/blog-du-lich/thuong-thuc-ngay-mon-lau-ca-lang-buon-ma-thuot-ngon-nuc-tieng-04-1651584452.jpg",
+    "domain": "mia.vn",
+    "downloaded_at": "2026-06-28T12:46:59.754Z",
+    "ok": true,
+    "size_kb": 159
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "Lẩu Cá Lăng Sông Sêrêpôk",
+    "url": "https://mia.vn/media/uploads/blog-du-lich/thuong-thuc-ngay-mon-lau-ca-lang-buon-ma-thuot-ngon-nuc-tieng-05-1651584454.jpg",
+    "domain": "mia.vn",
+    "downloaded_at": "2026-06-28T12:47:00.864Z",
+    "ok": true,
+    "size_kb": 114
+  }
+]

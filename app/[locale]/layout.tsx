@@ -5,6 +5,7 @@ import { routing } from '@/i18n/routing';
 import { Be_Vietnam_Pro, Cormorant_Garamond } from 'next/font/google';
 import type { Metadata } from 'next';
 import Script from 'next/script';
+import SideAds from '@/components/SideAds';
 
 const beVietnamPro = Be_Vietnam_Pro({
   subsets: ['vietnamese', 'latin'],
@@ -67,6 +68,7 @@ export default async function LocaleLayout({ children, params }: Props) {
       <body>
         <NextIntlClientProvider messages={messages}>
           {children}
+          <SideAds />
         </NextIntlClientProvider>
         {process.env.NEXT_PUBLIC_GA_ID && (
           <>

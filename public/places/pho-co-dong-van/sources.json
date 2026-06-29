@@ -1,0 +1,56 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "pho-co-dong-van",
+    "url": "https://hagiangamazingtours.com/wp-content/uploads/2023/09/dong-van-old-quarter.jpg",
+    "domain": "hagiangamazingtours.com",
+    "downloaded_at": "2026-06-28T12:48:15.189Z",
+    "ok": true,
+    "size_kb": 118
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "pho-co-dong-van",
+    "url": "https://hagiangamazingtours.com/wp-content/uploads/2023/06/dong-van-old-quarter-1.jpg",
+    "domain": "hagiangamazingtours.com",
+    "downloaded_at": "2026-06-28T12:48:16.226Z",
+    "ok": true,
+    "size_kb": 87
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "pho-co-dong-van",
+    "url": "https://hagiangamazingtours.com/wp-content/uploads/2023/06/dong-van-old-quarter-4.jpg",
+    "domain": "hagiangamazingtours.com",
+    "downloaded_at": "2026-06-28T12:48:17.267Z",
+    "ok": true,
+    "size_kb": 150
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "pho-co-dong-van",
+    "url": "https://hagiangamazingtours.com/wp-content/uploads/2023/06/dong-van-old-quarter-5.jpg",
+    "domain": "hagiangamazingtours.com",
+    "downloaded_at": "2026-06-28T12:48:18.313Z",
+    "ok": true,
+    "size_kb": 113
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "pho-co-dong-van",
+    "url": "https://vietadvisor.travel/wp-content/uploads/2026/03/Dong-Van-Old-Quarter.webp",
+    "domain": "vietadvisor.travel",
+    "downloaded_at": "2026-06-28T12:48:19.654Z",
+    "ok": true,
+    "size_kb": 311
+  },
+  {
+    "file": "gallery-5.jpg",
+    "label": "pho-co-dong-van",
+    "url": "https://vietadvisor.travel/wp-content/uploads/2025/06/Dong-Van-Ancient-Street.webp",
+    "domain": "vietadvisor.travel",
+    "downloaded_at": "2026-06-28T12:48:20.915Z",
+    "ok": true,
+    "size_kb": 189
+  }
+]

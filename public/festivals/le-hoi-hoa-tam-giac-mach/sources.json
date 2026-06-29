@@ -1,0 +1,56 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "le-hoi-hoa-tam-giac-mach",
+    "url": "https://media.mia.vn/uploads/blog-du-lich/le-hoi-hoa-tam-giac-mach-ha-giang-chim-dam-sac-hoa-tam-giac-mach-02-1642638324.jpg",
+    "domain": "media.mia.vn",
+    "downloaded_at": "2026-06-28T14:13:57.811Z",
+    "ok": true,
+    "size_kb": 336
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "le-hoi-hoa-tam-giac-mach",
+    "url": "https://mia.vn/media/uploads/blog-du-lich/le-hoi-hoa-tam-giac-mach-ha-giang-chim-dam-sac-hoa-tam-giac-mach-03-1642638327.jpg",
+    "domain": "mia.vn",
+    "downloaded_at": "2026-06-28T14:13:59.009Z",
+    "ok": true,
+    "size_kb": 156
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "le-hoi-hoa-tam-giac-mach",
+    "url": "http://dulichvietnam.com.vn/vnt_upload/news/11_2025/le_hoi_hoa_tam_giac_mach_ha_giang_3.jpg",
+    "domain": "dulichvietnam.com.vn",
+    "downloaded_at": "2026-06-28T14:14:00.065Z",
+    "ok": true,
+    "size_kb": 97
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "le-hoi-hoa-tam-giac-mach",
+    "url": "https://media.vietravel.com/images/Content/le-hoi-hoa-tam-giac-mach-Ha-Giang-1282.png",
+    "domain": "media.vietravel.com",
+    "downloaded_at": "2026-06-28T14:14:01.815Z",
+    "ok": true,
+    "size_kb": 2063
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "le-hoi-hoa-tam-giac-mach",
+    "url": "https://wetripx.vn/wp-content/uploads/le-hoi-hoa-tam-giac-mach-ha-giang-3.jpg",
+    "domain": "wetripx.vn",
+    "downloaded_at": "2026-06-28T14:17:01.223Z",
+    "ok": true,
+    "size_kb": 177
+  },
+  {
+    "file": "gallery-5.jpg",
+    "label": "le-hoi-hoa-tam-giac-mach",
+    "url": "https://wetripx.vn/wp-content/uploads/le-hoi-hoa-tam-giac-mach-ha-giang-3.jpg",
+    "domain": "wetripx.vn",
+    "downloaded_at": "2026-06-28T14:14:05.630Z",
+    "ok": true,
+    "size_kb": 177
+  }
+]

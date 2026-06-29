@@ -1,0 +1,132 @@
+[
+  {
+    "slug": "dao-ly-son",
+    "type": "place",
+    "label": "dao-ly-son",
+    "hero": "https://mia.vn/media/uploads/blog-du-lich/dao-ly-son-01-1696462540.jpg",
+    "gallery": [
+      "https://mia.vn/media/uploads/blog-du-lich/dao-ly-son-05-1696462540.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/dao-ly-son-08-1696462548.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/canh-dong-toi-ly-son-1757383001.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/hon-mu-cu-ly-son-1757383001.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/bai-ngang-ly-son-1757383000.jpg"
+    ]
+  },
+  {
+    "slug": "khu-chung-tich-son-my",
+    "type": "place",
+    "label": "khu-chung-tich-son-my",
+    "hero": "https://hoiandaytrip.com/wp-content/uploads/2025/03/my-lai-massacre-memorial-site.jpg",
+    "gallery": [
+      "https://hoiandaytrip.com/wp-content/uploads/2026/03/my-lai-massacre-museum-1.jpg",
+      "https://hoiandaytrip.com/wp-content/uploads/2026/03/my-lai-massacre-museum-3.jpg",
+      "https://hoiandaytrip.com/wp-content/uploads/2026/03/my-lai-massacre-museum-5.jpg",
+      "https://hoiandaytrip.com/wp-content/uploads/2026/03/my-lai-massacre-museum-7.jpg",
+      "https://hoiandaytrip.com/wp-content/uploads/2026/03/my-lai-massacre-museum-9.jpg"
+    ]
+  },
+  {
+    "slug": "di-chi-sa-huynh",
+    "type": "place",
+    "label": "di-chi-sa-huynh",
+    "hero": "https://mia.vn/media/uploads/blog-du-lich/cong-vien-dia-chat-ly-son-sa-huynh-1-1778084700.jpg",
+    "gallery": [
+      "https://mia.vn/media/uploads/blog-du-lich/cong-vien-dia-chat-ly-son-sa-huynh-2-1778084703.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/cong-vien-dia-chat-ly-son-sa-huynh-3-1778084706.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/cong-vien-dia-chat-ly-son-sa-huynh-4-1778084709.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/cong-vien-dia-chat-ly-son-sa-huynh-5-1778084711.jpg",
+      "https://image.vietgoing.com/editor/image_hhf1638540825.jpg"
+    ]
+  },
+  {
+    "slug": "thien-an-niem-ha",
+    "type": "place",
+    "label": "thien-an-niem-ha",
+    "hero": "https://mia.vn/media/uploads/blog-du-lich/chua-thien-an-1-1710722596.jpeg",
+    "gallery": [
+      "https://mia.vn/media/uploads/blog-du-lich/chua-thien-an-2-1710722596.jpeg",
+      "https://mia.vn/media/uploads/blog-du-lich/chua-thien-an-3-1710722596.jpeg",
+      "https://mia.vn/media/uploads/blog-du-lich/chua-thien-an-4-1710722596.jpeg",
+      "https://mia.vn/media/uploads/blog-du-lich/chua-thien-an-5-1710722596.jpeg",
+      "https://mia.vn/media/uploads/blog-du-lich/chua-thien-an-6-1710722603.jpeg"
+    ]
+  },
+  {
+    "slug": "co-luy-co-thon",
+    "type": "place",
+    "label": "co-luy-co-thon",
+    "hero": "https://mia.vn/media/uploads/blog-du-lich/du-lich-quang-ngai-1-1692514443.jpg",
+    "gallery": [
+      "https://mia.vn/media/uploads/blog-du-lich/du-lich-quang-ngai-2-1692514446.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/du-lich-quang-ngai-3-1692514663.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/bien-my-khe-quang-ngai-01-1696657572.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/bien-my-khe-quang-ngai-02-1696657576.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/dao-ly-son-05-1696462540.jpg"
+    ]
+  },
+  {
+    "slug": "thanh-chau-sa",
+    "type": "place",
+    "label": "thanh-chau-sa",
+    "hero": "https://dulichquangngai.vn/uploads/news/2023_12/di-tich-thanh-co-chau-sa.jpg",
+    "gallery": [
+      "https://mia.vn/media/uploads/blog-du-lich/du-lich-quang-ngai-4-1692514457.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/du-lich-quang-ngai-5-1692514460.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/du-lich-quang-ngai-6-1692514463.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/dao-ly-son-01-1696462540.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/cong-vien-dia-chat-ly-son-sa-huynh-1-1778084700.jpg"
+    ]
+  },
+  {
+    "slug": "nui-thien-but",
+    "type": "place",
+    "label": "nui-thien-but",
+    "hero": "https://quangngaiaz.info.vn/wp-content/uploads/images2374870_NBUT.jpg",
+    "gallery": [
+      "https://mia.vn/media/uploads/blog-du-lich/du-lich-quang-ngai-1-1692514443.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/du-lich-quang-ngai-2-1692514446.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/chua-thien-an-1-1710722596.jpeg",
+      "https://mia.vn/media/uploads/blog-du-lich/chua-thien-an-3-1710722596.jpeg",
+      "https://mia.vn/media/uploads/blog-du-lich/du-lich-quang-ngai-5-1692514460.jpg"
+    ]
+  },
+  {
+    "slug": "bien-my-khe-quang-ngai",
+    "type": "place",
+    "label": "bien-my-khe-quang-ngai",
+    "hero": "https://mia.vn/media/uploads/blog-du-lich/bien-my-khe-quang-ngai-01-1696657572.jpg",
+    "gallery": [
+      "https://mia.vn/media/uploads/blog-du-lich/bien-my-khe-quang-ngai-02-1696657576.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/bien-my-khe-quang-ngai-03-1697951922.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/bien-my-khe-quang-ngai-05-1697951924.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/bien-my-khe-quang-ngai-08-1697951929.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/bien-my-khe-quang-ngai-09-1696658357.jpg"
+    ]
+  },
+  {
+    "slug": "thac-trang-minh-long",
+    "type": "place",
+    "label": "thac-trang-minh-long",
+    "hero": "https://mia.vn/media/uploads/blog-du-lich/thac-trang-minh-long-dep-1765757973.jpg",
+    "gallery": [
+      "https://mia.vn/media/uploads/blog-du-lich/thac-trang-minh-long-quang-ngai-1765757973.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/thac-trang-minh-long-1765757973.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/thac-trang-minh-long-quang-ngai-tam-suoi-1765757973.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/thac-trang-minh-long-quang-ngai-vui-choi-1765757973.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/thac-trang-minh-long-tham-quan-1765757973.jpg"
+    ]
+  },
+  {
+    "slug": "lang-chai-an-vinh",
+    "type": "place",
+    "label": "lang-chai-an-vinh",
+    "hero": "https://vanhoadulichlyson.com/wp-content/uploads/2023/10/dinh-lang-an-vinh-1.jpg",
+    "gallery": [
+      "https://vanhoadulichlyson.com/wp-content/uploads/2023/10/dinh-lang-an-vinh-2.jpg",
+      "https://vanhoadulichlyson.com/wp-content/uploads/2023/10/dinh-lang-an-vinh-3.jpg",
+      "https://vanhoadulichlyson.com/wp-content/uploads/2023/10/dinh-lang-an-vinh-4.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/du-lich-ly-son-01-1700751455.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/dao-ly-son-08-1696462548.jpg"
+    ]
+  }
+]

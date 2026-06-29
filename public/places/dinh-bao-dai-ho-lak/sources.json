@@ -1,0 +1,56 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "dinh-bao-dai-ho-lak",
+    "url": "https://media.mia.vn/uploads/blog-du-lich/tong-hop-kinh-nghiem-kham-pha-dinh-i-dinh-bao-dai-day-du-nhat-01-1635862629.jpg",
+    "domain": "media.mia.vn",
+    "downloaded_at": "2026-06-28T14:16:04.655Z",
+    "ok": true,
+    "size_kb": 239
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "dinh-bao-dai-ho-lak",
+    "url": "https://cdn3.ivivu.com/2022/11/dinh-vua-bao-dai-do-son-ivivu-7.jpg",
+    "domain": "cdn3.ivivu.com",
+    "downloaded_at": "2026-06-28T14:16:05.777Z",
+    "ok": true,
+    "size_kb": 1264
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "dinh-bao-dai-ho-lak",
+    "url": "https://dulichvietnam.com.vn/vnt_upload/news/03_2025/dinh_bao_dai_iii_da_lat_chupchoetsaigon.jpg",
+    "domain": "dulichvietnam.com.vn",
+    "downloaded_at": "2026-06-28T14:16:07.017Z",
+    "ok": true,
+    "size_kb": 95
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "dinh-bao-dai-ho-lak",
+    "url": "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/03_2021/biet-dien-bao-dai-o-ho-lak-min.jpg",
+    "domain": "luhanhvietnam.com.vn",
+    "downloaded_at": "2026-06-28T14:16:08.078Z",
+    "ok": true,
+    "size_kb": 125
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "dinh-bao-dai-ho-lak",
+    "url": "https://images2.thanhnien.vn/zoom/1200_630/528068263637045248/2024/11/10/anh-biet-dien-bao-dai-ho-lak-1-1731252444998666998070-133-318-1177-2312-crop-17312532470091207353930.jpg",
+    "domain": "images2.thanhnien.vn",
+    "downloaded_at": "2026-06-28T14:16:10.327Z",
+    "ok": true,
+    "size_kb": 140
+  },
+  {
+    "file": "gallery-5.jpg",
+    "label": "dinh-bao-dai-ho-lak",
+    "url": "https://asiaeyestravel.com/uploads/source/blog/daklak/dinh-bao-dai-ben-ho-lak.jpg",
+    "domain": "asiaeyestravel.com",
+    "downloaded_at": "2026-06-28T14:16:11.471Z",
+    "ok": true,
+    "size_kb": 72
+  }
+]

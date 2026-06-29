@@ -1,0 +1,56 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "buon-ako-dhong",
+    "url": "https://media.mia.vn/uploads/blog-du-lich/trai-nghiem-van-hoa-doc-dao-tai-buon-ako-dhong-7-1651563609.jpg",
+    "domain": "media.mia.vn",
+    "downloaded_at": "2026-06-28T14:15:41.423Z",
+    "ok": true,
+    "size_kb": 377
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "buon-ako-dhong",
+    "url": "https://mia.vn/media/uploads/blog-du-lich/trai-nghiem-van-hoa-doc-dao-tai-buon-ako-dhong-1-1651561755.jpg",
+    "domain": "mia.vn",
+    "downloaded_at": "2026-06-28T14:15:42.639Z",
+    "ok": true,
+    "size_kb": 342
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "buon-ako-dhong",
+    "url": "https://images.vietnamtourism.gov.vn/vn/images/2021/CNMN/Thang4/5.4.Dak_Lak-Buon_Ako_Dhong_phat_trien_du_lich_cong_dong_2.jpg",
+    "domain": "images.vietnamtourism.gov.vn",
+    "downloaded_at": "2026-06-28T14:15:43.703Z",
+    "ok": true,
+    "size_kb": 306
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "buon-ako-dhong",
+    "url": "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/10_2021/buon-ako-dhong-tranngoctram1995.jpg",
+    "domain": "luhanhvietnam.com.vn",
+    "downloaded_at": "2026-06-28T14:15:44.783Z",
+    "ok": true,
+    "size_kb": 237
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "buon-ako-dhong",
+    "url": "https://52hz.vn/wp-content/uploads/2022/09/52hz-buon-ako-dhong-1024x768.jpg",
+    "domain": "52hz.vn",
+    "downloaded_at": "2026-06-28T14:15:45.860Z",
+    "ok": true,
+    "size_kb": 188
+  },
+  {
+    "file": "gallery-5.jpg",
+    "label": "buon-ako-dhong",
+    "url": "https://media.vov.vn/sites/default/files/styles/large_watermark/public/2021-05/img_1918.jpg",
+    "domain": "media.vov.vn",
+    "downloaded_at": "2026-06-28T14:15:48.951Z",
+    "ok": true,
+    "size_kb": 1538
+  }
+]

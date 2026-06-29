@@ -1,0 +1,47 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "Thắng Cố Hà Giang",
+    "url": "https://media.mia.vn/uploads/blog-du-lich/vi-ngon-cua-mon-thang-co-dong-van-ha-giang-hap-dan-ca-mot-khu-cho-1642971418.jpg",
+    "domain": "media.mia.vn",
+    "downloaded_at": "2026-06-28T13:27:35.627Z",
+    "ok": true,
+    "size_kb": 129
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "Thắng Cố Hà Giang",
+    "url": "https://cdn3.ivivu.com/2023/02/th%E1%BA%AFng-c%E1%BB%91-ivivu.jpg",
+    "domain": "cdn3.ivivu.com",
+    "downloaded_at": "2026-06-28T13:27:37.624Z",
+    "ok": true,
+    "size_kb": 1545
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "Thắng Cố Hà Giang",
+    "url": "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/10_2022/lau-ga-den-ha-giang-5.jpg",
+    "domain": "luhanhvietnam.com.vn",
+    "downloaded_at": "2026-06-28T13:27:38.700Z",
+    "ok": true,
+    "size_kb": 318
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "Thắng Cố Hà Giang",
+    "url": "https://tripmap.vn/wp-content/uploads/2023/12/thang-co-dac-san-ha-giang-day-su-can-dam-trong-nguyen-lieu_15.jpg",
+    "domain": "tripmap.vn",
+    "downloaded_at": "2026-06-28T13:27:39.990Z",
+    "ok": true,
+    "size_kb": 165
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "Thắng Cố Hà Giang",
+    "url": "https://motortrip.vn/wp-content/uploads/2023/02/men-men-ha-giang_19.jpg",
+    "domain": "motortrip.vn",
+    "downloaded_at": "2026-06-28T13:27:41.686Z",
+    "ok": true,
+    "size_kb": 175
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "le-nhay-lua-pa-then",
+    "url": "https://media.mia.vn/uploads/blog-du-lich/le-hoi-nhay-lua-ha-giang-su-kien-doc-dao-cua-nguoi-pa-then-06-1642230924.jpg",
+    "domain": "media.mia.vn",
+    "downloaded_at": "2026-06-28T14:14:43.923Z",
+    "ok": true,
+    "size_kb": 358
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "le-nhay-lua-pa-then",
+    "url": "https://mia.vn/media/uploads/blog-du-lich/le-hoi-nhay-lua-ha-giang-su-kien-doc-dao-cua-nguoi-pa-then-01-1642230908.jpg",
+    "domain": "mia.vn",
+    "downloaded_at": "2026-06-28T14:14:45.165Z",
+    "ok": true,
+    "size_kb": 335
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "le-nhay-lua-pa-then",
+    "url": "https://cdn2.tuoitre.vn/471584752817336320/2026/2/28/phat-nhay-lua-pa-then-anh-phuc-tai-11-1772309869951520403920.jpg",
+    "domain": "cdn2.tuoitre.vn",
+    "downloaded_at": "2026-06-28T14:14:46.677Z",
+    "ok": true,
+    "size_kb": 2371
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "le-nhay-lua-pa-then",
+    "url": "https://cdn.giaoducthoidai.vn/images/c9229535748f9f7fb373737337d5da3ddfd9e58ec4fb3a41907141e21a696185638e662d677a38b9a0b09b3fd543eb0a4015cff8d333f5160c44d11c6d0f9255/le-hoi-nhay-lua-cua-nguoi-pa-then-2.jpg",
+    "domain": "cdn.giaoducthoidai.vn",
+    "downloaded_at": "2026-06-28T14:14:47.928Z",
+    "ok": true,
+    "size_kb": 116
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "le-nhay-lua-pa-then",
+    "url": "https://baotuyenquang.com.vn/file/4028eaa4679b32c401679c0c74382a7e/112025/le-hoi-nhay-lua-dan-toc-pa-then-xa-quang-binh-1_20251114084210.jpg",
+    "domain": "baotuyenquang.com.vn",
+    "downloaded_at": "2026-06-28T14:14:49.208Z",
+    "ok": true,
+    "size_kb": 222
+  },
+  {
+    "file": "gallery-5.jpg",
+    "label": "le-nhay-lua-pa-then",
+    "url": "https://vansudia.net/wp-content/uploads/2025/11/Le-hoi-Nhay-lua-dan-toc-Pa-Then-min.jpg",
+    "domain": "vansudia.net",
+    "downloaded_at": "2026-06-28T14:14:50.642Z",
+    "ok": true,
+    "size_kb": 169
+  }
+]

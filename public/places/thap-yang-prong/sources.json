@@ -1,0 +1,56 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "thap-yang-prong",
+    "url": "https://mia.vn/media/uploads/blog-du-lich/kham-pha-thap-cham-yang-prong-vo-cung-co-kinh-o-buon-ma-thuot-05-1652691051.jpg",
+    "domain": "mia.vn",
+    "downloaded_at": "2026-06-28T14:15:50.160Z",
+    "ok": true,
+    "size_kb": 219
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "thap-yang-prong",
+    "url": "https://media.mia.vn/uploads/blog-du-lich/kham-pha-thap-cham-yang-prong-vo-cung-co-kinh-o-buon-ma-thuot-02-1652096300.jpg",
+    "domain": "media.mia.vn",
+    "downloaded_at": "2026-06-28T14:15:51.375Z",
+    "ok": true,
+    "size_kb": 324
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "thap-yang-prong",
+    "url": "https://cdn1.tuoitre.vn/thumb_w/1200/tto/i/s626/2007/01/21/lasmksf1.jpg",
+    "domain": "cdn1.tuoitre.vn",
+    "downloaded_at": "2026-06-28T14:15:52.684Z",
+    "ok": true,
+    "size_kb": 199
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "thap-yang-prong",
+    "url": "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/02_2021/thap-yang-prong-min.jpg",
+    "domain": "luhanhvietnam.com.vn",
+    "downloaded_at": "2026-06-28T14:15:53.755Z",
+    "ok": true,
+    "size_kb": 183
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "thap-yang-prong",
+    "url": "https://52hz.vn/wp-content/uploads/2021/12/thap-cham-7.jpg",
+    "domain": "52hz.vn",
+    "downloaded_at": "2026-06-28T14:15:54.795Z",
+    "ok": true,
+    "size_kb": 78
+  },
+  {
+    "file": "gallery-5.jpg",
+    "label": "thap-yang-prong",
+    "url": "https://52hz.vn/wp-content/uploads/2021/12/thap-cham-7.jpg",
+    "domain": "52hz.vn",
+    "downloaded_at": "2026-06-28T14:31:23.965Z",
+    "ok": true,
+    "size_kb": 78
+  }
+]

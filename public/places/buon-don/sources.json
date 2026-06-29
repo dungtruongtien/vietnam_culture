@@ -1,0 +1,56 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "buon-don",
+    "url": "https://images.vietnamtourism.gov.vn/en/images/2024/dec/bd-1-dsc_4233---tuan-anh.jpg",
+    "domain": "images.vietnamtourism.gov.vn",
+    "downloaded_at": "2026-06-28T14:15:10.152Z",
+    "ok": true,
+    "size_kb": 106
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "buon-don",
+    "url": "https://ik.imagekit.io/tvlk/blog/2023/05/buon-don-1.jpg?tr=dpr-2,w-675",
+    "domain": "ik.imagekit.io",
+    "downloaded_at": "2026-06-28T14:31:12.529Z",
+    "ok": true,
+    "size_kb": 155
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "buon-don",
+    "url": "https://bizweb.dktcdn.net/100/149/137/files/cau-treo-buon-don.jpg?v=1668918733442",
+    "domain": "bizweb.dktcdn.net",
+    "downloaded_at": "2026-06-28T14:15:12.447Z",
+    "ok": true,
+    "size_kb": 358
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "buon-don",
+    "url": "https://ik.imagekit.io/tvlk/blog/2023/05/buon-don-1.jpg?tr=dpr-2,w-675",
+    "domain": "ik.imagekit.io",
+    "downloaded_at": "2026-06-28T14:15:13.977Z",
+    "ok": true,
+    "size_kb": 155
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "buon-don",
+    "url": "https://ik.imagekit.io/tvlk/blog/2023/05/buon-don-4.jpg?tr=dpr-2,w-675",
+    "domain": "ik.imagekit.io",
+    "downloaded_at": "2026-06-28T14:31:14.043Z",
+    "ok": true,
+    "size_kb": 196
+  },
+  {
+    "file": "gallery-5.jpg",
+    "label": "buon-don",
+    "url": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2025/3/13/9d4e91951d3445e3b3030eb28ec4ef4b",
+    "domain": "vstatic.vietnam.vn",
+    "downloaded_at": "2026-06-28T14:15:16.634Z",
+    "ok": true,
+    "size_kb": 638
+  }
+]

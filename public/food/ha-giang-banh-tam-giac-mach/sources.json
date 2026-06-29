@@ -1,0 +1,47 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "Bánh Tam Giác Mạch Hà Giang",
+    "url": "https://media.mia.vn/uploads/blog-du-lich/Quyen-luyen-voi-vi-ngot-thanh-cua-banh-tam-giac-mach-Ha-Giang-02-1644727858.jpg",
+    "domain": "media.mia.vn",
+    "downloaded_at": "2026-06-28T13:28:24.455Z",
+    "ok": true,
+    "size_kb": 341
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "Bánh Tam Giác Mạch Hà Giang",
+    "url": "https://cdn3.ivivu.com/2022/11/H%C3%A0-Giang-tam-gi%C3%A1c-m%E1%BA%A1ch-ivivu-2-@milan.phannn.jpg",
+    "domain": "cdn3.ivivu.com",
+    "downloaded_at": "2026-06-28T13:28:25.908Z",
+    "ok": true,
+    "size_kb": 304
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "Bánh Tam Giác Mạch Hà Giang",
+    "url": "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/03_2021/huong-vi-mon-banh-tam-giac-mach-min.jpg",
+    "domain": "luhanhvietnam.com.vn",
+    "downloaded_at": "2026-06-28T13:28:26.973Z",
+    "ok": true,
+    "size_kb": 153
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "Bánh Tam Giác Mạch Hà Giang",
+    "url": "https://dulichkhatvongviet.com/wp-content/uploads/2020/08/dac-san-banh-hoa-tam-giac-mach.jpg",
+    "domain": "dulichkhatvongviet.com",
+    "downloaded_at": "2026-06-28T13:28:28.175Z",
+    "ok": true,
+    "size_kb": 143
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "Bánh Tam Giác Mạch Hà Giang",
+    "url": "https://motortrip.vn/wp-content/uploads/2023/02/banh-tam-giac-mach-ha-giang-8-1.jpg",
+    "domain": "motortrip.vn",
+    "downloaded_at": "2026-06-28T13:28:29.692Z",
+    "ok": true,
+    "size_kb": 87
+  }
+]

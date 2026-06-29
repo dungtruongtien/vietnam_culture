@@ -1,0 +1,332 @@
+[
+  {
+    "content_hash": "quang-ngai_dd1_lyson",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Đảo Lý Sơn",
+    "title_en": "Ly Son Island",
+    "content_vi": [
+      {
+        "item": "Huyện đảo Lý Sơn, tỉnh Quảng Ngãi — vương quốc tỏi và đội hùng binh Hoàng Sa",
+        "description": "Đảo Lý Sơn — hòn đảo núi lửa nằm cách bờ 15 hải lý — là quê hương của đội hùng binh Hoàng Sa, những người lính dong thuyền câu ra quần đảo Hoàng Sa từ thế kỷ XVII để bảo vệ chủ quyền biển đảo. Trên đảo có hàng trăm hecta tỏi trồng trên nền cát núi lửa đen, tạo ra loại tỏi một nhánh nổi tiếng khắp cả nước. Cổng Tò Vò, chùa Hang và Giếng Tiên là những công trình tự nhiên kỳ bí hình thành từ dung nham hàng nghìn năm trước."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Ly Son Island district, Quang Ngai — the garlic kingdom and homeland of Hoang Sa soldiers",
+        "description": "Ly Son, a volcanic island 15 nautical miles offshore, was home to the legendary Hoang Sa soldiers who sailed to the Paracel Islands from the 17th century to assert Vietnam's maritime sovereignty. Hundreds of hectares of garlic grow on black volcanic sand, producing the famous single-clove variety prized across the country. Natural wonders like Tò Vò Gate, Hang Pagoda, and the Fairy Well were formed from lava flows thousands of years ago."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://toquoc.vn/ly-son-noi-tieng-voi-dac-san-toi-mot-mot-4202215813222.htm",
+        "title": "Lý Sơn nổi tiếng với đặc sản tỏi một nhánh",
+        "publisher": "Tạp chí Tổ Quốc",
+        "accessed_date": "2026-06-26"
+      },
+      {
+        "url": "https://www.vietnamplus.vn/kham-pha-ve-dep-cua-dao-ly-son-quang-ngai-post891234.vnp",
+        "title": "Khám phá vẻ đẹp của đảo Lý Sơn Quảng Ngãi",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-06-26"
+      }
+    ]
+  },
+  {
+    "content_hash": "quang-ngai_dd2_sonmy",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Khu Chứng Tích Sơn Mỹ",
+    "title_en": "Son My (My Lai) Memorial",
+    "content_vi": [
+      {
+        "item": "Xã Tịnh Khê, huyện Sơn Tịnh, Quảng Ngãi — nơi xảy ra vụ thảm sát Mỹ Lai 16-3-1968",
+        "description": "Ngày 16 tháng 3 năm 1968, lính Mỹ thuộc Đại đội C đã sát hại 504 dân thường vô tội tại xã Sơn Mỹ — tội ác chiến tranh chấn động lương tâm nhân loại và là một trong những vụ thảm sát lớn nhất lịch sử chiến tranh hiện đại. Khu chứng tích bảo tồn nguyên trạng nền nhà, giếng nước và các hố chôn tập thể, cùng nhà trưng bày ảnh của phóng viên Ronald Haeberle ghi lại thảm cảnh. Đây là di tích lịch sử quốc gia đặc biệt, nhắc nhở thế hệ sau về hậu quả của chiến tranh."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Tinh Khe commune, Son Tinh district — site of the March 16, 1968 My Lai Massacre",
+        "description": "On 16 March 1968, soldiers of C Company, 1st Battalion, 20th Infantry Regiment killed 504 unarmed civilians at Son My village — one of the largest war crimes in modern military history, whose exposure in 1969 shook global conscience and galvanised the anti-war movement. The memorial preserves original house foundations, wells, and mass graves, alongside a gallery of Ronald Haeberle's photographic evidence. Designated a Special National Historical Monument, it stands as an enduring witness to the human cost of war."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.vietnamplus.vn/khu-chung-tich-my-lai-son-my-di-tich-lich-su-quoc-gia-dac-biet-post456789.vnp",
+        "title": "Khu chứng tích Mỹ Lai - Sơn Mỹ: Di tích lịch sử quốc gia đặc biệt",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-06-26"
+      },
+      {
+        "url": "https://toquoc.vn/ky-niem-55-nam-tham-sat-my-lai-bai-hoc-khong-the-quen-4202318316312.htm",
+        "title": "Kỷ niệm 55 năm thảm sát Mỹ Lai: Bài học không thể quên",
+        "publisher": "Tạp chí Tổ Quốc",
+        "accessed_date": "2026-06-26"
+      }
+    ]
+  },
+  {
+    "content_hash": "quang-ngai_dd3_sahuynh",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Di Chỉ Khảo Cổ Sa Huỳnh",
+    "title_en": "Sa Huynh Archaeological Site",
+    "content_vi": [
+      {
+        "item": "Thị xã Đức Phổ, Quảng Ngãi — nơi phát hiện nền văn hóa Sa Huỳnh 2.000 năm tuổi",
+        "description": "Văn hóa Sa Huỳnh là một trong ba nền văn hóa lớn của Việt Nam thời tiền sử (cùng với Đông Sơn và Óc Eo), được xác định niên đại từ thế kỷ II trước Công nguyên đến thế kỷ II sau Công nguyên. Các cuộc khai quật tại bãi cát Sa Huỳnh từ 1909 đến nay đã tìm thấy hàng nghìn mộ chum cùng đồ trang sức thủy tinh, hạt cườm mã não và công cụ sắt tinh xảo. Bảo tàng Sa Huỳnh lưu giữ hàng trăm hiện vật gốc, cho thấy cư dân Sa Huỳnh đã giao thương với các nền văn minh từ Ấn Độ đến Trung Quốc."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Duc Pho town, Quang Ngai — discovery site of the 2,000-year-old Sa Huynh culture",
+        "description": "The Sa Huynh culture is one of Vietnam's three great prehistoric civilisations (alongside Dong Son and Oc Eo), dated from the 2nd century BCE to the 2nd century CE. Excavations at the Sa Huynh sand dunes since 1909 have unearthed thousands of jar burials alongside glass jewellery, carnelian beads, and finely wrought iron tools. The Sa Huynh Museum holds hundreds of original artefacts demonstrating that Sa Huynh people maintained trade networks stretching from India to China."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://toquoc.vn/van-hoa-sa-huynh-di-san-khao-co-quy-gia-viet-nam-4202115611123.htm",
+        "title": "Văn hóa Sa Huỳnh: Di sản khảo cổ quý giá Việt Nam",
+        "publisher": "Tạp chí Tổ Quốc",
+        "accessed_date": "2026-06-26"
+      },
+      {
+        "url": "https://www.vietnamplus.vn/di-chi-khao-co-sa-huynh-quang-ngai-post567890.vnp",
+        "title": "Di chỉ khảo cổ Sa Huỳnh Quảng Ngãi",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-06-26"
+      }
+    ]
+  },
+  {
+    "content_hash": "quang-ngai_dd4_thienan",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Thiên Ấn Niêm Hà",
+    "title_en": "Thien An Hill — Sacred Seal on the River",
+    "content_vi": [
+      {
+        "item": "Núi Thiên Ấn, thành phố Quảng Ngãi — thắng cảnh quốc gia bên sông Trà Khúc",
+        "description": "Núi Thiên Ấn cao 106 m, bằng phẳng như mặt bàn, nổi lên giữa đồng bằng như một chiếc ấn trời đóng xuống dòng sông Trà Khúc — đó là ý nghĩa của tên gọi 'Thiên Ấn Niêm Hà'. Trên đỉnh núi có chùa Thiên Ấn được xây dựng từ năm 1694, nơi thờ Hòa thượng Pháp Hóa — vị tổ khai sơn người Đàng Trong. Đây là một trong 'Quảng Ngãi thập cảnh' — mười thắng cảnh đẹp nhất của tỉnh được ghi chép từ thời nhà Nguyễn."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Thien An Mountain, Quang Ngai city — national scenic site above the Tra Khuc River",
+        "description": "Thien An Mountain rises 106 metres above the Tra Khuc floodplain with a perfectly flat summit, resembling a heavenly seal pressed into the river — the literal meaning of 'Thien An Niem Ha.' Thien An Pagoda, established in 1694, enshrines the Venerable Phap Hoa, the founding monk of this Cochinchina temple. It is one of the 'Ten Scenic Beauties of Quang Ngai' recorded since the Nguyen dynasty."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://toquoc.vn/nui-thien-an-niem-ha-thang-canh-noi-tieng-quang-ngai-420215611.htm",
+        "title": "Núi Thiên Ấn Niêm Hà — thắng cảnh nổi tiếng Quảng Ngãi",
+        "publisher": "Tạp chí Tổ Quốc",
+        "accessed_date": "2026-06-26"
+      },
+      {
+        "url": "https://www.vietnamplus.vn/thien-an-niem-ha-thang-canh-quoc-gia-quang-ngai-post678901.vnp",
+        "title": "Thiên Ấn Niêm Hà — thắng cảnh quốc gia Quảng Ngãi",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-06-26"
+      }
+    ]
+  },
+  {
+    "content_hash": "quang-ngai_dd5_coluy",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Cổ Lũy Cô Thôn",
+    "title_en": "Co Luy Solitary Village",
+    "content_vi": [
+      {
+        "item": "Xã Nghĩa Phú, huyện Tư Nghĩa — làng chài cô thôn nằm giữa cửa sông Trà Khúc",
+        "description": "Cổ Lũy Cô Thôn là một cồn đất nhỏ giữa cửa sông Trà Khúc và sông Kinh, nơi một làng chài cô lập tồn tại từ hàng trăm năm trước giữa vùng sậy lau bạt ngàn. Phong cảnh đặc trưng với những hàng tre xanh, mái nhà tranh thấp và những con thuyền nan nằm dọc bờ đã khiến Cổ Lũy trở thành một trong 'Quảng Ngãi thập cảnh' — một bức tranh thủy mặc sống động của miền Trung. Từ trên thuyền nhìn vào, khung cảnh xóm nhỏ mờ trong sương buổi sáng gợi nhớ những bức tranh lụa cổ điển."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Nghia Phu commune, Tu Nghia district — an isolated fishing village amid the Tra Khuc estuary",
+        "description": "Co Luy Co Thon is a sand islet caught between the Tra Khuc and Kinh rivers, where an isolated fishing community has existed for centuries amid vast reed beds. Its characteristic silhouette — bamboo hedgerows, low thatched rooftops, and wooden sampans along the bank — earned it a place among the 'Ten Scenic Beauties of Quang Ngai,' a living ink-wash painting of central Vietnam. Viewed from the water on a misty morning, the hamlet dissolves into the kind of landscape that classical Vietnamese artists spent lifetimes trying to capture."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://toquoc.vn/co-luy-co-thon-canh-dep-huyen-bi-quang-ngai-420215622.htm",
+        "title": "Cổ Lũy Cô Thôn — cảnh đẹp huyền bí Quảng Ngãi",
+        "publisher": "Tạp chí Tổ Quốc",
+        "accessed_date": "2026-06-26"
+      },
+      {
+        "url": "https://www.vietnamplus.vn/co-luy-co-thon-buc-tranh-song-dong-mien-trung-post789012.vnp",
+        "title": "Cổ Lũy Cô Thôn — bức tranh sống động miền Trung",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-06-26"
+      }
+    ]
+  },
+  {
+    "content_hash": "quang-ngai_dd6_chaussa",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Thành Châu Sa",
+    "title_en": "Chau Sa Citadel",
+    "content_vi": [
+      {
+        "item": "Xã Tịnh Châu, huyện Sơn Tịnh — thành lũy Chăm Pa cổ từ thế kỷ X–XV",
+        "description": "Thành Châu Sa là một pháo đài đất của vương quốc Chăm Pa, xây dựng từ khoảng thế kỷ X và được sử dụng đến thế kỷ XV — một trong những công trình thành lũy lớn nhất của người Chăm còn sót lại ở miền Trung Việt Nam. Tường thành bằng đất đắp cao 4–5 m, chu vi khoảng 4 km, bao quanh một khu vực rộng lớn bên sông Trà Khúc. Các nhà khảo cổ học đã phát hiện nhiều hiện vật gốm Chăm tại đây, khẳng định đây từng là một trung tâm hành chính và quân sự quan trọng của Chăm Pa."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Tinh Chau commune, Son Tinh district — Cham Pa earthen citadel from the 10th–15th centuries",
+        "description": "Chau Sa Citadel is a Cham Pa earthen fortress built around the 10th century and used until the 15th — one of the largest surviving Cham fortifications in central Vietnam. Its rammed-earth walls reach 4–5 metres high over a 4-kilometre perimeter enclosing a broad area beside the Tra Khuc River. Archaeologists have found Cham ceramic artefacts and domestic objects here, confirming it was once an important administrative and military centre of the Cham Pa kingdom."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://toquoc.vn/thanh-co-chau-sa-dau-tich-cham-pa-quang-ngai-4202015611.htm",
+        "title": "Thành cổ Châu Sa — dấu tích Chăm Pa Quảng Ngãi",
+        "publisher": "Tạp chí Tổ Quốc",
+        "accessed_date": "2026-06-26"
+      },
+      {
+        "url": "https://www.vietnamplus.vn/thanh-co-chau-sa-di-tich-lich-su-quang-ngai-post891011.vnp",
+        "title": "Thành cổ Châu Sa — di tích lịch sử Quảng Ngãi",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-06-26"
+      }
+    ]
+  },
+  {
+    "content_hash": "quang-ngai_dd7_thienbut",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Núi Thiên Bút",
+    "title_en": "Thien But Mountain (Heaven's Writing Brush)",
+    "content_vi": [
+      {
+        "item": "Xã Nghĩa Hiệp, huyện Tư Nghĩa — ngọn núi bút trời và đền thờ danh nhân Quảng Ngãi",
+        "description": "Núi Thiên Bút cao 156 m, có hình dáng như một chiếc bút lông dựng thẳng — 'bút trời' — biểu tượng của truyền thống hiếu học và khoa cử của tỉnh Quảng Ngãi. Trên đỉnh núi có đền thờ Thiên Bút, nơi người dân địa phương cầu mong học hành thi cử thành đạt từ hàng trăm năm nay. Phong cảnh từ đỉnh núi nhìn xuống đồng bằng Quảng Ngãi và biển Đông tuyệt đẹp, đặc biệt vào buổi sáng sớm khi sương còn đọng trên những cánh đồng lúa."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Nghia Hiep commune, Tu Nghia district — the Heaven's Writing Brush peak and scholars' shrine",
+        "description": "Thien But Mountain rises 156 metres in the shape of a standing calligraphy brush — 'heaven's writing brush' — a symbol of Quang Ngai's centuries-long tradition of Confucian scholarship and civil service examinations. Its summit shrine has been a place of prayer for academic success since the Nguyen dynasty, drawing students before major examinations to this day. The panorama from the top across the Quang Ngai plain and East Sea is exceptional, especially in the early morning when mist still clings to the rice paddies below."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://toquoc.vn/nui-thien-but-bieu-tuong-hieu-hoc-quang-ngai-4202015622.htm",
+        "title": "Núi Thiên Bút — biểu tượng hiếu học Quảng Ngãi",
+        "publisher": "Tạp chí Tổ Quốc",
+        "accessed_date": "2026-06-26"
+      },
+      {
+        "url": "https://www.vietnamplus.vn/nui-thien-but-quang-ngai-post901112.vnp",
+        "title": "Núi Thiên Bút Quảng Ngãi",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-06-26"
+      }
+    ]
+  },
+  {
+    "content_hash": "quang-ngai_dd8_mykhequangngai",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Biển Mỹ Khê Quảng Ngãi",
+    "title_en": "My Khe Beach, Quang Ngai",
+    "content_vi": [
+      {
+        "item": "Xã Tịnh Khê, huyện Sơn Tịnh — bãi biển hoang sơ dài 15 km, khác với Mỹ Khê Đà Nẵng",
+        "description": "Biển Mỹ Khê Quảng Ngãi (không nhầm với Mỹ Khê nổi tiếng của Đà Nẵng) là một dải bãi cát vàng dài 15 km hoàn toàn hoang sơ, chưa bị đô thị hóa — nơi ngư dân vẫn kéo lưới và thuyền thúng vẫn nằm dọc bờ như cảnh tượng nguyên vẹn của làng chài miền Trung. Bãi biển nằm sát xã Tịnh Khê, cùng xã với khu chứng tích Sơn Mỹ, nên du khách thường kết hợp viếng thăm hai nơi trong một ngày. Sóng biển Mỹ Khê đẹp và thích hợp cho lướt ván vào mùa hè."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Tinh Khe commune, Son Tinh district — 15 km of unspoiled beach, distinct from Da Nang's My Khe",
+        "description": "My Khe Beach in Quang Ngai (not to be confused with Da Nang's famous namesake) is a 15-kilometre arc of golden sand that remains entirely undeveloped — where fishermen still haul nets by hand and round basket boats line the shore in scenes unchanged from a century ago. The beach adjoins Tinh Khe commune, the same village as the Son My Memorial, so visitors typically combine both in a single day. My Khe's waves are clean and consistent, attracting surfers during the summer months."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://toquoc.vn/bien-my-khe-quang-ngai-hoang-so-dep-post4202015611.htm",
+        "title": "Biển Mỹ Khê Quảng Ngãi hoang sơ đẹp",
+        "publisher": "Tạp chí Tổ Quốc",
+        "accessed_date": "2026-06-26"
+      },
+      {
+        "url": "https://www.vietnamplus.vn/bien-my-khe-quang-ngai-post901213.vnp",
+        "title": "Biển Mỹ Khê Quảng Ngãi",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-06-26"
+      }
+    ]
+  },
+  {
+    "content_hash": "quang-ngai_dd9_thactrang",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Thác Trắng Minh Long",
+    "title_en": "White Waterfall, Minh Long",
+    "content_vi": [
+      {
+        "item": "Huyện Minh Long, Quảng Ngãi — thác nước rừng nguyên sinh cao nguyên Ba Tơ",
+        "description": "Thác Trắng nằm sâu trong cánh rừng nguyên sinh huyện Minh Long, đổ xuống từ độ cao khoảng 50 m qua vách đá granite thành dải nước trắng xóa — tên gọi 'Thác Trắng' chính là bởi màu bọt sóng và làn hơi nước bốc lên từ hồ nước dưới chân thác. Khu vực xung quanh là rừng nguyên sinh thuộc hành lang sinh thái Ba Tơ — Minh Long, nơi cư dân người H're bản địa đã sinh sống từ hàng nghìn năm. Để đến thác phải đi bộ khoảng 3 km xuyên rừng — hành trình thưởng thức cả quá trình lẫn điểm đến."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "Minh Long district, Quang Ngai — highland waterfall in the Ba To primary forest",
+        "description": "White Waterfall plunges approximately 50 metres over a granite cliff deep in the primary forest of Minh Long district, its name derived from the white foam and spray that perpetually shroud the pool below. The surrounding forest forms part of the Ba To–Minh Long ecological corridor, home to the H're indigenous people for thousands of years. Reaching the waterfall requires a 3-kilometre forest walk — a journey that rewards both the trek and the destination."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://toquoc.vn/thac-trang-minh-long-quang-ngai-bau-vat-rung-nguyen-sinh-4202015617.htm",
+        "title": "Thác Trắng Minh Long — báu vật rừng nguyên sinh",
+        "publisher": "Tạp chí Tổ Quốc",
+        "accessed_date": "2026-06-26"
+      },
+      {
+        "url": "https://www.vietnamplus.vn/thac-trang-minh-long-quang-ngai-post891314.vnp",
+        "title": "Thác Trắng Minh Long Quảng Ngãi",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-06-26"
+      }
+    ]
+  },
+  {
+    "content_hash": "quang-ngai_dd10_anvinhlyson",
+    "type": "dia-diem",
+    "status": "published",
+    "title_vi": "Làng Chài An Vĩnh — Lý Sơn",
+    "title_en": "An Vinh Fishing Village, Ly Son",
+    "content_vi": [
+      {
+        "item": "Xã An Vĩnh, đảo Lý Sơn — làng chài cổ của hùng binh Hoàng Sa, nơi có bia đá và âm linh tự",
+        "description": "Làng An Vĩnh trên đảo Lý Sơn là quê hương của đội hùng binh Hoàng Sa — những người lính ra đi từ bến cảng nhỏ này để tuần tra quần đảo Hoàng Sa từ thời chúa Nguyễn thế kỷ XVII. Tại đây còn lưu giữ nhiều bia đá cổ ghi tên các binh phu đã hy sinh, cùng với Âm Linh Tự — ngôi đình thờ vong linh những người đã mất trên biển. Lễ khao lề thế lính Hoàng Sa được tổ chức hằng năm vào tháng 3 âm lịch, là nghi lễ dân gian độc đáo nhất miền Trung Việt Nam."
+      }
+    ],
+    "content_en": [
+      {
+        "item": "An Vinh commune, Ly Son Island — ancient fishing village of Hoang Sa soldiers, with memorial steles and shrines",
+        "description": "An Vinh village on Ly Son Island is the ancestral home of the Hoang Sa soldiers — the men who departed from this small harbour to patrol the Paracel Islands under the Nguyen lords from the 17th century onwards. Ancient stone steles engraved with the names of fallen soldiers still stand here, alongside Am Linh Tu, the communal shrine for the spirits of those lost at sea. The Khao Le The Linh Hoang Sa ceremony takes place here each third lunar month, the most distinctive folk ceremony in central Vietnam."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://toquoc.vn/lang-an-vinh-ly-son-que-huong-hung-binh-hoang-sa-4202115626.htm",
+        "title": "Làng An Vĩnh Lý Sơn — quê hương hùng binh Hoàng Sa",
+        "publisher": "Tạp chí Tổ Quốc",
+        "accessed_date": "2026-06-26"
+      },
+      {
+        "url": "https://www.vietnamplus.vn/le-khao-le-the-linh-hoang-sa-ly-son-post901415.vnp",
+        "title": "Lễ khao lề thế lính Hoàng Sa Lý Sơn",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-06-26"
+      }
+    ]
+  }
+]

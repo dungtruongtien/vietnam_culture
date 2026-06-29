@@ -1,0 +1,47 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "Canh Chua Kiến Vàng Ê Đê",
+    "url": "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/12_2020/Canh-chua-kien-vang-danviet.jpg",
+    "domain": "luhanhvietnam.com.vn",
+    "downloaded_at": "2026-06-28T12:47:38.178Z",
+    "ok": true,
+    "size_kb": 97
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "Canh Chua Kiến Vàng Ê Đê",
+    "url": "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/12_2020/Canh-chua-kien-vang-baopl.jpg",
+    "domain": "luhanhvietnam.com.vn",
+    "downloaded_at": "2026-06-28T12:47:39.219Z",
+    "ok": true,
+    "size_kb": 154
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "Canh Chua Kiến Vàng Ê Đê",
+    "url": "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/12_2020/Canh-chua-kien-vang-SAS.jpg",
+    "domain": "luhanhvietnam.com.vn",
+    "downloaded_at": "2026-06-28T12:47:40.263Z",
+    "ok": true,
+    "size_kb": 141
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "Canh Chua Kiến Vàng Ê Đê",
+    "url": "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/12_2020/Canh-chua-kien-vang-kienthuc.jpg",
+    "domain": "luhanhvietnam.com.vn",
+    "downloaded_at": "2026-06-28T12:47:41.305Z",
+    "ok": true,
+    "size_kb": 112
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "Canh Chua Kiến Vàng Ê Đê",
+    "url": "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/12_2020/Canh-chua-kien-vang-kienthuc2.jpg",
+    "domain": "luhanhvietnam.com.vn",
+    "downloaded_at": "2026-06-28T12:47:42.347Z",
+    "ok": true,
+    "size_kb": 128
+  }
+]

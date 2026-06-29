@@ -1,0 +1,330 @@
+[
+  {
+    "slug": "ha-giang-men-men",
+    "type": "food",
+    "label": "Mèn Mén Hà Giang",
+    "hero": "https://media.mia.vn/uploads/blog-du-lich/Men-men-Ha-Giang-Dac-san-dam-da-voi-huong-vi-nui-rung-Dong-Bac-01-1644724042.jpg",
+    "gallery": [
+      "https://mia.vn/media/uploads/blog-du-lich/men-men-ha-giang-dac-san-dam-da-huong-vi-nui-rung-dong-bac-1644724380.jpg",
+      "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/07_2019/bua-com-hang-ngay.jpg",
+      "https://ninhthuantravels.com/wp-content/uploads/2024/08/Dac-san-doc-nhat-vo-nhi-cua-nguoi-Mong-o-Ha-Giang.jpg",
+      "https://motortrip.vn/wp-content/uploads/2023/02/men-men-ha-giang_4.jpg"
+    ]
+  },
+  {
+    "slug": "ha-giang-thang-co",
+    "type": "food",
+    "label": "Thắng Cố Hà Giang",
+    "hero": "https://media.mia.vn/uploads/blog-du-lich/vi-ngon-cua-mon-thang-co-dong-van-ha-giang-hap-dan-ca-mot-khu-cho-1642971418.jpg",
+    "gallery": [
+      "https://cdn3.ivivu.com/2023/02/th%E1%BA%AFng-c%E1%BB%91-ivivu.jpg",
+      "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/10_2022/lau-ga-den-ha-giang-5.jpg",
+      "https://tripmap.vn/wp-content/uploads/2023/12/thang-co-dac-san-ha-giang-day-su-can-dam-trong-nguyen-lieu_15.jpg",
+      "https://motortrip.vn/wp-content/uploads/2023/02/men-men-ha-giang_19.jpg"
+    ]
+  },
+  {
+    "slug": "ha-giang-chao-au-tau",
+    "type": "food",
+    "label": "Cháo Ấu Tẩu Hà Giang",
+    "hero": "https://media.mia.vn/uploads/blog-du-lich/chao-au-tau-ha-giang-mon-dac-san-doc-dao-cua-dan-toc-mong-04-1642338681.jpg",
+    "gallery": [
+      "https://mia.vn/media/uploads/blog-du-lich/chao-au-tau-ha-giang-mon-dac-san-doc-dao-cua-dan-toc-mong-1645714427.jpg",
+      "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/02_2021/chao-au-tau-ha-giang.jpg",
+      "https://thuexegianggia.com/wp-content/uploads/2023/08/Chao-au-tau-mon-an-doc-la-Ha-Giang.jpg",
+      "https://images.baodantoc.vn/thumbs/600x315/uploads/2021/Th%C3%A1ng_11/Ng%C3%A0y_24/NG%C3%82N/m%C3%B3n%20%C4%83n/anh%20tham.jpg"
+    ]
+  },
+  {
+    "slug": "ha-giang-lon-cap-nach",
+    "type": "food",
+    "label": "Lợn Cắp Nách Hà Giang",
+    "hero": "https://media.mia.vn/uploads/blog-du-lich/lon-cap-nach-ha-giang-dac-san-dan-da-cua-vung-cao-ha-giang-04-1642338389.jpg",
+    "gallery": [
+      "https://motortrip.vn/wp-content/uploads/2023/02/thit-lon-cap-nach-ha-giang-2-1.jpg",
+      "https://hoangviettravel.vn/wp-content/uploads/2020/11/lon-cap-nach-ha-giang1-min.jpg",
+      "https://hagiangsensetravel.com/view/at_lon-cap-nach--thuong-thuc-dac-san-vung-cao-ha-giang_c4e7479dbfc3215fea653b476fe63426.jpg",
+      "https://cdn.tgdd.vn/Files/2022/06/02/1436440/ha-giang-co-dac-san-gi-x-dac-san-ha-giang-mua-lam-qua-202206020947174502.jpg"
+    ]
+  },
+  {
+    "slug": "ha-giang-pho-trang-kim",
+    "type": "food",
+    "label": "Phở Trắng Kim Hà Giang",
+    "hero": "https://media.mia.vn/uploads/blog-du-lich/den-tay-bac-thi-phai-thu-ngay-pho-chua-ha-giang-1642514591.jpg",
+    "gallery": [
+      "https://cdn3.ivivu.com/2023/11/pho-trang-kim-ivivu-3.jpg",
+      "https://cdn2.tuoitre.vn/471584752817336320/2025/12/7/48127280210602142061233105136285612940257399n-17650947986311150208301.jpg",
+      "https://datviettour.com.vn/uploads/images/tin-tuc-SEO/mien-bac/ha-giang/am-thuc/pho-trang-kim.jpeg",
+      "https://www.cotrang.org/public/images/tin_dang/5/15_pho-trang-kim-1.jpg"
+    ]
+  },
+  {
+    "slug": "ha-giang-banh-cuon-trung",
+    "type": "food",
+    "label": "Bánh Cuốn Trứng Hà Giang",
+    "hero": "https://media.mia.vn/uploads/blog-du-lich/banh-cuon-pho-co-dong-van-mon-ngon-4-mua-den-ha-giang-deu-phai-thu-7-1642513279.jpg",
+    "gallery": [
+      "https://cdn1.tuoitre.vn/thumb_w/1200/tto/i/s626/2006/10/15/smxBWxbR.jpg",
+      "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/07_2021/banh-cuon-trung-lang-son-hap-dan.png",
+      "https://cdn.dealtoday.vn/bd5d618e1f9d4cada28d320358ec0dec.jpg",
+      "https://poliva.vn/wp-content/uploads/2020/03/banh-cuon-trung-1.jpg"
+    ]
+  },
+  {
+    "slug": "ha-giang-thang-den",
+    "type": "food",
+    "label": "Thắng Đen Hà Giang",
+    "hero": "https://media.mia.vn/uploads/blog-du-lich/thang-den-ha-giang-mon-an-choi-nuc-long-bao-thuc-khach-04-1642637283.jpg",
+    "gallery": [
+      "https://icdn.dantri.com.vn/thumb_w/1920/2023/02/12/song-nho-queha-giang2023do-quan-5-1676207628985.jpg",
+      "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/10_2022/lau-ga-den-ha-giang-9.jpg",
+      "https://vietsensetravel.com/view/at_thang-den-ha-giang-la-mon-dac-san-nhu-the-nao_9fe86a5b537ec931a7617711f746e022.jpg",
+      "https://motortrip.vn/wp-content/uploads/2023/02/thang-den-ha-giang_5.jpg"
+    ]
+  },
+  {
+    "slug": "ha-giang-xoi-ngu-sac",
+    "type": "food",
+    "label": "Xôi Ngũ Sắc Hà Giang",
+    "hero": "https://media.mia.vn/uploads/blog-du-lich/me-man-voi-mui-vi-thom-ngon-dam-da-cua-goi-xoi-ngu-sac-ha-giang-03-1642970279.jpg",
+    "gallery": [
+      "https://vnn-imgs-a1.vgcloud.vn/icdn.dantri.com.vn/zoom/1200_630/2021/02/24/cong-thuc-don-gian-lam-xoi-ngu-sac-cung-ram-thang-giengdocx-1614125647992.jpeg",
+      "https://thodiahagiang.com/wp-content/uploads/2018/01/xoi-ngu-sac-ha-giang-1.jpg",
+      "https://dulichkhatvongviet.com/wp-content/uploads/2020/08/xoi_ngu_sac_ha_giang.jpg",
+      "https://motortrip.vn/wp-content/uploads/2023/02/xoi-ngu-sac-ha-giang_9.jpg"
+    ]
+  },
+  {
+    "slug": "ha-giang-banh-tam-giac-mach",
+    "type": "food",
+    "label": "Bánh Tam Giác Mạch Hà Giang",
+    "hero": "https://media.mia.vn/uploads/blog-du-lich/Quyen-luyen-voi-vi-ngot-thanh-cua-banh-tam-giac-mach-Ha-Giang-02-1644727858.jpg",
+    "gallery": [
+      "https://cdn3.ivivu.com/2022/11/H%C3%A0-Giang-tam-gi%C3%A1c-m%E1%BA%A1ch-ivivu-2-@milan.phannn.jpg",
+      "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/03_2021/huong-vi-mon-banh-tam-giac-mach-min.jpg",
+      "https://dulichkhatvongviet.com/wp-content/uploads/2020/08/dac-san-banh-hoa-tam-giac-mach.jpg",
+      "https://motortrip.vn/wp-content/uploads/2023/02/banh-tam-giac-mach-ha-giang-8-1.jpg"
+    ]
+  },
+  {
+    "slug": "ha-giang-thit-gac-bep",
+    "type": "food",
+    "label": "Thịt Gác Bếp Hà Giang",
+    "hero": "https://media.mia.vn/uploads/blog-du-lich/thit-trau-gac-bep-ha-giang-dam-da-dac-san-vung-cao-nguyen-da-02-1642958312.jpg",
+    "gallery": [
+      "https://mia.vn/media/uploads/blog-du-lich/thit-trau-gac-bep-ha-giang-dam-da-dac-san-vung-cao-nguyen-da-01-1642958312.jpg",
+      "https://cdnphoto.dantri.com.vn/CUKnDUFkLiHEAKtc6PZCBV8MHGs=/zoom/1200_630/2025/08/12/1907-17549052481200x0-edited-cropped-cropped-1754973306814.jpg",
+      "https://motortrip.vn/wp-content/uploads/2023/02/thit-trau-gac-bep-ha-giang-20.jpg",
+      "https://vietfoody.vn/wp-content/uploads/2023/01/thit-trau-gac-bep.jpg"
+    ]
+  },
+  {
+    "slug": "cot-co-lung-cu",
+    "type": "place",
+    "label": "cot-co-lung-cu",
+    "hero": "https://hagiangamazingtours.com/wp-content/uploads/2023/06/lung-cu-flagpole.jpg",
+    "gallery": [
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/06/lung-cu-flagpole-2.jpg",
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/06/lung-cu-flagpole-4.jpg",
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/09/lung-cu-flagpole-7.jpg",
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/09/lung-cu-flagpole-8.jpg",
+      "https://vietadvisor.travel/wp-content/uploads/2026/03/Lung-Cu-Flag-Tower.webp"
+    ]
+  },
+  {
+    "slug": "dinh-nha-vuong",
+    "type": "place",
+    "label": "dinh-nha-vuong",
+    "hero": "https://authentiktravel.com/media/blog/hmong-king-palace-aut%20(2)%20(1).jpg",
+    "gallery": [
+      "https://authentiktravel.com/media/ckeditor/hmong-king-palace-inside1.JPG",
+      "https://authentiktravel.com/media/ckeditor/hmong-king-palace-above.JPG",
+      "https://authentiktravel.com/media/ckeditor/ha%20giang%20vuong%20family%20palace%20stone%20carvings.jpg",
+      "https://vietadvisor.travel/wp-content/uploads/2026/03/The-Hmong-King-Palace-scaled.webp",
+      "https://vietadvisor.travel/wp-content/uploads/2026/03/The-Hmong-King-Palace-2.webp"
+    ]
+  },
+  {
+    "slug": "deo-ma-pi-leng",
+    "type": "place",
+    "label": "deo-ma-pi-leng",
+    "hero": "https://hagiangamazingtours.com/wp-content/uploads/2023/07/ma-pi-leng-pass-3.jpg",
+    "gallery": [
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/07/ma-pi-leng-pass-7.jpg",
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/07/ma-pi-leng-pass-5.jpg",
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/07/ma-pi-leng-pass-4.jpg",
+      "https://vietadvisor.travel/wp-content/uploads/2026/03/The-Nho-Que-River.webp",
+      "https://vietadvisor.travel/wp-content/uploads/2025/06/Nho-Que-Boat-Ride.jpg"
+    ]
+  },
+  {
+    "slug": "pho-co-dong-van",
+    "type": "place",
+    "label": "pho-co-dong-van",
+    "hero": "https://hagiangamazingtours.com/wp-content/uploads/2023/09/dong-van-old-quarter.jpg",
+    "gallery": [
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/06/dong-van-old-quarter-1.jpg",
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/06/dong-van-old-quarter-4.jpg",
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/06/dong-van-old-quarter-5.jpg",
+      "https://vietadvisor.travel/wp-content/uploads/2026/03/Dong-Van-Old-Quarter.webp",
+      "https://vietadvisor.travel/wp-content/uploads/2025/06/Dong-Van-Ancient-Street.webp"
+    ]
+  },
+  {
+    "slug": "cao-nguyen-da-dong-van",
+    "type": "place",
+    "label": "cao-nguyen-da-dong-van",
+    "hero": "https://hagiangamazingtours.com/wp-content/uploads/2023/04/dong-van-krast-plateau-6.jpg",
+    "gallery": [
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/04/dong-van-krast-plateau-4.jpg",
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/04/dong-van-krast-plateau-9.jpg",
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/04/dong-van-krast-plateau-16.jpg",
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/04/dong-van-krast-plateau-3.jpg",
+      "https://vietadvisor.travel/wp-content/uploads/2025/06/Dong-Van-Karst-Plateau.webp"
+    ]
+  },
+  {
+    "slug": "nui-doi-quan-ba",
+    "type": "place",
+    "label": "nui-doi-quan-ba",
+    "hero": "https://hagiangamazingtours.com/wp-content/uploads/2023/09/fairy-bosom-ha-giang-4.jpg",
+    "gallery": [
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/06/fairy-bosom-ha-giang-1.jpg",
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/09/fairy-bosom-ha-giang-3.jpg",
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/09/fairy-bosom-ha-giang-1.jpg",
+      "https://vietadvisor.travel/wp-content/uploads/2026/03/Quan-Ba-Heaven-Gate.webp",
+      "https://vietadvisor.travel/wp-content/uploads/2025/06/Heavens-Gate-Quan-Ba-Pass.jpg"
+    ]
+  },
+  {
+    "slug": "lang-lo-lo-chai",
+    "type": "place",
+    "label": "lang-lo-lo-chai",
+    "hero": "https://vietadvisor.travel/wp-content/uploads/2025/06/Lo-Lo-Chai-Village.jpg",
+    "gallery": [
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/06/things-to-do-in-dong-van-15.jpg",
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/06/things-to-do-in-dong-van-16.jpg",
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/06/things-to-do-in-dong-van-17.jpg",
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/04/things-to-do-in-ha-giang-1-2.jpg",
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/09/lung-cu-flagpole-9.jpg"
+    ]
+  },
+  {
+    "slug": "ruong-bac-thang-hoang-su-phi",
+    "type": "place",
+    "label": "ruong-bac-thang-hoang-su-phi",
+    "hero": "https://hagiangamazingtours.com/wp-content/uploads/2023/08/hoang-su-phi-rice-terraces-1.jpg",
+    "gallery": [
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/08/hoang-su-phi-rice-terraces-2.jpg",
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/08/hoang-su-phi-rice-terraces-3.jpg",
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/08/hoang-su-phi-rice-terraces-8.jpg",
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/08/hoang-su-phi-rice-terraces-9.jpg",
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/08/hoang-su-phi-rice-terraces-14.jpg"
+    ]
+  },
+  {
+    "slug": "con-duong-hanh-phuc",
+    "type": "place",
+    "label": "con-duong-hanh-phuc",
+    "hero": "https://vietadvisor.travel/wp-content/uploads/2025/06/Ma-Pi-Leng-Sky-Walk.jpg",
+    "gallery": [
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/07/ma-pi-leng-ha-giang-14.jpg",
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/07/ma-pi-leng-pass-8.jpg",
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/07/ma-pi-leng-pass-6.jpg",
+      "https://vietadvisor.travel/wp-content/uploads/2026/03/Ma-Pi-Leng-pass.webp",
+      "https://vietadvisor.travel/wp-content/uploads/2025/06/Ma-Pi-Leng-Pass.webp"
+    ]
+  },
+  {
+    "slug": "nha-cua-pao",
+    "type": "place",
+    "label": "nha-cua-pao",
+    "hero": "https://hagiangamazingtours.com/wp-content/uploads/2023/06/paos-house-1.jpg",
+    "gallery": [
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/06/paos-house-2.jpg",
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/06/paos-house-3.jpg",
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/06/paos-house-5.jpg",
+      "https://hagiangamazingtours.com/wp-content/uploads/2023/06/paos-house-8.jpg",
+      "https://vietadvisor.travel/wp-content/uploads/2025/06/Sung-La-Valley.jpeg"
+    ]
+  },
+  {
+    "slug": "le-hoi-khen-mong",
+    "type": "festival",
+    "label": "le-hoi-khen-mong",
+    "hero": "https://images.vietnamtourism.gov.vn/vn/images/2021/CNMN/Thang4/11.4._Huyen_Dong_Van_se_to_chuc_Le_hoi_Khen_Mong_vao_dip_30.4.jpg",
+    "gallery": [
+      "https://taybac.tv/wp-content/uploads/2024/01/1.-Le-hoi-khen-mong.jpg",
+      "https://media.baovanhoa.vn/zoom/1000/Uploaded/nguyenviethung/2026_04_27/pho-co-dong-van-le-hoi-khen-mong-ha-giang_MWUA.png",
+      "https://baotuyenquang.com.vn/file/4028eaa4679b32c401679c0c74382a7e/042026/khai-mac-le-hoi-khen-mong---dieu-hanh-duong-3_20260426084826.jpg",
+      "https://baotuyenquang.com.vn/file/4028eaa4679b32c401679c0c74382a7e/042026/khai-mac-le-hoi-khen-mong---dieu-hanh-duong-3_20260426084826.jpg",
+      "https://taybac.tv/wp-content/uploads/2024/01/1.-Le-hoi-khen-mong.jpg"
+    ]
+  },
+  {
+    "slug": "le-hoi-hoa-tam-giac-mach",
+    "type": "festival",
+    "label": "le-hoi-hoa-tam-giac-mach",
+    "hero": "https://media.mia.vn/uploads/blog-du-lich/le-hoi-hoa-tam-giac-mach-ha-giang-chim-dam-sac-hoa-tam-giac-mach-02-1642638324.jpg",
+    "gallery": [
+      "https://mia.vn/media/uploads/blog-du-lich/le-hoi-hoa-tam-giac-mach-ha-giang-chim-dam-sac-hoa-tam-giac-mach-03-1642638327.jpg",
+      "http://dulichvietnam.com.vn/vnt_upload/news/11_2025/le_hoi_hoa_tam_giac_mach_ha_giang_3.jpg",
+      "https://media.vietravel.com/images/Content/le-hoi-hoa-tam-giac-mach-Ha-Giang-1282.png",
+      "https://wetripx.vn/wp-content/uploads/le-hoi-hoa-tam-giac-mach-ha-giang-3.jpg",
+      "https://wetripx.vn/wp-content/uploads/le-hoi-hoa-tam-giac-mach-ha-giang-3.jpg"
+    ]
+  },
+  {
+    "slug": "cho-tinh-khau-vai",
+    "type": "festival",
+    "label": "cho-tinh-khau-vai",
+    "hero": "https://media.mia.vn/uploads/blog-du-lich/hoa-minh-vao-le-hoi-cho-tinh-khau-vai-hon-100-nam-01-1642827814.jpeg",
+    "gallery": [
+      "https://media.baovanhoa.vn/uploaded/nguyenviethung/2026_05_13/cho-tinh-khau-vai-2026-infographic_ok_ipzl.jpg",
+      "https://toquoc.mediacdn.vn/Uploaded/anhvk/2018_05_11/cho_tinh_khau_vai_NIVD.png",
+      "https://2trip.vn/wp-content/uploads/2023/01/cho-tinh-khau-vai-ha-giang-15-750x504.jpg",
+      "https://vietsensetravel.com/view/at_dem-hoi-cho-tinh-khau-vai_d42d81c2d7997fa273f9d6c04ec27fc6.jpeg",
+      "https://zinghomehagiang.com/wp-content/uploads/2025/09/Le-hoi-cho-tinh-Khau-Vai-1024x683.png"
+    ]
+  },
+  {
+    "slug": "le-hoi-long-tong",
+    "type": "festival",
+    "label": "le-hoi-long-tong",
+    "hero": "https://media.mia.vn/uploads/blog-du-lich/le-hoi-long-tong-cua-dan-toc-tay-ha-giang-le-hoi-xuong-dong-dac-sac-04-1642984832.jpg",
+    "gallery": [
+      "https://cdnphoto.dantri.com.vn/8He0dVWh1sX294x8qm0G47W4sYY=/2025/02/09/le-hoi-long-tong-lam-binh-2-1739115582132.jpg",
+      "https://media.baovanhoa.vn/zoom/1000/uploaded/daothingocnhien/2025_02_10/182524_wmeg.jpg",
+      "https://dulichviet.net.vn/wp-content/uploads/2019/08/le-hoi-long-tong-1.jpg",
+      "https://maichauhideaway.com/Data/Sites/1/media/tin-tuc/%E1%BA%A3nh-b%C3%A0i-vi%E1%BA%BFt/t122024/le-hoi-long-tong/le-hoi-long-tong-3.jpg",
+      "https://lotrinhxanh.com/uploads/worigin/2023/02/27/le_hoi_long_tong_13.png"
+    ]
+  },
+  {
+    "slug": "le-hoi-gau-tao",
+    "type": "festival",
+    "label": "le-hoi-gau-tao",
+    "hero": "https://media.mia.vn/uploads/blog-du-lich/le-hoi-gau-tao-ha-giang-le-hoi-dac-sac-cua-dong-bao-nguoi-mong-02-1642173152.jpg",
+    "gallery": [
+      "https://trekking-camping.com/wp-content/uploads/2020/09/le-hoi-gau-tao.jpg",
+      "https://dulichkhatvongviet.com/wp-content/uploads/2020/09/cay_neu.jpg",
+      "http://thegioidisan.vn/assets/media/thang%2010/Le-hoi-Gau-Tao.jpg",
+      "https://media-cdn-v2.laodong.vn/storage/newsportal/2024/2/13/1303764/Gau-Tao-2.jpg",
+      "https://maichauhideaway.com/Data/Sites/1/media/tin-tuc/%E1%BA%A3nh-b%C3%A0i-vi%E1%BA%BFt/t122024/le-hoi-gau-tao/le-hoi-gau-tao-1.jpg"
+    ]
+  },
+  {
+    "slug": "le-nhay-lua-pa-then",
+    "type": "festival",
+    "label": "le-nhay-lua-pa-then",
+    "hero": "https://media.mia.vn/uploads/blog-du-lich/le-hoi-nhay-lua-ha-giang-su-kien-doc-dao-cua-nguoi-pa-then-06-1642230924.jpg",
+    "gallery": [
+      "https://mia.vn/media/uploads/blog-du-lich/le-hoi-nhay-lua-ha-giang-su-kien-doc-dao-cua-nguoi-pa-then-01-1642230908.jpg",
+      "https://cdn2.tuoitre.vn/471584752817336320/2026/2/28/phat-nhay-lua-pa-then-anh-phuc-tai-11-1772309869951520403920.jpg",
+      "https://cdn.giaoducthoidai.vn/images/c9229535748f9f7fb373737337d5da3ddfd9e58ec4fb3a41907141e21a696185638e662d677a38b9a0b09b3fd543eb0a4015cff8d333f5160c44d11c6d0f9255/le-hoi-nhay-lua-cua-nguoi-pa-then-2.jpg",
+      "https://baotuyenquang.com.vn/file/4028eaa4679b32c401679c0c74382a7e/112025/le-hoi-nhay-lua-dan-toc-pa-then-xa-quang-binh-1_20251114084210.jpg",
+      "https://vansudia.net/wp-content/uploads/2025/11/Le-hoi-Nhay-lua-dan-toc-Pa-Then-min.jpg"
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "nha-day-buon-ma-thuot",
+    "url": "https://mia.vn/media/uploads/blog-du-lich/nha-day-buon-ma-thuot-2-1703085464.jpg",
+    "domain": "mia.vn",
+    "downloaded_at": "2026-06-28T14:15:57.072Z",
+    "ok": true,
+    "size_kb": 108
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "nha-day-buon-ma-thuot",
+    "url": "https://www.vietnamtravelgroup.com.vn/datafiles/32985/upload/images/tin-tuc/tin-du-lich-1/khung-canh-nha-day-buon-ma-thuot-noi-dia-nguc-tran-gian-mot-thoi-1.jpg?t=1701269808",
+    "domain": "www.vietnamtravelgroup.com.vn",
+    "downloaded_at": "2026-06-28T14:31:27.937Z",
+    "ok": true,
+    "size_kb": 542
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "nha-day-buon-ma-thuot",
+    "url": "https://www.vietnamtravelgroup.com.vn/datafiles/32985/upload/images/tin-tuc/tin-du-lich-1/khung-canh-nha-day-buon-ma-thuot-noi-dia-nguc-tran-gian-mot-thoi-1.jpg?t=1701269808",
+    "domain": "www.vietnamtravelgroup.com.vn",
+    "downloaded_at": "2026-06-28T14:15:59.656Z",
+    "ok": true,
+    "size_kb": 542
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "nha-day-buon-ma-thuot",
+    "url": "http://dulichcaonguyen.com/wp-content/uploads/2025/06/aa.jpg",
+    "domain": "dulichcaonguyen.com",
+    "downloaded_at": "2026-06-28T14:16:00.966Z",
+    "ok": true,
+    "size_kb": 131
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "nha-day-buon-ma-thuot",
+    "url": "http://redsvn.net/wp-content/uploads/2019/03/Nha-day-Buon-Ma-Thuot-01.jpg",
+    "domain": "redsvn.net",
+    "downloaded_at": "2026-06-28T14:31:29.092Z",
+    "ok": true,
+    "size_kb": 244
+  },
+  {
+    "file": "gallery-5.jpg",
+    "label": "nha-day-buon-ma-thuot",
+    "url": "http://redsvn.net/wp-content/uploads/2019/03/Nha-day-Buon-Ma-Thuot-01.jpg",
+    "domain": "redsvn.net",
+    "downloaded_at": "2026-06-28T14:16:03.442Z",
+    "ok": true,
+    "size_kb": 244
+  }
+]

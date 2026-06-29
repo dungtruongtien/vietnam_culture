@@ -1,0 +1,56 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "bao-tang-ca-phe",
+    "url": "https://media.mia.vn/uploads/blog-du-lich/bao-tang-the-gioi-ca-phe-voi-khong-gian-doc-dao-noi-tay-nguyen-gio-long-1652167457.jpg",
+    "domain": "media.mia.vn",
+    "downloaded_at": "2026-06-28T14:15:32.735Z",
+    "ok": true,
+    "size_kb": 110
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "bao-tang-ca-phe",
+    "url": "https://cdn3.ivivu.com/2019/09/bao-tang-ca-phe-o-buon-ma-thuot-ivivu-3.jpg",
+    "domain": "cdn3.ivivu.com",
+    "downloaded_at": "2026-06-28T14:15:33.809Z",
+    "ok": true,
+    "size_kb": 314
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "bao-tang-ca-phe",
+    "url": "https://dulichvietnam.com.vn/vnt_upload/news/04_2023/bao_tang_the_gioi_ca_phe_8.jpg",
+    "domain": "dulichvietnam.com.vn",
+    "downloaded_at": "2026-06-28T14:15:34.885Z",
+    "ok": true,
+    "size_kb": 99
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "bao-tang-ca-phe",
+    "url": "https://images.vietnamtourism.gov.vn/en/images/2024/dec/bao_tang_ca_phe_2.jpg",
+    "domain": "images.vietnamtourism.gov.vn",
+    "downloaded_at": "2026-06-28T14:15:37.383Z",
+    "ok": true,
+    "size_kb": 280
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "bao-tang-ca-phe",
+    "url": "https://kientrucvadoisong.net/Upload/News/bao-tang-the-gioi-ca-phe.jpg",
+    "domain": "kientrucvadoisong.net",
+    "downloaded_at": "2026-06-28T14:15:38.898Z",
+    "ok": true,
+    "size_kb": 839
+  },
+  {
+    "file": "gallery-5.jpg",
+    "label": "bao-tang-ca-phe",
+    "url": "https://cdn.tcdulichtphcm.vn/upload/3-2022/images/2022-07-24/1658659180-thong-tin-ve-bao-tang-the-gioi-ca-phe-buon-ma-thuot-the-world-coffee-museum.jpg",
+    "domain": "cdn.tcdulichtphcm.vn",
+    "downloaded_at": "2026-06-28T14:15:40.213Z",
+    "ok": true,
+    "size_kb": 1842
+  }
+]

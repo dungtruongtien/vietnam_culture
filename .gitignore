@@ -9,3 +9,5 @@ dist/
 .DS_Store
 migrations/generated/
 .local
+research-data
+scripts

@@ -1,0 +1,56 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "dinh-nha-vuong",
+    "url": "https://authentiktravel.com/media/blog/hmong-king-palace-aut%20(2)%20(1).jpg",
+    "domain": "authentiktravel.com",
+    "downloaded_at": "2026-06-28T12:47:59.012Z",
+    "ok": true,
+    "size_kb": 951
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "dinh-nha-vuong",
+    "url": "https://authentiktravel.com/media/ckeditor/hmong-king-palace-inside1.JPG",
+    "domain": "authentiktravel.com",
+    "downloaded_at": "2026-06-28T12:48:01.623Z",
+    "ok": true,
+    "size_kb": 12042
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "dinh-nha-vuong",
+    "url": "https://authentiktravel.com/media/ckeditor/hmong-king-palace-above.JPG",
+    "domain": "authentiktravel.com",
+    "downloaded_at": "2026-06-28T12:48:03.193Z",
+    "ok": true,
+    "size_kb": 3917
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "dinh-nha-vuong",
+    "url": "https://authentiktravel.com/media/ckeditor/ha%20giang%20vuong%20family%20palace%20stone%20carvings.jpg",
+    "domain": "authentiktravel.com",
+    "downloaded_at": "2026-06-28T12:48:04.446Z",
+    "ok": true,
+    "size_kb": 42
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "dinh-nha-vuong",
+    "url": "https://vietadvisor.travel/wp-content/uploads/2026/03/The-Hmong-King-Palace-scaled.webp",
+    "domain": "vietadvisor.travel",
+    "downloaded_at": "2026-06-28T12:48:05.940Z",
+    "ok": true,
+    "size_kb": 499
+  },
+  {
+    "file": "gallery-5.jpg",
+    "label": "dinh-nha-vuong",
+    "url": "https://vietadvisor.travel/wp-content/uploads/2026/03/The-Hmong-King-Palace-2.webp",
+    "domain": "vietadvisor.travel",
+    "downloaded_at": "2026-06-28T12:48:07.191Z",
+    "ok": true,
+    "size_kb": 137
+  }
+]

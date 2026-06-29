@@ -1,0 +1,142 @@
+[
+  {
+    "content_hash": "festi_caphe_buon_ma_thuot_v1",
+    "slug": "ca-phe-buon-ma-thuot",
+    "province_slug": "dak-lak",
+    "name_vi": "Lễ hội Cà phê Buôn Ma Thuột",
+    "name_en": "Buon Ma Thuot Coffee Festival",
+    "description_vi": "Được tổ chức hai năm một lần từ năm 2005, Lễ hội Cà phê Buôn Ma Thuột là sự kiện văn hóa - kinh tế lớn nhất của \"thủ phủ cà phê\" Việt Nam. Hàng trăm nghìn du khách đổ về để trải nghiệm không gian cà phê đặc sắc, tham quan các cuộc thi pha chế quốc tế và khám phá câu chuyện từ hạt cà phê Robusta nổi tiếng thế giới.",
+    "description_en": "Held biennially since 2005, the Buon Ma Thuot Coffee Festival is the largest cultural-economic event in Vietnam's \"coffee capital.\" Hundreds of thousands of visitors converge to experience world-class barista competitions, immersive coffee plantation tours, and the full journey of Dak Lak's globally renowned Robusta beans.",
+    "start_date": "2027-03-09",
+    "end_date": "2027-03-13",
+    "is_lunar": false,
+    "is_trending": true,
+    "status": "active",
+    "sources": [
+      {
+        "url": "https://nhandan.vn/khai-mac-le-hoi-ca-phe-buon-ma-thuot-lan-thu-9-nam-2025-post864302.html",
+        "title": "Khai mạc Lễ hội Cà-phê Buôn Ma Thuột lần thứ 9 năm 2025",
+        "publisher": "Báo Nhân Dân",
+        "accessed_date": "2026-06-26"
+      },
+      {
+        "url": "https://toquoc.vn/le-hoi-ca-phe-buon-ma-thuot-2025-kich-cau-du-lich-tinh-dak-lak-ky-vong-thu-hut-tren-200000-du-khach-20250221211626942.htm",
+        "title": "Lễ hội Cà phê Buôn Ma Thuột 2025 - Kích cầu du lịch tỉnh Đắk Lắk",
+        "publisher": "Báo Tổ Quốc",
+        "accessed_date": "2026-06-26"
+      }
+    ]
+  },
+  {
+    "content_hash": "festi_hoi_voi_buon_don_v1",
+    "slug": "hoi-voi-buon-don",
+    "province_slug": "dak-lak",
+    "name_vi": "Hội Voi Buôn Đôn",
+    "name_en": "Buon Don Elephant Festival",
+    "description_vi": "Hội Voi Buôn Đôn khơi dậy huyền thoại nghề săn bắt và thuần dưỡng voi rừng của người M'Nông — truyền thống gắn với tên tuổi Vua voi Y Thu K'Nul từ thế kỷ 19. Lễ hội tổ chức hai năm một lần tại xã Krông Na, nơi nghi lễ cúng sức khỏe cho voi và vũ điệu truyền thống tái hiện tinh thần bảo tồn văn hóa đại ngàn Tây Nguyên.",
+    "description_en": "The Buon Don Elephant Festival revives the legendary tradition of elephant catching and taming among the M'Nông people — a heritage traced to the 19th-century Elephant King Y Thu K'Nul, who tamed nearly 500 wild elephants. Held biennially at Krong Na commune, the festival features health blessing rituals and traditional dances celebrating sustainable elephant-human coexistence.",
+    "start_date": "2027-03-11",
+    "end_date": "2027-03-12",
+    "is_lunar": false,
+    "is_trending": true,
+    "status": "active",
+    "sources": [
+      {
+        "url": "https://nhandan.vn/tung-bung-hoi-voi-buon-don-nam-2025-post864658.html",
+        "title": "Hội Voi Buôn Đôn 2025: Lễ hội Văn Hóa Sinh Thái",
+        "publisher": "Báo Nhân Dân",
+        "accessed_date": "2026-06-26"
+      },
+      {
+        "url": "https://www.vietnamplus.vn/dak-lak-hoi-voi-buon-don-de-lai-an-tuong-sau-sac-voi-nhieu-du-khach-post1020119.vnp",
+        "title": "Đắk Lắk: Hội voi Buôn Đôn để lại ấn tượng sâu sắc với nhiều du khách",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-06-26"
+      }
+    ]
+  },
+  {
+    "content_hash": "festi_cong_chieng_dak_lak_v1",
+    "slug": "cong-chieng-tay-nguyen-dak-lak",
+    "province_slug": "dak-lak",
+    "name_vi": "Lễ hội Văn hóa Cồng chiêng Tây Nguyên",
+    "name_en": "Central Highlands Gong Culture Festival",
+    "description_vi": "Di sản văn hóa phi vật thể được UNESCO công nhận năm 2005, không gian văn hóa cồng chiêng Tây Nguyên hiện diện trong mọi nghi lễ quan trọng của các tộc người Ê Đê, M'Nông, Gia Rai, Ba Na. Khi Đắk Lắk đăng cai, hơn 800 nghệ nhân từ 26 đoàn biểu diễn hội tụ, tái hiện thế giới tâm linh của vùng đại ngàn qua từng tiếng chiêng ngân.",
+    "description_en": "A UNESCO Intangible Cultural Heritage since 2005, the gong cultural space of the Central Highlands resonates through every important ritual of the Ê Đê, M'Nông, Gia Rai, and Ba Na peoples. When Dak Lak hosts, over 800 artisans from 26 delegations gather to recreate the spiritual world of the highlands through the ancient voice of bronze gongs.",
+    "start_date": "2025-12-19",
+    "end_date": "2025-12-21",
+    "is_lunar": false,
+    "is_trending": false,
+    "status": "active",
+    "sources": [
+      {
+        "url": "https://en.nhandan.vn/dak-lak-opens-the-2025-gong-culture-and-traditional-musical-instruments-festival-post156988.html",
+        "title": "Dak Lak opens the 2025 Gong Culture and Traditional Musical Instruments Festival",
+        "publisher": "Nhân Dân Online",
+        "accessed_date": "2026-06-26"
+      },
+      {
+        "url": "https://en.vietnamplus.vn/dak-lak-boosts-efforts-to-preserve-unesco-recognised-gong-culture-space-post333766.vnp",
+        "title": "Dak Lak Boosts Efforts to Preserve UNESCO-Recognised Gong Culture",
+        "publisher": "VietnamPlus English",
+        "accessed_date": "2026-06-26"
+      }
+    ]
+  },
+  {
+    "content_hash": "festi_mung_lua_moi_mnong_v1",
+    "slug": "mung-lua-moi-mnong-dak-lak",
+    "province_slug": "dak-lak",
+    "name_vi": "Lễ Mừng Lúa Mới của người M'Nông",
+    "name_en": "M'Nong New Rice Festival",
+    "description_vi": "Lễ Mừng Lúa Mới là \"Tết\" thiêng liêng nhất của người M'Nông — dịp cả cộng đồng tụ họp bên bếp lửa, tạ ơn thần Giàng về mùa bội thu, và đón \"hồn lúa\" trở về kho thóc trong tiếng cồng chiêng vang vọng giữa đại ngàn. Diễn ra vào cuối tháng 7 đầu tháng 8 âm lịch, đây là thời điểm thiêng liêng nhất trong vòng đời canh tác của đồng bào cao nguyên.",
+    "description_en": "The M'Nong New Rice Festival is the most sacred \"Tết\" of the M'Nông people — a time when the entire community gathers around communal fires, offers gratitude to the deity Giàng for the harvest, and ceremonially welcomes the \"rice soul\" back to the granary as bronze gongs resound across the highlands. Held in late July to early August by the lunar calendar, it marks the most spiritually significant moment in the highland farming cycle.",
+    "start_date": "2026-09-10",
+    "end_date": "2026-09-12",
+    "is_lunar": true,
+    "is_trending": false,
+    "status": "active",
+    "sources": [
+      {
+        "url": "https://nhandan.vn/le-mung-lua-moi-cua-nguoi-mnong-post963856.html",
+        "title": "Lễ mừng lúa mới của người Mnông",
+        "publisher": "Báo Nhân Dân",
+        "accessed_date": "2026-06-26"
+      },
+      {
+        "url": "https://www.vietnamplus.vn/vui-le-hoi-mung-lua-moi-voi-dong-bao-dan-toc-xo-dang-o-tinh-dak-lak-post918733.vnp",
+        "title": "Vui Lễ hội mừng lúa mới với đồng bào dân tộc Xơ Đăng ở tỉnh Đắk Lắk",
+        "publisher": "VietnamPlus",
+        "accessed_date": "2026-06-26"
+      }
+    ]
+  },
+  {
+    "content_hash": "festi_cung_ben_nuoc_ede_v1",
+    "slug": "cung-ben-nuoc-ede-dak-lak",
+    "province_slug": "dak-lak",
+    "name_vi": "Lễ Cúng Bến Nước của người Ê Đê",
+    "name_en": "Ê Đê Water Source Worship Ceremony",
+    "description_vi": "Nghi lễ ba ngày thiêng liêng nhất trong đời sống tâm linh của người Ê Đê, Lễ Cúng Bến Nước cầu xin thần nước ban nguồn nước trong lành và bảo vệ buôn làng quanh năm. Thầy cúng dẫn đầu đoàn rước từ cổng làng đến bến nước giữa âm thanh cồng chiêng, trong khi lối vào buôn được đóng lại bằng dây thừng kết lông gà và sợi chỉ bông — biểu tượng của thế giới tâm linh đang hiện diện.",
+    "description_en": "The most sacred three-day ritual in Ê Đê spiritual life, the Water Source Worship Ceremony petitions the water spirit for clean water and year-round protection of the village. Led by a ritual specialist, a procession moves from the village gate to the water source to the sound of gongs, while the village entrance is sealed with rope adorned with chicken feathers and cotton thread — signaling that the spirit world is present.",
+    "start_date": "2026-11-15",
+    "end_date": "2026-11-17",
+    "is_lunar": false,
+    "is_trending": false,
+    "status": "active",
+    "sources": [
+      {
+        "url": "https://nhandan.vn/le-cung-ben-nuoc-cua-nguoi-e-de-post748468.html",
+        "title": "Lễ cúng bến nước của người Ê Đê",
+        "publisher": "Báo Nhân Dân",
+        "accessed_date": "2026-06-26"
+      },
+      {
+        "url": "https://vietnamtourism.gov.vn/post/58783",
+        "title": "Đắk Lắk: Bảo tồn và phát huy giá trị văn hóa lễ cúng bến nước",
+        "publisher": "Vietnam Tourism",
+        "accessed_date": "2026-06-26"
+      }
+    ]
+  }
+]

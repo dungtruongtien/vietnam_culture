@@ -1,0 +1,56 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "bao-tang-dak-lak",
+    "url": "https://media.mia.vn/uploads/blog-du-lich/bao-tang-dak-lak-diem-tham-quan-lich-su-vua-dep-vua-y-nghia-1652223160.jpg",
+    "domain": "media.mia.vn",
+    "downloaded_at": "2026-06-28T14:14:53.644Z",
+    "ok": true,
+    "size_kb": 306
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "bao-tang-dak-lak",
+    "url": "https://cdn3.ivivu.com/2025/10/bao-tang-dak-lak-ivivu-5.jpg",
+    "domain": "cdn3.ivivu.com",
+    "downloaded_at": "2026-06-28T14:14:54.772Z",
+    "ok": true,
+    "size_kb": 353
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "bao-tang-dak-lak",
+    "url": "https://dulichvietnam.com.vn/vnt_upload/news/07_2022/kinh_nghiem_di_bao_tang_dak_lak_14.jpg",
+    "domain": "dulichvietnam.com.vn",
+    "downloaded_at": "2026-06-28T14:14:55.865Z",
+    "ok": true,
+    "size_kb": 154
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "bao-tang-dak-lak",
+    "url": "https://images.vietnamtourism.gov.vn/vn/images/2024/thang_8/2608.dak-lak-bao-tang-1.jpeg",
+    "domain": "images.vietnamtourism.gov.vn",
+    "downloaded_at": "2026-06-28T14:14:57.001Z",
+    "ok": true,
+    "size_kb": 95
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "bao-tang-dak-lak",
+    "url": "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/07_2025/bao_tang_dak_lak_xanhsm_min.jpg",
+    "domain": "luhanhvietnam.com.vn",
+    "downloaded_at": "2026-06-28T14:14:58.086Z",
+    "ok": true,
+    "size_kb": 152
+  },
+  {
+    "file": "gallery-5.jpg",
+    "label": "bao-tang-dak-lak",
+    "url": "https://bazantravel.com/cdn/medias/uploads/27/27986-bao-tang-dak-lak-670x446.jpg",
+    "domain": "bazantravel.com",
+    "downloaded_at": "2026-06-28T14:15:02.181Z",
+    "ok": true,
+    "size_kb": 68
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "lang-lo-lo-chai",
+    "url": "https://vietadvisor.travel/wp-content/uploads/2025/06/Lo-Lo-Chai-Village.jpg",
+    "domain": "vietadvisor.travel",
+    "downloaded_at": "2026-06-28T12:48:35.743Z",
+    "ok": true,
+    "size_kb": 594
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "lang-lo-lo-chai",
+    "url": "https://hagiangamazingtours.com/wp-content/uploads/2023/06/things-to-do-in-dong-van-15.jpg",
+    "domain": "hagiangamazingtours.com",
+    "downloaded_at": "2026-06-28T12:48:36.824Z",
+    "ok": true,
+    "size_kb": 323
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "lang-lo-lo-chai",
+    "url": "https://hagiangamazingtours.com/wp-content/uploads/2023/06/things-to-do-in-dong-van-16.jpg",
+    "domain": "hagiangamazingtours.com",
+    "downloaded_at": "2026-06-28T12:48:37.868Z",
+    "ok": true,
+    "size_kb": 219
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "lang-lo-lo-chai",
+    "url": "https://hagiangamazingtours.com/wp-content/uploads/2023/06/things-to-do-in-dong-van-17.jpg",
+    "domain": "hagiangamazingtours.com",
+    "downloaded_at": "2026-06-28T12:48:38.953Z",
+    "ok": true,
+    "size_kb": 102
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "lang-lo-lo-chai",
+    "url": "https://hagiangamazingtours.com/wp-content/uploads/2023/04/things-to-do-in-ha-giang-1-2.jpg",
+    "domain": "hagiangamazingtours.com",
+    "downloaded_at": "2026-06-28T12:48:39.987Z",
+    "ok": true,
+    "size_kb": 90
+  },
+  {
+    "file": "gallery-5.jpg",
+    "label": "lang-lo-lo-chai",
+    "url": "https://hagiangamazingtours.com/wp-content/uploads/2023/09/lung-cu-flagpole-9.jpg",
+    "domain": "hagiangamazingtours.com",
+    "downloaded_at": "2026-06-28T12:48:41.017Z",
+    "ok": true,
+    "size_kb": 83
+  }
+]

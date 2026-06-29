@@ -1,0 +1,47 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "Thịt Gác Bếp Hà Giang",
+    "url": "https://media.mia.vn/uploads/blog-du-lich/thit-trau-gac-bep-ha-giang-dam-da-dac-san-vung-cao-nguyen-da-02-1642958312.jpg",
+    "domain": "media.mia.vn",
+    "downloaded_at": "2026-06-28T13:28:30.892Z",
+    "ok": true,
+    "size_kb": 150
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "Thịt Gác Bếp Hà Giang",
+    "url": "https://mia.vn/media/uploads/blog-du-lich/thit-trau-gac-bep-ha-giang-dam-da-dac-san-vung-cao-nguyen-da-01-1642958312.jpg",
+    "domain": "mia.vn",
+    "downloaded_at": "2026-06-28T13:28:32.115Z",
+    "ok": true,
+    "size_kb": 217
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "Thịt Gác Bếp Hà Giang",
+    "url": "https://cdnphoto.dantri.com.vn/CUKnDUFkLiHEAKtc6PZCBV8MHGs=/zoom/1200_630/2025/08/12/1907-17549052481200x0-edited-cropped-cropped-1754973306814.jpg",
+    "domain": "cdnphoto.dantri.com.vn",
+    "downloaded_at": "2026-06-28T13:28:33.434Z",
+    "ok": true,
+    "size_kb": 323
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "Thịt Gác Bếp Hà Giang",
+    "url": "https://motortrip.vn/wp-content/uploads/2023/02/thit-trau-gac-bep-ha-giang-20.jpg",
+    "domain": "motortrip.vn",
+    "downloaded_at": "2026-06-28T13:28:34.879Z",
+    "ok": true,
+    "size_kb": 115
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "Thịt Gác Bếp Hà Giang",
+    "url": "https://vietfoody.vn/wp-content/uploads/2023/01/thit-trau-gac-bep.jpg",
+    "domain": "vietfoody.vn",
+    "downloaded_at": "2026-06-28T13:28:36.303Z",
+    "ok": true,
+    "size_kb": 681
+  }
+]

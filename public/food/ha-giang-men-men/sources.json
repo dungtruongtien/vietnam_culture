@@ -1,0 +1,47 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "Mèn Mén Hà Giang",
+    "url": "https://media.mia.vn/uploads/blog-du-lich/Men-men-Ha-Giang-Dac-san-dam-da-voi-huong-vi-nui-rung-Dong-Bac-01-1644724042.jpg",
+    "domain": "media.mia.vn",
+    "downloaded_at": "2026-06-28T13:27:29.193Z",
+    "ok": true,
+    "size_kb": 233
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "Mèn Mén Hà Giang",
+    "url": "https://mia.vn/media/uploads/blog-du-lich/men-men-ha-giang-dac-san-dam-da-huong-vi-nui-rung-dong-bac-1644724380.jpg",
+    "domain": "mia.vn",
+    "downloaded_at": "2026-06-28T13:27:30.492Z",
+    "ok": true,
+    "size_kb": 166
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "Mèn Mén Hà Giang",
+    "url": "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/07_2019/bua-com-hang-ngay.jpg",
+    "domain": "luhanhvietnam.com.vn",
+    "downloaded_at": "2026-06-28T13:27:31.665Z",
+    "ok": true,
+    "size_kb": 103
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "Mèn Mén Hà Giang",
+    "url": "https://ninhthuantravels.com/wp-content/uploads/2024/08/Dac-san-doc-nhat-vo-nhi-cua-nguoi-Mong-o-Ha-Giang.jpg",
+    "domain": "ninhthuantravels.com",
+    "downloaded_at": "2026-06-28T13:27:32.855Z",
+    "ok": true,
+    "size_kb": 39
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "Mèn Mén Hà Giang",
+    "url": "https://motortrip.vn/wp-content/uploads/2023/02/men-men-ha-giang_4.jpg",
+    "domain": "motortrip.vn",
+    "downloaded_at": "2026-06-28T13:27:34.414Z",
+    "ok": true,
+    "size_kb": 97
+  }
+]

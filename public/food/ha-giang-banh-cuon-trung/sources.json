@@ -1,0 +1,47 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "Bánh Cuốn Trứng Hà Giang",
+    "url": "https://media.mia.vn/uploads/blog-du-lich/banh-cuon-pho-co-dong-van-mon-ngon-4-mua-den-ha-giang-deu-phai-thu-7-1642513279.jpg",
+    "domain": "media.mia.vn",
+    "downloaded_at": "2026-06-28T13:28:01.937Z",
+    "ok": true,
+    "size_kb": 88
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "Bánh Cuốn Trứng Hà Giang",
+    "url": "https://cdn1.tuoitre.vn/thumb_w/1200/tto/i/s626/2006/10/15/smxBWxbR.jpg",
+    "domain": "cdn1.tuoitre.vn",
+    "downloaded_at": "2026-06-28T13:28:03.736Z",
+    "ok": true,
+    "size_kb": 64
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "Bánh Cuốn Trứng Hà Giang",
+    "url": "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/07_2021/banh-cuon-trung-lang-son-hap-dan.png",
+    "domain": "luhanhvietnam.com.vn",
+    "downloaded_at": "2026-06-28T13:28:04.822Z",
+    "ok": true,
+    "size_kb": 385
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "Bánh Cuốn Trứng Hà Giang",
+    "url": "https://cdn.dealtoday.vn/bd5d618e1f9d4cada28d320358ec0dec.jpg",
+    "domain": "cdn.dealtoday.vn",
+    "downloaded_at": "2026-06-28T13:28:06.194Z",
+    "ok": true,
+    "size_kb": 151
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "Bánh Cuốn Trứng Hà Giang",
+    "url": "https://poliva.vn/wp-content/uploads/2020/03/banh-cuon-trung-1.jpg",
+    "domain": "poliva.vn",
+    "downloaded_at": "2026-06-28T13:28:07.348Z",
+    "ok": true,
+    "size_kb": 68
+  }
+]

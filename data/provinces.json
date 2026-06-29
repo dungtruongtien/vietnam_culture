@@ -74,5 +74,50 @@
     "area_km2": 7929,
     "region_vi": "Đông Bắc",
     "region_en": "Northeast"
+  },
+  {
+    "name_vi": "Đắk Lắk",
+    "name_en": "Dak Lak",
+    "slug": "dak-lak",
+    "type": "tinh",
+    "type_en": "province",
+    "svg_path_id": "dak-lak",
+    "status": "active",
+    "meta_description_vi": "Khám phá Đắk Lắk — vùng đất của voi, cà phê Buôn Ma Thuột và nền văn hóa cồng chiêng Tây Nguyên đặc sắc.",
+    "meta_description_en": "Explore Dak Lak — land of elephants, Buon Ma Thuot coffee, and the vibrant gong culture of the Central Highlands.",
+    "population": "1.9 triệu người",
+    "area_km2": 13125,
+    "region_vi": "Tây Nguyên",
+    "region_en": "Central Highlands"
+  },
+  {
+    "name_vi": "Bình Định",
+    "name_en": "Binh Dinh",
+    "slug": "binh-dinh",
+    "type": "tinh",
+    "type_en": "province",
+    "svg_path_id": "binh-dinh",
+    "status": "active",
+    "meta_description_vi": "Khám phá Bình Định — vương quốc Chăm Pa huyền thoại với những tháp Chăm cổ kính, bờ biển hoang sơ Kỳ Co và quê hương của Hoàng đế Quang Trung.",
+    "meta_description_en": "Explore Binh Dinh — legendary Cham Pa kingdom with ancient Cham towers, pristine Ky Co coastline, and the birthplace of Emperor Quang Trung.",
+    "population": "1.5 triệu người",
+    "area_km2": 6071,
+    "region_vi": "Duyên hải Nam Trung Bộ",
+    "region_en": "South Central Coast"
+  },
+  {
+    "name_vi": "Quảng Ngãi",
+    "name_en": "Quang Ngai",
+    "slug": "quang-ngai",
+    "type": "tinh",
+    "type_en": "province",
+    "svg_path_id": "quang-ngai",
+    "status": "active",
+    "meta_description_vi": "Khám phá Quảng Ngãi — đảo Lý Sơn tỏi nổi tiếng, khu chứng tích Sơn Mỹ và di chỉ văn hóa Sa Huỳnh 2.000 năm tuổi.",
+    "meta_description_en": "Explore Quang Ngai — Ly Son garlic island, the My Lai Memorial, and the 2,000-year-old Sa Huynh archaeological culture.",
+    "population": "1.3 triệu người",
+    "area_km2": 5153,
+    "region_vi": "Duyên hải Nam Trung Bộ",
+    "region_en": "South Central Coast"
   }
 ]

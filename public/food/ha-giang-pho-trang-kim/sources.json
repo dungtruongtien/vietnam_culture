@@ -1,0 +1,47 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "Phở Trắng Kim Hà Giang",
+    "url": "https://media.mia.vn/uploads/blog-du-lich/den-tay-bac-thi-phai-thu-ngay-pho-chua-ha-giang-1642514591.jpg",
+    "domain": "media.mia.vn",
+    "downloaded_at": "2026-06-28T13:27:55.540Z",
+    "ok": true,
+    "size_kb": 64
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "Phở Trắng Kim Hà Giang",
+    "url": "https://cdn3.ivivu.com/2023/11/pho-trang-kim-ivivu-3.jpg",
+    "domain": "cdn3.ivivu.com",
+    "downloaded_at": "2026-06-28T13:27:56.882Z",
+    "ok": true,
+    "size_kb": 121
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "Phở Trắng Kim Hà Giang",
+    "url": "https://cdn2.tuoitre.vn/471584752817336320/2025/12/7/48127280210602142061233105136285612940257399n-17650947986311150208301.jpg",
+    "domain": "cdn2.tuoitre.vn",
+    "downloaded_at": "2026-06-28T13:27:58.240Z",
+    "ok": true,
+    "size_kb": 634
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "Phở Trắng Kim Hà Giang",
+    "url": "https://datviettour.com.vn/uploads/images/tin-tuc-SEO/mien-bac/ha-giang/am-thuc/pho-trang-kim.jpeg",
+    "domain": "datviettour.com.vn",
+    "downloaded_at": "2026-06-28T13:27:59.391Z",
+    "ok": true,
+    "size_kb": 132
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "Phở Trắng Kim Hà Giang",
+    "url": "https://www.cotrang.org/public/images/tin_dang/5/15_pho-trang-kim-1.jpg",
+    "domain": "www.cotrang.org",
+    "downloaded_at": "2026-06-28T13:28:00.750Z",
+    "ok": true,
+    "size_kb": 221
+  }
+]

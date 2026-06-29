@@ -11,7 +11,6 @@ import {
   getAllFestivals,
 } from '@/lib/queries';
 import FestivalDetail from '@/components/FestivalDetail';
-import AdSlot from '@/components/AdSlot';
 
 export async function generateStaticParams() {
   const festivals = await getAllFestivals();
@@ -156,11 +155,6 @@ export default async function FestivalDetailPage({ params }: Props) {
             </div>
           </header>
 
-          {/* Ad — top */}
-          <div className="max-w-7xl mx-auto w-full px-4 mt-3">
-            <AdSlot id={`${festivalItem.slug}-banner-top`} size="leaderboard" />
-          </div>
-
           {/* Festival detail content */}
           <main className="flex-1">
             <FestivalDetail
@@ -175,11 +169,6 @@ export default async function FestivalDetailPage({ params }: Props) {
               provinceTypeSlug={provinceTypeSlug}
             />
           </main>
-
-          {/* Ad — bottom */}
-          <div className="max-w-7xl mx-auto w-full px-4 mb-3">
-            <AdSlot id={`${festivalItem.slug}-banner-bottom`} size="leaderboard" />
-          </div>
 
           {/* Footer */}
           <footer style={{ background: '#3D1A1F' }} className="text-white/60 mt-8">

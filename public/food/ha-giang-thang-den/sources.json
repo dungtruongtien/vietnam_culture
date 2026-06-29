@@ -1,0 +1,47 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "Thắng Đen Hà Giang",
+    "url": "https://media.mia.vn/uploads/blog-du-lich/thang-den-ha-giang-mon-an-choi-nuc-long-bao-thuc-khach-04-1642637283.jpg",
+    "domain": "media.mia.vn",
+    "downloaded_at": "2026-06-28T13:28:08.560Z",
+    "ok": true,
+    "size_kb": 225
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "Thắng Đen Hà Giang",
+    "url": "https://icdn.dantri.com.vn/thumb_w/1920/2023/02/12/song-nho-queha-giang2023do-quan-5-1676207628985.jpg",
+    "domain": "icdn.dantri.com.vn",
+    "downloaded_at": "2026-06-28T13:28:11.944Z",
+    "ok": true,
+    "size_kb": 1173
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "Thắng Đen Hà Giang",
+    "url": "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/10_2022/lau-ga-den-ha-giang-9.jpg",
+    "domain": "luhanhvietnam.com.vn",
+    "downloaded_at": "2026-06-28T13:28:13.019Z",
+    "ok": true,
+    "size_kb": 191
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "Thắng Đen Hà Giang",
+    "url": "https://vietsensetravel.com/view/at_thang-den-ha-giang-la-mon-dac-san-nhu-the-nao_9fe86a5b537ec931a7617711f746e022.jpg",
+    "domain": "vietsensetravel.com",
+    "downloaded_at": "2026-06-28T13:28:14.375Z",
+    "ok": true,
+    "size_kb": 51
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "Thắng Đen Hà Giang",
+    "url": "https://motortrip.vn/wp-content/uploads/2023/02/thang-den-ha-giang_5.jpg",
+    "domain": "motortrip.vn",
+    "downloaded_at": "2026-06-28T13:32:05.693Z",
+    "ok": true,
+    "size_kb": 54
+  }
+]

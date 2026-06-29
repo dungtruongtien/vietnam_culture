@@ -1,0 +1,56 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "nha-cua-pao",
+    "url": "https://hagiangamazingtours.com/wp-content/uploads/2023/06/paos-house-1.jpg",
+    "domain": "hagiangamazingtours.com",
+    "downloaded_at": "2026-06-28T12:48:55.407Z",
+    "ok": true,
+    "size_kb": 121
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "nha-cua-pao",
+    "url": "https://hagiangamazingtours.com/wp-content/uploads/2023/06/paos-house-2.jpg",
+    "domain": "hagiangamazingtours.com",
+    "downloaded_at": "2026-06-28T12:48:56.443Z",
+    "ok": true,
+    "size_kb": 69
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "nha-cua-pao",
+    "url": "https://hagiangamazingtours.com/wp-content/uploads/2023/06/paos-house-3.jpg",
+    "domain": "hagiangamazingtours.com",
+    "downloaded_at": "2026-06-28T12:48:57.485Z",
+    "ok": true,
+    "size_kb": 38
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "nha-cua-pao",
+    "url": "https://hagiangamazingtours.com/wp-content/uploads/2023/06/paos-house-5.jpg",
+    "domain": "hagiangamazingtours.com",
+    "downloaded_at": "2026-06-28T12:48:58.520Z",
+    "ok": true,
+    "size_kb": 70
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "nha-cua-pao",
+    "url": "https://hagiangamazingtours.com/wp-content/uploads/2023/06/paos-house-8.jpg",
+    "domain": "hagiangamazingtours.com",
+    "downloaded_at": "2026-06-28T12:48:59.560Z",
+    "ok": true,
+    "size_kb": 107
+  },
+  {
+    "file": "gallery-5.jpg",
+    "label": "nha-cua-pao",
+    "url": "https://vietadvisor.travel/wp-content/uploads/2025/06/Sung-La-Valley.jpeg",
+    "domain": "vietadvisor.travel",
+    "downloaded_at": "2026-06-28T12:49:00.986Z",
+    "ok": true,
+    "size_kb": 181
+  }
+]

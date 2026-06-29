@@ -1,0 +1,56 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "hoi-voi-buon-don",
+    "url": "https://media.mia.vn/uploads/blog-du-lich/dac-sac-le-hoi-dua-voi-buon-don-buon-ma-thuot-04-1651484710.jpg",
+    "domain": "media.mia.vn",
+    "downloaded_at": "2026-06-28T14:18:31.342Z",
+    "ok": true,
+    "size_kb": 258
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "hoi-voi-buon-don",
+    "url": "https://mia.vn/media/uploads/blog-du-lich/dac-sac-le-hoi-dua-voi-buon-don-buon-ma-thuot-06-1651484967.jpg",
+    "domain": "mia.vn",
+    "downloaded_at": "2026-06-28T14:18:32.504Z",
+    "ok": true,
+    "size_kb": 65
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "hoi-voi-buon-don",
+    "url": "https://cdn2.tuoitre.vn/471584752817336320/2026/1/16/base64-1768583220208240768123.jpeg",
+    "domain": "cdn2.tuoitre.vn",
+    "downloaded_at": "2026-06-28T14:18:33.829Z",
+    "ok": true,
+    "size_kb": 1301
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "hoi-voi-buon-don",
+    "url": "https://img1.kienthucvui.vn/uploads/2021/12/24/anh-hoat-dong-chao-mung-trong-le-hoi-dua-voi-buon-don-2019_051828452.jpg",
+    "domain": "img1.kienthucvui.vn",
+    "downloaded_at": "2026-06-28T14:18:37.273Z",
+    "ok": true,
+    "size_kb": 740
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "hoi-voi-buon-don",
+    "url": "https://dulichtaynguyen.org/view/at_hoi-dua-voi-o-buon-don_9be2134c3ddf6ce19241badfa5311026.jpg",
+    "domain": "dulichtaynguyen.org",
+    "downloaded_at": "2026-06-28T14:18:38.690Z",
+    "ok": true,
+    "size_kb": 262
+  },
+  {
+    "file": "gallery-5.jpg",
+    "label": "hoi-voi-buon-don",
+    "url": "https://3vi.vn/wp-content/uploads/2023/01/dac-sac-le-hoi-dua-voi-buon-don-buon-ma-thuot-01-1651484076.jpg",
+    "domain": "3vi.vn",
+    "downloaded_at": "2026-06-28T14:18:39.942Z",
+    "ok": true,
+    "size_kb": 69
+  }
+]

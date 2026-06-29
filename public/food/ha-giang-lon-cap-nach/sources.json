@@ -1,0 +1,47 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "Lợn Cắp Nách Hà Giang",
+    "url": "https://media.mia.vn/uploads/blog-du-lich/lon-cap-nach-ha-giang-dac-san-dan-da-cua-vung-cao-ha-giang-04-1642338389.jpg",
+    "domain": "media.mia.vn",
+    "downloaded_at": "2026-06-28T13:27:49.535Z",
+    "ok": true,
+    "size_kb": 220
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "Lợn Cắp Nách Hà Giang",
+    "url": "https://motortrip.vn/wp-content/uploads/2023/02/thit-lon-cap-nach-ha-giang-2-1.jpg",
+    "domain": "motortrip.vn",
+    "downloaded_at": "2026-06-28T13:27:50.764Z",
+    "ok": true,
+    "size_kb": 116
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "Lợn Cắp Nách Hà Giang",
+    "url": "https://hoangviettravel.vn/wp-content/uploads/2020/11/lon-cap-nach-ha-giang1-min.jpg",
+    "domain": "hoangviettravel.vn",
+    "downloaded_at": "2026-06-28T13:27:51.910Z",
+    "ok": true,
+    "size_kb": 36
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "Lợn Cắp Nách Hà Giang",
+    "url": "https://hagiangsensetravel.com/view/at_lon-cap-nach--thuong-thuc-dac-san-vung-cao-ha-giang_c4e7479dbfc3215fea653b476fe63426.jpg",
+    "domain": "hagiangsensetravel.com",
+    "downloaded_at": "2026-06-28T13:27:53.229Z",
+    "ok": true,
+    "size_kb": 48
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "Lợn Cắp Nách Hà Giang",
+    "url": "https://cdn.tgdd.vn/Files/2022/06/02/1436440/ha-giang-co-dac-san-gi-x-dac-san-ha-giang-mua-lam-qua-202206020947174502.jpg",
+    "domain": "cdn.tgdd.vn",
+    "downloaded_at": "2026-06-28T13:27:54.363Z",
+    "ok": true,
+    "size_kb": 189
+  }
+]

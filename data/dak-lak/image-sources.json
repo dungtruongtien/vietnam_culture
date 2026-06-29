@@ -1,0 +1,317 @@
+[
+  {
+    "slug": "dak-lak-bun-do",
+    "type": "food",
+    "label": "Bún Đỏ Buôn Ma Thuột",
+    "hero": "https://cdn3.ivivu.com/2023/04/bundo-ivivu.jpeg",
+    "gallery": [
+      "https://cdn3.ivivu.com/2023/04/bún-đỏ.jpg",
+      "https://cdn3.ivivu.com/2023/04/bún-do-ivivu.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/top-18-mon-ngon-buon-ma-thuot-nhat-dinh-phai-thu-khi-den-day-1713267219.jpg",
+      "https://cdn3.ivivu.com/2023/04/bún-đỏ-ivivu.jpg"
+    ]
+  },
+  {
+    "slug": "dak-lak-com-lam-ga-nuong",
+    "type": "food",
+    "label": "Cơm Lam Gà Nướng Tây Nguyên",
+    "hero": "https://upload.wikimedia.org/wikipedia/commons/e/e3/C%C6%A1m_lam_T%C3%A2y_Nguy%C3%AAn.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/75/C%C6%A1m_lam_5.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/cc/Com-lam-cao-bang.jpg",
+      "https://vietsensetravel.com/view/at_com-lam-dac-trung-cua-nguoi-dan-tay-nguyen_221fa906274b2c52f7ff8c17977324a4.jpg",
+      "https://vietsensetravel.com/view/at_ga-nuong-ban-don_00deff23f813baa200b4155d2f84d632.jpg"
+    ]
+  },
+  {
+    "slug": "dak-lak-lau-ca-lang",
+    "type": "food",
+    "label": "Lẩu Cá Lăng Sông Sêrêpôk",
+    "hero": "https://mia.vn/media/uploads/blog-du-lich/thuong-thuc-ngay-mon-lau-ca-lang-buon-ma-thuot-ngon-nuc-tieng-01-1651584444.jpeg",
+    "gallery": [
+      "https://mia.vn/media/uploads/blog-du-lich/thuong-thuc-ngay-mon-lau-ca-lang-buon-ma-thuot-ngon-nuc-tieng-02-1651584446.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/thuong-thuc-ngay-mon-lau-ca-lang-buon-ma-thuot-ngon-nuc-tieng-03-1651584449.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/thuong-thuc-ngay-mon-lau-ca-lang-buon-ma-thuot-ngon-nuc-tieng-04-1651584452.jpg",
+      "https://mia.vn/media/uploads/blog-du-lich/thuong-thuc-ngay-mon-lau-ca-lang-buon-ma-thuot-ngon-nuc-tieng-05-1651584454.jpg"
+    ]
+  },
+  {
+    "slug": "dak-lak-ca-dang",
+    "type": "food",
+    "label": "Cà Đắng Tây Nguyên",
+    "hero": "https://media.mia.vn/uploads/blog-du-lich/la-mi-xao-ca-dang-mon-an-gian-di-cua-dong-bao-tay-nguyen-5-1659495976.jpg",
+    "gallery": [
+      "https://mia.vn/media/uploads/blog-du-lich/la-mi-xao-ca-dang-mon-an-gian-di-cua-dong-bao-tay-nguyen-4-1659495976.jpg",
+      "https://icdn.dantri.com.vn/2021/02/14/14022021-thuong-thuc-mon-canh-thut-ca-dang-trong-ngay-sum-hop-gia-dinh-duong-phongdocx-1613273027619.jpeg",
+      "https://icdn.dantri.com.vn/2021/02/15/7-1613383960964.jpg",
+      "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/01_2021/ca-dang-da-trau-lam-dong.jpg"
+    ]
+  },
+  {
+    "slug": "dak-lak-canh-thut",
+    "type": "food",
+    "label": "Canh Thụt Ê Đê / M\\",
+    "hero": "https://icdn.dantri.com.vn/2021/02/14/14022021-thuong-thuc-mon-canh-thut-ca-dang-trong-ngay-sum-hop-gia-dinh-duong-phongdocx-1613273027619.jpeg",
+    "gallery": [
+      "https://cdnphoto.dantri.com.vn/qD2ArfVHOIdU0fz0nSxdL7NV56o=/thumb_w/960/2021/02/14/14022021-thuong-thuc-mon-canh-thut-ca-dang-trong-ngay-sum-hop-gia-dinh-duong-phongdocx-1613273028446.jpeg",
+      "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/11_2022/canh-thut-binh-phuoc-dot.jpg",
+      "https://tourtaynguyenvtd.com/wp-content/uploads/2022/04/canh-thut-min.jpg",
+      "https://www.sgtiepthi.vn/wp-content/uploads/2021/04/canhthut-01.jpg"
+    ]
+  },
+  {
+    "slug": "dak-lak-thit-nuong-ong-tre",
+    "type": "food",
+    "label": "Thịt Nướng Ống Tre Tây Nguyên",
+    "hero": "https://vovworld.vn/sites/default/files/world/Uploaded/vietanh/2021_04_23/heolaihapnuongongtre_JZMD.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/e9/Pork_skewers_on_the_grill_-_Banh_Uot_hawker.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/9d/Pork_BBQ.jpg",
+      "https://vietsensetravel.com/view/at_ga-nuong-ban-don_00deff23f813baa200b4155d2f84d632.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a1/Grilled_Pork%2C_Banh_Uot%2C_herbs%2C_rice_paper_VND10000_each_-_photo_by_Julia.jpg"
+    ]
+  },
+  {
+    "slug": "dak-lak-canh-chua-kien-vang",
+    "type": "food",
+    "label": "Canh Chua Kiến Vàng Ê Đê",
+    "hero": "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/12_2020/Canh-chua-kien-vang-danviet.jpg",
+    "gallery": [
+      "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/12_2020/Canh-chua-kien-vang-baopl.jpg",
+      "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/12_2020/Canh-chua-kien-vang-SAS.jpg",
+      "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/12_2020/Canh-chua-kien-vang-kienthuc.jpg",
+      "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/12_2020/Canh-chua-kien-vang-kienthuc2.jpg"
+    ]
+  },
+  {
+    "slug": "dak-lak-nem-nuong-bmt",
+    "type": "food",
+    "label": "Nem Nướng Buôn Ma Thuột",
+    "hero": "https://www.hungryhuy.com/wp-content/uploads/1-bun-nem-nuong.jpg",
+    "gallery": [
+      "https://www.hungryhuy.com/wp-content/uploads/2-bun-nem-nuong.jpg",
+      "https://www.hungryhuy.com/wp-content/uploads/3-bun-nem-nuong.jpg",
+      "https://i0.wp.com/vickypham.com/wp-content/uploads/2018/04/39778-vietnamesegrilledporksausagenemnuongvickypham.jpg",
+      "https://i0.wp.com/vickypham.com/wp-content/uploads/2018/04/bec5a-vietnamesegrilledporknemnuong.jpg"
+    ]
+  },
+  {
+    "slug": "dak-lak-bo-nhung-me",
+    "type": "food",
+    "label": "Bò Nhúng Mẻ Buôn Ma Thuột",
+    "hero": "https://media.mia.vn/uploads/blog-du-lich/luu-ngay-18-mon-ngon-nhat-dinh-phai-thu-khi-den-buon-ma-thuot-phan-2-6-1652086462.jpeg",
+    "gallery": [
+      "https://mia.vn/media/uploads/blog-du-lich/quan-ngon-buon-ma-thuot-hoa-lu-quan-1713541923.jpg",
+      "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/11_2022/batch_bo-nhung-me-hana.yummy_.jpg",
+      "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2022/9/22/1096017/2.jpg",
+      "https://bmgroup.asia/wp-content/uploads/2023/10/bo-nhung-me-buon-ma-thuot-2.jpg"
+    ]
+  },
+  {
+    "slug": "dak-lak-ca-phe-ban-me",
+    "type": "food",
+    "label": "Cà Phê Ban Mê Buôn Ma Thuột",
+    "hero": "https://mia.vn/media/uploads/blog-du-lich/phat-hien-4-dia-diem-mua-cafe-bot-ngon-o-buon-ma-thuot-04-1651747226.jpg",
+    "gallery": [
+      "https://media.mia.vn/uploads/blog-du-lich/me-man-huong-vi-doc-la-hap-dan-cua-ca-phe-kem-buon-ma-thuot-01-1652017706.jpeg",
+      "https://cdn3.ivivu.com/2019/09/bao-tang-ca-phe-o-buon-ma-thuot-ivivu-2.jpg",
+      "https://cdnphoto.dantri.com.vn/uVE7ZuE1p79nH7jJlBN9yIy4rlQ=/thumb_w/1920/2023/03/10/le-hoi-duong-phodak-lak2023duong-phong26-1678445169449.jpg?watermark=true",
+      "https://luhanhvietnam.com.vn/du-lich-free-easy/vnt_upload/news/10_2022/74_du_lich_buon_ma_thuot_gia_re_9.jpg"
+    ]
+  },
+  {
+    "slug": "bao-tang-dak-lak",
+    "type": "place",
+    "label": "bao-tang-dak-lak",
+    "hero": "https://media.mia.vn/uploads/blog-du-lich/bao-tang-dak-lak-diem-tham-quan-lich-su-vua-dep-vua-y-nghia-1652223160.jpg",
+    "gallery": [
+      "https://cdn3.ivivu.com/2025/10/bao-tang-dak-lak-ivivu-5.jpg",
+      "https://dulichvietnam.com.vn/vnt_upload/news/07_2022/kinh_nghiem_di_bao_tang_dak_lak_14.jpg",
+      "https://images.vietnamtourism.gov.vn/vn/images/2024/thang_8/2608.dak-lak-bao-tang-1.jpeg",
+      "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/07_2025/bao_tang_dak_lak_xanhsm_min.jpg",
+      "https://bazantravel.com/cdn/medias/uploads/27/27986-bao-tang-dak-lak-670x446.jpg"
+    ]
+  },
+  {
+    "slug": "ho-lak",
+    "type": "place",
+    "label": "ho-lak",
+    "hero": "https://media.mia.vn/uploads/blog-du-lich/ho-lak-voi-ve-dep-mo-mang-khien-bao-nguoi-thuong-nho-giua-chon-dai-ngan-1652169169.jpg",
+    "gallery": [
+      "https://mia.vn/media/uploads/blog-du-lich/khu-du-lich-ho-lak-1-1703435499.jpg",
+      "https://cdn3.ivivu.com/2022/10/h%E1%BB%93-lak-ivivu-2.jpg",
+      "https://images.vietnamtourism.gov.vn/vn/images/2019/CNMN/1410-Ghe-tham-ho-Lak--vien-ngoc-giua-dai-ngan-Tay-Nguyen.jpg",
+      "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2025/4/23/ho-laktto-17453912548032014699083-271-0-1276-1920-crop-1745391291191484440621.jpg",
+      "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/12_2025/0_quan_an_ngon_gan_ho_lak.jpg"
+    ]
+  },
+  {
+    "slug": "buon-don",
+    "type": "place",
+    "label": "buon-don",
+    "hero": "https://images.vietnamtourism.gov.vn/en/images/2024/dec/bd-1-dsc_4233---tuan-anh.jpg",
+    "gallery": [
+      "https://ik.imagekit.io/tvlk/blog/2023/05/buon-don-1.jpg?tr=dpr-2,w-675",
+      "https://bizweb.dktcdn.net/100/149/137/files/cau-treo-buon-don.jpg?v=1668918733442",
+      "https://ik.imagekit.io/tvlk/blog/2023/05/buon-don-1.jpg?tr=dpr-2,w-675",
+      "https://ik.imagekit.io/tvlk/blog/2023/05/buon-don-4.jpg?tr=dpr-2,w-675",
+      "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2025/3/13/9d4e91951d3445e3b3030eb28ec4ef4b"
+    ]
+  },
+  {
+    "slug": "thac-dray-nur",
+    "type": "place",
+    "label": "thac-dray-nur",
+    "hero": "https://media.mia.vn/uploads/blog-du-lich/kham-pha-tron-ven-cum-3-thac-dray-sap-dray-nur-gia-long-3-1651479180.jpg",
+    "gallery": [
+      "https://cdn3.ivivu.com/2020/07/ve-dak-lak-nghe-thien-tinh-su-thon-thuc-thac-dray-nur-tran.c_.jpg",
+      "https://halotravel.vn/wp-content/uploads/2021/02/ve-dep-thien-nhien-thac-dray-nur-1024x768.jpg",
+      "https://tripmap.vn/wp-content/uploads/2021/07/thac-dray-nur-1627268727697.jpg",
+      "http://saigonthanhcong.com/img_data/images/th%C3%A1c-draynuh5.jpg",
+      "http://saigonthanhcong.com/img_data/images/th%C3%A1c-draynuh5.jpg"
+    ]
+  },
+  {
+    "slug": "vuon-quoc-gia-yok-don",
+    "type": "place",
+    "label": "vuon-quoc-gia-yok-don",
+    "hero": "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/04_2020/vuon-quoc-gia-yok-don.jpg",
+    "gallery": [
+      "https://dulichtaynguyen.org/view/at_vuon-quoc-gia-yok-don_05e1cda7ea9923979873ccc46b3e781d.jpg",
+      "https://vietrektravel.com/ckeditor/plugins/fileman/Uploads/phuoc%20binh/vuon-quoc-gia-yok-don-2.jpg",
+      "https://green-journey-dev.s3.amazonaws.com/django-summernote/2023-03-31/84f18e5b-9873-424b-9271-ad731409bb4c.jpg",
+      "https://52hz.vn/wp-content/uploads/2022/09/52hz-vuon-quoc-gia-yok-don.jpg",
+      "https://topdaklakaz.com/wp-content/uploads/2024/01/hinh-anh-vuon-quoc-gia-yok-don-9.jpg"
+    ]
+  },
+  {
+    "slug": "bao-tang-ca-phe",
+    "type": "place",
+    "label": "bao-tang-ca-phe",
+    "hero": "https://media.mia.vn/uploads/blog-du-lich/bao-tang-the-gioi-ca-phe-voi-khong-gian-doc-dao-noi-tay-nguyen-gio-long-1652167457.jpg",
+    "gallery": [
+      "https://cdn3.ivivu.com/2019/09/bao-tang-ca-phe-o-buon-ma-thuot-ivivu-3.jpg",
+      "https://dulichvietnam.com.vn/vnt_upload/news/04_2023/bao_tang_the_gioi_ca_phe_8.jpg",
+      "https://images.vietnamtourism.gov.vn/en/images/2024/dec/bao_tang_ca_phe_2.jpg",
+      "https://kientrucvadoisong.net/Upload/News/bao-tang-the-gioi-ca-phe.jpg",
+      "https://cdn.tcdulichtphcm.vn/upload/3-2022/images/2022-07-24/1658659180-thong-tin-ve-bao-tang-the-gioi-ca-phe-buon-ma-thuot-the-world-coffee-museum.jpg"
+    ]
+  },
+  {
+    "slug": "buon-ako-dhong",
+    "type": "place",
+    "label": "buon-ako-dhong",
+    "hero": "https://media.mia.vn/uploads/blog-du-lich/trai-nghiem-van-hoa-doc-dao-tai-buon-ako-dhong-7-1651563609.jpg",
+    "gallery": [
+      "https://mia.vn/media/uploads/blog-du-lich/trai-nghiem-van-hoa-doc-dao-tai-buon-ako-dhong-1-1651561755.jpg",
+      "https://images.vietnamtourism.gov.vn/vn/images/2021/CNMN/Thang4/5.4.Dak_Lak-Buon_Ako_Dhong_phat_trien_du_lich_cong_dong_2.jpg",
+      "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/10_2021/buon-ako-dhong-tranngoctram1995.jpg",
+      "https://52hz.vn/wp-content/uploads/2022/09/52hz-buon-ako-dhong-1024x768.jpg",
+      "https://media.vov.vn/sites/default/files/styles/large_watermark/public/2021-05/img_1918.jpg"
+    ]
+  },
+  {
+    "slug": "thap-yang-prong",
+    "type": "place",
+    "label": "thap-yang-prong",
+    "hero": "https://mia.vn/media/uploads/blog-du-lich/kham-pha-thap-cham-yang-prong-vo-cung-co-kinh-o-buon-ma-thuot-05-1652691051.jpg",
+    "gallery": [
+      "https://media.mia.vn/uploads/blog-du-lich/kham-pha-thap-cham-yang-prong-vo-cung-co-kinh-o-buon-ma-thuot-02-1652096300.jpg",
+      "https://cdn1.tuoitre.vn/thumb_w/1200/tto/i/s626/2007/01/21/lasmksf1.jpg",
+      "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/02_2021/thap-yang-prong-min.jpg",
+      "https://52hz.vn/wp-content/uploads/2021/12/thap-cham-7.jpg",
+      "https://52hz.vn/wp-content/uploads/2021/12/thap-cham-7.jpg"
+    ]
+  },
+  {
+    "slug": "nha-day-buon-ma-thuot",
+    "type": "place",
+    "label": "nha-day-buon-ma-thuot",
+    "hero": "https://mia.vn/media/uploads/blog-du-lich/nha-day-buon-ma-thuot-2-1703085464.jpg",
+    "gallery": [
+      "https://www.vietnamtravelgroup.com.vn/datafiles/32985/upload/images/tin-tuc/tin-du-lich-1/khung-canh-nha-day-buon-ma-thuot-noi-dia-nguc-tran-gian-mot-thoi-1.jpg?t=1701269808",
+      "https://www.vietnamtravelgroup.com.vn/datafiles/32985/upload/images/tin-tuc/tin-du-lich-1/khung-canh-nha-day-buon-ma-thuot-noi-dia-nguc-tran-gian-mot-thoi-1.jpg?t=1701269808",
+      "http://dulichcaonguyen.com/wp-content/uploads/2025/06/aa.jpg",
+      "http://redsvn.net/wp-content/uploads/2019/03/Nha-day-Buon-Ma-Thuot-01.jpg",
+      "http://redsvn.net/wp-content/uploads/2019/03/Nha-day-Buon-Ma-Thuot-01.jpg"
+    ]
+  },
+  {
+    "slug": "dinh-bao-dai-ho-lak",
+    "type": "place",
+    "label": "dinh-bao-dai-ho-lak",
+    "hero": "https://media.mia.vn/uploads/blog-du-lich/tong-hop-kinh-nghiem-kham-pha-dinh-i-dinh-bao-dai-day-du-nhat-01-1635862629.jpg",
+    "gallery": [
+      "https://cdn3.ivivu.com/2022/11/dinh-vua-bao-dai-do-son-ivivu-7.jpg",
+      "https://dulichvietnam.com.vn/vnt_upload/news/03_2025/dinh_bao_dai_iii_da_lat_chupchoetsaigon.jpg",
+      "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/03_2021/biet-dien-bao-dai-o-ho-lak-min.jpg",
+      "https://images2.thanhnien.vn/zoom/1200_630/528068263637045248/2024/11/10/anh-biet-dien-bao-dai-ho-lak-1-1731252444998666998070-133-318-1177-2312-crop-17312532470091207353930.jpg",
+      "https://asiaeyestravel.com/uploads/source/blog/daklak/dinh-bao-dai-ben-ho-lak.jpg"
+    ]
+  },
+  {
+    "slug": "ca-phe-buon-ma-thuot",
+    "type": "festival",
+    "label": "ca-phe-buon-ma-thuot",
+    "hero": "https://mia.vn/media/uploads/blog-du-lich/quan-ca-phe-dep-o-buon-ma-thuot-tiem-ca-phe-di-oi-1703004939.jpg",
+    "gallery": [
+      "https://cdn3.ivivu.com/2019/09/bao-tang-ca-phe-o-buon-ma-thuot-ivivu-2.jpg",
+      "https://cf.shopee.com.my/file/030d409bfbd60e77dfe8f0c980905a58",
+      "https://down-my.img.susercontent.com/file/my-11134207-7r98r-lv2g4fd9gymdf9",
+      "https://giacaphe.com/wp-content/uploads/2026/03/le-hoi-ca-phe-buon-ma-thuot-nam-2027-1.jpg",
+      "https://image.voh.com.vn/voh/thumbnail/2023/02/03/le-hoi-ca-phe-buon-ma-thuot-lan-thu-8-se-dien-ra-tu-ngay-10-14-3-2023.jpg?w=1280&q=85"
+    ]
+  },
+  {
+    "slug": "hoi-voi-buon-don",
+    "type": "festival",
+    "label": "hoi-voi-buon-don",
+    "hero": "https://media.mia.vn/uploads/blog-du-lich/dac-sac-le-hoi-dua-voi-buon-don-buon-ma-thuot-04-1651484710.jpg",
+    "gallery": [
+      "https://mia.vn/media/uploads/blog-du-lich/dac-sac-le-hoi-dua-voi-buon-don-buon-ma-thuot-06-1651484967.jpg",
+      "https://cdn2.tuoitre.vn/471584752817336320/2026/1/16/base64-1768583220208240768123.jpeg",
+      "https://img1.kienthucvui.vn/uploads/2021/12/24/anh-hoat-dong-chao-mung-trong-le-hoi-dua-voi-buon-don-2019_051828452.jpg",
+      "https://dulichtaynguyen.org/view/at_hoi-dua-voi-o-buon-don_9be2134c3ddf6ce19241badfa5311026.jpg",
+      "https://3vi.vn/wp-content/uploads/2023/01/dac-sac-le-hoi-dua-voi-buon-don-buon-ma-thuot-01-1651484076.jpg"
+    ]
+  },
+  {
+    "slug": "cong-chieng-tay-nguyen-dak-lak",
+    "type": "festival",
+    "label": "cong-chieng-tay-nguyen-dak-lak",
+    "hero": "https://mia.vn/media/uploads/blog-du-lich/trai-nghiem-le-hoi-cong-chieng-tay-nguyen-thu-vi-tai-dak-lak-02-1651914001.jpg",
+    "gallery": [
+      "https://media.mia.vn/uploads/blog-du-lich/trai-nghiem-le-hoi-cong-chieng-tay-nguyen-thu-vi-tai-dak-lak-08-1651914296.jpg",
+      "https://dantoc.vietnamtourism.gov.vn/wp-content/uploads/2024/12/23.11.-Dak-Lak-Ket-noi-VHDS-phi-vat-the-Khong-gian-VH-cong-chieng-Tay-Nguyen-1-1024x658.jpg",
+      "https://images.vietnamtourism.gov.vn/vn/images/2025/thang_12/1912.dak-lak-cong-chieng-2.jpg",
+      "https://www.vietfuntravel.com.vn/image/data/Blog/chia-se/ve-buon-don-kham-pha-van-hoa-cong-chieng-o-dak-lak/ve-buon-don-kham-pha-van-hoa-cong-chieng-o-dak-lak-h3.png",
+      "https://static-images.vanhoanghethuat.vn/datasite/201807/BAI_VIET_22556/doan%20Dak%20Lak.jpg?width=0&s=jd8GwYkhX2Fe38VXqld0-w"
+    ]
+  },
+  {
+    "slug": "mung-lua-moi-mnong-dak-lak",
+    "type": "festival",
+    "label": "mung-lua-moi-mnong-dak-lak",
+    "hero": "https://media.mia.vn/uploads/blog-du-lich/tim-hieu-le-hoi-dam-trau-mung-lua-moi-tai-binh-phuoc-5-1657005747.jpg",
+    "gallery": [
+      "https://mia.vn/media/uploads/blog-du-lich/kham-pha-le-hoi-mung-lua-moi-cua-dong-bao-s-tieng-1657025962.jpg",
+      "https://images.vietnamtourism.gov.vn/vn/images/2022/thang_10/3010.cung_lua_moi_-_dak_lak_2.jpg",
+      "https://dantoc.vietnamtourism.gov.vn/wp-content/uploads/2024/11/29.11.-Gia-Lai-Phuc-dung-Le-mung-lua-moi-cua-dong-bao-Jrai-1.jpg",
+      "https://dantoc.vietnamtourism.gov.vn/wp-content/uploads/2024/11/29.11.-Gia-Lai-Phuc-dung-Le-mung-lua-moi-cua-dong-bao-Jrai-1.jpg",
+      "https://media.baovanhoa.vn/uploaded/ngothithuytrang/2025_12_18/mung_lua_moi_2_fykv.jpg"
+    ]
+  },
+  {
+    "slug": "cung-ben-nuoc-ede-dak-lak",
+    "type": "festival",
+    "label": "cung-ben-nuoc-ede-dak-lak",
+    "hero": "https://dantoc.vietnamtourism.gov.vn/wp-content/uploads/2025/11/am-thuc-ede-2-1024x1003.jpg",
+    "gallery": [
+      "https://yaris.com.vn/data/bt2/yaris-dong-hanh-cung-trien-lam-chuyen-de-dak-lak-80-nam-hanh-trinh-phat-trien-cung-dat-nuoc--1757908293.jpg",
+      "https://media.techcity.cloud/vietnam.vn/2023/06/Giu-hon-ben-nuoc-Bao-Dak-Lak-dien-tu.jpg",
+      "https://baodaklak.vn/file/fb9e3a03798789de0179a1704dea238e/032026/img_4703_20260309140149.jpg?width=1800",
+      "https://media.techcity.cloud/vietnam.vn/2023/06/Giu-hon-ben-nuoc-Bao-Dak-Lak-dien-tu.jpg",
+      "https://yaris.com.vn/data/bt2/yaris-dong-hanh-cung-trien-lam-chuyen-de-dak-lak-80-nam-hanh-trinh-phat-trien-cung-dat-nuoc--1757908293.jpg"
+    ]
+  }
+]

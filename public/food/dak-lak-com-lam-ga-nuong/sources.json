@@ -1,0 +1,47 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "Cơm Lam Gà Nướng Tây Nguyên",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/C%C6%A1m_lam_T%C3%A2y_Nguy%C3%AAn.jpg",
+    "domain": "upload.wikimedia.org",
+    "downloaded_at": "2026-06-28T12:46:46.204Z",
+    "ok": true,
+    "size_kb": 439
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "Cơm Lam Gà Nướng Tây Nguyên",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/C%C6%A1m_lam_5.jpg",
+    "domain": "upload.wikimedia.org",
+    "downloaded_at": "2026-06-28T12:46:49.331Z",
+    "ok": true,
+    "size_kb": 1425
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "Cơm Lam Gà Nướng Tây Nguyên",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Com-lam-cao-bang.jpg",
+    "domain": "upload.wikimedia.org",
+    "downloaded_at": "2026-06-28T12:46:52.401Z",
+    "ok": true,
+    "size_kb": 705
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "Cơm Lam Gà Nướng Tây Nguyên",
+    "url": "https://vietsensetravel.com/view/at_com-lam-dac-trung-cua-nguoi-dan-tay-nguyen_221fa906274b2c52f7ff8c17977324a4.jpg",
+    "domain": "vietsensetravel.com",
+    "downloaded_at": "2026-06-28T12:46:53.936Z",
+    "ok": true,
+    "size_kb": 255
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "Cơm Lam Gà Nướng Tây Nguyên",
+    "url": "https://vietsensetravel.com/view/at_ga-nuong-ban-don_00deff23f813baa200b4155d2f84d632.jpg",
+    "domain": "vietsensetravel.com",
+    "downloaded_at": "2026-06-28T12:46:55.137Z",
+    "ok": true,
+    "size_kb": 187
+  }
+]

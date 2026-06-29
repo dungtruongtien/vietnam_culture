@@ -1,0 +1,47 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "Bún Đỏ Buôn Ma Thuột",
+    "url": "https://cdn3.ivivu.com/2023/04/bundo-ivivu.jpeg",
+    "domain": "cdn3.ivivu.com",
+    "downloaded_at": "2026-06-28T12:46:38.110Z",
+    "ok": true,
+    "size_kb": 255
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "Bún Đỏ Buôn Ma Thuột",
+    "url": "https://cdn3.ivivu.com/2023/04/bún-đỏ.jpg",
+    "domain": "cdn3.ivivu.com",
+    "downloaded_at": "2026-06-28T12:46:39.229Z",
+    "ok": true,
+    "size_kb": 214
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "Bún Đỏ Buôn Ma Thuột",
+    "url": "https://cdn3.ivivu.com/2023/04/bún-do-ivivu.jpg",
+    "domain": "cdn3.ivivu.com",
+    "downloaded_at": "2026-06-28T12:46:40.380Z",
+    "ok": true,
+    "size_kb": 318
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "Bún Đỏ Buôn Ma Thuột",
+    "url": "https://mia.vn/media/uploads/blog-du-lich/top-18-mon-ngon-buon-ma-thuot-nhat-dinh-phai-thu-khi-den-day-1713267219.jpg",
+    "domain": "mia.vn",
+    "downloaded_at": "2026-06-28T12:46:41.627Z",
+    "ok": true,
+    "size_kb": 193
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "Bún Đỏ Buôn Ma Thuột",
+    "url": "https://cdn3.ivivu.com/2023/04/bún-đỏ-ivivu.jpg",
+    "domain": "cdn3.ivivu.com",
+    "downloaded_at": "2026-06-28T12:46:42.817Z",
+    "ok": true,
+    "size_kb": 265
+  }
+]

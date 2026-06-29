@@ -1,0 +1,56 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "vuon-quoc-gia-yok-don",
+    "url": "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/04_2020/vuon-quoc-gia-yok-don.jpg",
+    "domain": "luhanhvietnam.com.vn",
+    "downloaded_at": "2026-06-28T14:15:24.809Z",
+    "ok": true,
+    "size_kb": 156
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "vuon-quoc-gia-yok-don",
+    "url": "https://dulichtaynguyen.org/view/at_vuon-quoc-gia-yok-don_05e1cda7ea9923979873ccc46b3e781d.jpg",
+    "domain": "dulichtaynguyen.org",
+    "downloaded_at": "2026-06-28T14:15:26.333Z",
+    "ok": true,
+    "size_kb": 172
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "vuon-quoc-gia-yok-don",
+    "url": "https://vietrektravel.com/ckeditor/plugins/fileman/Uploads/phuoc%20binh/vuon-quoc-gia-yok-don-2.jpg",
+    "domain": "vietrektravel.com",
+    "downloaded_at": "2026-06-28T14:15:27.631Z",
+    "ok": true,
+    "size_kb": 126
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "vuon-quoc-gia-yok-don",
+    "url": "https://green-journey-dev.s3.amazonaws.com/django-summernote/2023-03-31/84f18e5b-9873-424b-9271-ad731409bb4c.jpg",
+    "domain": "green-journey-dev.s3.amazonaws.com",
+    "downloaded_at": "2026-06-28T14:15:29.188Z",
+    "ok": true,
+    "size_kb": 785
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "vuon-quoc-gia-yok-don",
+    "url": "https://travelfun.vn/wp-content/uploads/2024/07/Them-tieu-de-phu-6Rr5hP.webp",
+    "domain": "travelfun.vn",
+    "downloaded_at": "2026-06-28T14:38:22.299Z",
+    "ok": false,
+    "error": "getaddrinfo ENOTFOUND travelfun.vn"
+  },
+  {
+    "file": "gallery-5.jpg",
+    "label": "vuon-quoc-gia-yok-don",
+    "url": "https://topdaklakaz.com/wp-content/uploads/2024/01/hinh-anh-vuon-quoc-gia-yok-don-9.jpg",
+    "domain": "topdaklakaz.com",
+    "downloaded_at": "2026-06-28T14:15:31.556Z",
+    "ok": true,
+    "size_kb": 57
+  }
+]

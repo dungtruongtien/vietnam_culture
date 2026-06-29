@@ -1,0 +1,56 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "le-hoi-gau-tao",
+    "url": "https://media.mia.vn/uploads/blog-du-lich/le-hoi-gau-tao-ha-giang-le-hoi-dac-sac-cua-dong-bao-nguoi-mong-02-1642173152.jpg",
+    "domain": "media.mia.vn",
+    "downloaded_at": "2026-06-28T14:14:35.284Z",
+    "ok": true,
+    "size_kb": 261
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "le-hoi-gau-tao",
+    "url": "https://trekking-camping.com/wp-content/uploads/2020/09/le-hoi-gau-tao.jpg",
+    "domain": "trekking-camping.com",
+    "downloaded_at": "2026-06-28T14:14:36.498Z",
+    "ok": true,
+    "size_kb": 276
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "le-hoi-gau-tao",
+    "url": "https://dulichkhatvongviet.com/wp-content/uploads/2020/09/cay_neu.jpg",
+    "domain": "dulichkhatvongviet.com",
+    "downloaded_at": "2026-06-28T14:14:37.740Z",
+    "ok": true,
+    "size_kb": 84
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "le-hoi-gau-tao",
+    "url": "http://thegioidisan.vn/assets/media/thang%2010/Le-hoi-Gau-Tao.jpg",
+    "domain": "thegioidisan.vn",
+    "downloaded_at": "2026-06-28T14:14:38.998Z",
+    "ok": true,
+    "size_kb": 104
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "le-hoi-gau-tao",
+    "url": "https://media-cdn-v2.laodong.vn/storage/newsportal/2024/2/13/1303764/Gau-Tao-2.jpg",
+    "domain": "media-cdn-v2.laodong.vn",
+    "downloaded_at": "2026-06-28T14:14:40.156Z",
+    "ok": true,
+    "size_kb": 150
+  },
+  {
+    "file": "gallery-5.jpg",
+    "label": "le-hoi-gau-tao",
+    "url": "https://maichauhideaway.com/Data/Sites/1/media/tin-tuc/%E1%BA%A3nh-b%C3%A0i-vi%E1%BA%BFt/t122024/le-hoi-gau-tao/le-hoi-gau-tao-1.jpg",
+    "domain": "maichauhideaway.com",
+    "downloaded_at": "2026-06-28T14:14:42.715Z",
+    "ok": true,
+    "size_kb": 243
+  }
+]

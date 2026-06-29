@@ -1,0 +1,56 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "nui-doi-quan-ba",
+    "url": "https://hagiangamazingtours.com/wp-content/uploads/2023/09/fairy-bosom-ha-giang-4.jpg",
+    "domain": "hagiangamazingtours.com",
+    "downloaded_at": "2026-06-28T12:48:28.629Z",
+    "ok": true,
+    "size_kb": 118
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "nui-doi-quan-ba",
+    "url": "https://hagiangamazingtours.com/wp-content/uploads/2023/06/fairy-bosom-ha-giang-1.jpg",
+    "domain": "hagiangamazingtours.com",
+    "downloaded_at": "2026-06-28T12:48:29.659Z",
+    "ok": true,
+    "size_kb": 68
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "nui-doi-quan-ba",
+    "url": "https://hagiangamazingtours.com/wp-content/uploads/2023/09/fairy-bosom-ha-giang-3.jpg",
+    "domain": "hagiangamazingtours.com",
+    "downloaded_at": "2026-06-28T12:48:30.690Z",
+    "ok": true,
+    "size_kb": 82
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "nui-doi-quan-ba",
+    "url": "https://hagiangamazingtours.com/wp-content/uploads/2023/09/fairy-bosom-ha-giang-1.jpg",
+    "domain": "hagiangamazingtours.com",
+    "downloaded_at": "2026-06-28T12:48:31.725Z",
+    "ok": true,
+    "size_kb": 98
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "nui-doi-quan-ba",
+    "url": "https://vietadvisor.travel/wp-content/uploads/2026/03/Quan-Ba-Heaven-Gate.webp",
+    "domain": "vietadvisor.travel",
+    "downloaded_at": "2026-06-28T12:48:33.121Z",
+    "ok": true,
+    "size_kb": 153
+  },
+  {
+    "file": "gallery-5.jpg",
+    "label": "nui-doi-quan-ba",
+    "url": "https://vietadvisor.travel/wp-content/uploads/2025/06/Heavens-Gate-Quan-Ba-Pass.jpg",
+    "domain": "vietadvisor.travel",
+    "downloaded_at": "2026-06-28T12:48:34.407Z",
+    "ok": true,
+    "size_kb": 134
+  }
+]

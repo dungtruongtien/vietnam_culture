@@ -1,0 +1,47 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "Cà Phê Ban Mê Buôn Ma Thuột",
+    "url": "https://mia.vn/media/uploads/blog-du-lich/phat-hien-4-dia-diem-mua-cafe-bot-ngon-o-buon-ma-thuot-04-1651747226.jpg",
+    "domain": "mia.vn",
+    "downloaded_at": "2026-06-28T14:28:48.460Z",
+    "ok": true,
+    "size_kb": 185
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "Cà Phê Ban Mê Buôn Ma Thuột",
+    "url": "https://media.mia.vn/uploads/blog-du-lich/me-man-huong-vi-doc-la-hap-dan-cua-ca-phe-kem-buon-ma-thuot-01-1652017706.jpeg",
+    "domain": "media.mia.vn",
+    "downloaded_at": "2026-06-28T14:28:48.461Z",
+    "ok": true,
+    "size_kb": 158
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "Cà Phê Ban Mê Buôn Ma Thuột",
+    "url": "https://cdn3.ivivu.com/2019/09/bao-tang-ca-phe-o-buon-ma-thuot-ivivu-2.jpg",
+    "domain": "cdn3.ivivu.com",
+    "downloaded_at": "2026-06-28T14:28:48.461Z",
+    "ok": true,
+    "size_kb": 184
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "Cà Phê Ban Mê Buôn Ma Thuột",
+    "url": "https://cdnphoto.dantri.com.vn/uVE7ZuE1p79nH7jJlBN9yIy4rlQ=/thumb_w/1920/2023/03/10/le-hoi-duong-phodak-lak2023duong-phong26-1678445169449.jpg?watermark=true",
+    "domain": "cdnphoto.dantri.com.vn",
+    "downloaded_at": "2026-06-28T14:28:49.629Z",
+    "ok": true,
+    "size_kb": 547
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "Cà Phê Ban Mê Buôn Ma Thuột",
+    "url": "https://luhanhvietnam.com.vn/du-lich-free-easy/vnt_upload/news/10_2022/74_du_lich_buon_ma_thuot_gia_re_9.jpg",
+    "domain": "luhanhvietnam.com.vn",
+    "downloaded_at": "2026-06-28T14:28:50.688Z",
+    "ok": true,
+    "size_kb": 78
+  }
+]

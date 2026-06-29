@@ -1,0 +1,56 @@
+[
+  {
+    "file": "hero.jpg",
+    "label": "ca-phe-buon-ma-thuot",
+    "url": "https://mia.vn/media/uploads/blog-du-lich/quan-ca-phe-dep-o-buon-ma-thuot-tiem-ca-phe-di-oi-1703004939.jpg",
+    "domain": "mia.vn",
+    "downloaded_at": "2026-06-28T14:18:23.441Z",
+    "ok": true,
+    "size_kb": 166
+  },
+  {
+    "file": "gallery-1.jpg",
+    "label": "ca-phe-buon-ma-thuot",
+    "url": "https://cdn3.ivivu.com/2019/09/bao-tang-ca-phe-o-buon-ma-thuot-ivivu-2.jpg",
+    "domain": "cdn3.ivivu.com",
+    "downloaded_at": "2026-06-28T14:18:24.543Z",
+    "ok": true,
+    "size_kb": 309
+  },
+  {
+    "file": "gallery-2.jpg",
+    "label": "ca-phe-buon-ma-thuot",
+    "url": "https://cf.shopee.com.my/file/030d409bfbd60e77dfe8f0c980905a58",
+    "domain": "cf.shopee.com.my",
+    "downloaded_at": "2026-06-28T14:18:26.129Z",
+    "ok": true,
+    "size_kb": 470
+  },
+  {
+    "file": "gallery-3.jpg",
+    "label": "ca-phe-buon-ma-thuot",
+    "url": "https://down-my.img.susercontent.com/file/my-11134207-7r98r-lv2g4fd9gymdf9",
+    "domain": "down-my.img.susercontent.com",
+    "downloaded_at": "2026-06-28T14:18:27.444Z",
+    "ok": true,
+    "size_kb": 352
+  },
+  {
+    "file": "gallery-4.jpg",
+    "label": "ca-phe-buon-ma-thuot",
+    "url": "https://giacaphe.com/wp-content/uploads/2026/03/le-hoi-ca-phe-buon-ma-thuot-nam-2027-1.jpg",
+    "domain": "giacaphe.com",
+    "downloaded_at": "2026-06-28T14:18:28.728Z",
+    "ok": true,
+    "size_kb": 132
+  },
+  {
+    "file": "gallery-5.jpg",
+    "label": "ca-phe-buon-ma-thuot",
+    "url": "https://image.voh.com.vn/voh/thumbnail/2023/02/03/le-hoi-ca-phe-buon-ma-thuot-lan-thu-8-se-dien-ra-tu-ngay-10-14-3-2023.jpg?w=1280&q=85",
+    "domain": "image.voh.com.vn",
+    "downloaded_at": "2026-06-28T14:18:30.081Z",
+    "ok": true,
+    "size_kb": 155
+  }
+]
