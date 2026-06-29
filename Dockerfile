@@ -10,7 +10,7 @@ WORKDIR /app
 COPY --from=deps /app/node_modules ./node_modules
 COPY . .
 # Seed the DB before building so generateStaticParams can query it
-RUN node node_modules/.bin/ts-node-script --project tsconfig.scripts.json scripts/seed.ts
+RUN TS_NODE_PROJECT=tsconfig.scripts.json node node_modules/.bin/ts-node --transpile-only scripts/seed.ts
 RUN npm run build
 
 # ── Stage 3: runner ──────────────────────────────────────────────────────────

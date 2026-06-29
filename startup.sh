@@ -2,7 +2,7 @@
 set -e
 
 echo "[startup] Running seed..."
-node node_modules/.bin/ts-node-script --project tsconfig.scripts.json scripts/seed.ts
+TS_NODE_PROJECT=tsconfig.scripts.json node node_modules/.bin/ts-node --transpile-only scripts/seed.ts
 
 echo "[startup] Starting server..."
 exec node server.js
