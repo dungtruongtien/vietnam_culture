@@ -10,4 +10,3 @@ dist/
 migrations/generated/
 .local
 research-data
-scripts
