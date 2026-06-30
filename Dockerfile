@@ -9,6 +9,11 @@ FROM node:22-alpine AS builder
 WORKDIR /app
 COPY --from=deps /app/node_modules ./node_modules
 COPY . .
+
+# NEXT_PUBLIC_* vars must be present at build time — Next.js bakes them in statically
+ARG NEXT_PUBLIC_GA_ID
+ENV NEXT_PUBLIC_GA_ID=$NEXT_PUBLIC_GA_ID
+
 # Seed the DB before building so generateStaticParams can query it
 RUN TS_NODE_PROJECT=tsconfig.scripts.json node node_modules/.bin/ts-node --transpile-only scripts/seed.ts
 RUN npm run build
